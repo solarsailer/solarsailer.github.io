@@ -33,8 +33,8 @@
       "path---2013-08-google-play-new-policies-437f39b5f6245f3fff21.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-e1e16236301401078e61.js",
-      "component---src-pages-index-js-e1e16236301401078e61.js.map"
+      "component---src-pages-index-js-90e6566f213bea9d4de0.js",
+      "component---src-pages-index-js-90e6566f213bea9d4de0.js.map"
     ],
     "path---2013-09-patent-trolls": [
       "path---2013-09-patent-trolls-08ac0c096f8afec69b1b.js",
@@ -43,6 +43,10 @@
     "path---2013-09-sketch-23": [
       "path---2013-09-sketch-23-f3e1a7436ca19e6f0196.js",
       "path---2013-09-sketch-23-f3e1a7436ca19e6f0196.js.map"
+    ],
+    "path---2015-09-what-makes-indie-hit": [
+      "path---2015-09-what-makes-indie-hit-267ab37745d840520d18.js",
+      "path---2015-09-what-makes-indie-hit-267ab37745d840520d18.js.map"
     ],
     "path---2013-09-reeder-2": [
       "path---2013-09-reeder-2-66be423972565524c25a.js",
@@ -69,8 +73,8 @@
       "path---2016-04-dwarf-fortress-systems-8b52d79d89261fcf4cfd.js.map"
     ],
     "path---articles": [
-      "path---articles-0e45dfe6640597026755.js",
-      "path---articles-0e45dfe6640597026755.js.map"
+      "path---articles-a2b7d7fbe4a405f004b0.js",
+      "path---articles-a2b7d7fbe4a405f004b0.js.map"
     ],
     "path---2013-08-amazon-new-product-page": [
       "path---2013-08-amazon-new-product-page-ca4422d13c4a3a54e649.js",
@@ -157,8 +161,8 @@
       "path---2013-07-unsplash-60c75f555020963dab4e.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-215e4465e3041569f4a0.js",
-      "component---src-layouts-index-js-215e4465e3041569f4a0.js.map"
+      "component---src-layouts-index-js-7304e7e2672000234443.js",
+      "component---src-layouts-index-js-7304e7e2672000234443.js.map"
     ],
     "path---2014-02-origami-quartz-composer": [
       "path---2014-02-origami-quartz-composer-46bc6a0d906cbce5e431.js",
@@ -189,8 +193,8 @@
       "path---2013-08-tweaks-37d146918efd4b78fc6c.js.map"
     ],
     "path---articles-3": [
-      "path---articles-3-bb5b3a4fe677297275fa.js",
-      "path---articles-3-bb5b3a4fe677297275fa.js.map"
+      "path---articles-3-6fb02b6bef596fbdfda5.js",
+      "path---articles-3-6fb02b6bef596fbdfda5.js.map"
     ],
     "path---2013-09-microsoft-out": [
       "path---2013-09-microsoft-out-8aca0992a2dbdfaca149.js",
@@ -233,8 +237,8 @@
       "path---2016-03-delight-9bc357f144b3287c21c9.js.map"
     ],
     "commons": [
-      "commons-7325c899562569e31b83.js",
-      "commons-7325c899562569e31b83.js.map"
+      "commons-ba5ae66eecfba34a713c.js",
+      "commons-ba5ae66eecfba34a713c.js.map"
     ],
     "path---2015-09-quote-myke-hurley-atv-console": [
       "path---2015-09-quote-myke-hurley-atv-console-6aedacd4f094c3886f9a.js",
@@ -249,8 +253,8 @@
       "path---2013-09-paying-for-softwares-a17eb26fa7cacbc0711c.js.map"
     ],
     "path---articles-6": [
-      "path---articles-6-7df4a4c2a0a49b9a4c88.js",
-      "path---articles-6-7df4a4c2a0a49b9a4c88.js.map"
+      "path---articles-6-c48cf9e49444e95b1d38.js",
+      "path---articles-6-c48cf9e49444e95b1d38.js.map"
     ],
     "path---2016-02-invention-center": [
       "path---2016-02-invention-center-feaebd22bf1831ce82bf.js",
@@ -285,12 +289,12 @@
       "path---2015-10-sad-state-web-deployment-a7881ab60d2b8d037024.js.map"
     ],
     "path---articles-9": [
-      "path---articles-9-1f5af918afc65a6a827c.js",
-      "path---articles-9-1f5af918afc65a6a827c.js.map"
+      "path---articles-9-cb1516a4365dae033d57.js",
+      "path---articles-9-cb1516a4365dae033d57.js.map"
     ],
     "path---articles-4": [
-      "path---articles-4-552f33c84969c13d552c.js",
-      "path---articles-4-552f33c84969c13d552c.js.map"
+      "path---articles-4-a31d82ae864b41596c69.js",
+      "path---articles-4-a31d82ae864b41596c69.js.map"
     ],
     "path---2013-08-quote-trent-reznor": [
       "path---2013-08-quote-trent-reznor-de884cd2dfab4abda7aa.js",
@@ -301,8 +305,8 @@
       "path---2013-09-samsung-and-watches-1740e8b0e009154e6640.js.map"
     ],
     "path---articles-5": [
-      "path---articles-5-1ca3a6736db57330235e.js",
-      "path---articles-5-1ca3a6736db57330235e.js.map"
+      "path---articles-5-833269acf64c79db6101.js",
+      "path---articles-5-833269acf64c79db6101.js.map"
     ],
     "path---2013-10-below": [
       "path---2013-10-below-d42e332b7cd21771e5a0.js",
@@ -313,14 +317,14 @@
       "component---src-components-templates-post-template-js-59a4e67e94c330df21cb.js.map"
     ],
     "app": [
-      "app-8e1b0532771fcef37838.js",
+      "app-1d0c5c1b20fb4f1bfbfa.js",
       "build-js-styles.css",
-      "app-8e1b0532771fcef37838.js.map",
+      "app-1d0c5c1b20fb4f1bfbfa.js.map",
       "build-js-styles.css.map"
     ],
     "path---archive": [
-      "path---archive-bd09a1d39be3178b930f.js",
-      "path---archive-bd09a1d39be3178b930f.js.map"
+      "path---archive-c1e188dd52b69f9d5b2e.js",
+      "path---archive-c1e188dd52b69f9d5b2e.js.map"
     ],
     "path---2013-09-inventing-the-favicon": [
       "path---2013-09-inventing-the-favicon-b192b772a22c98de2416.js",
@@ -351,8 +355,8 @@
       "path---2013-07-firefox-os-60cb4e8b6f57e0a0ae1f.js.map"
     ],
     "path---articles-8": [
-      "path---articles-8-895b2aff8e1a82979722.js",
-      "path---articles-8-895b2aff8e1a82979722.js.map"
+      "path---articles-8-f73e00c535c1aeaea01f.js",
+      "path---articles-8-f73e00c535c1aeaea01f.js.map"
     ],
     "path---2013-07-towerfall-interview": [
       "path---2013-07-towerfall-interview-baea95e90023ee8f6265.js",
@@ -371,12 +375,12 @@
       "path---2013-10-how-designers-destroyed-the-world-9b17904608186f7737ae.js.map"
     ],
     "path---articles-2": [
-      "path---articles-2-4106709dbeb669576c77.js",
-      "path---articles-2-4106709dbeb669576c77.js.map"
+      "path---articles-2-2006d93d36b4b2b4ab71.js",
+      "path---articles-2-2006d93d36b4b2b4ab71.js.map"
     ],
     "path---articles-7": [
-      "path---articles-7-87d4618bd817ca74add6.js",
-      "path---articles-7-87d4618bd817ca74add6.js.map"
+      "path---articles-7-42c0263e8b8ca56463e9.js",
+      "path---articles-7-42c0263e8b8ca56463e9.js.map"
     ],
     "path---2013-07-rule-three": [
       "path---2013-07-rule-three-013b4208a00161b1d3b4.js",

@@ -96,6 +96,17 @@
       "date_published": "2015-09-27T00:00:00.000Z"
     },
     {
+      "id": "https://solarsailer.net/2015/09/what-makes-indie-hit/",
+      "url": "https://solarsailer.net/2015/09/what-makes-indie-hit/",
+      "title": "What makes an indie hit?",
+      "content_html": "<p><a href=\"http://www.gamasutra.com/blogs/RyanClark/20150917/253842/What_Makes_an_Indie_Hit_How_to_Choose_the_Right_Design.php\">\"What Makes an Indie Hit?: How to Choose the Right Design\"</a> by Ryan Clark (of <a href=\"http://necrodancer.com/\">Crypt of the NecroDancer</a>) is an interesting read:</p>\n<blockquote>\n<p>In this industry it's difficult to go far without learning from others. But from whom should we learn? I think it is wisest to study developers who have been repeatedly successful. Each time a developer creates another successful game, it becomes less and less likely that their repeated successes have been due to luck. Only a minuscule fraction of indie games break even, so what are the odds of developers like Jamie Cheng, Edmund McMillen, and Cliff Harris stringing together a number of successful games? The odds are low. There must be something other than luck at work! So perhaps these folks (and many others like them!) are the ones you should be studying and listening to.</p>\n</blockquote>\n<p>I generally agree with the article (read it!), but there is one point that bothers me.</p>\n<blockquote>\n<p>If you want people to remember your game, to talk about your game, to write articles about your game, etc, it needs to have a hook. Preferably multiple hooks!</p>\n</blockquote>\n<p>Ok. This is spot on. However, and while I think that innovative games are important and crucial to explore original ideas and designs, <strong>not every game can be a new experience.</strong></p>\n<p>We need fun and excellent games in existing genres. Having brilliant roguelike, RTS, shmup, point &#x26; click, you name it… is equally important. And in this case, how do you hook people?</p>\n<p>What we wanted to do with <a href=\"http://steredenn.pixelnest.io\">Steredenn</a> (my game) is an excellent shmup-roguelike. We don't want to reinvent a genre or to experiment. We just want to make a great, fun, polished and addictive game. That's all. There's a market for a game like that — but we struggle to stand out of the crowd (and we tried many things like articles, arcade cabinet, tutorials, shows, devblog, contacts, press, etc.).</p>\n<p>If we had followed the \"hooks rule\", we would never have made Steredenn.<sup id=\"fnref-1\"><a href=\"#fn-1\" class=\"footnote-ref\">1</a></sup> But I truly think there's a place and an audience for this kind of games.</p>\n<p><strong>tl;dr: Should every game have a hook, a \"gimmick\", a unique twist? I don't think so.</strong></p>\n<hr>\n<p>To be fair, I want to discuss of something else:</p>\n<blockquote>\n<p>If you are unsure of the strength of your game's hooks, test them! With NecroDancer we did this by putting out a very early teaser trailer, and by demoing at PAX.</p>\n</blockquote>\n<p>\"Demoing at PAX\" is not something that everyone can afford. I'm all for the \"try your game in real as soon as possible\" mantra, but going to a big show is out of scope for almost any indie. It costs a lot just to present your game — and I don't even count the transportation, the food and hostels.</p>\n<p>When we went to Rezzed, we spent about £2000. It was close to us so the travel was very cheap.<sup id=\"fnref-2\"><a href=\"#fn-2\" class=\"footnote-ref\">2</a></sup> Rezzed is also no PAX or Gamescon.</p>\n<p>With our finances, we can afford one or two big exhibitions a year, if we are lucky. I don't think we are the only one in this position. I even think that we are in a privileged situation compared to many indies.</p>\n<p>I don't want to fool myself: big shows are very important to get feedbacks, coverage and press. And this is something that many indies can't do at all. Languages, geography, finances — this is not an easy problem.</p>\n<p>And as Ryan tells us a little bit later:</p>\n<blockquote>\n<p>It is common these days for devs to downplay the importance of festivals, awards, and even of press. I disagree. Sure, accolades and reviews themselves may not drive mountains of sales, but most people need to hear about your game from numerous sources before they'll actually watch a trailer or buy the game.</p>\n</blockquote>\n<p>Exactly. :)</p>\n<p>To Ryan's credit, he's also ending his article with:</p>\n<blockquote>\n<p>I know how difficult it is to succeed as a new indie dev, and I am aware of the advantages that I have due to experience, connections, and reputation.</p>\n</blockquote>\n<p>Thanks for the tips, anyways!</p>\n<div class=\"footnotes\">\n<hr>\n<ol>\n<li id=\"fn-1\">\n<p>Well, we do try a few novel ideas in Steredenn, so it's not a pure \"plain-old-game\". But the essence of the game is a direct action-packed game. That's our main focus.</p>\n<a href=\"#fnref-1\" class=\"footnote-backref\">↩</a>\n</li>\n<li id=\"fn-2\">\n<p>France to England.</p>\n<a href=\"#fnref-2\" class=\"footnote-backref\">↩</a>\n</li>\n</ol>\n</div>",
+      "author": {
+        "name": "Matthieu Oger",
+        "url": "https://solarsailer.net/"
+      },
+      "date_published": "2015-09-18T00:00:00.000Z"
+    },
+    {
       "id": "https://solarsailer.net/2015/09/quantum-post-mortem/",
       "url": "https://solarsailer.net/2015/09/quantum-post-mortem/",
       "title": "Quantum post-mortem",
@@ -448,10 +459,10 @@
       "date_published": "2013-09-05T00:00:00.000Z"
     },
     {
-      "id": "https://solarsailer.net/2013/09/sketch-23/",
-      "url": "https://solarsailer.net/2013/09/sketch-23/",
-      "title": "Sketch 2.3",
-      "content_html": "<p>The biggest new yesterday was not that Microsoft bought Nokia. In fact, it was written on the wall for more than 2 years. And others have blogged <a href=\"http://stratechery.com/2013/the-deal-that-makes-no-sense/\">better</a> <a href=\"http://ben-evans.com/benedictevans/2013/9/3/microsoft-and-nokia\">things</a> than I could.</p>\n<p>No, <a href=\"http://bohemiancoding.tumblr.com/post/60070936484/sketch-2-3\">it was the release of Sketch 2.3</a>.</p>\n<p>There's a lot of things that I like in this new version:</p>\n<ul>\n<li>Speed. <strong>It is incomparable</strong>.</li>\n<li>PDF import. I was looking for that for a long time.</li>\n<li>Sketch Mirror.</li>\n</ul>\n<p>The only downside of this release is when I work with text. It doesn't feel smooth.</p>\n<p>Such an awesome piece of software.</p>",
+      "id": "https://solarsailer.net/2013/09/myosis/",
+      "url": "https://solarsailer.net/2013/09/myosis/",
+      "title": "Myosis",
+      "content_html": "<p>A gorgeous short film.</p>\n<p>→ <a href=\"https://vimeo.com/73617382\">Watch here</a>.</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://solarsailer.net/"
@@ -459,10 +470,10 @@
       "date_published": "2013-09-04T00:00:00.000Z"
     },
     {
-      "id": "https://solarsailer.net/2013/09/myosis/",
-      "url": "https://solarsailer.net/2013/09/myosis/",
-      "title": "Myosis",
-      "content_html": "<p>A gorgeous short film.</p>\n<p>→ <a href=\"https://vimeo.com/73617382\">Watch here</a>.</p>",
+      "id": "https://solarsailer.net/2013/09/sketch-23/",
+      "url": "https://solarsailer.net/2013/09/sketch-23/",
+      "title": "Sketch 2.3",
+      "content_html": "<p>The biggest new yesterday was not that Microsoft bought Nokia. In fact, it was written on the wall for more than 2 years. And others have blogged <a href=\"http://stratechery.com/2013/the-deal-that-makes-no-sense/\">better</a> <a href=\"http://ben-evans.com/benedictevans/2013/9/3/microsoft-and-nokia\">things</a> than I could.</p>\n<p>No, <a href=\"http://bohemiancoding.tumblr.com/post/60070936484/sketch-2-3\">it was the release of Sketch 2.3</a>.</p>\n<p>There's a lot of things that I like in this new version:</p>\n<ul>\n<li>Speed. <strong>It is incomparable</strong>.</li>\n<li>PDF import. I was looking for that for a long time.</li>\n<li>Sketch Mirror.</li>\n</ul>\n<p>The only downside of this release is when I work with text. It doesn't feel smooth.</p>\n<p>Such an awesome piece of software.</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://solarsailer.net/"
@@ -712,10 +723,10 @@
       "date_published": "2013-08-05T00:00:00.000Z"
     },
     {
-      "id": "https://solarsailer.net/2013/08/life-too-short-ugly-graphs/",
-      "url": "https://solarsailer.net/2013/08/life-too-short-ugly-graphs/",
-      "title": "Quote — \"Life is too short to stare at ugly graphs. And yes, you should feel bad.\"",
-      "content_html": "<blockquote>\n<p>It was done in-house. We really care about how our graphs look, because graphs represent information. It's like typography. Humans learned how to write 5000 years ago, and it took us a very long while until we mastered the art of transmitting information like that. Once we mastered it, however, we started caring about the way we present that information. For no specific reason, but we developed unique typefaces that look beautiful, different, yet transmit the same information.</p>\n<p>Likewise, we've spent a ton of valuable time graphing and mining data from all over our stack; it's only natural that after that, we care about how we present that data. Like typography, it's hard because it's an arduous hunt for the aesthetics hidden behind information. But this hunt is what makes us human.</p>\n<p>That's why we design beautiful graphs, just like we'd design a beautiful typeface. Not because we are GitHubbers, nor because we are designers, but because we are humans.</p>\n<p><strong>Life is too short to stare at ugly graphs. And yes, you should feel bad.</strong></p>\n<p>PS: we have no project managers at GitHub.</p>\n<p>— <a href=\"https://news.ycombinator.com/item?id=4480876\">Tanoku, Hacker News</a></p>\n</blockquote>\n<p>An oldie, but I'm still loving it (emphasis mine).</p>",
+      "id": "https://solarsailer.net/2013/08/quote-changing-the-world/",
+      "url": "https://solarsailer.net/2013/08/quote-changing-the-world/",
+      "title": "Quote — \"Changing the world.\"",
+      "content_html": "<blockquote>\n<p>Could \"changing the world\" be a contender the most trite, overused expression of 2013? Recent grads seem to have adopted it en masse as their personal tagline. It's a nice sentiment, but it hard not to roll your eyes when every 23 year old applies it to his mobile phone app with no users that he threw together in a couple weeks.</p>\n<p>[…]</p>\n<p>Besides, I'm not even sure it's a healthy sentiment for most people. If your focus is as broad as \"changing the world,\" you're probably setting yourself up to feel like a failure.</p>\n<p>— <a href=\"https://news.ycombinator.com/item?id=6108967\">Freyr, Hacker News</a></p>\n</blockquote>\n<p>(via <a href=\"http://wolfslittlestore.be/2013/08/changing-the-world/\">Wolf's Little Store</a>)</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://solarsailer.net/"
@@ -723,10 +734,10 @@
       "date_published": "2013-08-02T00:00:00.000Z"
     },
     {
-      "id": "https://solarsailer.net/2013/08/quote-changing-the-world/",
-      "url": "https://solarsailer.net/2013/08/quote-changing-the-world/",
-      "title": "Quote — \"Changing the world.\"",
-      "content_html": "<blockquote>\n<p>Could \"changing the world\" be a contender the most trite, overused expression of 2013? Recent grads seem to have adopted it en masse as their personal tagline. It's a nice sentiment, but it hard not to roll your eyes when every 23 year old applies it to his mobile phone app with no users that he threw together in a couple weeks.</p>\n<p>[…]</p>\n<p>Besides, I'm not even sure it's a healthy sentiment for most people. If your focus is as broad as \"changing the world,\" you're probably setting yourself up to feel like a failure.</p>\n<p>— <a href=\"https://news.ycombinator.com/item?id=6108967\">Freyr, Hacker News</a></p>\n</blockquote>\n<p>(via <a href=\"http://wolfslittlestore.be/2013/08/changing-the-world/\">Wolf's Little Store</a>)</p>",
+      "id": "https://solarsailer.net/2013/08/life-too-short-ugly-graphs/",
+      "url": "https://solarsailer.net/2013/08/life-too-short-ugly-graphs/",
+      "title": "Quote — \"Life is too short to stare at ugly graphs. And yes, you should feel bad.\"",
+      "content_html": "<blockquote>\n<p>It was done in-house. We really care about how our graphs look, because graphs represent information. It's like typography. Humans learned how to write 5000 years ago, and it took us a very long while until we mastered the art of transmitting information like that. Once we mastered it, however, we started caring about the way we present that information. For no specific reason, but we developed unique typefaces that look beautiful, different, yet transmit the same information.</p>\n<p>Likewise, we've spent a ton of valuable time graphing and mining data from all over our stack; it's only natural that after that, we care about how we present that data. Like typography, it's hard because it's an arduous hunt for the aesthetics hidden behind information. But this hunt is what makes us human.</p>\n<p>That's why we design beautiful graphs, just like we'd design a beautiful typeface. Not because we are GitHubbers, nor because we are designers, but because we are humans.</p>\n<p><strong>Life is too short to stare at ugly graphs. And yes, you should feel bad.</strong></p>\n<p>PS: we have no project managers at GitHub.</p>\n<p>— <a href=\"https://news.ycombinator.com/item?id=4480876\">Tanoku, Hacker News</a></p>\n</blockquote>\n<p>An oldie, but I'm still loving it (emphasis mine).</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://solarsailer.net/"
@@ -778,10 +789,10 @@
       "date_published": "2013-07-22T00:00:00.000Z"
     },
     {
-      "id": "https://solarsailer.net/2013/07/unsplash/",
-      "url": "https://solarsailer.net/2013/07/unsplash/",
-      "title": "Unsplash",
-      "content_html": "<p> Wonderful resource for high quality photos.</p>\n<p> → <a href=\"http://unsplash.com/\">See here</a>.</p>",
+      "id": "https://solarsailer.net/2013/07/ios7-david-cole/",
+      "url": "https://solarsailer.net/2013/07/ios7-david-cole/",
+      "title": "Is the new Apple iOS 7 look an improvement?",
+      "content_html": "<p><a href=\"http://www.quora.com/iOS-7/Is-the-new-Apple-iOS-7-look-an-improvement/answer/David-Cole\">David Cole on Quora</a>:</p>\n<blockquote>\n<p>I have a different perspective than most of the other answerers here. I don't think the interesting components of iOS 7 are found in the icons or the color or the type — those are relatively self-contained and thus easy to change and evolve. I think the most interesting changes, and the best changes, run much deeper than that, and yet they're intrinsically linked to the \"look\" of it.</p>\n</blockquote>\n<p>One of the best analysis that I've read about iOS 7.</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://solarsailer.net/"
@@ -789,10 +800,10 @@
       "date_published": "2013-07-04T00:00:00.000Z"
     },
     {
-      "id": "https://solarsailer.net/2013/07/ios7-david-cole/",
-      "url": "https://solarsailer.net/2013/07/ios7-david-cole/",
-      "title": "Is the new Apple iOS 7 look an improvement?",
-      "content_html": "<p><a href=\"http://www.quora.com/iOS-7/Is-the-new-Apple-iOS-7-look-an-improvement/answer/David-Cole\">David Cole on Quora</a>:</p>\n<blockquote>\n<p>I have a different perspective than most of the other answerers here. I don't think the interesting components of iOS 7 are found in the icons or the color or the type — those are relatively self-contained and thus easy to change and evolve. I think the most interesting changes, and the best changes, run much deeper than that, and yet they're intrinsically linked to the \"look\" of it.</p>\n</blockquote>\n<p>One of the best analysis that I've read about iOS 7.</p>",
+      "id": "https://solarsailer.net/2013/07/unsplash/",
+      "url": "https://solarsailer.net/2013/07/unsplash/",
+      "title": "Unsplash",
+      "content_html": "<p> Wonderful resource for high quality photos.</p>\n<p> → <a href=\"http://unsplash.com/\">See here</a>.</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://solarsailer.net/"
