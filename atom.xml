@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://solarsailer.net/</id>
-  <updated>2018-06-11T16:23:10.201Z</updated>
+  <updated>2018-07-13T15:57:12.332Z</updated>
   <title>Solar Sailer</title>
   <link href="https://solarsailer.net/atom.xml" rel="self"/>
   <link href="https://solarsailer.net/"/>
@@ -1400,31 +1400,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://solarsailer.net/2013/08/app-store/</id>
-    <updated>2013-08-15T00:00:00.000Z</updated>
-    <title>App Store</title>
-    <link href="https://solarsailer.net/2013/08/app-store/"/>
-    <content type="html"><![CDATA[<p>Truth:</p>
-<blockquote class="twitter-tweet">
-<p>
-	Possess:
-	&#10;1. ~1M captive audience of developers,
-	&#10;2. ~1M apps,
-	&#10;3. ~$150B in cash, and
-	&#10;4. fail to (re)design an App Store.
-	&#10;Nuts.
-</p>
-<p>— Kontra (@counternotions)
-<a href="https://twitter.com/counternotions/statuses/367619924929568768">
-August 14, 2013
-</a></p>
-</blockquote>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://solarsailer.net/</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://solarsailer.net/2013/08/ios7/</id>
     <updated>2013-08-15T00:00:00.000Z</updated>
     <title>iOS 7</title>
@@ -1435,6 +1410,31 @@ August 14, 2013
 </blockquote>
 <p>Good recap of the real changes brought by iOS 7.</p>
 <p><em>(emphasis mine)</em></p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://solarsailer.net/</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://solarsailer.net/2013/08/app-store/</id>
+    <updated>2013-08-15T00:00:00.000Z</updated>
+    <title>App Store</title>
+    <link href="https://solarsailer.net/2013/08/app-store/"/>
+    <content type="html"><![CDATA[<p>Truth:</p>
+<blockquote class="twitter-tweet">
+<p>
+	Possess:
+	<br>&#10;1. ~1M captive audience of developers,
+	<br>&#10;2. ~1M apps,
+	<br>&#10;3. ~$150B in cash, and
+	<br>&#10;4. fail to (re)design an App Store.
+	<br>&#10;Nuts.
+</p>
+<p>— Kontra (@counternotions)
+<a href="https://twitter.com/counternotions/statuses/367619924929568768">
+August 14, 2013
+</a></p>
+</blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://solarsailer.net/</uri>
@@ -1575,23 +1575,6 @@ August 14, 2013
     </author>
   </entry>
   <entry>
-    <id>https://solarsailer.net/2013/08/quote-changing-the-world/</id>
-    <updated>2013-08-02T00:00:00.000Z</updated>
-    <title>Quote — &quot;Changing the world.&quot;</title>
-    <link href="https://solarsailer.net/2013/08/quote-changing-the-world/"/>
-    <content type="html"><![CDATA[<blockquote>
-<p>Could "changing the world" be a contender the most trite, overused expression of 2013? Recent grads seem to have adopted it en masse as their personal tagline. It's a nice sentiment, but it hard not to roll your eyes when every 23 year old applies it to his mobile phone app with no users that he threw together in a couple weeks.</p>
-<p>[…]</p>
-<p>Besides, I'm not even sure it's a healthy sentiment for most people. If your focus is as broad as "changing the world," you're probably setting yourself up to feel like a failure.</p>
-<p>— <a href="https://news.ycombinator.com/item?id=6108967">Freyr, Hacker News</a></p>
-</blockquote>
-<p>(via <a href="http://wolfslittlestore.be/2013/08/changing-the-world/">Wolf's Little Store</a>)</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://solarsailer.net/</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://solarsailer.net/2013/08/life-too-short-ugly-graphs/</id>
     <updated>2013-08-02T00:00:00.000Z</updated>
     <title>Quote — &quot;Life is too short to stare at ugly graphs. And yes, you should feel bad.&quot;</title>
@@ -1605,6 +1588,23 @@ August 14, 2013
 <p>— <a href="https://news.ycombinator.com/item?id=4480876">Tanoku, Hacker News</a></p>
 </blockquote>
 <p>An oldie, but I'm still loving it (emphasis mine).</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://solarsailer.net/</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://solarsailer.net/2013/08/quote-changing-the-world/</id>
+    <updated>2013-08-02T00:00:00.000Z</updated>
+    <title>Quote — &quot;Changing the world.&quot;</title>
+    <link href="https://solarsailer.net/2013/08/quote-changing-the-world/"/>
+    <content type="html"><![CDATA[<blockquote>
+<p>Could "changing the world" be a contender the most trite, overused expression of 2013? Recent grads seem to have adopted it en masse as their personal tagline. It's a nice sentiment, but it hard not to roll your eyes when every 23 year old applies it to his mobile phone app with no users that he threw together in a couple weeks.</p>
+<p>[…]</p>
+<p>Besides, I'm not even sure it's a healthy sentiment for most people. If your focus is as broad as "changing the world," you're probably setting yourself up to feel like a failure.</p>
+<p>— <a href="https://news.ycombinator.com/item?id=6108967">Freyr, Hacker News</a></p>
+</blockquote>
+<p>(via <a href="http://wolfslittlestore.be/2013/08/changing-the-world/">Wolf's Little Store</a>)</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://solarsailer.net/</uri>
