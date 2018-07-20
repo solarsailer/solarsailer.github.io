@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://solarsailer.net/</id>
-  <updated>2018-07-20T11:59:10.994Z</updated>
+  <updated>2018-07-20T12:06:53.774Z</updated>
   <title>Solar Sailer</title>
   <icon>https://solarsailer.net/feed.png</icon>
   <link href="https://solarsailer.net/atom.xml" rel="self"/>
@@ -24,10 +24,11 @@
 <p>I experimented. I designed 6 or 8 layouts. I was never happy, and I never gave me the time to finish it properly. When I started to implement a new design, I let it wither for a few months. And when I came back, I just ditched it all. Again. And again. And again.</p>
 <p>I moved the blog to <a href="https://gohugo.io">Hugo</a>. Then I came back to Jekyll once more. I modernized everything. Then I was fed up with Jekyll again, so I tried <a href="https://www.gatsbyjs.org">Gatsby</a>. And I did other things, abandoning the redesign once again. Meanwhile, and even if I had dozens of drafts, I couldn't update the old blog with new articles. So it languished there, in its infamous uglyness (something I was not proud of, calling myself a <em>designer</em>).</p>
 <p>And finally, I retried Gatsby recently and completed a new design. It's not perfect. It's not well tested on older browsers. But it works, in a good enough way for me — I have already spent too much time on it.</p>
-<p>It's time to ship.</p>
+<p>I've also cut the dependency I had on GitHub Pages. I'm still using GitHub to host this website, but the workflow is separated and I'm free to use what I want.</p>
+<p><strong>It's time to ship.</strong></p>
 <hr>
 <p>More than just a simple redesign, I wanted to reboot the site to add a <strong>portfolio</strong>, a <strong>resume</strong>, a <strong>documentation·codex·tutorials</strong>, as well as a <strong>photo</strong> and <strong>automation</strong> sections. Of course, if I wanted to do it all, I would never have finished anything, so I just focused on a simple redesign at the time being, keeping in mind that the site would be expanded later.</p>
-<p>The goal, in the end, is to do all that, if I'm motivated enough. A good start would be to publish new articles with a regular schedule.</p>
+<p>The goal, in the end, is to do all that — if I'm motivated enough. A good start would be to publish new articles with a regular schedule.</p>
 <hr>
 <p>Another thing that was ticking for this website was the "deprecation" of HTTP by Chrome in an upcoming update. By deprecation, I mean that Chrome will show an "Unsecure" flag on non-HTTPS websites. HTTP will always work, but it will be relegated to a legacy protocol that nobody should continue to use.</p>
 <p>I was in a hurry to complete this reboot before this update. I soft-launched the new site a few weeks ago, and tweaked it since. And now it's official.</p>
