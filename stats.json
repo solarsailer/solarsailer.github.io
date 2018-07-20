@@ -73,8 +73,8 @@
       "path---2016-04-dwarf-fortress-systems-658aad61f16d294fb9a3.js.map"
     ],
     "path---articles": [
-      "path---articles-a2b7d7fbe4a405f004b0.js",
-      "path---articles-a2b7d7fbe4a405f004b0.js.map"
+      "path---articles-b24bc427a78a5142785f.js",
+      "path---articles-b24bc427a78a5142785f.js.map"
     ],
     "path---2013-08-amazon-new-product-page": [
       "path---2013-08-amazon-new-product-page-e046fb607a121b2265ea.js",
@@ -193,8 +193,8 @@
       "path---2013-08-tweaks-e6d54bf0309d285b3757.js.map"
     ],
     "path---articles-3": [
-      "path---articles-3-6fb02b6bef596fbdfda5.js",
-      "path---articles-3-6fb02b6bef596fbdfda5.js.map"
+      "path---articles-3-4e577e92a330d3188c45.js",
+      "path---articles-3-4e577e92a330d3188c45.js.map"
     ],
     "path---2013-09-microsoft-out": [
       "path---2013-09-microsoft-out-1ee44fc68a9979b3a8dc.js",
@@ -257,8 +257,8 @@
       "path---2013-09-paying-for-softwares-cbacb61dc5030a0573fa.js.map"
     ],
     "path---articles-6": [
-      "path---articles-6-c48cf9e49444e95b1d38.js",
-      "path---articles-6-c48cf9e49444e95b1d38.js.map"
+      "path---articles-6-bcaf47d48311aa484ed6.js",
+      "path---articles-6-bcaf47d48311aa484ed6.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
@@ -267,6 +267,10 @@
     "path---2016-02-invention-center": [
       "path---2016-02-invention-center-697369da1a4c4c716930.js",
       "path---2016-02-invention-center-697369da1a4c4c716930.js.map"
+    ],
+    "path---2018-07-reboot": [
+      "path---2018-07-reboot-e5ca6f07cf8dd8d82b60.js",
+      "path---2018-07-reboot-e5ca6f07cf8dd8d82b60.js.map"
     ],
     "path---2013-11-unity-2-d-tutorial": [
       "path---2013-11-unity-2-d-tutorial-c4368e6e8b409c71c532.js",
@@ -297,12 +301,12 @@
       "path---2015-10-sad-state-web-deployment-4ee2c99620ed65d9323a.js.map"
     ],
     "path---articles-9": [
-      "path---articles-9-cb1516a4365dae033d57.js",
-      "path---articles-9-cb1516a4365dae033d57.js.map"
+      "path---articles-9-d33c0b5badaf7bb95005.js",
+      "path---articles-9-d33c0b5badaf7bb95005.js.map"
     ],
     "path---articles-4": [
-      "path---articles-4-a31d82ae864b41596c69.js",
-      "path---articles-4-a31d82ae864b41596c69.js.map"
+      "path---articles-4-d2b70bb14bd64c64a9ae.js",
+      "path---articles-4-d2b70bb14bd64c64a9ae.js.map"
     ],
     "path---2013-08-quote-trent-reznor": [
       "path---2013-08-quote-trent-reznor-6aeb44ee65e03b9bc908.js",
@@ -313,26 +317,26 @@
       "path---2013-09-samsung-and-watches-1ee573b9c0a942a4c225.js.map"
     ],
     "path---articles-5": [
-      "path---articles-5-833269acf64c79db6101.js",
-      "path---articles-5-833269acf64c79db6101.js.map"
+      "path---articles-5-22505a826802f09bfd30.js",
+      "path---articles-5-22505a826802f09bfd30.js.map"
     ],
     "path---2013-10-below": [
       "path---2013-10-below-bef37374104330264e9a.js",
       "path---2013-10-below-bef37374104330264e9a.js.map"
     ],
     "component---src-components-templates-post-template-js": [
-      "component---src-components-templates-post-template-js-21268add972f750d14c9.js",
-      "component---src-components-templates-post-template-js-21268add972f750d14c9.js.map"
+      "component---src-components-templates-post-template-js-4d65dd1d955e4661de8c.js",
+      "component---src-components-templates-post-template-js-4d65dd1d955e4661de8c.js.map"
     ],
     "app": [
-      "app-7bba0c8e9a4e456c6bac.js",
+      "app-79702eb08db66f26663f.js",
       "build-js-styles.css",
-      "app-7bba0c8e9a4e456c6bac.js.map",
+      "app-79702eb08db66f26663f.js.map",
       "build-js-styles.css.map"
     ],
     "path---archive": [
-      "path---archive-5efbdeb2a42b16c08d4e.js",
-      "path---archive-5efbdeb2a42b16c08d4e.js.map"
+      "path---archive-322addbe9608fdbd55c5.js",
+      "path---archive-322addbe9608fdbd55c5.js.map"
     ],
     "path---2013-09-inventing-the-favicon": [
       "path---2013-09-inventing-the-favicon-fac0c8a5f9409a8a0d4a.js",
@@ -363,8 +367,8 @@
       "path---2013-07-firefox-os-d1871fc5bec4d0c42abb.js.map"
     ],
     "path---articles-8": [
-      "path---articles-8-f63e081e80e16646c8c7.js",
-      "path---articles-8-f63e081e80e16646c8c7.js.map"
+      "path---articles-8-c73705df5354ee5e1322.js",
+      "path---articles-8-c73705df5354ee5e1322.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
@@ -387,12 +391,12 @@
       "path---2013-10-how-designers-destroyed-the-world-540ed892727c0d914533.js.map"
     ],
     "path---articles-2": [
-      "path---articles-2-2006d93d36b4b2b4ab71.js",
-      "path---articles-2-2006d93d36b4b2b4ab71.js.map"
+      "path---articles-2-8e134cb807bc35bbe541.js",
+      "path---articles-2-8e134cb807bc35bbe541.js.map"
     ],
     "path---articles-7": [
-      "path---articles-7-6f7e01698212d3c69933.js",
-      "path---articles-7-6f7e01698212d3c69933.js.map"
+      "path---articles-7-daba5c75568b1e98ec49.js",
+      "path---articles-7-daba5c75568b1e98ec49.js.map"
     ],
     "path---2013-07-rule-three": [
       "path---2013-07-rule-three-a5b5982f2722c8ca38d8.js",
