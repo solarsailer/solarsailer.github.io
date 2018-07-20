@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://solarsailer.net/</id>
-  <updated>2018-07-20T12:06:53.774Z</updated>
+  <updated>2018-07-20T12:20:23.014Z</updated>
   <title>Solar Sailer</title>
   <icon>https://solarsailer.net/feed.png</icon>
   <link href="https://solarsailer.net/atom.xml" rel="self"/>
@@ -17,6 +17,7 @@
     <content type="html"><![CDATA[<p>It's been a long time since my last post (more than two years, in fact). And the reason is absurd.</p>
 <p><strong>tl;dr</strong>: I have redesigned Solar Sailer, making the <a href="/">home page</a> the most important one and refocusing this site as a way to find me on Internet. The blog is relegated to a secondary part of the website. I still plan to publish articles, but the focus of Solar Sailer is to quickly know who I am, what I've done and where you can find me.</p>
 <p>The rest is a bonus. However, I'm still planning to expand this website in new ways — adding a portfolio and a resume, most notably.</p>
+<p><a href="/"> <img src="/images/posts/2018-07-20-reboot.jpg" alt="New redesign and home page"> </a></p>
 <p>If you want to read more about why it took so long, continue. Otherwise, you know everything. 😉</p>
 <hr>
 <p>I was using <a href="http://jekyllrb.com">Jekyll</a> to generate this blog and hosting it with <a href="https://pages.github.com">GitHub Pages</a> (Jekyll is maintained by GitHub, so the workflow to publish a Jekyll site on GitHub is dead simple if you accept their dependencies and constraints). Then, one day, GitHub said that they were deprecating the Markdown engine that I was using, affecting a few posts I wrote.</p>
@@ -30,7 +31,7 @@
 <p>More than just a simple redesign, I wanted to reboot the site to add a <strong>portfolio</strong>, a <strong>resume</strong>, a <strong>documentation·codex·tutorials</strong>, as well as a <strong>photo</strong> and <strong>automation</strong> sections. Of course, if I wanted to do it all, I would never have finished anything, so I just focused on a simple redesign at the time being, keeping in mind that the site would be expanded later.</p>
 <p>The goal, in the end, is to do all that — if I'm motivated enough. A good start would be to publish new articles with a regular schedule.</p>
 <hr>
-<p>Another thing that was ticking for this website was the "deprecation" of HTTP by Chrome in an upcoming update. By deprecation, I mean that Chrome will show an "Unsecure" flag on non-HTTPS websites. HTTP will always work, but it will be relegated to a legacy protocol that nobody should continue to use.</p>
+<p>Another thing that was ticking for this website was the "deprecation" of <a href="https://security.googleblog.com/2018/02/a-secure-web-is-here-to-stay.html">HTTP by Chrome in an upcoming update</a>. By deprecation, I mean that Chrome will show an "Unsecure" flag on non-HTTPS websites. HTTP will always work, but it will be relegated to a legacy protocol that nobody should continue to use.</p>
 <p>I was in a hurry to complete this reboot before this update. I soft-launched the new site a few weeks ago, and tweaked it since. And now it's official.</p>
 <hr>
 <p>To be a little bit exhaustive:</p>
