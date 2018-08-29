@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://solarsailer.net/</id>
-  <updated>2018-07-20T12:20:23.014Z</updated>
+  <updated>2018-08-29T21:21:02.850Z</updated>
   <title>Solar Sailer</title>
   <icon>https://solarsailer.net/feed.png</icon>
   <link href="https://solarsailer.net/atom.xml" rel="self"/>
@@ -251,23 +251,19 @@
 <p>Compilers can easily work without them. Keeping them in old languages is, most of the time, simply a question of backward-compatibility.</p>
 <p>And that's fine, after all. In modern languages though, this is something that must be avoided. It's wrong and useless.</p>
 <p>Consider this snippet of Swift:</p>
-<div class="gatsby-highlight" data-language="swift">
-      <pre class="language-swift"><code class="language-swift"><span class="token keyword">var</span> greeting <span class="token operator">=</span> <span class="token string">"Hello!"</span>
+<div class="gatsby-highlight" data-language="swift"><pre class="language-swift"><code class="language-swift"><span class="token keyword">var</span> greeting <span class="token operator">=</span> <span class="token string">"Hello!"</span>
 
 <span class="token keyword">if</span> <span class="token keyword">let</span> name <span class="token operator">=</span> optionalName <span class="token punctuation">{</span>
     greeting <span class="token operator">=</span> <span class="token string">"Hello, <span class="token interpolation"><span class="token delimiter variable">\(</span>name<span class="token delimiter variable">)</span></span>"</span>
-<span class="token punctuation">}</span></code></pre>
-      </div>
+<span class="token punctuation">}</span></code></pre></div>
 <p><strong>No semicolon.</strong> Great. Now, consider a similar snippet of Go:</p>
-<div class="gatsby-highlight" data-language="go">
-      <pre class="language-go"><code class="language-go"><span class="token keyword">func</span> <span class="token function">sqrt</span><span class="token punctuation">(</span>x <span class="token builtin">float64</span><span class="token punctuation">)</span> <span class="token builtin">string</span> <span class="token punctuation">{</span>
+<div class="gatsby-highlight" data-language="go"><pre class="language-go"><code class="language-go"><span class="token keyword">func</span> <span class="token function">sqrt</span><span class="token punctuation">(</span>x <span class="token builtin">float64</span><span class="token punctuation">)</span> <span class="token builtin">string</span> <span class="token punctuation">{</span>
 	<span class="token keyword">if</span> x <span class="token operator">&lt;</span> <span class="token number">0</span> <span class="token punctuation">{</span>
 		<span class="token keyword">return</span> <span class="token function">sqrt</span><span class="token punctuation">(</span><span class="token operator">-</span>x<span class="token punctuation">)</span> <span class="token operator">+</span> <span class="token string">"i"</span>
 	<span class="token punctuation">}</span>
 
 	<span class="token keyword">return</span> fmt<span class="token punctuation">.</span><span class="token function">Sprint</span><span class="token punctuation">(</span>math<span class="token punctuation">.</span><span class="token function">Sqrt</span><span class="token punctuation">(</span>x<span class="token punctuation">)</span><span class="token punctuation">)</span>
-<span class="token punctuation">}</span></code></pre>
-      </div>
+<span class="token punctuation">}</span></code></pre></div>
 <p>It's pretty nice, isn't it?</p>
 <p>Go <strong>does</strong> use semicolons in its grammar. However, it's the lexer's role to add them, not the developer. <a href="http://zachholman.com/posts/shit-work/">Let the machines do the shit work.</a></p>
 <p>Here's the extract from <a href="https://golang.org/doc/effective_go.html#semicolons">Effective Go</a>:</p>
@@ -276,11 +272,9 @@
 </blockquote>
 <p>And unlike in an extremely <a href="http://blog.izs.me/post/2353458699/an-open-letter-to-javascript-leaders-regarding">popular</a> <a href="http://mislav.uniqpath.com/2010/05/semicolons/">language</a>, Go imposes some formatting rules to its programmers and nobody has a problem with <a href="http://inimino.org/~inimino/blog/javascript_semicolons">ASI</a>.</p>
 <p>However, there's still one perfectly valid case where semicolons are not optional:</p>
-<div class="gatsby-highlight" data-language="go">
-      <pre class="language-go"><code class="language-go"><span class="token keyword">if</span> v <span class="token operator">:=</span> math<span class="token punctuation">.</span><span class="token function">Pow</span><span class="token punctuation">(</span>x<span class="token punctuation">,</span> n<span class="token punctuation">)</span><span class="token punctuation">;</span> v <span class="token operator">&lt;</span> limit <span class="token punctuation">{</span>
+<div class="gatsby-highlight" data-language="go"><pre class="language-go"><code class="language-go"><span class="token keyword">if</span> v <span class="token operator">:=</span> math<span class="token punctuation">.</span><span class="token function">Pow</span><span class="token punctuation">(</span>x<span class="token punctuation">,</span> n<span class="token punctuation">)</span><span class="token punctuation">;</span> v <span class="token operator">&lt;</span> limit <span class="token punctuation">{</span>
 	<span class="token keyword">return</span> v
-<span class="token punctuation">}</span></code></pre>
-      </div>
+<span class="token punctuation">}</span></code></pre></div>
 <p>Between <code class="language-text">math.Pow(x, n)</code> and <code class="language-text">v &lt; limit</code>, you will find a semicolon. Because the two statements are on the same line, the compiler needs a semicolon to know where to end a statement and start the next one.</p>
 <p>Basically, the rule is simple:</p>
 <ul>
@@ -291,28 +285,22 @@
 <hr>
 <p>So, here's my question: <strong>why don't we do the same thing with commas?!</strong></p>
 <p>Let's look at the following snippet of Swift:</p>
-<div class="gatsby-highlight" data-language="swift">
-      <pre class="language-swift"><code class="language-swift"><span class="token keyword">var</span> test <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token string">"a"</span><span class="token punctuation">,</span> <span class="token string">"b"</span><span class="token punctuation">,</span> <span class="token string">"c"</span><span class="token punctuation">]</span></code></pre>
-      </div>
+<div class="gatsby-highlight" data-language="swift"><pre class="language-swift"><code class="language-swift"><span class="token keyword">var</span> test <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token string">"a"</span><span class="token punctuation">,</span> <span class="token string">"b"</span><span class="token punctuation">,</span> <span class="token string">"c"</span><span class="token punctuation">]</span></code></pre></div>
 <p>As you can see, each value of the array is separated by a comma. Same rule as the semicolons: if you are on the same line, use a separator. <em>In this case, it's a comma instead of the semicolon because the semantic is different.</em> Fine.</p>
 <p>Now, let's look at the same snippet with a multi-lines notation — this example might seem contrived, but this kind of notation is clearer when the values are more complex and/or numerous:</p>
-<div class="gatsby-highlight" data-language="swift">
-      <pre class="language-swift"><code class="language-swift"><span class="token keyword">var</span> example <span class="token operator">=</span> <span class="token punctuation">[</span>
+<div class="gatsby-highlight" data-language="swift"><pre class="language-swift"><code class="language-swift"><span class="token keyword">var</span> example <span class="token operator">=</span> <span class="token punctuation">[</span>
   <span class="token string">"a"</span><span class="token punctuation">,</span>
   <span class="token string">"b"</span><span class="token punctuation">,</span>
   <span class="token string">"c"</span>
-<span class="token punctuation">]</span></code></pre>
-      </div>
+<span class="token punctuation">]</span></code></pre></div>
 <p>Wait. What. <strong>It's exactly like in the one-line declaration just above.</strong> Which is not surprising, because almost any language will do that.</p>
 <p>That's inconsistent though. For semicolons, we omit them when there's a newline, but here, for a comma, we do not.</p>
 <p>The correct syntax should be:</p>
-<div class="gatsby-highlight" data-language="swift">
-      <pre class="language-swift"><code class="language-swift"><span class="token keyword">var</span> test <span class="token operator">=</span> <span class="token punctuation">[</span>
+<div class="gatsby-highlight" data-language="swift"><pre class="language-swift"><code class="language-swift"><span class="token keyword">var</span> test <span class="token operator">=</span> <span class="token punctuation">[</span>
   <span class="token string">"a"</span>
   <span class="token string">"b"</span>
   <span class="token string">"c"</span>
-<span class="token punctuation">]</span></code></pre>
-      </div>
+<span class="token punctuation">]</span></code></pre></div>
 <p>Simpler, prettier. And it gives a few bonuses beyond the cosmetic aspect:</p>
 <ol>
 <li>
@@ -327,8 +315,7 @@
 </li>
 </ol>
 <p>I would apply the same rule to functions definition, maps or anything which needs commas, like I wrote in this example:</p>
-<div class="gatsby-highlight" data-language="swift">
-      <pre class="language-swift"><code class="language-swift"><span class="token comment">// One-line, comma.</span>
+<div class="gatsby-highlight" data-language="swift"><pre class="language-swift"><code class="language-swift"><span class="token comment">// One-line, comma.</span>
 <span class="token keyword">func</span> <span class="token function">test</span><span class="token punctuation">(</span>x<span class="token punctuation">:</span> <span class="token builtin">Int</span><span class="token punctuation">,</span> y<span class="token punctuation">:</span> <span class="token builtin">Int</span><span class="token punctuation">)</span> <span class="token punctuation">{</span><span class="token punctuation">}</span>
 
 <span class="token comment">// Or:</span>
@@ -339,26 +326,21 @@
   y<span class="token punctuation">:</span> <span class="token builtin">Int</span>
 <span class="token punctuation">)</span> <span class="token punctuation">{</span>
 
-<span class="token punctuation">}</span></code></pre>
-      </div>
+<span class="token punctuation">}</span></code></pre></div>
 <p>In Go, those notations are not frequent because the formatting rules are stricter. However, in a struct definition, you must write this:</p>
-<div class="gatsby-highlight" data-language="go">
-      <pre class="language-go"><code class="language-go"><span class="token keyword">type</span> Point <span class="token keyword">struct</span> <span class="token punctuation">{</span>
+<div class="gatsby-highlight" data-language="go"><pre class="language-go"><code class="language-go"><span class="token keyword">type</span> Point <span class="token keyword">struct</span> <span class="token punctuation">{</span>
   X <span class="token builtin">int</span><span class="token punctuation">,</span>
   Y <span class="token builtin">int</span><span class="token punctuation">,</span>
-<span class="token punctuation">}</span></code></pre>
-      </div>
+<span class="token punctuation">}</span></code></pre></div>
 <p><em>(Note the trailing comma on the last line.)</em></p>
 <p>It's better than what Swift does (at least, diffs are not impacted and you don't have to think to add or remove a comma — you just have to).</p>
 <p>But why did they choose to keep the commas? No comma at all would have been way better AND coherent with the semicolon rule.</p>
 <p>And you know what is even more inconsistent? This, which is perfectly valid Go code:</p>
-<div class="gatsby-highlight" data-language="go">
-      <pre class="language-go"><code class="language-go"><span class="token keyword">var</span> <span class="token punctuation">(</span>
+<div class="gatsby-highlight" data-language="go"><pre class="language-go"><code class="language-go"><span class="token keyword">var</span> <span class="token punctuation">(</span>
   x <span class="token operator">=</span> <span class="token number">1</span>
   y <span class="token operator">=</span> <span class="token number">2</span>
   z <span class="token operator">=</span> <span class="token number">3</span>
-<span class="token punctuation">)</span></code></pre>
-      </div>
+<span class="token punctuation">)</span></code></pre></div>
 <p>Yep, this time, there is nothing at all.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>

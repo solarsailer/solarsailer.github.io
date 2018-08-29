@@ -1,2 +1,0 @@
-webpackJsonp([23363034626516],{784:function(e,t){e.exports={data:{site:{siteMetadata:{title:"Solar Sailer",author:"Matthieu Oger"}},markdownRemark:{html:"",frontmatter:{date:"2018-07-13",readableDate:"13 July 2018",title:"New design",showPageTitle:null},fields:{path:"/2018/07/new-design/"}}},pathContext:{id:"/Users/ashen/Code/solarsailer.net/content/posts/2018-07-13-new-design.md absPath of file >>> MarkdownRemark"}}}});
-//# sourceMappingURL=path---2018-07-new-design-a642f4ebb71b8578ac71.js.map
