@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://solarsailer.net/</id>
-  <updated>2018-09-03T10:43:53.280Z</updated>
+  <updated>2018-09-16T08:56:20.124Z</updated>
   <title>Solar Sailer</title>
   <icon>https://solarsailer.net/feed.png</icon>
   <link href="https://solarsailer.net/atom.xml" rel="self"/>
@@ -9,6 +9,47 @@
     <name>Matthieu Oger</name>
     <uri>https://solarsailer.net/</uri>
   </author>
+  <entry>
+    <id>https://solarsailer.net/2018/09/glory-to-rome/</id>
+    <updated>2018-09-16T00:00:00.000Z</updated>
+    <title>The Story of Glory To Rome</title>
+    <link href="https://solarsailer.net/2018/09/glory-to-rome/"/>
+    <content type="html"><![CDATA[<p><a href="https://arstechnica.com/gaming/2018/09/how-a-ceo-fiddled-while-beloved-board-game-glory-to-rome-crashed-and-burned/?comments=1">Cyrus Farivar at Ars Technica</a>:</p>
+<blockquote>
+<p>But [Glory To Rome] (GTR) felt different. First, I noticed the packaging. Unlike the high-quality large-format cardboard boxes with soft colors and thoughtful art, GTR came in a compact, cheap, plastic tub that wasn’t much bigger than a large paperback book. Second, and more jarring, was the game's art. It had a bright color palette and cartoonish characters that seemed like they belonged in a children’s clip art computer game.</p>
+<p>[He] started unpacking the game and patiently explaining the rules. What immediately struck me was the mechanic allowing the player to choose what type any given card would be—one of a few choices that would automatically exclude the others. GTR appeared to be full of intrigue and strategy, and there were multiple ways to win. […]</p>
+<p>In less than a decade, how could a game whose ranking still remains relatively high (150) on Board Game Geek — just a few places above Magic: The Gathering and a few places lower than Carcassonne — have totally disappeared? What happened? […]</p>
+<p>"It’s one of those games, you just recognize the genius of the design of it," Lozito told Ars. "This is one of the quintessential big games in a small box. Every time you sit down to play it it plays differently, the cards are all crazy. I looked at the game and I have no idea how his brain could come up with such a complex game out of 125 cards or whatever." […]</p>
+<p>As GTR continued to gather critical and cult-classic steam, word started getting back to [co-creator Carter] that one of the game’s primary problems was its awful production—those nausea-inducing colors and a cheap plastic box. […]</p>
+<p>[After the Kickstarter's success], this should have been the moment that Carter seized game-design glory. With a successful production, he could have taken the game from indie cult favorite to something much bigger. But according to Rao, this influx of cash instead represented the beginning of the end.</p>
+</blockquote>
+<p>Here's a description from Ed Carter, one of the "co-creators":</p>
+<blockquote>
+<p>Early on, Glory To Rome was often called "San Juan on Steroids," but it would probably be more accurate to call it "San Juan meets Magic The Gathering." There are 40 different cards in Glory To Rome and each one has a unique ability. Only four of them are sensible "Improve your X by Y" abilities—the rest are ridiculous, convoluted powers like "Incomplete MARBLE structures provide function." That generates 760 different two-card combinations and many thousands of three-card ones. I've played hundreds of games of GTR over the years so I've thought about a lot of these combinations, but certainly not all of them.</p>
+<p>Also, while most games are balanced using a stable equilibrium with the aim that no card should be so overpowering that it breaks the game, Glory To Rome is balanced using astable equilibrium—our aim was that in the right combinations, virtually every card would be able to contribute to a runaway victory.</p>
+</blockquote>
+<p>I was never aware that the game was unavailable. I got a copy of the French version (by Filosofia) a few years ago when it was in store almost anywhere in France, in a reprinted and decent version, so this story is all news to me. It's funny to think that the game was "everywhere" here, but unavailable in its home-country.</p>
+<p>It's a shame though, since the game is really, <em>really</em> great.</p>
+<p><em>Side note: the work by <a href="https://www.boardgamegeek.com/thread/643046/poll-would-you-buy-re-design-glory-rome">Heiko Günther</a> is beautiful too. I think that the French version is clearer in an actual game, but wow this is pretty.</em></p>
+<hr>
+<p>This article makes me think that many boardgames disappear each year, going unnoticed and forgotten forever.</p>
+<p>I wrote about <a href="https://solarsailer.net/2015/09/quantum-post-mortem/">Quantum</a> before, one of my favorite boardgames, which is out of stock too. I looked for a new copy a few months ago, and to my surprise, wasn't able to find one. I looked today, and the game is not even listed on most sites anymore.</p>
+<p>Each year<sup id="fnref-1"><a href="#fn-1" class="footnote-ref">1</a></sup>, an increasing number of new games is released, and each year, an even bigger number is retired. The disturbing thing, however, is that most of these games are, actually, great games.</p>
+<p>Only a small and highly-successful portion of all the boardgames will be kept forever (Catan, Race for the Galaxy, Carcassonne, Monopoly, 7 Wonders, etc.). Are those the very best of the best? Or just the most successful ones?</p>
+<div class="footnotes">
+<hr>
+<ol>
+<li id="fn-1">
+<p>Like videogames, the number of boardgames produced a year keeps getting bigger. I don't have the numbers, but I've read that the production of the last few years alone might be higher than the whole combined number of games created a few decades before.</p>
+<a href="#fnref-1" class="footnote-backref">↩</a>
+</li>
+</ol>
+</div>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://solarsailer.net/</uri>
+    </author>
+  </entry>
   <entry>
     <id>https://solarsailer.net/2018/07/reboot/</id>
     <updated>2018-07-20T00:00:00.000Z</updated>
@@ -1144,6 +1185,18 @@
     </author>
   </entry>
   <entry>
+    <id>https://solarsailer.net/2013/09/myosis/</id>
+    <updated>2013-09-04T00:00:00.000Z</updated>
+    <title>Myosis</title>
+    <link href="https://solarsailer.net/2013/09/myosis/"/>
+    <content type="html"><![CDATA[<p>A gorgeous short film.</p>
+<p>→ <a href="https://vimeo.com/73617382">Watch here</a>.</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://solarsailer.net/</uri>
+    </author>
+  </entry>
+  <entry>
     <id>https://solarsailer.net/2013/09/sketch-23/</id>
     <updated>2013-09-04T00:00:00.000Z</updated>
     <title>Sketch 2.3</title>
@@ -1158,18 +1211,6 @@
 </ul>
 <p>The only downside of this release is when I work with text. It doesn't feel smooth.</p>
 <p>Such an awesome piece of software.</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://solarsailer.net/</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://solarsailer.net/2013/09/myosis/</id>
-    <updated>2013-09-04T00:00:00.000Z</updated>
-    <title>Myosis</title>
-    <link href="https://solarsailer.net/2013/09/myosis/"/>
-    <content type="html"><![CDATA[<p>A gorgeous short film.</p>
-<p>→ <a href="https://vimeo.com/73617382">Watch here</a>.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://solarsailer.net/</uri>
@@ -1230,21 +1271,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://solarsailer.net/2013/08/quote-trent-reznor/</id>
-    <updated>2013-08-28T00:00:00.000Z</updated>
-    <title>Quote — Trent Reznor</title>
-    <link href="https://solarsailer.net/2013/08/quote-trent-reznor/"/>
-    <content type="html"><![CDATA[<blockquote>
-<p>I'm not saying offering things for free or pay-what-you-can is wrong. I'm saying my personal feeling is that my album's not a dime. It's not a buck. I made it as well as I could, and it costs 10 bucks, or go fuck yourself.</p>
-<p>— <a href="http://www.spin.com/featured/trent-reznor-upward-spiral-nine-inch-nails-spin-cover-september-2013/">Trent Reznor</a></p>
-</blockquote>
-<p>(via <a href="http://parislemon.com/post/59507355135/i-know-that-what-were-doing-flies-in-the-face-of">ParisLemon</a>)</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://solarsailer.net/</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://solarsailer.net/2013/08/amazon-new-product-page/</id>
     <updated>2013-08-28T00:00:00.000Z</updated>
     <title>Amazon&apos;s new product page</title>
@@ -1260,6 +1286,21 @@
     </author>
   </entry>
   <entry>
+    <id>https://solarsailer.net/2013/08/quote-trent-reznor/</id>
+    <updated>2013-08-28T00:00:00.000Z</updated>
+    <title>Quote — Trent Reznor</title>
+    <link href="https://solarsailer.net/2013/08/quote-trent-reznor/"/>
+    <content type="html"><![CDATA[<blockquote>
+<p>I'm not saying offering things for free or pay-what-you-can is wrong. I'm saying my personal feeling is that my album's not a dime. It's not a buck. I made it as well as I could, and it costs 10 bucks, or go fuck yourself.</p>
+<p>— <a href="http://www.spin.com/featured/trent-reznor-upward-spiral-nine-inch-nails-spin-cover-september-2013/">Trent Reznor</a></p>
+</blockquote>
+<p>(via <a href="http://parislemon.com/post/59507355135/i-know-that-what-were-doing-flies-in-the-face-of">ParisLemon</a>)</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://solarsailer.net/</uri>
+    </author>
+  </entry>
+  <entry>
     <id>https://solarsailer.net/2013/08/quote-jonathan-blow/</id>
     <updated>2013-08-27T00:00:00.000Z</updated>
     <title>Quote — Jonathan Blow</title>
@@ -1268,26 +1309,6 @@
 <p>Advertising is effective <em>only</em> because so many people think “Ads don't influence me” and “Ads give me what I want for free”.</p>
 <p>— <a href="https://twitter.com/Jonathan_Blow/status/372077731531350017">Jonathan Blow</a></p>
 </blockquote>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://solarsailer.net/</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://solarsailer.net/2013/08/ios7-user-tracking/</id>
-    <updated>2013-08-26T00:00:00.000Z</updated>
-    <title>iOS 7 user tracking</title>
-    <link href="https://solarsailer.net/2013/08/ios7-user-tracking/"/>
-    <content type="html"><![CDATA[<p><a href="http://iosdevweekly.com/issues/108/">iOS Dev Weekly, issue 108</a>:</p>
-<blockquote>
-<p>If your solution to having uniqueIdentifier deprecated was to use the MAC address of the device in some way then you're going to have a bad time in iOS 7. […]</p>
-<p>The message here is very clear, Apple are not afraid to remove any API that makes tracking users across apps by different vendors possible.</p>
-</blockquote>
-<p><a href="https://developer.apple.com/news/index.php?id=8222013a">Apple</a>:</p>
-<blockquote>
-<p>If your apps use the MAC address to identify an iOS device, the system will return the same static value for all devices running iOS 7.</p>
-</blockquote>
-<p>It is a bad week for advertisers (see: <a href="https://solarsailer.net/2013/08/google-play-new-policies/">Google Play new policies</a>).</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://solarsailer.net/</uri>
@@ -1320,16 +1341,20 @@
     </author>
   </entry>
   <entry>
-    <id>https://solarsailer.net/2013/08/team-of-one/</id>
-    <updated>2013-08-19T00:00:00.000Z</updated>
-    <title>Team of One</title>
-    <link href="https://solarsailer.net/2013/08/team-of-one/"/>
-    <content type="html"><![CDATA[<p><a href="https://myles.io/thoughts/theres-no-io-in-team">There's no "I/O" in "Team"</a>:</p>
+    <id>https://solarsailer.net/2013/08/ios7-user-tracking/</id>
+    <updated>2013-08-26T00:00:00.000Z</updated>
+    <title>iOS 7 user tracking</title>
+    <link href="https://solarsailer.net/2013/08/ios7-user-tracking/"/>
+    <content type="html"><![CDATA[<p><a href="http://iosdevweekly.com/issues/108/">iOS Dev Weekly, issue 108</a>:</p>
 <blockquote>
-<p>When you're a team of one, your I/O bandwidth is almost infinite. It's all in your brain, so you don't have to explain anything, write anything down, have meetings, draw on whiteboards, etc. Your available time to work collapses down to solving specific business problems with every line of code or web page update. Imagine a case where you never have to compromise, argue, make brain dead concessions or spend resources on proving your position. Assuming you are right, and have a good head for business, marketing and writing half-way decent code, you can solve a small problem very efficiently.</p>
+<p>If your solution to having uniqueIdentifier deprecated was to use the MAC address of the device in some way then you're going to have a bad time in iOS 7. […]</p>
+<p>The message here is very clear, Apple are not afraid to remove any API that makes tracking users across apps by different vendors possible.</p>
 </blockquote>
-<p>Hard but hyper-efficient.</p>
-<p>We work <em>a bit</em> like that at <a href="http://pixelnest.io">Pixelnest</a>. <a href="http://dmayance.com">Damien</a> and me have a slightly different skill set, thus we can split the work almost equally. The advantage is that we can discuss together to avoid finishing in a dead end.</p>]]></content>
+<p><a href="https://developer.apple.com/news/index.php?id=8222013a">Apple</a>:</p>
+<blockquote>
+<p>If your apps use the MAC address to identify an iOS device, the system will return the same static value for all devices running iOS 7.</p>
+</blockquote>
+<p>It is a bad week for advertisers (see: <a href="https://solarsailer.net/2013/08/google-play-new-policies/">Google Play new policies</a>).</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://solarsailer.net/</uri>
@@ -1346,6 +1371,22 @@
 </blockquote>
 <p>It's a wonderful idea.</p>
 <p>(via <a href="https://twitter.com/molleindustria/status/369161957988765696">@molleindustria</a>)</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://solarsailer.net/</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://solarsailer.net/2013/08/team-of-one/</id>
+    <updated>2013-08-19T00:00:00.000Z</updated>
+    <title>Team of One</title>
+    <link href="https://solarsailer.net/2013/08/team-of-one/"/>
+    <content type="html"><![CDATA[<p><a href="https://myles.io/thoughts/theres-no-io-in-team">There's no "I/O" in "Team"</a>:</p>
+<blockquote>
+<p>When you're a team of one, your I/O bandwidth is almost infinite. It's all in your brain, so you don't have to explain anything, write anything down, have meetings, draw on whiteboards, etc. Your available time to work collapses down to solving specific business problems with every line of code or web page update. Imagine a case where you never have to compromise, argue, make brain dead concessions or spend resources on proving your position. Assuming you are right, and have a good head for business, marketing and writing half-way decent code, you can solve a small problem very efficiently.</p>
+</blockquote>
+<p>Hard but hyper-efficient.</p>
+<p>We work <em>a bit</em> like that at <a href="http://pixelnest.io">Pixelnest</a>. <a href="http://dmayance.com">Damien</a> and me have a slightly different skill set, thus we can split the work almost equally. The advantage is that we can discuss together to avoid finishing in a dead end.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://solarsailer.net/</uri>
@@ -1422,22 +1463,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://solarsailer.net/2013/08/ios7/</id>
-    <updated>2013-08-15T00:00:00.000Z</updated>
-    <title>iOS 7</title>
-    <link href="https://solarsailer.net/2013/08/ios7/"/>
-    <content type="html"><![CDATA[<p><a href="http://www.imore.com/wheres-bigger-iphone">Rene Ritchie</a>:</p>
-<blockquote>
-<p>When a company like Apple goes to all the trouble of building a <strong>physics</strong> and <strong>particle engine</strong> to support their interface, when they <strong>objectify</strong> it and <strong>gamify</strong> it and <strong>make it a dynamic, living thing</strong>, it opens up a lot of potential. When you add <strong>Text Kit</strong> to mix, and the <strong>design language</strong> in general, and when you see what it all looks and feels like on an iPad mini, then the possibilities for a bigger iPhone next year become infinitely more exciting.</p>
-</blockquote>
-<p>Good recap of the real changes brought by iOS 7.</p>
-<p><em>(emphasis mine)</em></p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://solarsailer.net/</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://solarsailer.net/2013/08/app-store/</id>
     <updated>2013-08-15T00:00:00.000Z</updated>
     <title>App Store</title>
@@ -1463,13 +1488,16 @@ August 14, 2013
     </author>
   </entry>
   <entry>
-    <id>https://solarsailer.net/2013/08/old-times/</id>
-    <updated>2013-08-14T00:00:00.000Z</updated>
-    <title>Old times</title>
-    <link href="https://solarsailer.net/2013/08/old-times/"/>
-    <content type="html"><![CDATA[<p>I didn't find enough time to create this blog over the last years. However, during this timespan, I read <strong>a lot</strong> of great articles.</p>
-<p>I'm going to link some of them from time to time. After all, I also created this blog to be a sort of personal archive of what I liked, with my impressions.</p>
-<p>I already did that once, with this article: <a href="https://solarsailer.net/2013/08/life-too-short-ugly-graphs/">Quote — "Life is too short to stare at ugly graphs. And yes, you should feel bad."</a>.</p>]]></content>
+    <id>https://solarsailer.net/2013/08/ios7/</id>
+    <updated>2013-08-15T00:00:00.000Z</updated>
+    <title>iOS 7</title>
+    <link href="https://solarsailer.net/2013/08/ios7/"/>
+    <content type="html"><![CDATA[<p><a href="http://www.imore.com/wheres-bigger-iphone">Rene Ritchie</a>:</p>
+<blockquote>
+<p>When a company like Apple goes to all the trouble of building a <strong>physics</strong> and <strong>particle engine</strong> to support their interface, when they <strong>objectify</strong> it and <strong>gamify</strong> it and <strong>make it a dynamic, living thing</strong>, it opens up a lot of potential. When you add <strong>Text Kit</strong> to mix, and the <strong>design language</strong> in general, and when you see what it all looks and feels like on an iPad mini, then the possibilities for a bigger iPhone next year become infinitely more exciting.</p>
+</blockquote>
+<p>Good recap of the real changes brought by iOS 7.</p>
+<p><em>(emphasis mine)</em></p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://solarsailer.net/</uri>
@@ -1488,6 +1516,19 @@ August 14, 2013
 <p>Windows Phone did a great job to this regard. For example, if you tap a tile on the homescreen, the rest of them move outside the screen before the one you pushed. The system has clearly been created around that, to respond to inputs and act on them.</p>
 <p>Motion is clearly a thing that designers tend to forget. Even if an interface is beautiful, it will look dull if nothing reacts to you. The "<em>flat</em>" design movement will exacerbate this. iOS 7 has made depth and context keys citizens of its new UX paradigm.</p>
 <p>Tools to simplify this process are now crucial.</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://solarsailer.net/</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://solarsailer.net/2013/08/old-times/</id>
+    <updated>2013-08-14T00:00:00.000Z</updated>
+    <title>Old times</title>
+    <link href="https://solarsailer.net/2013/08/old-times/"/>
+    <content type="html"><![CDATA[<p>I didn't find enough time to create this blog over the last years. However, during this timespan, I read <strong>a lot</strong> of great articles.</p>
+<p>I'm going to link some of them from time to time. After all, I also created this blog to be a sort of personal archive of what I liked, with my impressions.</p>
+<p>I already did that once, with this article: <a href="https://solarsailer.net/2013/08/life-too-short-ugly-graphs/">Quote — "Life is too short to stare at ugly graphs. And yes, you should feel bad."</a>.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://solarsailer.net/</uri>
@@ -1597,23 +1638,6 @@ August 14, 2013
     </author>
   </entry>
   <entry>
-    <id>https://solarsailer.net/2013/08/quote-changing-the-world/</id>
-    <updated>2013-08-02T00:00:00.000Z</updated>
-    <title>Quote — &quot;Changing the world.&quot;</title>
-    <link href="https://solarsailer.net/2013/08/quote-changing-the-world/"/>
-    <content type="html"><![CDATA[<blockquote>
-<p>Could "changing the world" be a contender the most trite, overused expression of 2013? Recent grads seem to have adopted it en masse as their personal tagline. It's a nice sentiment, but it hard not to roll your eyes when every 23 year old applies it to his mobile phone app with no users that he threw together in a couple weeks.</p>
-<p>[…]</p>
-<p>Besides, I'm not even sure it's a healthy sentiment for most people. If your focus is as broad as "changing the world," you're probably setting yourself up to feel like a failure.</p>
-<p>— <a href="https://news.ycombinator.com/item?id=6108967">Freyr, Hacker News</a></p>
-</blockquote>
-<p>(via <a href="http://wolfslittlestore.be/2013/08/changing-the-world/">Wolf's Little Store</a>)</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://solarsailer.net/</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://solarsailer.net/2013/08/life-too-short-ugly-graphs/</id>
     <updated>2013-08-02T00:00:00.000Z</updated>
     <title>Quote — &quot;Life is too short to stare at ugly graphs. And yes, you should feel bad.&quot;</title>
@@ -1627,6 +1651,23 @@ August 14, 2013
 <p>— <a href="https://news.ycombinator.com/item?id=4480876">Tanoku, Hacker News</a></p>
 </blockquote>
 <p>An oldie, but I'm still loving it (emphasis mine).</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://solarsailer.net/</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://solarsailer.net/2013/08/quote-changing-the-world/</id>
+    <updated>2013-08-02T00:00:00.000Z</updated>
+    <title>Quote — &quot;Changing the world.&quot;</title>
+    <link href="https://solarsailer.net/2013/08/quote-changing-the-world/"/>
+    <content type="html"><![CDATA[<blockquote>
+<p>Could "changing the world" be a contender the most trite, overused expression of 2013? Recent grads seem to have adopted it en masse as their personal tagline. It's a nice sentiment, but it hard not to roll your eyes when every 23 year old applies it to his mobile phone app with no users that he threw together in a couple weeks.</p>
+<p>[…]</p>
+<p>Besides, I'm not even sure it's a healthy sentiment for most people. If your focus is as broad as "changing the world," you're probably setting yourself up to feel like a failure.</p>
+<p>— <a href="https://news.ycombinator.com/item?id=6108967">Freyr, Hacker News</a></p>
+</blockquote>
+<p>(via <a href="http://wolfslittlestore.be/2013/08/changing-the-world/">Wolf's Little Store</a>)</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://solarsailer.net/</uri>

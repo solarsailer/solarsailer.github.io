@@ -8,6 +8,17 @@
   "feed_url": "https://solarsailer.net/feed.json",
   "items": [
     {
+      "id": "https://solarsailer.net/2018/09/glory-to-rome/",
+      "url": "https://solarsailer.net/2018/09/glory-to-rome/",
+      "title": "The Story of Glory To Rome",
+      "content_html": "<p><a href=\"https://arstechnica.com/gaming/2018/09/how-a-ceo-fiddled-while-beloved-board-game-glory-to-rome-crashed-and-burned/?comments=1\">Cyrus Farivar at Ars Technica</a>:</p>\n<blockquote>\n<p>But [Glory To Rome] (GTR) felt different. First, I noticed the packaging. Unlike the high-quality large-format cardboard boxes with soft colors and thoughtful art, GTR came in a compact, cheap, plastic tub that wasn’t much bigger than a large paperback book. Second, and more jarring, was the game's art. It had a bright color palette and cartoonish characters that seemed like they belonged in a children’s clip art computer game.</p>\n<p>[He] started unpacking the game and patiently explaining the rules. What immediately struck me was the mechanic allowing the player to choose what type any given card would be—one of a few choices that would automatically exclude the others. GTR appeared to be full of intrigue and strategy, and there were multiple ways to win. […]</p>\n<p>In less than a decade, how could a game whose ranking still remains relatively high (150) on Board Game Geek — just a few places above Magic: The Gathering and a few places lower than Carcassonne — have totally disappeared? What happened? […]</p>\n<p>\"It’s one of those games, you just recognize the genius of the design of it,\" Lozito told Ars. \"This is one of the quintessential big games in a small box. Every time you sit down to play it it plays differently, the cards are all crazy. I looked at the game and I have no idea how his brain could come up with such a complex game out of 125 cards or whatever.\" […]</p>\n<p>As GTR continued to gather critical and cult-classic steam, word started getting back to [co-creator Carter] that one of the game’s primary problems was its awful production—those nausea-inducing colors and a cheap plastic box. […]</p>\n<p>[After the Kickstarter's success], this should have been the moment that Carter seized game-design glory. With a successful production, he could have taken the game from indie cult favorite to something much bigger. But according to Rao, this influx of cash instead represented the beginning of the end.</p>\n</blockquote>\n<p>Here's a description from Ed Carter, one of the \"co-creators\":</p>\n<blockquote>\n<p>Early on, Glory To Rome was often called \"San Juan on Steroids,\" but it would probably be more accurate to call it \"San Juan meets Magic The Gathering.\" There are 40 different cards in Glory To Rome and each one has a unique ability. Only four of them are sensible \"Improve your X by Y\" abilities—the rest are ridiculous, convoluted powers like \"Incomplete MARBLE structures provide function.\" That generates 760 different two-card combinations and many thousands of three-card ones. I've played hundreds of games of GTR over the years so I've thought about a lot of these combinations, but certainly not all of them.</p>\n<p>Also, while most games are balanced using a stable equilibrium with the aim that no card should be so overpowering that it breaks the game, Glory To Rome is balanced using astable equilibrium—our aim was that in the right combinations, virtually every card would be able to contribute to a runaway victory.</p>\n</blockquote>\n<p>I was never aware that the game was unavailable. I got a copy of the French version (by Filosofia) a few years ago when it was in store almost anywhere in France, in a reprinted and decent version, so this story is all news to me. It's funny to think that the game was \"everywhere\" here, but unavailable in its home-country.</p>\n<p>It's a shame though, since the game is really, <em>really</em> great.</p>\n<p><em>Side note: the work by <a href=\"https://www.boardgamegeek.com/thread/643046/poll-would-you-buy-re-design-glory-rome\">Heiko Günther</a> is beautiful too. I think that the French version is clearer in an actual game, but wow this is pretty.</em></p>\n<hr>\n<p>This article makes me think that many boardgames disappear each year, going unnoticed and forgotten forever.</p>\n<p>I wrote about <a href=\"https://solarsailer.net/2015/09/quantum-post-mortem/\">Quantum</a> before, one of my favorite boardgames, which is out of stock too. I looked for a new copy a few months ago, and to my surprise, wasn't able to find one. I looked today, and the game is not even listed on most sites anymore.</p>\n<p>Each year<sup id=\"fnref-1\"><a href=\"#fn-1\" class=\"footnote-ref\">1</a></sup>, an increasing number of new games is released, and each year, an even bigger number is retired. The disturbing thing, however, is that most of these games are, actually, great games.</p>\n<p>Only a small and highly-successful portion of all the boardgames will be kept forever (Catan, Race for the Galaxy, Carcassonne, Monopoly, 7 Wonders, etc.). Are those the very best of the best? Or just the most successful ones?</p>\n<div class=\"footnotes\">\n<hr>\n<ol>\n<li id=\"fn-1\">\n<p>Like videogames, the number of boardgames produced a year keeps getting bigger. I don't have the numbers, but I've read that the production of the last few years alone might be higher than the whole combined number of games created a few decades before.</p>\n<a href=\"#fnref-1\" class=\"footnote-backref\">↩</a>\n</li>\n</ol>\n</div>",
+      "author": {
+        "name": "Matthieu Oger",
+        "url": "https://solarsailer.net/"
+      },
+      "date_published": "2018-09-16T00:00:00.000Z"
+    },
+    {
       "id": "https://solarsailer.net/2018/07/reboot/",
       "url": "https://solarsailer.net/2018/07/reboot/",
       "title": "Reboot",
@@ -470,10 +481,10 @@
       "date_published": "2013-09-05T00:00:00.000Z"
     },
     {
-      "id": "https://solarsailer.net/2013/09/sketch-23/",
-      "url": "https://solarsailer.net/2013/09/sketch-23/",
-      "title": "Sketch 2.3",
-      "content_html": "<p>The biggest new yesterday was not that Microsoft bought Nokia. In fact, it was written on the wall for more than 2 years. And others have blogged <a href=\"http://stratechery.com/2013/the-deal-that-makes-no-sense/\">better</a> <a href=\"http://ben-evans.com/benedictevans/2013/9/3/microsoft-and-nokia\">things</a> than I could.</p>\n<p>No, <a href=\"http://bohemiancoding.tumblr.com/post/60070936484/sketch-2-3\">it was the release of Sketch 2.3</a>.</p>\n<p>There's a lot of things that I like in this new version:</p>\n<ul>\n<li>Speed. <strong>It is incomparable</strong>.</li>\n<li>PDF import. I was looking for that for a long time.</li>\n<li>Sketch Mirror.</li>\n</ul>\n<p>The only downside of this release is when I work with text. It doesn't feel smooth.</p>\n<p>Such an awesome piece of software.</p>",
+      "id": "https://solarsailer.net/2013/09/myosis/",
+      "url": "https://solarsailer.net/2013/09/myosis/",
+      "title": "Myosis",
+      "content_html": "<p>A gorgeous short film.</p>\n<p>→ <a href=\"https://vimeo.com/73617382\">Watch here</a>.</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://solarsailer.net/"
@@ -481,10 +492,10 @@
       "date_published": "2013-09-04T00:00:00.000Z"
     },
     {
-      "id": "https://solarsailer.net/2013/09/myosis/",
-      "url": "https://solarsailer.net/2013/09/myosis/",
-      "title": "Myosis",
-      "content_html": "<p>A gorgeous short film.</p>\n<p>→ <a href=\"https://vimeo.com/73617382\">Watch here</a>.</p>",
+      "id": "https://solarsailer.net/2013/09/sketch-23/",
+      "url": "https://solarsailer.net/2013/09/sketch-23/",
+      "title": "Sketch 2.3",
+      "content_html": "<p>The biggest new yesterday was not that Microsoft bought Nokia. In fact, it was written on the wall for more than 2 years. And others have blogged <a href=\"http://stratechery.com/2013/the-deal-that-makes-no-sense/\">better</a> <a href=\"http://ben-evans.com/benedictevans/2013/9/3/microsoft-and-nokia\">things</a> than I could.</p>\n<p>No, <a href=\"http://bohemiancoding.tumblr.com/post/60070936484/sketch-2-3\">it was the release of Sketch 2.3</a>.</p>\n<p>There's a lot of things that I like in this new version:</p>\n<ul>\n<li>Speed. <strong>It is incomparable</strong>.</li>\n<li>PDF import. I was looking for that for a long time.</li>\n<li>Sketch Mirror.</li>\n</ul>\n<p>The only downside of this release is when I work with text. It doesn't feel smooth.</p>\n<p>Such an awesome piece of software.</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://solarsailer.net/"
@@ -525,10 +536,10 @@
       "date_published": "2013-08-29T00:00:00.000Z"
     },
     {
-      "id": "https://solarsailer.net/2013/08/quote-trent-reznor/",
-      "url": "https://solarsailer.net/2013/08/quote-trent-reznor/",
-      "title": "Quote — Trent Reznor",
-      "content_html": "<blockquote>\n<p>I'm not saying offering things for free or pay-what-you-can is wrong. I'm saying my personal feeling is that my album's not a dime. It's not a buck. I made it as well as I could, and it costs 10 bucks, or go fuck yourself.</p>\n<p>— <a href=\"http://www.spin.com/featured/trent-reznor-upward-spiral-nine-inch-nails-spin-cover-september-2013/\">Trent Reznor</a></p>\n</blockquote>\n<p>(via <a href=\"http://parislemon.com/post/59507355135/i-know-that-what-were-doing-flies-in-the-face-of\">ParisLemon</a>)</p>",
+      "id": "https://solarsailer.net/2013/08/amazon-new-product-page/",
+      "url": "https://solarsailer.net/2013/08/amazon-new-product-page/",
+      "title": "Amazon's new product page",
+      "content_html": "<p><a href=\"http://bokardo.com/archives/a-thought-on-amazons-new-product-page-design/\">Interesting article on Bokardo</a> about Amazon's \"new\" product page:</p>\n<blockquote>\n<p>If Amazon were to make a big change, like for example do some actual visual design so everything didn’t have the same visual weight, the mere shock of the change would probably send their revenue downward, at least initially. People dislike change because change is work. They have to figure out what changed, adapt to it, relearn the UI, and still try to get their job done (they one they used to know how to do). <strong>So the next time you hear “People hate change” think to yourself “People don’t hate change. They hate the work of change”.</strong></p>\n</blockquote>\n<p>(emphasis mine)</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://solarsailer.net/"
@@ -536,10 +547,10 @@
       "date_published": "2013-08-28T00:00:00.000Z"
     },
     {
-      "id": "https://solarsailer.net/2013/08/amazon-new-product-page/",
-      "url": "https://solarsailer.net/2013/08/amazon-new-product-page/",
-      "title": "Amazon's new product page",
-      "content_html": "<p><a href=\"http://bokardo.com/archives/a-thought-on-amazons-new-product-page-design/\">Interesting article on Bokardo</a> about Amazon's \"new\" product page:</p>\n<blockquote>\n<p>If Amazon were to make a big change, like for example do some actual visual design so everything didn’t have the same visual weight, the mere shock of the change would probably send their revenue downward, at least initially. People dislike change because change is work. They have to figure out what changed, adapt to it, relearn the UI, and still try to get their job done (they one they used to know how to do). <strong>So the next time you hear “People hate change” think to yourself “People don’t hate change. They hate the work of change”.</strong></p>\n</blockquote>\n<p>(emphasis mine)</p>",
+      "id": "https://solarsailer.net/2013/08/quote-trent-reznor/",
+      "url": "https://solarsailer.net/2013/08/quote-trent-reznor/",
+      "title": "Quote — Trent Reznor",
+      "content_html": "<blockquote>\n<p>I'm not saying offering things for free or pay-what-you-can is wrong. I'm saying my personal feeling is that my album's not a dime. It's not a buck. I made it as well as I could, and it costs 10 bucks, or go fuck yourself.</p>\n<p>— <a href=\"http://www.spin.com/featured/trent-reznor-upward-spiral-nine-inch-nails-spin-cover-september-2013/\">Trent Reznor</a></p>\n</blockquote>\n<p>(via <a href=\"http://parislemon.com/post/59507355135/i-know-that-what-were-doing-flies-in-the-face-of\">ParisLemon</a>)</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://solarsailer.net/"
@@ -558,17 +569,6 @@
       "date_published": "2013-08-27T00:00:00.000Z"
     },
     {
-      "id": "https://solarsailer.net/2013/08/ios7-user-tracking/",
-      "url": "https://solarsailer.net/2013/08/ios7-user-tracking/",
-      "title": "iOS 7 user tracking",
-      "content_html": "<p><a href=\"http://iosdevweekly.com/issues/108/\">iOS Dev Weekly, issue 108</a>:</p>\n<blockquote>\n<p>If your solution to having uniqueIdentifier deprecated was to use the MAC address of the device in some way then you're going to have a bad time in iOS 7. […]</p>\n<p>The message here is very clear, Apple are not afraid to remove any API that makes tracking users across apps by different vendors possible.</p>\n</blockquote>\n<p><a href=\"https://developer.apple.com/news/index.php?id=8222013a\">Apple</a>:</p>\n<blockquote>\n<p>If your apps use the MAC address to identify an iOS device, the system will return the same static value for all devices running iOS 7.</p>\n</blockquote>\n<p>It is a bad week for advertisers (see: <a href=\"https://solarsailer.net/2013/08/google-play-new-policies/\">Google Play new policies</a>).</p>",
-      "author": {
-        "name": "Matthieu Oger",
-        "url": "https://solarsailer.net/"
-      },
-      "date_published": "2013-08-26T00:00:00.000Z"
-    },
-    {
       "id": "https://solarsailer.net/2013/08/google-play-new-policies/",
       "url": "https://solarsailer.net/2013/08/google-play-new-policies/",
       "title": "Google Play new policies",
@@ -580,10 +580,21 @@
       "date_published": "2013-08-26T00:00:00.000Z"
     },
     {
-      "id": "https://solarsailer.net/2013/08/team-of-one/",
-      "url": "https://solarsailer.net/2013/08/team-of-one/",
-      "title": "Team of One",
-      "content_html": "<p><a href=\"https://myles.io/thoughts/theres-no-io-in-team\">There's no \"I/O\" in \"Team\"</a>:</p>\n<blockquote>\n<p>When you're a team of one, your I/O bandwidth is almost infinite. It's all in your brain, so you don't have to explain anything, write anything down, have meetings, draw on whiteboards, etc. Your available time to work collapses down to solving specific business problems with every line of code or web page update. Imagine a case where you never have to compromise, argue, make brain dead concessions or spend resources on proving your position. Assuming you are right, and have a good head for business, marketing and writing half-way decent code, you can solve a small problem very efficiently.</p>\n</blockquote>\n<p>Hard but hyper-efficient.</p>\n<p>We work <em>a bit</em> like that at <a href=\"http://pixelnest.io\">Pixelnest</a>. <a href=\"http://dmayance.com\">Damien</a> and me have a slightly different skill set, thus we can split the work almost equally. The advantage is that we can discuss together to avoid finishing in a dead end.</p>",
+      "id": "https://solarsailer.net/2013/08/ios7-user-tracking/",
+      "url": "https://solarsailer.net/2013/08/ios7-user-tracking/",
+      "title": "iOS 7 user tracking",
+      "content_html": "<p><a href=\"http://iosdevweekly.com/issues/108/\">iOS Dev Weekly, issue 108</a>:</p>\n<blockquote>\n<p>If your solution to having uniqueIdentifier deprecated was to use the MAC address of the device in some way then you're going to have a bad time in iOS 7. […]</p>\n<p>The message here is very clear, Apple are not afraid to remove any API that makes tracking users across apps by different vendors possible.</p>\n</blockquote>\n<p><a href=\"https://developer.apple.com/news/index.php?id=8222013a\">Apple</a>:</p>\n<blockquote>\n<p>If your apps use the MAC address to identify an iOS device, the system will return the same static value for all devices running iOS 7.</p>\n</blockquote>\n<p>It is a bad week for advertisers (see: <a href=\"https://solarsailer.net/2013/08/google-play-new-policies/\">Google Play new policies</a>).</p>",
+      "author": {
+        "name": "Matthieu Oger",
+        "url": "https://solarsailer.net/"
+      },
+      "date_published": "2013-08-26T00:00:00.000Z"
+    },
+    {
+      "id": "https://solarsailer.net/2013/08/lego-architects/",
+      "url": "https://solarsailer.net/2013/08/lego-architects/",
+      "title": "Lego Architects",
+      "content_html": "<p><a href=\"http://www.wired.com/design/2013/08/a-lego-set-with-no-instructions-for-budding-architects/\">Wired</a>:</p>\n<blockquote>\n<p>Architecture Studio, a new set from Lego, comes with 1,210 white and translucent bricks. More notable is what it lacks: namely, instructions for any single thing you’re supposed to build with it. Instead, the kit is accompanied by a thick, 277-page guidebook filled with architectural concepts and building techniques alongside real world insights from prominent architecture studios from around the globe.</p>\n</blockquote>\n<p>It's a wonderful idea.</p>\n<p>(via <a href=\"https://twitter.com/molleindustria/status/369161957988765696\">@molleindustria</a>)</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://solarsailer.net/"
@@ -591,10 +602,10 @@
       "date_published": "2013-08-19T00:00:00.000Z"
     },
     {
-      "id": "https://solarsailer.net/2013/08/lego-architects/",
-      "url": "https://solarsailer.net/2013/08/lego-architects/",
-      "title": "Lego Architects",
-      "content_html": "<p><a href=\"http://www.wired.com/design/2013/08/a-lego-set-with-no-instructions-for-budding-architects/\">Wired</a>:</p>\n<blockquote>\n<p>Architecture Studio, a new set from Lego, comes with 1,210 white and translucent bricks. More notable is what it lacks: namely, instructions for any single thing you’re supposed to build with it. Instead, the kit is accompanied by a thick, 277-page guidebook filled with architectural concepts and building techniques alongside real world insights from prominent architecture studios from around the globe.</p>\n</blockquote>\n<p>It's a wonderful idea.</p>\n<p>(via <a href=\"https://twitter.com/molleindustria/status/369161957988765696\">@molleindustria</a>)</p>",
+      "id": "https://solarsailer.net/2013/08/team-of-one/",
+      "url": "https://solarsailer.net/2013/08/team-of-one/",
+      "title": "Team of One",
+      "content_html": "<p><a href=\"https://myles.io/thoughts/theres-no-io-in-team\">There's no \"I/O\" in \"Team\"</a>:</p>\n<blockquote>\n<p>When you're a team of one, your I/O bandwidth is almost infinite. It's all in your brain, so you don't have to explain anything, write anything down, have meetings, draw on whiteboards, etc. Your available time to work collapses down to solving specific business problems with every line of code or web page update. Imagine a case where you never have to compromise, argue, make brain dead concessions or spend resources on proving your position. Assuming you are right, and have a good head for business, marketing and writing half-way decent code, you can solve a small problem very efficiently.</p>\n</blockquote>\n<p>Hard but hyper-efficient.</p>\n<p>We work <em>a bit</em> like that at <a href=\"http://pixelnest.io\">Pixelnest</a>. <a href=\"http://dmayance.com\">Damien</a> and me have a slightly different skill set, thus we can split the work almost equally. The advantage is that we can discuss together to avoid finishing in a dead end.</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://solarsailer.net/"
@@ -635,17 +646,6 @@
       "date_published": "2013-08-16T00:00:00.000Z"
     },
     {
-      "id": "https://solarsailer.net/2013/08/ios7/",
-      "url": "https://solarsailer.net/2013/08/ios7/",
-      "title": "iOS 7",
-      "content_html": "<p><a href=\"http://www.imore.com/wheres-bigger-iphone\">Rene Ritchie</a>:</p>\n<blockquote>\n<p>When a company like Apple goes to all the trouble of building a <strong>physics</strong> and <strong>particle engine</strong> to support their interface, when they <strong>objectify</strong> it and <strong>gamify</strong> it and <strong>make it a dynamic, living thing</strong>, it opens up a lot of potential. When you add <strong>Text Kit</strong> to mix, and the <strong>design language</strong> in general, and when you see what it all looks and feels like on an iPad mini, then the possibilities for a bigger iPhone next year become infinitely more exciting.</p>\n</blockquote>\n<p>Good recap of the real changes brought by iOS 7.</p>\n<p><em>(emphasis mine)</em></p>",
-      "author": {
-        "name": "Matthieu Oger",
-        "url": "https://solarsailer.net/"
-      },
-      "date_published": "2013-08-15T00:00:00.000Z"
-    },
-    {
       "id": "https://solarsailer.net/2013/08/app-store/",
       "url": "https://solarsailer.net/2013/08/app-store/",
       "title": "App Store",
@@ -657,10 +657,21 @@
       "date_published": "2013-08-15T00:00:00.000Z"
     },
     {
-      "id": "https://solarsailer.net/2013/08/old-times/",
-      "url": "https://solarsailer.net/2013/08/old-times/",
-      "title": "Old times",
-      "content_html": "<p>I didn't find enough time to create this blog over the last years. However, during this timespan, I read <strong>a lot</strong> of great articles.</p>\n<p>I'm going to link some of them from time to time. After all, I also created this blog to be a sort of personal archive of what I liked, with my impressions.</p>\n<p>I already did that once, with this article: <a href=\"https://solarsailer.net/2013/08/life-too-short-ugly-graphs/\">Quote — \"Life is too short to stare at ugly graphs. And yes, you should feel bad.\"</a>.</p>",
+      "id": "https://solarsailer.net/2013/08/ios7/",
+      "url": "https://solarsailer.net/2013/08/ios7/",
+      "title": "iOS 7",
+      "content_html": "<p><a href=\"http://www.imore.com/wheres-bigger-iphone\">Rene Ritchie</a>:</p>\n<blockquote>\n<p>When a company like Apple goes to all the trouble of building a <strong>physics</strong> and <strong>particle engine</strong> to support their interface, when they <strong>objectify</strong> it and <strong>gamify</strong> it and <strong>make it a dynamic, living thing</strong>, it opens up a lot of potential. When you add <strong>Text Kit</strong> to mix, and the <strong>design language</strong> in general, and when you see what it all looks and feels like on an iPad mini, then the possibilities for a bigger iPhone next year become infinitely more exciting.</p>\n</blockquote>\n<p>Good recap of the real changes brought by iOS 7.</p>\n<p><em>(emphasis mine)</em></p>",
+      "author": {
+        "name": "Matthieu Oger",
+        "url": "https://solarsailer.net/"
+      },
+      "date_published": "2013-08-15T00:00:00.000Z"
+    },
+    {
+      "id": "https://solarsailer.net/2013/08/transitional-interfaces/",
+      "url": "https://solarsailer.net/2013/08/transitional-interfaces/",
+      "title": "Animations, interactions, transitions",
+      "content_html": "<p><a href=\"https://medium.com/design-ux/926eb80d64e3\">Transitional Interfaces</a>:</p>\n<blockquote>\n<p>It seems crazy to me that more people don’t think about interfaces with respect to the dimension of time. Motion can provide so much information! Maybe the tools to create prototypes are too complicated for most designers?</p>\n</blockquote>\n<p>This is something I always speak about: an interface without motion is nothing. There is no context, no link between different objects.</p>\n<p>Windows Phone did a great job to this regard. For example, if you tap a tile on the homescreen, the rest of them move outside the screen before the one you pushed. The system has clearly been created around that, to respond to inputs and act on them.</p>\n<p>Motion is clearly a thing that designers tend to forget. Even if an interface is beautiful, it will look dull if nothing reacts to you. The \"<em>flat</em>\" design movement will exacerbate this. iOS 7 has made depth and context keys citizens of its new UX paradigm.</p>\n<p>Tools to simplify this process are now crucial.</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://solarsailer.net/"
@@ -668,10 +679,10 @@
       "date_published": "2013-08-14T00:00:00.000Z"
     },
     {
-      "id": "https://solarsailer.net/2013/08/transitional-interfaces/",
-      "url": "https://solarsailer.net/2013/08/transitional-interfaces/",
-      "title": "Animations, interactions, transitions",
-      "content_html": "<p><a href=\"https://medium.com/design-ux/926eb80d64e3\">Transitional Interfaces</a>:</p>\n<blockquote>\n<p>It seems crazy to me that more people don’t think about interfaces with respect to the dimension of time. Motion can provide so much information! Maybe the tools to create prototypes are too complicated for most designers?</p>\n</blockquote>\n<p>This is something I always speak about: an interface without motion is nothing. There is no context, no link between different objects.</p>\n<p>Windows Phone did a great job to this regard. For example, if you tap a tile on the homescreen, the rest of them move outside the screen before the one you pushed. The system has clearly been created around that, to respond to inputs and act on them.</p>\n<p>Motion is clearly a thing that designers tend to forget. Even if an interface is beautiful, it will look dull if nothing reacts to you. The \"<em>flat</em>\" design movement will exacerbate this. iOS 7 has made depth and context keys citizens of its new UX paradigm.</p>\n<p>Tools to simplify this process are now crucial.</p>",
+      "id": "https://solarsailer.net/2013/08/old-times/",
+      "url": "https://solarsailer.net/2013/08/old-times/",
+      "title": "Old times",
+      "content_html": "<p>I didn't find enough time to create this blog over the last years. However, during this timespan, I read <strong>a lot</strong> of great articles.</p>\n<p>I'm going to link some of them from time to time. After all, I also created this blog to be a sort of personal archive of what I liked, with my impressions.</p>\n<p>I already did that once, with this article: <a href=\"https://solarsailer.net/2013/08/life-too-short-ugly-graphs/\">Quote — \"Life is too short to stare at ugly graphs. And yes, you should feel bad.\"</a>.</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://solarsailer.net/"
@@ -734,10 +745,10 @@
       "date_published": "2013-08-05T00:00:00.000Z"
     },
     {
-      "id": "https://solarsailer.net/2013/08/quote-changing-the-world/",
-      "url": "https://solarsailer.net/2013/08/quote-changing-the-world/",
-      "title": "Quote — \"Changing the world.\"",
-      "content_html": "<blockquote>\n<p>Could \"changing the world\" be a contender the most trite, overused expression of 2013? Recent grads seem to have adopted it en masse as their personal tagline. It's a nice sentiment, but it hard not to roll your eyes when every 23 year old applies it to his mobile phone app with no users that he threw together in a couple weeks.</p>\n<p>[…]</p>\n<p>Besides, I'm not even sure it's a healthy sentiment for most people. If your focus is as broad as \"changing the world,\" you're probably setting yourself up to feel like a failure.</p>\n<p>— <a href=\"https://news.ycombinator.com/item?id=6108967\">Freyr, Hacker News</a></p>\n</blockquote>\n<p>(via <a href=\"http://wolfslittlestore.be/2013/08/changing-the-world/\">Wolf's Little Store</a>)</p>",
+      "id": "https://solarsailer.net/2013/08/life-too-short-ugly-graphs/",
+      "url": "https://solarsailer.net/2013/08/life-too-short-ugly-graphs/",
+      "title": "Quote — \"Life is too short to stare at ugly graphs. And yes, you should feel bad.\"",
+      "content_html": "<blockquote>\n<p>It was done in-house. We really care about how our graphs look, because graphs represent information. It's like typography. Humans learned how to write 5000 years ago, and it took us a very long while until we mastered the art of transmitting information like that. Once we mastered it, however, we started caring about the way we present that information. For no specific reason, but we developed unique typefaces that look beautiful, different, yet transmit the same information.</p>\n<p>Likewise, we've spent a ton of valuable time graphing and mining data from all over our stack; it's only natural that after that, we care about how we present that data. Like typography, it's hard because it's an arduous hunt for the aesthetics hidden behind information. But this hunt is what makes us human.</p>\n<p>That's why we design beautiful graphs, just like we'd design a beautiful typeface. Not because we are GitHubbers, nor because we are designers, but because we are humans.</p>\n<p><strong>Life is too short to stare at ugly graphs. And yes, you should feel bad.</strong></p>\n<p>PS: we have no project managers at GitHub.</p>\n<p>— <a href=\"https://news.ycombinator.com/item?id=4480876\">Tanoku, Hacker News</a></p>\n</blockquote>\n<p>An oldie, but I'm still loving it (emphasis mine).</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://solarsailer.net/"
@@ -745,10 +756,10 @@
       "date_published": "2013-08-02T00:00:00.000Z"
     },
     {
-      "id": "https://solarsailer.net/2013/08/life-too-short-ugly-graphs/",
-      "url": "https://solarsailer.net/2013/08/life-too-short-ugly-graphs/",
-      "title": "Quote — \"Life is too short to stare at ugly graphs. And yes, you should feel bad.\"",
-      "content_html": "<blockquote>\n<p>It was done in-house. We really care about how our graphs look, because graphs represent information. It's like typography. Humans learned how to write 5000 years ago, and it took us a very long while until we mastered the art of transmitting information like that. Once we mastered it, however, we started caring about the way we present that information. For no specific reason, but we developed unique typefaces that look beautiful, different, yet transmit the same information.</p>\n<p>Likewise, we've spent a ton of valuable time graphing and mining data from all over our stack; it's only natural that after that, we care about how we present that data. Like typography, it's hard because it's an arduous hunt for the aesthetics hidden behind information. But this hunt is what makes us human.</p>\n<p>That's why we design beautiful graphs, just like we'd design a beautiful typeface. Not because we are GitHubbers, nor because we are designers, but because we are humans.</p>\n<p><strong>Life is too short to stare at ugly graphs. And yes, you should feel bad.</strong></p>\n<p>PS: we have no project managers at GitHub.</p>\n<p>— <a href=\"https://news.ycombinator.com/item?id=4480876\">Tanoku, Hacker News</a></p>\n</blockquote>\n<p>An oldie, but I'm still loving it (emphasis mine).</p>",
+      "id": "https://solarsailer.net/2013/08/quote-changing-the-world/",
+      "url": "https://solarsailer.net/2013/08/quote-changing-the-world/",
+      "title": "Quote — \"Changing the world.\"",
+      "content_html": "<blockquote>\n<p>Could \"changing the world\" be a contender the most trite, overused expression of 2013? Recent grads seem to have adopted it en masse as their personal tagline. It's a nice sentiment, but it hard not to roll your eyes when every 23 year old applies it to his mobile phone app with no users that he threw together in a couple weeks.</p>\n<p>[…]</p>\n<p>Besides, I'm not even sure it's a healthy sentiment for most people. If your focus is as broad as \"changing the world,\" you're probably setting yourself up to feel like a failure.</p>\n<p>— <a href=\"https://news.ycombinator.com/item?id=6108967\">Freyr, Hacker News</a></p>\n</blockquote>\n<p>(via <a href=\"http://wolfslittlestore.be/2013/08/changing-the-world/\">Wolf's Little Store</a>)</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://solarsailer.net/"
