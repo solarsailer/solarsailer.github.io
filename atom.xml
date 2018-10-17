@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://solarsailer.net/</id>
-  <updated>2018-10-17T18:08:47.819Z</updated>
+  <updated>2018-10-17T22:19:34.141Z</updated>
   <title>Solar Sailer</title>
   <icon>https://solarsailer.net/feed.png</icon>
   <link href="https://solarsailer.net/atom.xml" rel="self"/>
@@ -9,6 +9,95 @@
     <name>Matthieu Oger</name>
     <uri>https://solarsailer.net/</uri>
   </author>
+  <entry>
+    <id>https://solarsailer.net/2018/10/unity-iphone-x-home-indicator/</id>
+    <updated>2018-10-18T00:00:00.000Z</updated>
+    <title>Unity and iPhone X&apos;s home indicator</title>
+    <link href="https://solarsailer.net/2018/10/unity-iphone-x-home-indicator/"/>
+    <content type="html"><![CDATA[<blockquote class="tldr">
+  <p>Check the <code>Bottom</code> option for "Defer system gestures on edges" in the <code>Edit → Project Settings → Player</code> menu of Unity to make the iPhone X's home indicator less visible and obtrusive in your project.</p>
+  <p>Don't use "Hide home button on iPhone X". This is not what you want for a game.</p>
+</blockquote>
+<hr>
+<p>We are porting <a href="http://steredenn.pixelnest.io/">Steredenn: Binary Stars</a> to iOS right now, and with the port comes the support for the iPhone X new form factor (yes, it's a bit late, I know…).</p>
+<p>When trying the game on an iPhone X, I was not happy with the way the home indicator was always visible, distracting the user while playing Steredenn. I looked at other games and saw that it was possible to change its behavior.</p>
+<p>However, it was not really clear how to do that with Unity, so I hope this will help others.</p>
+<h2>Home indicator?</h2>
+<p>Since the iPhone X, the mechanism to go back to the home screen has changed on iOS. You have to swipe from the bottom of the screen, which puts the app back inside its icon.</p>
+<p>By default, at the bottom (where the chin was), the home indicator is <strong>always visible</strong> in an app. It's the black bar you can see on this screenshot:</p>
+<p><img src="/images/posts/2018-10-18/home-indicator.jpg" alt="Home indicator default state"></p>
+<p>For the moment, it's a permanent indicator if the app does not specify a different behavior.<sup id="fnref-1"><a href="#fn-1" class="footnote-ref">1</a></sup></p>
+<p>See what it does in action:</p>
+<figure>
+  <video src="/images/posts/2018-10-18/action.mp4" width="221.5" height="480" controls muted loop>
+    Your browser doesn't support videos. You can download it below.
+  </video>
+  <figcaption>
+    Using the home indicator (<a href="/images/posts/2018-10-18/action.mp4">download video</a>).
+  </figcaption>
+</figure>
+<p>It's a thoughtful UI that follows the finger precisely. With the haptic feedback, it's actually very nice to play with.</p>
+<h2>Changing the behavior in Unity</h2>
+<p>However, this (default) behavior is not great for games. It's too bright and it hides a small portion of the bottom part of the screen. Which can be confusing in games like Steredenn, where many things are displayed at the same time.</p>
+<p><img src="/images/posts/2018-10-18/steredenn.jpg" alt="Home indicator in Steredenn"></p>
+<p>Fortunately, Unity (well, technically, it's iOS) provides 2 ways to change the home indicator. Obviously with Unity, the correct one is not the one you would expect.</p>
+<p>You can find these settings by following this procedure:</p>
+<ol>
+<li>Go to <code class="language-text">Edit → Project Settings → Player</code>.</li>
+</ol>
+<p><img src="/images/posts/2018-10-18/unity-01.jpg" alt="Open the Player&#x27;s settings"></p>
+<ol start="2">
+<li>Then, click on the iOS tab, and find the "Other Settings" area.</li>
+</ol>
+<p><img src="/images/posts/2018-10-18/unity-02.jpg" alt="Find &#x22;Other Settings&#x22;"></p>
+<ol start="3">
+<li>Finally, we are interested in 2 settings: "Hide home button on iPhone X" and "Defer system gestures on edges".</li>
+</ol>
+<p><img src="/images/posts/2018-10-18/unity-03.jpg" alt="&#x22;Hide home button on iPhone X&#x22; and &#x22;Defer system gestures on edges&#x22;"></p>
+<h2>"Hide home button on iPhone X"</h2>
+<p>"Hide home button on iPhone X", the one that looks like what we want, is, of course, the <em>wrong one</em>.</p>
+<p>This setting hides the home indicator after a certain inactivity delay. If the user taps on the screen, the home indicator appears again in its full bright glory. In a game, where you will tap all the time, it's the same as showing the indicator permanently.</p>
+<p>Note that this setting can be useful sometimes. For example, if you are doing a video player, or a game that does not require user inputs often, this is what you want. I think there is ways to toggle this behavior when needed.</p>
+<p>This is what YouTube does, for example (it's hard to see cos' the home indicator is black here, but look at the bottom):</p>
+<figure>
+  <video src="/images/posts/2018-10-18/hide.mp4" controls muted loop>
+    Your browser doesn't support videos. You can download it below.
+  </video>
+  <figcaption>
+    "Hide home button on iPhone X" (<a href="/images/posts/2018-10-18/hide.mp4">download video</a>).
+  </figcaption>
+</figure>
+<h2>"Defer system gestures on edges"</h2>
+<p>As you have guessed now, this is the setting we need.</p>
+<p>It does two things:</p>
+<ul>
+<li>The home indicator opacity is reduced, which makes it less bright. Perfect.</li>
+<li>To go back to the home screen, you have to do the gesture twice. This is also nice, since it prevents accidental gestures.</li>
+</ul>
+<p>The "bottom" checkbox is enough if you only want to change the home indicator behavior. The other checkboxes can be used for Control Center and other gestures on iPad, I think.</p>
+<p>This is what Alto's Adventure does, as well as Steredenn:</p>
+<figure>
+  <video src="/images/posts/2018-10-18/defer.mp4" controls muted loop>
+    Your browser doesn't support videos. You can download it below.
+  </video>
+  <figcaption>
+    "Defer system gestures on edges" (<a href="/images/posts/2018-10-18/defer.mp4">download video</a>).
+  </figcaption>
+</figure>
+<div class="footnotes">
+<hr>
+<ol>
+<li id="fn-1">
+<p>I think it will be hidden or removed in a future version of iOS when the behavior will be accepted by most people. Currently, it's a nice affordance and the space it takes is necessary while the users are getting used to it.</p>
+<a href="#fnref-1" class="footnote-backref">↩</a>
+</li>
+</ol>
+</div>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://solarsailer.net/</uri>
+    </author>
+  </entry>
   <entry>
     <id>https://solarsailer.net/2018/09/glory-to-rome/</id>
     <updated>2018-09-16T00:00:00.000Z</updated>
@@ -1185,6 +1274,18 @@
     </author>
   </entry>
   <entry>
+    <id>https://solarsailer.net/2013/09/myosis/</id>
+    <updated>2013-09-04T00:00:00.000Z</updated>
+    <title>Myosis</title>
+    <link href="https://solarsailer.net/2013/09/myosis/"/>
+    <content type="html"><![CDATA[<p>A gorgeous short film.</p>
+<p>→ <a href="https://vimeo.com/73617382">Watch here</a>.</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://solarsailer.net/</uri>
+    </author>
+  </entry>
+  <entry>
     <id>https://solarsailer.net/2013/09/sketch-23/</id>
     <updated>2013-09-04T00:00:00.000Z</updated>
     <title>Sketch 2.3</title>
@@ -1199,18 +1300,6 @@
 </ul>
 <p>The only downside of this release is when I work with text. It doesn't feel smooth.</p>
 <p>Such an awesome piece of software.</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://solarsailer.net/</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://solarsailer.net/2013/09/myosis/</id>
-    <updated>2013-09-04T00:00:00.000Z</updated>
-    <title>Myosis</title>
-    <link href="https://solarsailer.net/2013/09/myosis/"/>
-    <content type="html"><![CDATA[<p>A gorgeous short film.</p>
-<p>→ <a href="https://vimeo.com/73617382">Watch here</a>.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://solarsailer.net/</uri>
@@ -1361,22 +1450,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://solarsailer.net/2013/08/team-of-one/</id>
-    <updated>2013-08-19T00:00:00.000Z</updated>
-    <title>Team of One</title>
-    <link href="https://solarsailer.net/2013/08/team-of-one/"/>
-    <content type="html"><![CDATA[<p><a href="https://myles.io/thoughts/theres-no-io-in-team">There's no "I/O" in "Team"</a>:</p>
-<blockquote>
-<p>When you're a team of one, your I/O bandwidth is almost infinite. It's all in your brain, so you don't have to explain anything, write anything down, have meetings, draw on whiteboards, etc. Your available time to work collapses down to solving specific business problems with every line of code or web page update. Imagine a case where you never have to compromise, argue, make brain dead concessions or spend resources on proving your position. Assuming you are right, and have a good head for business, marketing and writing half-way decent code, you can solve a small problem very efficiently.</p>
-</blockquote>
-<p>Hard but hyper-efficient.</p>
-<p>We work <em>a bit</em> like that at <a href="http://pixelnest.io">Pixelnest</a>. <a href="http://dmayance.com">Damien</a> and me have a slightly different skill set, thus we can split the work almost equally. The advantage is that we can discuss together to avoid finishing in a dead end.</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://solarsailer.net/</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://solarsailer.net/2013/08/lego-architects/</id>
     <updated>2013-08-19T00:00:00.000Z</updated>
     <title>Lego Architects</title>
@@ -1387,6 +1460,22 @@
 </blockquote>
 <p>It's a wonderful idea.</p>
 <p>(via <a href="https://twitter.com/molleindustria/status/369161957988765696">@molleindustria</a>)</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://solarsailer.net/</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://solarsailer.net/2013/08/team-of-one/</id>
+    <updated>2013-08-19T00:00:00.000Z</updated>
+    <title>Team of One</title>
+    <link href="https://solarsailer.net/2013/08/team-of-one/"/>
+    <content type="html"><![CDATA[<p><a href="https://myles.io/thoughts/theres-no-io-in-team">There's no "I/O" in "Team"</a>:</p>
+<blockquote>
+<p>When you're a team of one, your I/O bandwidth is almost infinite. It's all in your brain, so you don't have to explain anything, write anything down, have meetings, draw on whiteboards, etc. Your available time to work collapses down to solving specific business problems with every line of code or web page update. Imagine a case where you never have to compromise, argue, make brain dead concessions or spend resources on proving your position. Assuming you are right, and have a good head for business, marketing and writing half-way decent code, you can solve a small problem very efficiently.</p>
+</blockquote>
+<p>Hard but hyper-efficient.</p>
+<p>We work <em>a bit</em> like that at <a href="http://pixelnest.io">Pixelnest</a>. <a href="http://dmayance.com">Damien</a> and me have a slightly different skill set, thus we can split the work almost equally. The advantage is that we can discuss together to avoid finishing in a dead end.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://solarsailer.net/</uri>
@@ -1463,6 +1552,22 @@
     </author>
   </entry>
   <entry>
+    <id>https://solarsailer.net/2013/08/ios7/</id>
+    <updated>2013-08-15T00:00:00.000Z</updated>
+    <title>iOS 7</title>
+    <link href="https://solarsailer.net/2013/08/ios7/"/>
+    <content type="html"><![CDATA[<p><a href="http://www.imore.com/wheres-bigger-iphone">Rene Ritchie</a>:</p>
+<blockquote>
+<p>When a company like Apple goes to all the trouble of building a <strong>physics</strong> and <strong>particle engine</strong> to support their interface, when they <strong>objectify</strong> it and <strong>gamify</strong> it and <strong>make it a dynamic, living thing</strong>, it opens up a lot of potential. When you add <strong>Text Kit</strong> to mix, and the <strong>design language</strong> in general, and when you see what it all looks and feels like on an iPad mini, then the possibilities for a bigger iPhone next year become infinitely more exciting.</p>
+</blockquote>
+<p>Good recap of the real changes brought by iOS 7.</p>
+<p><em>(emphasis mine)</em></p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://solarsailer.net/</uri>
+    </author>
+  </entry>
+  <entry>
     <id>https://solarsailer.net/2013/08/app-store/</id>
     <updated>2013-08-15T00:00:00.000Z</updated>
     <title>App Store</title>
@@ -1488,16 +1593,18 @@ August 14, 2013
     </author>
   </entry>
   <entry>
-    <id>https://solarsailer.net/2013/08/ios7/</id>
-    <updated>2013-08-15T00:00:00.000Z</updated>
-    <title>iOS 7</title>
-    <link href="https://solarsailer.net/2013/08/ios7/"/>
-    <content type="html"><![CDATA[<p><a href="http://www.imore.com/wheres-bigger-iphone">Rene Ritchie</a>:</p>
+    <id>https://solarsailer.net/2013/08/transitional-interfaces/</id>
+    <updated>2013-08-14T00:00:00.000Z</updated>
+    <title>Animations, interactions, transitions</title>
+    <link href="https://solarsailer.net/2013/08/transitional-interfaces/"/>
+    <content type="html"><![CDATA[<p><a href="https://medium.com/design-ux/926eb80d64e3">Transitional Interfaces</a>:</p>
 <blockquote>
-<p>When a company like Apple goes to all the trouble of building a <strong>physics</strong> and <strong>particle engine</strong> to support their interface, when they <strong>objectify</strong> it and <strong>gamify</strong> it and <strong>make it a dynamic, living thing</strong>, it opens up a lot of potential. When you add <strong>Text Kit</strong> to mix, and the <strong>design language</strong> in general, and when you see what it all looks and feels like on an iPad mini, then the possibilities for a bigger iPhone next year become infinitely more exciting.</p>
+<p>It seems crazy to me that more people don’t think about interfaces with respect to the dimension of time. Motion can provide so much information! Maybe the tools to create prototypes are too complicated for most designers?</p>
 </blockquote>
-<p>Good recap of the real changes brought by iOS 7.</p>
-<p><em>(emphasis mine)</em></p>]]></content>
+<p>This is something I always speak about: an interface without motion is nothing. There is no context, no link between different objects.</p>
+<p>Windows Phone did a great job to this regard. For example, if you tap a tile on the homescreen, the rest of them move outside the screen before the one you pushed. The system has clearly been created around that, to respond to inputs and act on them.</p>
+<p>Motion is clearly a thing that designers tend to forget. Even if an interface is beautiful, it will look dull if nothing reacts to you. The "<em>flat</em>" design movement will exacerbate this. iOS 7 has made depth and context keys citizens of its new UX paradigm.</p>
+<p>Tools to simplify this process are now crucial.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://solarsailer.net/</uri>
@@ -1511,24 +1618,6 @@ August 14, 2013
     <content type="html"><![CDATA[<p>I didn't find enough time to create this blog over the last years. However, during this timespan, I read <strong>a lot</strong> of great articles.</p>
 <p>I'm going to link some of them from time to time. After all, I also created this blog to be a sort of personal archive of what I liked, with my impressions.</p>
 <p>I already did that once, with this article: <a href="https://solarsailer.net/2013/08/life-too-short-ugly-graphs/">Quote — "Life is too short to stare at ugly graphs. And yes, you should feel bad."</a>.</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://solarsailer.net/</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://solarsailer.net/2013/08/transitional-interfaces/</id>
-    <updated>2013-08-14T00:00:00.000Z</updated>
-    <title>Animations, interactions, transitions</title>
-    <link href="https://solarsailer.net/2013/08/transitional-interfaces/"/>
-    <content type="html"><![CDATA[<p><a href="https://medium.com/design-ux/926eb80d64e3">Transitional Interfaces</a>:</p>
-<blockquote>
-<p>It seems crazy to me that more people don’t think about interfaces with respect to the dimension of time. Motion can provide so much information! Maybe the tools to create prototypes are too complicated for most designers?</p>
-</blockquote>
-<p>This is something I always speak about: an interface without motion is nothing. There is no context, no link between different objects.</p>
-<p>Windows Phone did a great job to this regard. For example, if you tap a tile on the homescreen, the rest of them move outside the screen before the one you pushed. The system has clearly been created around that, to respond to inputs and act on them.</p>
-<p>Motion is clearly a thing that designers tend to forget. Even if an interface is beautiful, it will look dull if nothing reacts to you. The "<em>flat</em>" design movement will exacerbate this. iOS 7 has made depth and context keys citizens of its new UX paradigm.</p>
-<p>Tools to simplify this process are now crucial.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://solarsailer.net/</uri>
@@ -1638,23 +1727,6 @@ August 14, 2013
     </author>
   </entry>
   <entry>
-    <id>https://solarsailer.net/2013/08/quote-changing-the-world/</id>
-    <updated>2013-08-02T00:00:00.000Z</updated>
-    <title>Quote — &quot;Changing the world.&quot;</title>
-    <link href="https://solarsailer.net/2013/08/quote-changing-the-world/"/>
-    <content type="html"><![CDATA[<blockquote>
-<p>Could "changing the world" be a contender the most trite, overused expression of 2013? Recent grads seem to have adopted it en masse as their personal tagline. It's a nice sentiment, but it hard not to roll your eyes when every 23 year old applies it to his mobile phone app with no users that he threw together in a couple weeks.</p>
-<p>[…]</p>
-<p>Besides, I'm not even sure it's a healthy sentiment for most people. If your focus is as broad as "changing the world," you're probably setting yourself up to feel like a failure.</p>
-<p>— <a href="https://news.ycombinator.com/item?id=6108967">Freyr, Hacker News</a></p>
-</blockquote>
-<p>(via <a href="http://wolfslittlestore.be/2013/08/changing-the-world/">Wolf's Little Store</a>)</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://solarsailer.net/</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://solarsailer.net/2013/08/life-too-short-ugly-graphs/</id>
     <updated>2013-08-02T00:00:00.000Z</updated>
     <title>Quote — &quot;Life is too short to stare at ugly graphs. And yes, you should feel bad.&quot;</title>
@@ -1668,6 +1740,23 @@ August 14, 2013
 <p>— <a href="https://news.ycombinator.com/item?id=4480876">Tanoku, Hacker News</a></p>
 </blockquote>
 <p>An oldie, but I'm still loving it (emphasis mine).</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://solarsailer.net/</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://solarsailer.net/2013/08/quote-changing-the-world/</id>
+    <updated>2013-08-02T00:00:00.000Z</updated>
+    <title>Quote — &quot;Changing the world.&quot;</title>
+    <link href="https://solarsailer.net/2013/08/quote-changing-the-world/"/>
+    <content type="html"><![CDATA[<blockquote>
+<p>Could "changing the world" be a contender the most trite, overused expression of 2013? Recent grads seem to have adopted it en masse as their personal tagline. It's a nice sentiment, but it hard not to roll your eyes when every 23 year old applies it to his mobile phone app with no users that he threw together in a couple weeks.</p>
+<p>[…]</p>
+<p>Besides, I'm not even sure it's a healthy sentiment for most people. If your focus is as broad as "changing the world," you're probably setting yourself up to feel like a failure.</p>
+<p>— <a href="https://news.ycombinator.com/item?id=6108967">Freyr, Hacker News</a></p>
+</blockquote>
+<p>(via <a href="http://wolfslittlestore.be/2013/08/changing-the-world/">Wolf's Little Store</a>)</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://solarsailer.net/</uri>
@@ -1733,18 +1822,6 @@ August 14, 2013
     </author>
   </entry>
   <entry>
-    <id>https://solarsailer.net/2013/07/unsplash/</id>
-    <updated>2013-07-04T00:00:00.000Z</updated>
-    <title>Unsplash</title>
-    <link href="https://solarsailer.net/2013/07/unsplash/"/>
-    <content type="html"><![CDATA[<p> Wonderful resource for high quality photos.</p>
-<p> → <a href="http://unsplash.com/">See here</a>.</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://solarsailer.net/</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://solarsailer.net/2013/07/ios7-david-cole/</id>
     <updated>2013-07-04T00:00:00.000Z</updated>
     <title>Is the new Apple iOS 7 look an improvement?</title>
@@ -1754,6 +1831,18 @@ August 14, 2013
 <p>I have a different perspective than most of the other answerers here. I don't think the interesting components of iOS 7 are found in the icons or the color or the type — those are relatively self-contained and thus easy to change and evolve. I think the most interesting changes, and the best changes, run much deeper than that, and yet they're intrinsically linked to the "look" of it.</p>
 </blockquote>
 <p>One of the best analysis that I've read about iOS 7.</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://solarsailer.net/</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://solarsailer.net/2013/07/unsplash/</id>
+    <updated>2013-07-04T00:00:00.000Z</updated>
+    <title>Unsplash</title>
+    <link href="https://solarsailer.net/2013/07/unsplash/"/>
+    <content type="html"><![CDATA[<p> Wonderful resource for high quality photos.</p>
+<p> → <a href="http://unsplash.com/">See here</a>.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://solarsailer.net/</uri>
