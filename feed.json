@@ -2,877 +2,877 @@
   "version": "https://jsonfeed.org/version/1",
   "title": "Solar Sailer",
   "description": "I am a developer, designer and product manager from France. Co-founder of Pixelnest Studio.",
-  "icon": "https://matthieuoger.com/feed.png",
-  "favicon": "https://matthieuoger.com/favicon.ico",
-  "home_page_url": "https://matthieuoger.com/",
-  "feed_url": "https://matthieuoger.com/feed.json",
+  "icon": "https://solarsailer.net/feed.png",
+  "favicon": "https://solarsailer.net/favicon.ico",
+  "home_page_url": "https://solarsailer.net/",
+  "feed_url": "https://solarsailer.net/feed.json",
   "items": [
     {
-      "id": "https://matthieuoger.com/2018/09/glory-to-rome/",
-      "url": "https://matthieuoger.com/2018/09/glory-to-rome/",
+      "id": "https://solarsailer.net/2018/09/glory-to-rome/",
+      "url": "https://solarsailer.net/2018/09/glory-to-rome/",
       "title": "The Story of Glory To Rome",
       "content_html": "<p><a href=\"https://arstechnica.com/gaming/2018/09/how-a-ceo-fiddled-while-beloved-board-game-glory-to-rome-crashed-and-burned/?comments=1\">Cyrus Farivar at Ars Technica</a>:</p>\n<blockquote>\n<p>But [Glory To Rome] (GTR) felt different. First, I noticed the packaging. Unlike the high-quality large-format cardboard boxes with soft colors and thoughtful art, GTR came in a compact, cheap, plastic tub that wasn’t much bigger than a large paperback book. Second, and more jarring, was the game's art. It had a bright color palette and cartoonish characters that seemed like they belonged in a children’s clip art computer game.</p>\n<p>[He] started unpacking the game and patiently explaining the rules. What immediately struck me was the mechanic allowing the player to choose what type any given card would be—one of a few choices that would automatically exclude the others. GTR appeared to be full of intrigue and strategy, and there were multiple ways to win. […]</p>\n<p>In less than a decade, how could a game whose ranking still remains relatively high (150) on Board Game Geek — just a few places above Magic: The Gathering and a few places lower than Carcassonne — have totally disappeared? What happened? […]</p>\n<p>\"It’s one of those games, you just recognize the genius of the design of it,\" Lozito told Ars. \"This is one of the quintessential big games in a small box. Every time you sit down to play it it plays differently, the cards are all crazy. I looked at the game and I have no idea how his brain could come up with such a complex game out of 125 cards or whatever.\" […]</p>\n<p>As GTR continued to gather critical and cult-classic steam, word started getting back to [co-creator Carter] that one of the game’s primary problems was its awful production—those nausea-inducing colors and a cheap plastic box. […]</p>\n<p>[After the Kickstarter's success], this should have been the moment that Carter seized game-design glory. With a successful production, he could have taken the game from indie cult favorite to something much bigger. But according to Rao, this influx of cash instead represented the beginning of the end.</p>\n</blockquote>\n<p>Here's a description from Ed Carter, one of the \"co-creators\":</p>\n<blockquote>\n<p>Early on, Glory To Rome was often called \"San Juan on Steroids,\" but it would probably be more accurate to call it \"San Juan meets Magic The Gathering.\" There are 40 different cards in Glory To Rome and each one has a unique ability. Only four of them are sensible \"Improve your X by Y\" abilities—the rest are ridiculous, convoluted powers like \"Incomplete MARBLE structures provide function.\" That generates 760 different two-card combinations and many thousands of three-card ones. I've played hundreds of games of GTR over the years so I've thought about a lot of these combinations, but certainly not all of them.</p>\n<p>Also, while most games are balanced using a stable equilibrium with the aim that no card should be so overpowering that it breaks the game, Glory To Rome is balanced using astable equilibrium—our aim was that in the right combinations, virtually every card would be able to contribute to a runaway victory.</p>\n</blockquote>\n<p>I was never aware that the game was unavailable. I got a copy of the French version (by Filosofia) a few years ago when it was in store almost anywhere in France, in a reprinted and decent version, so this story is all news to me. It's funny to think that the game was \"everywhere\" here, but unavailable in its home-country.</p>\n<p>It's a shame though, since the game is really, <em>really</em> great.</p>\n<p><em>Side note: the work by <a href=\"https://www.boardgamegeek.com/thread/643046/poll-would-you-buy-re-design-glory-rome\">Heiko Günther</a> is beautiful too. I think that the French version is clearer in an actual game, but wow this is pretty.</em></p>\n<hr>\n<p>This article makes me think that many boardgames disappear each year, going unnoticed and forgotten forever.</p>\n<p>I wrote about <a href=\"https://solarsailer.net/2015/09/quantum-post-mortem/\">Quantum</a> before, one of my favorite boardgames, which is out of stock too. I looked for a new copy a few months ago, and to my surprise, wasn't able to find one. I looked today, and the game is not even listed on most sites anymore.</p>\n<p>Each year<sup id=\"fnref-1\"><a href=\"#fn-1\" class=\"footnote-ref\">1</a></sup>, an increasing number of new games is released, and each year, an even bigger number is retired. The disturbing thing, however, is that most of these games are, actually, great games.</p>\n<p>Only a small and highly-successful portion of all the boardgames will be kept forever (Catan, Race for the Galaxy, Carcassonne, Monopoly, 7 Wonders, etc.). Are those the very best of the best? Or just the most successful ones?</p>\n<div class=\"footnotes\">\n<hr>\n<ol>\n<li id=\"fn-1\">\n<p>Like videogames, the number of boardgames produced a year keeps getting bigger. I don't have the numbers, but I've read that the production of the last few years alone might be higher than the whole combined number of games created a few decades before.</p>\n<a href=\"#fnref-1\" class=\"footnote-backref\">↩</a>\n</li>\n</ol>\n</div>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2018-09-16T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2018/07/reboot/",
-      "url": "https://matthieuoger.com/2018/07/reboot/",
+      "id": "https://solarsailer.net/2018/07/reboot/",
+      "url": "https://solarsailer.net/2018/07/reboot/",
       "title": "Reboot",
       "content_html": "<p>It's been a long time since my last post (more than two years, in fact). And the reason is absurd.</p>\n<p><strong>tl;dr</strong>: I have redesigned Solar Sailer, making the <a href=\"/\">home page</a> the most important one and refocusing this site as a way to find me on Internet. The blog is relegated to a secondary part of the website. I still plan to publish articles, but the focus of Solar Sailer is to quickly know who I am, what I've done and where you can find me.</p>\n<p>The rest is a bonus. However, I'm still planning to expand this website in new ways — adding a portfolio and a resume, most notably.</p>\n<p><a href=\"/\"> <img src=\"/images/posts/2018-07-20-reboot.jpg\" alt=\"New redesign and home page\"> </a></p>\n<p>If you want to read more about why it took so long, continue. Otherwise, you know everything. 😉</p>\n<hr>\n<p>I was using <a href=\"http://jekyllrb.com\">Jekyll</a> to generate this blog and hosting it with <a href=\"https://pages.github.com\">GitHub Pages</a> (Jekyll is maintained by GitHub, so the workflow to publish a Jekyll site on GitHub is dead simple if you accept their dependencies and constraints). Then, one day, GitHub said that they were deprecating the Markdown engine that I was using, affecting a few posts I wrote.</p>\n<p>I wanted to redesign this site for a long time, so instead of just updating the posts, I decided to rewrite the whole blog (like every developer do each time they have a small change to do — it's our curse).</p>\n<p>I experimented. I designed 6 or 8 layouts. I was never happy, and I never gave me the time to finish it properly. When I started to implement a new design, I let it wither for a few months. And when I came back, I just ditched it all. Again. And again. And again.</p>\n<p>I moved the blog to <a href=\"https://gohugo.io\">Hugo</a>. Then I came back to Jekyll once more. I modernized everything. Then I was fed up with Jekyll again, so I tried <a href=\"https://www.gatsbyjs.org\">Gatsby</a>. And I did other things, abandoning the redesign once again. Meanwhile, and even if I had dozens of drafts, I couldn't update the old blog with new articles. So it languished there, in its infamous uglyness (something I was not proud of, calling myself a <em>designer</em>).</p>\n<p>And finally, I retried Gatsby recently and completed a new design. It's not perfect. It's not well tested on older browsers. But it works, in a good enough way for me — I have already spent too much time on it.</p>\n<p>I've also cut the dependency I had on GitHub Pages. I'm still using GitHub to host this website, but the workflow is separated and I'm free to use what I want.</p>\n<p><strong>It's time to ship.</strong></p>\n<hr>\n<p>More than just a simple redesign, I wanted to reboot the site to add a <strong>portfolio</strong>, a <strong>resume</strong>, a <strong>documentation·codex·tutorials</strong>, as well as a <strong>photo</strong> and <strong>automation</strong> sections. Of course, if I wanted to do it all, I would never have finished anything, so I just focused on a simple redesign at the time being, keeping in mind that the site would be expanded later.</p>\n<p>The goal, in the end, is to do all that — if I'm motivated enough. A good start would be to publish new articles with a regular schedule.</p>\n<hr>\n<p>Another thing that was ticking for this website was the \"deprecation\" of <a href=\"https://security.googleblog.com/2018/02/a-secure-web-is-here-to-stay.html\">HTTP by Chrome in an upcoming update</a>. By deprecation, I mean that Chrome will show an \"Unsecure\" flag on non-HTTPS websites. HTTP will always work, but it will be relegated to a legacy protocol that nobody should continue to use.</p>\n<p>I was in a hurry to complete this reboot before this update. I soft-launched the new site a few weeks ago, and tweaked it since. And now it's official.</p>\n<hr>\n<p>To be a little bit exhaustive:</p>\n<ul>\n<li>I have 6 designs in Sketch files, plus a few more that I did directly in the browser.</li>\n<li>I did more than 50 logos. And I'm still not satisfied by the one I use now (it's not the best that I did, but I think it fits better with the layout and what I wanted to do). It's so hard to capture the essence of something personal. It's a blank canvas without any constraints.</li>\n<li>I tried 4 or 5 blog engines (<a href=\"http://jekyllrb.com\">Jekyll</a>, <a href=\"http://www.metalsmith.io\">Metalsmith</a>, <a href=\"https://www.gatsbyjs.org\">Gatsby</a>, <a href=\"https://gohugo.io\">Hugo</a> and others). I even toyed with the idea of creating my own.</li>\n</ul>\n<p>I'm so exhausted by this whole process and that's mainly why I'm so long to end this blog post. 😇</p>\n<hr>\n<p>I hope you'll like it.</p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2018-07-20T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2016/04/dwarf-fortress-systems/",
-      "url": "https://matthieuoger.com/2016/04/dwarf-fortress-systems/",
+      "id": "https://solarsailer.net/2016/04/dwarf-fortress-systems/",
+      "url": "https://solarsailer.net/2016/04/dwarf-fortress-systems/",
       "title": "Cats, taverns and cleaning systems",
       "content_html": "<p><a href=\"http://www.pcgamer.com/dwarf-fortress-creator-on-how-hes-42-towards-simulating-existence/\">Tarn Adams</a>:</p>\n<blockquote>\n<p>It’s funny how I have popular bugs, right? You shouldn’t have popular bugs. […] I added taverns to fortress mode, so the dwarves will go to a proper establishment, get mugs, and make orders, and they’ll drink in the mug. And, you know, things happen, mugs get spilled, there’s some alcohol on the ground.</p>\n<p>Now, the cats would walk into the taverns, right, and because of the old blood footprint code from, like, eight years ago or something, they would get alcohol on their feet. It was originally so people could pad blood around, but now any liquid, right, so they get alcohol on their feet. And then I wanted to add cleaning stuff so when people were bathing, or I even made eyelids work for no reason, because I do random things sometimes. So cats will lick and clean themselves, and on a lark, when I made them clean themselves I’m like, ‘Well, it’s a cat. When you do lick cleaning, you actually ingest the thing that you’re cleaning off, right? They make hairballs, so they must swallow something, right?' And so the cats, when they cleaned the alcohol off their feet, they all got drunk. Because they were drinking.</p>\n<p>But the numbers were off on that. I had never thought about, you know, activating inebriation syndromes back when I was adding the cleaning stuff. I was just like, ‘Well, they ingest it and they get a full dose,’ but a full dose is a whole mug of alcohol for a cat-sized creature, and it does all the blood alcohol size-based calculations, so the cats would get sick and vomit all over the tavern.</p>\n<p>The original bug report is, ‘There’s cat vomit all over my tavern, and there’s a few dead cats,’ or whatever, and they’re like, ‘Why? This is broken.’</p>\n<p>People helped me with this. We were all looking and figuring out, ‘What the heck is going on here?’, and that was the chain of events. It’s like doing the detective work to figure out that entire chain of events is what happened. You can see how adding just a tavern that gave the opportunity for spilling alcohol, which was really uncommon before, now all the spilled alcohol starts to, form in one location where something could start to happen. You activate bugs and little parts of code from eight, six years ago where you just didn’t balance the numbers because it didn’t matter. […]</p>\n<p><strong>PC Gamer: So the cats’ inebriation system was just based on any organism would have the potential to get drunk.</strong></p>\n<p>Yeah, right now it’s any creature that has blood, and that includes, like, an octopus. I don’t know if an octopus can get drunk or not.</p>\n</blockquote>\n<p>The way the different systems are all interacting together is so fascinating. Especially when the outcome becomes something like this. :)</p>\n<hr>\n<blockquote>\n<p>I don’t even use version control. If you don’t know what that is then you’re not gonna yell at me. If you even know what version control is you’re gonna be like, ‘You don’t use version control? You don’t use source control? What is wrong with you? How can you even work?’</p>\n</blockquote>\n<p>I'm still baffled to know that many game developers (or other developers) work without version control. It seems so dangerous, but… well.</p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2016-04-01T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2016/03/delight/",
-      "url": "https://matthieuoger.com/2016/03/delight/",
+      "id": "https://solarsailer.net/2016/03/delight/",
+      "url": "https://solarsailer.net/2016/03/delight/",
       "title": "Delight",
       "content_html": "<p><a href=\"http://craigmod.com/sputnik/leica_q/\">Craig Mod in his beautiful essay about the Leica Q</a>:</p>\n<blockquote>\n<p>And what <em>is</em> delight? For me, delight is born from a tool’s intuitiveness. Things just working without much thought or fiddling. Delight is a simple menu system you almost never have to use. Delight is a well-balanced weight on the shoulder, in the hand. Delight is the just-right tension on the aperture ring between stops. Delight is a single battery lasting all day. Delight is being able to knock out a 10,000 iso image and know it'll be usable. Delight is extracting gorgeous details from the cloak of shadows. Delight is firing off a number of shots without having to wait for the buffer to catch up. Delight is constraints, joyfully embraced.</p>\n</blockquote>\n<p>Bonus:</p>\n<blockquote>\n<p>It should not exist. It is one of those unicorn-like consumer products that so nails nearly every aspect of its being — from industrial to software design, from interface to output — that you can’t help but wonder how it clawed its way from the R&#x26;D lab. Out of the meetings. Away from the committees. How did it manage to maintain such clarity in its point of view?</p>\n</blockquote>\n<p>And:</p>\n<blockquote>\n<p>The Q — like most recent Leicas — is engraved with the softly geometric, proprietary LG 1050 typeface. It feels so, totally, completely at home, stamped into the camera body in all caps. It's highly legible and precisely designed. Minimal, functional, but with a bit of quirky character. Like the Q itself. This is the perfect camera typeface used in the perfect way. Mic dropped. Case closed.</p>\n</blockquote>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2016-03-19T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2016/03/java/",
-      "url": "https://matthieuoger.com/2016/03/java/",
+      "id": "https://solarsailer.net/2016/03/java/",
+      "url": "https://solarsailer.net/2016/03/java/",
       "title": "Why do many software engineers hate Java?",
       "content_html": "<p><a href=\"https://www.quora.com/Why-do-many-software-engineers-not-like-Java/answer/Michael-O-Church\">Michael O. Church</a>:</p>\n<blockquote>\n<p>First, let's cover the technical issues. It's verbose, combines the worst of both worlds between static and dynamic typing by having a hobbled but extremely clunky type system, and mandates running on a virtual machine (VM) that has a macroscopic startup time (not an issue for long-running servers, but painful for command-line applications). […]</p>\n<p>The VM itself has a lot to recommend it. It offers concurrency and garbage collection at a level of quality that, until recently, wasn't found anywhere else. […] Much important software in the early 2000s was written in Java because, at the time, it was the best choice, even taking the mediocrity of the language itself into account. It had Unicode (albeit, UTF-16) from the start and a strong concurrency story, and it was a notch above C++ in terms of user experience. […]</p>\n<p>If you put Java on a technical trial, it doesn't do so bad. The <em>language</em> sucks, the platform is pretty good for most purposes. I do hate the dominant interpretation of \"object-oriented programming\" with a passion, because it objectively sucks. […]</p>\n<p>So let's talk about the political and cultural issues. First, the dominant Java culture is one of mediocrity and bad taste, with MetaModelVibratorVisitorFactory classes dominating. I've heard a number of experts on \"the Java issue\" argue that Java's biggest problem is the community, and that comes directly from the fact that good programmers don't want to deal with the bastardization of OOP that has entrenched itself in mainstream corporate development. You have a lot of people who trained up as \"Java programmers\", haven't seen a command line ever, and have no clue how the computer actually works. Most of them have never actually written a program; they just write classes and some Senior Chief Architect (who makes $246,001 per year and hasn't written a line of code since the 1990s) figures out how to stitch them together, and then tells some other clueless junior how to implement the glue in the gutshot hope that one will actually have the talent to make an actual working program out of the mess.</p>\n<p>This isn't inherent to the JVM, because Clojure (currently hosted on the JVM, although its endgame seems to be language-agnosticism) has a radically different (and better) community. Scala's community is more mixed, but the top Scala engineers (the ones making tools like Spark and Kestrel) are really fucking good.</p>\n<p>[…]</p>\n<p>So, the short answer is: it's mostly not about the underlying platform (which is generally of high quality) and its only partly about the language (which is mediocre but can't be blamed directly for community problems). It goes a lot deeper than that, and not all of it is Java's fault. However, Java takes its share of the blame for its clear favoritism toward large programs (technically, established by its long startup time) and by its support of a very ugly (and counterproductive) variety of object-oriented programming.</p>\n</blockquote>\n<p><a href=\"https://www.quora.com/Why-do-many-software-engineers-not-like-Java/answer/Stanley-Idesis\">Stanley Idesis</a>:</p>\n<blockquote>\n<p>I’ve read the popular answers and will claim no contest to a majority of the complaints I found. […] However, here’s why I <em>love</em> it. […]</p>\n<p>In the Android world, developers use Java because they <em>have</em> to. However, much creativity has sprung from that limitation. People have written many excellent OS libraries in Java for Android. The platform continues to be a hotbed of Java activity which developers contribute to from all over the world. […]</p>\n<p>Android’s open nature, wide distribution, and powerful support from Google are almost enough to make Java hip again. […] Sure, some may argue that other runtimes and languages can enable the same capabilities of the device, but for whatever reason, Android chose Java.</p>\n<p>Until Google changes its mind, Java will remain relevant and the source of fascinating developments in the software community as long as Android remains popular.</p>\n</blockquote>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2016-03-17T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2016/03/virtual-reality/",
-      "url": "https://matthieuoger.com/2016/03/virtual-reality/",
+      "id": "https://solarsailer.net/2016/03/virtual-reality/",
+      "url": "https://solarsailer.net/2016/03/virtual-reality/",
       "title": "VR is not the future",
       "content_html": "<small>\n  <em>This is a prediction. I may (must?) be completely wrong—after all, I hold an unpopular opinion and many tech companies seem to think otherwise. We'll see.</em>‍ 🤷\n  <br><br>\n</small>\n<p><a href=\"https://en.wikipedia.org/wiki/Virtual_reality\">Virtual Reality</a> (or VR) is a fantasy that many geeks love. It's in books, in movies, in games. In our collective mind, virtual reality is like flying cars: it's a dream that we always envisioned for our future as an high tech society.</p>\n<p>Well, we all remember that we didn't get flying cars for the new millenium.</p>\n<p>Incredible technologies portrayed in science-fiction books or movies are generally not really that relevant in reality. Or they are so hard to build that we can't even fathom to create them now. In our history, the way our society evolved was often very different to how we imagined it in our fictions. When you confront with the reality, many dreams are just what they are: dreams. I would need to dig up some sociology courses that I had—but I remember that this is a recurrent theme in our evolution.</p>\n<p>For VR, it's a bit different: we (almost) have the technology. However, I do think that it's just a fad. A fad that excites many marketers or entrepreneurs. <em>Real-world applications are so narrow.</em></p>\n<hr>\n<p>VR is a cool demo. VR is impressive. Even with our primitive VR technologies, it's still incredible to try.<sup id=\"fnref-1\"><a href=\"#fn-1\" class=\"footnote-ref\">1</a></sup></p>\n<p>VR is also making people sick—yes, many people suffer from motion sickness.</p>\n<p>VR is pretty boring for games, its main application right now. Yes, the immersion is better. Nop, the controls are worse. You can't move in a game without hitting a wall. You can't use your hands without complex gloves or other utensils. The possibility are not that huge: okay, it might be great for some first-person games where you don't move. But that's just a small subset of all the games we can create.</p>\n<p>VR is ugly. VR is cumbersome. VR is like Google Glass (remember that?) in so many ways.</p>\n<figure>\n  <img\n    src=\"/images/posts/2016-03-17-virtual-reality.png\"\n    alt=\"Men and women sitting with a VR headset, Mark Zuckerberg marching among them.\"\n    title=\"The future?\"\n  >\n  <figcaption>The future? Really?</figcaption>\n</figure>\n<p>If you're at home, it might be fine, although that wearing another thing on your head is not that comfy. I already wear glasses, I really don't want to add something more on my head, I assure you. Especially if it means that I might hit a wall someway.<sup id=\"fnref-2\"><a href=\"#fn-2\" class=\"footnote-ref\">2</a></sup></p>\n<p>Outside? At work? We are going to need many years to be okay with that.</p>\n<p>The day we'll be able to have VR headsets the size of a regular pair of glasses is far. We might be already destroying our eyes by viewing screens all day—I can't wait to wear VR headsets a few centimeters from my retinas all the time!</p>\n<hr>\n<p>VR is not completely useless. There's some fields where virtual reality might be useful. Want to visit a new flat in a town far far away? You're a future surgeon and you need to practice during your school years? There's a myriad of applications outside of gaming and home uses.</p>\n<p>Unfortunately, right now, people imagine that VR will be used to handle and manipulate softwares, computers or playing games. That's absurd.</p>\n<blockquote class=\"twitter-tweet\" data-lang=\"en\"><p lang=\"en\" dir=\"ltr\">Using VR to work on scenes in the Unity Editor: <a href=\"https://twitter.com/timoni\">@timoni</a>&#39;s demo on-stage at <a href=\"https://twitter.com/hashtag/GDC16?src=hash\">#GDC16</a>: <a href=\"https://t.co/tbUmVAemBU\">https://t.co/tbUmVAemBU</a> <a href=\"https://twitter.com/hashtag/unity3d?src=hash\">#unity3d</a> <a href=\"https://t.co/T1EH8MsLWb\">pic.twitter.com/T1EH8MsLWb</a></p>&mdash; Ben Pitt (@robotduck) <a href=\"https://twitter.com/robotduck/status/709810463886934016\">March 15, 2016</a></blockquote>\n<p>Seriously? Who would do that? What the point? Who in their right mind thought it was a good idea!?</p>\n<p>When I say that VR is not the future, I don't mean that VR will disappear completely. But we need to take a step back and really think about it. We need to stop to try to put VR everywhere—it's just a waste of time.</p>\n<p>The only application that will make VR a general use product might be porn. Honestly, except for that, I don't see a future where VR is ubiquitous. That just doesn't make any sense.</p>\n<hr>\n<p>Virtual reality is a fad. And right now, journalists and tech companies are all buzzing and craving for that. When the first officially released headsets will be available, I expect a massive flop. As soon as the novelty wears off, people will just forget it. <strong>Because outside of some narrow use cases, it's just not practical or invisible enough.</strong></p>\n<p><a href=\"https://twitter.com/hyperisland/status/710052291315965953\">F*** it, I give up.</a></p>\n<div class=\"footnotes\">\n<hr>\n<ol>\n<li id=\"fn-1\">\n<p>VR is the new <a href=\"https://en.wikipedia.org/wiki/Augmented_reality\">AR</a>? I'm still inclined to think there's a slight chance that AR might come back in a way or another and be pertinent.</p>\n<a href=\"#fnref-1\" class=\"footnote-backref\">↩</a>\n</li>\n<li id=\"fn-2\">\n<p>It's like 3D glasses in theaters, but worse. And 3D glasses are already an aberration, we all agree, right?</p>\n<a href=\"#fnref-2\" class=\"footnote-backref\">↩</a>\n</li>\n</ol>\n</div>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2016-03-17T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2016/03/doing-a-ted-talk/",
-      "url": "https://matthieuoger.com/2016/03/doing-a-ted-talk/",
+      "id": "https://solarsailer.net/2016/03/doing-a-ted-talk/",
+      "url": "https://solarsailer.net/2016/03/doing-a-ted-talk/",
       "title": "Inside the mind of a master procrastinator",
       "content_html": "<p><a href=\"http://waitbutwhy.com/2016/03/doing-a-ted-talk-the-full-story.html\">Tim Urban about rehearsing for his TED Talk</a>:</p>\n<blockquote>\n<p> I’ve mentioned before that we all have this problem where we’re weirdly obsessed with what other people think of us, so it makes sense that public speaking should be our collective phobia.</p>\n<p>But then we also live in a world where public speaking can happen to any of us at any time. […]</p>\n<p>\"Hey TED Staff,</p>\n<p>I've decided to do my talk on procrastination. It's the thing I'm best at.</p>\n<p>Best,</p>\n<p>November Tim\"</p>\n<p>[…]</p>\n<p>[My rehearsal] was three days before my talk—and it was pretty rough, confirming to me and everyone present that I was officially not a fraud when it came to my topic. The irony of a guy rehearsing his TED Talk about how he’s a bad procrastinator, and being clearly underprepared while doing so, was not lost on anyone.</p>\n</blockquote>\n<p><strong>UPDATE</strong>: and <a href=\"http://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator\">the talk is up on TED</a>. No surprise: it's great.</p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2016-03-15T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2016/02/invention-center/",
-      "url": "https://matthieuoger.com/2016/02/invention-center/",
+      "id": "https://solarsailer.net/2016/02/invention-center/",
+      "url": "https://solarsailer.net/2016/02/invention-center/",
       "title": "Invention Centers",
       "content_html": "<p><a href=\"http://www.fastcodesign.com/3046437/5-steps-to-recreate-xerox-parcs-design-magic-from-the-guy-who-helped-make-it\">Alan Kay</a>:</p>\n<blockquote>\n<p>Invention centers are 20 to 40 people doing odd things. Innovation is the process of taking something that’s already been invented and packaging it nicer.</p>\n<p>Problem-finding is about how to get something out of almost nothing in some new area. You're by definition not doing something incremental. There’s a lot of playful stuff going on. The probability of a good idea is pretty low. Most of the ideation that happens [in an invention center] are things that get rejected, which is normal in this line of work. Very few people understand that.</p>\n</blockquote>\n<p>Later:</p>\n<blockquote>\n<p>The shortest lived group at Xerox PARC was \"Office of the Future,\" because Xerox executives would not leave them alone.</p>\n<p>I chose the most innocuous name for my own group, the Learning Research Group. Nobody knew what it meant, so they left us alone to invent-object oriented programming and the GUI.</p>\n</blockquote>\n<p>So weird that something like CDG is backed by SAP.</p>\n<p>(via <a href=\"http://us1.campaign-archive2.com/?u=53a12bfed319e2ce36b906532&#x26;id=49acf1cd18\">Avdi Grimm</a>)</p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2016-02-16T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2015/10/sad-state-web-deployment/",
-      "url": "https://matthieuoger.com/2015/10/sad-state-web-deployment/",
+      "id": "https://solarsailer.net/2015/10/sad-state-web-deployment/",
+      "url": "https://solarsailer.net/2015/10/sad-state-web-deployment/",
       "title": "The sad state of web app deployment",
       "content_html": "<p><a href=\"http://eev.ee/blog/2015/09/17/the-sad-state-of-web-app-deployment/\">Eevee on Fuzzy Notepad</a>:</p>\n<blockquote>\n<p>We’ve been doing this for 20 years. We should have this by now. It should work, it should be pluggable and agnostic, and it should do everything right. […]</p>\n<p>Instead, we stack layer after layer of additional convoluted crap on top of what we’ve already got because we don’t know how to fix it. Instead, we flit constantly from Thin to Mongrel to Passenger to Heroku to Bitnami to Docker to whatever new way to deploy trivial apps came out yesterday. Instead, we obsess over adding better Sass integration to our frameworks.</p>\n<p>And I’m really not picking on Ruby, or Rails, or this particular app. I hate deploying my own web software, because there are so many parts all over the system that only barely know about each other, but if any of them fail then the whole shebang stops working.</p>\n</blockquote>\n<p>See also: <a href=\"https://solarsailer.net/2015/01/something-slightly-less-terrible/\">Something Slightly Less Terrible</a>.</p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2015-10-13T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2015/09/semicolon-comma-programming/",
-      "url": "https://matthieuoger.com/2015/09/semicolon-comma-programming/",
+      "id": "https://solarsailer.net/2015/09/semicolon-comma-programming/",
+      "url": "https://solarsailer.net/2015/09/semicolon-comma-programming/",
       "title": "Compilation by a thousand semicolons and commas",
       "content_html": "<p>Something I like in most modern programming languages is that they tend to ditch semicolons completely.</p>\n<p>Semicolons are a nuisance, a waste of time, a source of (easily fixable) errors, ugly and unnecessary.</p>\n<p>Compilers can easily work without them. Keeping them in old languages is, most of the time, simply a question of backward-compatibility.</p>\n<p>And that's fine, after all. In modern languages though, this is something that must be avoided. It's wrong and useless.</p>\n<p>Consider this snippet of Swift:</p>\n<div class=\"gatsby-highlight\" data-language=\"swift\"><pre class=\"language-swift\"><code class=\"language-swift\"><span class=\"token keyword\">var</span> greeting <span class=\"token operator\">=</span> <span class=\"token string\">\"Hello!\"</span>\n\n<span class=\"token keyword\">if</span> <span class=\"token keyword\">let</span> name <span class=\"token operator\">=</span> optionalName <span class=\"token punctuation\">{</span>\n    greeting <span class=\"token operator\">=</span> <span class=\"token string\">\"Hello, <span class=\"token interpolation\"><span class=\"token delimiter variable\">\\(</span>name<span class=\"token delimiter variable\">)</span></span>\"</span>\n<span class=\"token punctuation\">}</span></code></pre></div>\n<p><strong>No semicolon.</strong> Great. Now, consider a similar snippet of Go:</p>\n<div class=\"gatsby-highlight\" data-language=\"go\"><pre class=\"language-go\"><code class=\"language-go\"><span class=\"token keyword\">func</span> <span class=\"token function\">sqrt</span><span class=\"token punctuation\">(</span>x <span class=\"token builtin\">float64</span><span class=\"token punctuation\">)</span> <span class=\"token builtin\">string</span> <span class=\"token punctuation\">{</span>\n\t<span class=\"token keyword\">if</span> x <span class=\"token operator\">&lt;</span> <span class=\"token number\">0</span> <span class=\"token punctuation\">{</span>\n\t\t<span class=\"token keyword\">return</span> <span class=\"token function\">sqrt</span><span class=\"token punctuation\">(</span><span class=\"token operator\">-</span>x<span class=\"token punctuation\">)</span> <span class=\"token operator\">+</span> <span class=\"token string\">\"i\"</span>\n\t<span class=\"token punctuation\">}</span>\n\n\t<span class=\"token keyword\">return</span> fmt<span class=\"token punctuation\">.</span><span class=\"token function\">Sprint</span><span class=\"token punctuation\">(</span>math<span class=\"token punctuation\">.</span><span class=\"token function\">Sqrt</span><span class=\"token punctuation\">(</span>x<span class=\"token punctuation\">)</span><span class=\"token punctuation\">)</span>\n<span class=\"token punctuation\">}</span></code></pre></div>\n<p>It's pretty nice, isn't it?</p>\n<p>Go <strong>does</strong> use semicolons in its grammar. However, it's the lexer's role to add them, not the developer. <a href=\"http://zachholman.com/posts/shit-work/\">Let the machines do the shit work.</a></p>\n<p>Here's the extract from <a href=\"https://golang.org/doc/effective_go.html#semicolons\">Effective Go</a>:</p>\n<blockquote>\n<p>Like C, Go's formal grammar uses semicolons to terminate statements, but unlike in C, those semicolons do not appear in the source. Instead the lexer uses a simple rule to insert semicolons automatically as it scans, so the input text is mostly free of them.</p>\n</blockquote>\n<p>And unlike in an extremely <a href=\"http://blog.izs.me/post/2353458699/an-open-letter-to-javascript-leaders-regarding\">popular</a> <a href=\"http://mislav.uniqpath.com/2010/05/semicolons/\">language</a>, Go imposes some formatting rules to its programmers and nobody has a problem with <a href=\"http://inimino.org/~inimino/blog/javascript_semicolons\">ASI</a>.</p>\n<p>However, there's still one perfectly valid case where semicolons are not optional:</p>\n<div class=\"gatsby-highlight\" data-language=\"go\"><pre class=\"language-go\"><code class=\"language-go\"><span class=\"token keyword\">if</span> v <span class=\"token operator\">:=</span> math<span class=\"token punctuation\">.</span><span class=\"token function\">Pow</span><span class=\"token punctuation\">(</span>x<span class=\"token punctuation\">,</span> n<span class=\"token punctuation\">)</span><span class=\"token punctuation\">;</span> v <span class=\"token operator\">&lt;</span> limit <span class=\"token punctuation\">{</span>\n\t<span class=\"token keyword\">return</span> v\n<span class=\"token punctuation\">}</span></code></pre></div>\n<p>Between <code class=\"language-text\">math.Pow(x, n)</code> and <code class=\"language-text\">v &lt; limit</code>, you will find a semicolon. Because the two statements are on the same line, the compiler needs a semicolon to know where to end a statement and start the next one.</p>\n<p>Basically, the rule is simple:</p>\n<ul>\n<li>Do not use a semicolon when a statement ends with a newline.</li>\n<li>Use a semicolon when a statement is followed by another statement on the same line.</li>\n</ul>\n<p>That's the basic consensus in new languages.</p>\n<hr>\n<p>So, here's my question: <strong>why don't we do the same thing with commas?!</strong></p>\n<p>Let's look at the following snippet of Swift:</p>\n<div class=\"gatsby-highlight\" data-language=\"swift\"><pre class=\"language-swift\"><code class=\"language-swift\"><span class=\"token keyword\">var</span> test <span class=\"token operator\">=</span> <span class=\"token punctuation\">[</span><span class=\"token string\">\"a\"</span><span class=\"token punctuation\">,</span> <span class=\"token string\">\"b\"</span><span class=\"token punctuation\">,</span> <span class=\"token string\">\"c\"</span><span class=\"token punctuation\">]</span></code></pre></div>\n<p>As you can see, each value of the array is separated by a comma. Same rule as the semicolons: if you are on the same line, use a separator. <em>In this case, it's a comma instead of the semicolon because the semantic is different.</em> Fine.</p>\n<p>Now, let's look at the same snippet with a multi-lines notation — this example might seem contrived, but this kind of notation is clearer when the values are more complex and/or numerous:</p>\n<div class=\"gatsby-highlight\" data-language=\"swift\"><pre class=\"language-swift\"><code class=\"language-swift\"><span class=\"token keyword\">var</span> example <span class=\"token operator\">=</span> <span class=\"token punctuation\">[</span>\n  <span class=\"token string\">\"a\"</span><span class=\"token punctuation\">,</span>\n  <span class=\"token string\">\"b\"</span><span class=\"token punctuation\">,</span>\n  <span class=\"token string\">\"c\"</span>\n<span class=\"token punctuation\">]</span></code></pre></div>\n<p>Wait. What. <strong>It's exactly like in the one-line declaration just above.</strong> Which is not surprising, because almost any language will do that.</p>\n<p>That's inconsistent though. For semicolons, we omit them when there's a newline, but here, for a comma, we do not.</p>\n<p>The correct syntax should be:</p>\n<div class=\"gatsby-highlight\" data-language=\"swift\"><pre class=\"language-swift\"><code class=\"language-swift\"><span class=\"token keyword\">var</span> test <span class=\"token operator\">=</span> <span class=\"token punctuation\">[</span>\n  <span class=\"token string\">\"a\"</span>\n  <span class=\"token string\">\"b\"</span>\n  <span class=\"token string\">\"c\"</span>\n<span class=\"token punctuation\">]</span></code></pre></div>\n<p>Simpler, prettier. And it gives a few bonuses beyond the cosmetic aspect:</p>\n<ol>\n<li>\n<p>It's less error-prone.</p>\n</li>\n<li>\n<p>It's more practical for versioning tool's diffs:</p>\n<p><img src=\"/images/posts/2015-09-27-diff.png\" alt=\"Diff\"></p>\n</li>\n<li>\n<p>It's consistent with the semicolon behavior.</p>\n</li>\n</ol>\n<p>I would apply the same rule to functions definition, maps or anything which needs commas, like I wrote in this example:</p>\n<div class=\"gatsby-highlight\" data-language=\"swift\"><pre class=\"language-swift\"><code class=\"language-swift\"><span class=\"token comment\">// One-line, comma.</span>\n<span class=\"token keyword\">func</span> <span class=\"token function\">test</span><span class=\"token punctuation\">(</span>x<span class=\"token punctuation\">:</span> <span class=\"token builtin\">Int</span><span class=\"token punctuation\">,</span> y<span class=\"token punctuation\">:</span> <span class=\"token builtin\">Int</span><span class=\"token punctuation\">)</span> <span class=\"token punctuation\">{</span><span class=\"token punctuation\">}</span>\n\n<span class=\"token comment\">// Or:</span>\n\n<span class=\"token comment\">// Multi-lines, no comma.</span>\n<span class=\"token keyword\">func</span> <span class=\"token function\">test</span><span class=\"token punctuation\">(</span>\n  x<span class=\"token punctuation\">:</span> <span class=\"token builtin\">Int</span>\n  y<span class=\"token punctuation\">:</span> <span class=\"token builtin\">Int</span>\n<span class=\"token punctuation\">)</span> <span class=\"token punctuation\">{</span>\n\n<span class=\"token punctuation\">}</span></code></pre></div>\n<p>In Go, those notations are not frequent because the formatting rules are stricter. However, in a struct definition, you must write this:</p>\n<div class=\"gatsby-highlight\" data-language=\"go\"><pre class=\"language-go\"><code class=\"language-go\"><span class=\"token keyword\">type</span> Point <span class=\"token keyword\">struct</span> <span class=\"token punctuation\">{</span>\n  X <span class=\"token builtin\">int</span><span class=\"token punctuation\">,</span>\n  Y <span class=\"token builtin\">int</span><span class=\"token punctuation\">,</span>\n<span class=\"token punctuation\">}</span></code></pre></div>\n<p><em>(Note the trailing comma on the last line.)</em></p>\n<p>It's better than what Swift does (at least, diffs are not impacted and you don't have to think to add or remove a comma — you just have to).</p>\n<p>But why did they choose to keep the commas? No comma at all would have been way better AND coherent with the semicolon rule.</p>\n<p>And you know what is even more inconsistent? This, which is perfectly valid Go code:</p>\n<div class=\"gatsby-highlight\" data-language=\"go\"><pre class=\"language-go\"><code class=\"language-go\"><span class=\"token keyword\">var</span> <span class=\"token punctuation\">(</span>\n  x <span class=\"token operator\">=</span> <span class=\"token number\">1</span>\n  y <span class=\"token operator\">=</span> <span class=\"token number\">2</span>\n  z <span class=\"token operator\">=</span> <span class=\"token number\">3</span>\n<span class=\"token punctuation\">)</span></code></pre></div>\n<p>Yep, this time, there is nothing at all.</p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2015-09-27T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2015/09/what-makes-indie-hit/",
-      "url": "https://matthieuoger.com/2015/09/what-makes-indie-hit/",
+      "id": "https://solarsailer.net/2015/09/what-makes-indie-hit/",
+      "url": "https://solarsailer.net/2015/09/what-makes-indie-hit/",
       "title": "What makes an indie hit?",
       "content_html": "<p><a href=\"http://www.gamasutra.com/blogs/RyanClark/20150917/253842/What_Makes_an_Indie_Hit_How_to_Choose_the_Right_Design.php\">\"What Makes an Indie Hit?: How to Choose the Right Design\"</a> by Ryan Clark (of <a href=\"http://necrodancer.com/\">Crypt of the NecroDancer</a>) is an interesting read:</p>\n<blockquote>\n<p>In this industry it's difficult to go far without learning from others. But from whom should we learn? I think it is wisest to study developers who have been repeatedly successful. Each time a developer creates another successful game, it becomes less and less likely that their repeated successes have been due to luck. Only a minuscule fraction of indie games break even, so what are the odds of developers like Jamie Cheng, Edmund McMillen, and Cliff Harris stringing together a number of successful games? The odds are low. There must be something other than luck at work! So perhaps these folks (and many others like them!) are the ones you should be studying and listening to.</p>\n</blockquote>\n<p>I generally agree with the article (read it!), but there is one point that bothers me.</p>\n<blockquote>\n<p>If you want people to remember your game, to talk about your game, to write articles about your game, etc, it needs to have a hook. Preferably multiple hooks!</p>\n</blockquote>\n<p>Ok. This is spot on. However, and while I think that innovative games are important and crucial to explore original ideas and designs, <strong>not every game can be a new experience.</strong></p>\n<p>We need fun and excellent games in existing genres. Having brilliant roguelike, RTS, shmup, point &#x26; click, you name it… is equally important. And in this case, how do you hook people?</p>\n<p>What we wanted to do with <a href=\"http://steredenn.pixelnest.io\">Steredenn</a> (my game) is an excellent shmup-roguelike. We don't want to reinvent a genre or to experiment. We just want to make a great, fun, polished and addictive game. That's all. There's a market for a game like that — but we struggle to stand out of the crowd (and we tried many things like articles, arcade cabinet, tutorials, shows, devblog, contacts, press, etc.).</p>\n<p>If we had followed the \"hooks rule\", we would never have made Steredenn.<sup id=\"fnref-1\"><a href=\"#fn-1\" class=\"footnote-ref\">1</a></sup> But I truly think there's a place and an audience for this kind of games.</p>\n<p><strong>tl;dr: Should every game have a hook, a \"gimmick\", a unique twist? I don't think so.</strong></p>\n<hr>\n<p>To be fair, I want to discuss of something else:</p>\n<blockquote>\n<p>If you are unsure of the strength of your game's hooks, test them! With NecroDancer we did this by putting out a very early teaser trailer, and by demoing at PAX.</p>\n</blockquote>\n<p>\"Demoing at PAX\" is not something that everyone can afford. I'm all for the \"try your game in real as soon as possible\" mantra, but going to a big show is out of scope for almost any indie. It costs a lot just to present your game — and I don't even count the transportation, the food and hostels.</p>\n<p>When we went to Rezzed, we spent about £2000. It was close to us so the travel was very cheap.<sup id=\"fnref-2\"><a href=\"#fn-2\" class=\"footnote-ref\">2</a></sup> Rezzed is also no PAX or Gamescon.</p>\n<p>With our finances, we can afford one or two big exhibitions a year, if we are lucky. I don't think we are the only one in this position. I even think that we are in a privileged situation compared to many indies.</p>\n<p>I don't want to fool myself: big shows are very important to get feedbacks, coverage and press. And this is something that many indies can't do at all. Languages, geography, finances — this is not an easy problem.</p>\n<p>And as Ryan tells us a little bit later:</p>\n<blockquote>\n<p>It is common these days for devs to downplay the importance of festivals, awards, and even of press. I disagree. Sure, accolades and reviews themselves may not drive mountains of sales, but most people need to hear about your game from numerous sources before they'll actually watch a trailer or buy the game.</p>\n</blockquote>\n<p>Exactly. :)</p>\n<p>To Ryan's credit, he's also ending his article with:</p>\n<blockquote>\n<p>I know how difficult it is to succeed as a new indie dev, and I am aware of the advantages that I have due to experience, connections, and reputation.</p>\n</blockquote>\n<p>Thanks for the tips, anyways!</p>\n<div class=\"footnotes\">\n<hr>\n<ol>\n<li id=\"fn-1\">\n<p>Well, we do try a few novel ideas in Steredenn, so it's not a pure \"plain-old-game\". But the essence of the game is a direct action-packed game. That's our main focus.</p>\n<a href=\"#fnref-1\" class=\"footnote-backref\">↩</a>\n</li>\n<li id=\"fn-2\">\n<p>France to England.</p>\n<a href=\"#fnref-2\" class=\"footnote-backref\">↩</a>\n</li>\n</ol>\n</div>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2015-09-18T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2015/09/quantum-post-mortem/",
-      "url": "https://matthieuoger.com/2015/09/quantum-post-mortem/",
+      "id": "https://solarsailer.net/2015/09/quantum-post-mortem/",
+      "url": "https://solarsailer.net/2015/09/quantum-post-mortem/",
       "title": "Quantum post-mortem",
       "content_html": "<p><a href=\"http://boardgamegeek.com/blogpost/24083/designer-diary-cruel-cruel-galaxy-or-designing-qua\">Fascinating post-mortem of Quantum, by its designer, Eric Zimmerman</a>:</p>\n<blockquote>\n<p>Quantum is a strategy game for two through four players that incorporates elements of tactics, resource management, and empire building. Players each begin the game with a small fleet of three starships on a customizable map built of modular tiles. Your goal is to expand by building Quantum Cubes on planets, along the way growing your fleet and evolving its abilities. […]</p>\n<p>Another element that opened up the possibilities of the game during this early prototyping period was the addition of special power cards. While I was working on it, I remember seeing a talk at the Game Developers Conference by Rob Pardo, one of the lead designers of World of Warcraft. According to Rob, one of the philosophies at his company Blizzard was to make the player feel overpowered. According to Rob, special abilities and power-ups should feel mighty and spectacular, rather than just being some kind of incremental stat improvement.</p>\n<p>As I started adding the advance cards to the game, I tried to have them embody this approach, especially when it came to the permanent card powers. My goal was that every card should feel incredibly powerful – a potential game winner in the right situation. I loved seeing my playtesters' faces grow greedy as they read the cards, astonished at how good the powers seemed to be.</p>\n<p>The challenge of powerful cards, of course, is balancing them. […]</p>\n<p>Designing the right mix of cards came down to good old-fashioned balancing and testing. There are a number of heuristics I tried to use in designing the cards to be balanced. For example, no card simply gives players an extra fourth action each turn; instead, some cards give you an extra action, but that action is limited, such as a free move that is only one space. There are also cards that do give you a completely open-ended extra action, but only if certain conditions are met, such as if you have more ships on the map than any other player. […]</p>\n<p> It seemed hopeless; I had designed a game with a combat system that no one wanted to use! The solution to this problem was to directly link combat to winning the game. […]</p>\n<p>One strong focus of our work was the language of Quantum: the terms in the rules, the names of the cards and units, and the other words we used in the game. In early prototypes, the titles of the advance cards were more technological: \"Ferocious\", the card that gives you a combat bonus, was originally called \"Armor\", while \"Energetic\", which gives you a movement bonus, was titled \"Propulsion\".</p>\n<p>The names of the card were clear, but they felt generic. Thinking about how to emphasize the player-as-commander, I changed the names from nouns to adjectives. Rather than describing the player's fleet, the cards now described the player. Instead of \"Fuel\", \"Evasion\", and \"Engineering\", the cards now had names like \"Brilliant\", \"Cruel\", and \"Stubborn\".</p>\n</blockquote>\n<p><a href=\"http://www.funforge.fr/US/?portfolio=quantum\">Quantum</a> is one of the best boardgames I recently played. It was unavailable for a year but I finally got my hand on the re-edition. The post-mortem shows all the history behind the game and how some concepts were found and implemented.</p>\n<p>The game is really fast, complex and deep. There's a bit of chance in the game through the roll of the dices (<em>obviously</em>), but I don't think it matters that much in the end. Your decisions are way more important than your luck.</p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2015-09-15T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2015/09/rule-of-two/",
-      "url": "https://matthieuoger.com/2015/09/rule-of-two/",
+      "id": "https://solarsailer.net/2015/09/rule-of-two/",
+      "url": "https://solarsailer.net/2015/09/rule-of-two/",
       "title": "Quote — CGP Grey, the rule of two",
       "content_html": "<blockquote>\n<p>The rule of two is that <strong>two is one — and one is none.</strong> This is applicable to so many things in your life. As a starting point, I often like to think of the rule of two with things that you have around the house. So, for example, if you have one roll of toilet paper, you really don't have any toilet paper. Because when that one runs out, you're in trouble. So you really need two rolls of toilet paper at all time. It's a redundancy rule, basically. It's where this comes from. […]</p>\n<p>This is one of my little pieces of advice for trying to run a life very smoothly. It's that, everything that you can possibly have two of, you should have it. Two shampoo bottles, two bottles of vitamins, two boxes of cereal, two cartons of eggs. You want duplicates of everything. And then, when you're down to one of those things, that's the sign that you need to buy the next one. In this way, you are never out, you're never out of anything. […]</p>\n<p>It's applicable to everything in your whole life, everything that's important.</p>\n<p>— <a href=\"http://www.relay.fm/cortex/12\">CGP Grey</a></p>\n</blockquote>\n<p>(Emphasis mine)</p>\n<p>This is so spot on. I try to function like that, but I never put words onto this behavior. Here it is.</p>\n<p>Grey continues:</p>\n<blockquote>\n<p>Think this way with computer files: you have only one copy of that file, guess what? You have no copy of this file. I even think it's applicable to work. If you have one source of income, in many ways, it's like you have no source of income. Because if something happens with your main job, you are in lots and lots of trouble. One source of income, no source of income.</p>\n</blockquote>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2015-09-09T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2015/09/quote-myke-hurley-atv-console/",
-      "url": "https://matthieuoger.com/2015/09/quote-myke-hurley-atv-console/",
+      "id": "https://solarsailer.net/2015/09/quote-myke-hurley-atv-console/",
+      "url": "https://solarsailer.net/2015/09/quote-myke-hurley-atv-console/",
       "title": "Quote — Myke Hurley about the new rumored Apple TV — a gaming console?",
       "content_html": "<blockquote>\n<p>If [Apple] do not show a first party gaming focused controller [for the new rumored Apple TV], I think that they are not as committed to games as they might think. […]</p>\n<p>And it needs to be a controller with buttons on it.</p>\n<p>— <a href=\"https://overcast.fm/+CHZ-L5Yhc/1:04:59\">Myke Hurley</a></p>\n</blockquote>\n<p>Exactly my thought.</p>\n<p><a href=\"http://steredenn.pixelnest.io\">Steredenn</a> would be cool on the alleged Apple TV… but without a dedicated controller, it's a no go.</p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2015-09-03T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2015/08/dead-or-finished-libraries/",
-      "url": "https://matthieuoger.com/2015/08/dead-or-finished-libraries/",
+      "id": "https://solarsailer.net/2015/08/dead-or-finished-libraries/",
+      "url": "https://solarsailer.net/2015/08/dead-or-finished-libraries/",
       "title": "Dead or finished libraries?",
       "content_html": "<p><a href=\"http://perl.plover.com/yak/12views/samples/notes.html\">Twelve Views of Mark Jason Dominus</a>:</p>\n<blockquote>\n<p>I released the Text::Template module several years ago, and it was immediately very successful. It's small, simple, fast, and it does a lot of things well. At the time, there were not yet 29 templating systems available on CPAN.</p>\n<p>Anyway, the module quickly stabilized. I would get bug reports, and they would turn out to be bugs in the module's users, not in the module; I would get feature requests, and usually it turned out that what the requester wanted was possible, or even easy, without any changes to the module. Since the module was perfect, there was no need to upload new versions of it to CPAN.</p>\n<p>But then I started to get disturbing emails. \"Hi, I notice you have not updated Text::Template for nine months. Are you still maintaining it?\" \"Hi, I notice you seem to have stopped work on Text::Template. Have you decided to abandon this approach?\" \"Hi, I was thinking of using Text::Template, but I saw it wasn't being maintained any more, so I decided to use Junk::CrappyTemplate, because I need wanted to be sure of getting support for it.\"</p>\n<p>I started wondering if maybe the thing to do was to release a new version of Text::Template every month, with no changes, but with an incremented version number. Of course, that's ridiculous. But it seems that people assume that if you don't update the module every month, it must be dead. People seem to think that all software requires new features or frequent bug fixes. Apparently, the idea of software that doesn't get updated because it's finished is inconceivable.</p>\n<p>I blame Microsoft.</p>\n</blockquote>\n<p>I must confess that I tend to look at the date of the last commit when I choose a library over another (along with other metrics, hopefully).</p>\n<p>Well, I also think that a \"perfect library\" might not exist, but the author is making a really good point in his talk.</p>\n<p>(via <a href=\"http://www.drmaciver.com/2015/08/what-if-we-had-more-finished-libraries/\">What if we had more finished libraries?</a>)</p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2015-08-21T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2015/06/ads/",
-      "url": "https://matthieuoger.com/2015/06/ads/",
+      "id": "https://solarsailer.net/2015/06/ads/",
+      "url": "https://solarsailer.net/2015/06/ads/",
       "title": "The web, the ads and the ad-blockers",
       "content_html": "<p>Like almost everyone else, I don't like ads. Nevertheless, I don't use an ad-blocker either.</p>\n<p>Using the web and using an ad-blocker is hypocrite. Like it or not, it's the most widely used business model on the web. That's how most people get paid for the content you read, watch and listen <strong>for free</strong>.</p>\n<p>There're other ways to do it (affiliate links, feed sponsorships, paywalls, etc.), but the dominant model today is ads.</p>\n<p>You know what? I don't find ads particularly irritating from now on. Why? Because I find and read honest websites that respect me by not throwing huge walls of ads to my face. I avoid those ad-filled websites, because most of the time, they are simply bad. And for YouTube? I patiently wait because the great contents made there that I want to see deserve to be paid.<sup id=\"fnref-1\"><a href=\"#fn-1\" class=\"footnote-ref\">1</a></sup></p>\n<p>The solution is not ad-blocking. The solution is to find well-made contents which focus on the readership, not the publisher.<sup id=\"fnref-2\"><a href=\"#fn-2\" class=\"footnote-ref\">2</a></sup></p>\n<hr>\n<p>Let me finish with this:</p>\n<blockquote>\n<p>There is a huge irony in that fact that AdBlock's function of keeping ads away from our content will eventually do the opposite. The alternative to ads alongside my content is ads inside my content.</p>\n<p>Let's face it: paywalls don't work. The alternative on the horizon is native advertising. Buzzfeed is now famously refusing to host ads. Instead they sustain themselves by publishing content that subtly supports the agenda of any company with deep enough pockets to pay for it. A viewer's ability to distinguish between native ads and regular articles is small and quickly vanishing. If separate ads stop reaching people, the path to monetization remaining is to change your content to reflect someone else's agenda.</p>\n<p>— <a href=\"https://news.ycombinator.com/item?id=9695552\">unholiness on Hacker News</a>.</p>\n</blockquote>\n<p>Because you cannot distinguish an ad from an article, it's even more insidious and dishonest. And this time, you won't be able to block it.</p>\n<hr>\n<h2>Update <span class=\"more\">08 June 2018</span></h2>\n<p>My view on this has changed quite a bit recently. With the explosion of ad tracking technologies and the bloat they add to any webpage, I <em>do use</em> an ad blocker now. But only with Safari, where I find it safe to use an extension like that thanks to its \"Content Blocker\" model of security (ie., no access to the page content, just many rules that match the webpage without a way to send data back).</p>\n<p>I have absolutely no trust in a company like AdBlock, and I am not willing to give them my data so easily.</p>\n<p>I do, however, unblock some specific sites. It's a shame, though.</p>\n<div class=\"footnotes\">\n<hr>\n<ol>\n<li id=\"fn-1\">\n<p>Ads in apps? I pay to remove them when I can or I find better paid alternatives.</p>\n<a href=\"#fnref-1\" class=\"footnote-backref\">↩</a>\n</li>\n<li id=\"fn-2\">\n<p>And if you really want to use AdBlock, <em>only block abusive websites</em>.</p>\n<a href=\"#fnref-2\" class=\"footnote-backref\">↩</a>\n</li>\n</ol>\n</div>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2015-06-11T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2015/06/force-touch/",
-      "url": "https://matthieuoger.com/2015/06/force-touch/",
+      "id": "https://solarsailer.net/2015/06/force-touch/",
+      "url": "https://solarsailer.net/2015/06/force-touch/",
       "title": "Force Touch Affordance",
       "content_html": "<p><a href=\"https://www.apple.com/watch/technology/#sensitive\">Force Touch</a> is an impressive piece of technology. It currently equips the Apple Watch and the new Macbooks. You press firmly on the screen and the haptic engine will register a \"deep\" press.</p>\n<p>On the Watch, I found that the feedback was not properly mapped to the press (it's a tap on your wrist, not on your finger). I didn't use the Watch a lot, but I've also found that it was sometime hard to trigger.</p>\n<p>On the new Macbooks' trackpad, the feeling is fantastic. You can push multiple times and sense the force you apply like it's real. You may not even understand that it's not a true physical button.</p>\n<p>But… <strong>Force Touch is not discoverable.</strong></p>\n<p>There is no visual clue that Force Touch is available — either on the screen or on a specific control. It's like the menu button of the old Android versions: you tap somewhere (the menu button on Android, firmly with Force Touch) and something may happen. Or not. It's confusing and it's one more hidden gesture with no affordance. It's no better than a long press if its sole purpose is to be another context menu.</p>\n<p>Indeed, on the Apple Watch, Force Touch's goal is to show a secret menu with additional actions. I understand the purpose — the screen is small and you can't fit everything on the screen. But this exact same behavior on a bigger display will have the same problem that Android had with its menu button. It's even worse than a hamburger menu, because the icon won't be there to tell you that an additional layer is present.</p>\n<p>On OS X, I found that the usage of Force Touch is better: it's not a way to show secondary actions, but just a \"deeper version\" of an action. In QuickTime, for example, you press firmly on the forward button and the video will fast forward faster for each level you reach. It's still hard to know when it's available and might result in nothing, but at least, it's consistant with its source.</p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2015-06-08T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2015/04/space-odyssey/",
-      "url": "https://matthieuoger.com/2015/04/space-odyssey/",
+      "id": "https://solarsailer.net/2015/04/space-odyssey/",
+      "url": "https://solarsailer.net/2015/04/space-odyssey/",
       "title": "Space Odyssey",
       "content_html": "<p>I've finally convinced myself to watch <a href=\"http://www.imdb.com/title/tt0062622/?ref_=fn_al_tt_5\">2001: A Space Odyssey</a>.<sup id=\"fnref-1\"><a href=\"#fn-1\" class=\"footnote-ref\">1</a></sup></p>\n<p><strong>N.B.: If you haven't seen it, I don't think you should read what's coming. Spoilers ahead.</strong><br><br></p>\n<p>Well. I didn't <strong>love</strong> the movie (the pace is really <strong>slow</strong>, even for a movie from the sixties, and not being a fan of classical scores might not have helped). I don't mind if a film is ambiguous or doesn't explain much, but 2001 may have gone a bit too far.</p>\n<p>I get that the monoliths are alien artifacts (or an alien race). I get that David Bowman has been translated in a sort of zoo. I vaguely understood that the Star Gate is a kind of allegory about the human reproduction (there's even a foetus and an umbilical cord during this passage — and the Star Child coming back to earth can also be seen as a birth). But why? Why does an extraterrestrial race would want to improve another race? Why use monoliths? Why would they open the gate near Jupiter and not on the moon?</p>\n<p>The HAL sequence was perfectly clear however, even if they don't explain why it was malfunctioning (it doesn't matter). An interpretation talks about the duality between being a perfect computer and having to lie to the crew about the origin of the mission — this would create a paradox inside the machine. I like that idea.</p>\n<p>What, in the end, annoyed me the most were the expections I had. I always thought that the story would be phenomenal. And… it's not, really. It's pretty simple as soon as you think about it (not having explanations don't change that fact — it just wraps the movie in more mysteries). I had the same reaction after finishing Blade Runner, a few years ago.</p>\n<p>It's not the movie's fault: every awesome idea it invented has been reused everywhere since.</p>\n<hr>\n<p>I was pleasantly surprised to find that the movie does not feel that dated: the images are still beautiful and the depiction of space is really well-done (especially for its time).</p>\n<p>What I loved about the movie is some of the possible interpretations. I'm really eager to read the novel by <a href=\"http://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_%28novel%29\">Arthur C. Clarke</a> to dive a bit more into the story. Especially for this theory:</p>\n<blockquote>\n<p>Arthur C. Clarke's theory of the future symbiosis of man and machine, expanded by Kubrick into what Wheat calls \"a spoofy three-evolutionary leaps scenario\": ape to man, an abortive leap from man to machine, and a final, successful leap from man to 'Star Child'.</p>\n</blockquote>\n<p>I've also found a great quote by Stanley Kubrick about intelligent life when <a href=\"http://en.wikipedia.org/wiki/Interpretations_of_2001:_A_Space_Odyssey\">I was reading articles about the movie</a>:</p>\n<blockquote>\n<p>I will say that the God concept is at the heart of 2001 but not any traditional, anthropomorphic image of God.</p>\n<p>I don't believe in any of Earth's monotheistic religions, but I do believe that one can construct an intriguing scientific definition of God, once you accept the fact that there are approximately 100 billion stars in our galaxy alone, that each star is a life-giving sun and that there are approximately 100 billion galaxies in just the visible universe. Given a planet in a stable orbit, not too hot and not too cold, and given a few billion years of chance chemical reactions created by the interaction of a sun's energy on the planet's chemicals, it's fairly certain that life in one form or another will eventually emerge.</p>\n<p>It's reasonable to assume that there must be, in fact, countless billions of such planets where biological life has arisen, and the odds of some proportion of such life developing intelligence are high.</p>\n<p>Now, the sun is by no means an old star, and its planets are mere children in cosmic age, so it seems likely that there are billions of planets in the universe not only where intelligent life is on a lower scale than man but other billions where it is approximately equal and others still where it is hundreds of thousands of millions of years in advance of us.</p>\n<p>When you think of the giant technological strides that man has made in a few millennia—less than a microsecond in the chronology of the universe—can you imagine the evolutionary development that much older life forms have taken? They may have progressed from biological species, which are fragile shells for the mind at best, into immortal machine entities—and then, over innumerable eons, they could emerge from the chrysalis of matter transformed into beings of pure energy and spirit.</p>\n<p>Their potentialities would be limitless and their intelligence ungraspable by humans.</p>\n</blockquote>\n<div class=\"footnotes\">\n<hr>\n<ol>\n<li id=\"fn-1\">\n<p>It was one of the greatest shame of my movie culture. Especially when considering the fact that I love science-fiction books and films.</p>\n<a href=\"#fnref-1\" class=\"footnote-backref\">↩</a>\n</li>\n</ol>\n</div>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2015-04-26T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2015/04/wearables/",
-      "url": "https://matthieuoger.com/2015/04/wearables/",
+      "id": "https://solarsailer.net/2015/04/wearables/",
+      "url": "https://solarsailer.net/2015/04/wearables/",
       "title": "Perspectives on wearables",
       "content_html": "<p>For a few reasons, I'm considering whether or not I should be buying an Apple Watch.<sup id=\"fnref-1\"><a href=\"#fn-1\" class=\"footnote-ref\">1</a></sup></p>\n<p>For many people I know, it's another useless gadget.</p>\n<p>That's fine: most people are sceptical about new technologies, after all. It's in our nature: human doesn't like change (and new things) until it reaches a certain threshold and becomes acceptable. And to be fair, it might just be a fad.</p>\n<p>The iPhone (and other touch-based smartphones) were also considered as useless gadgets in their beginnings too — almost everybody has a smartphone now, right?<sup id=\"fnref-2\"><a href=\"#fn-2\" class=\"footnote-ref\">2</a></sup></p>\n<p>But like the iPhone, there's a chance the Apple Watch will succeed and become a thing (that's a big if, but I'm still more inclined to believe it will than not).</p>\n<p><strong>For the moment, I don't think there're many usages that make a watch (or other wearable devices) truly better than a phone</strong>. Hopefully, we are only at the beginning. To understand what we can do as developers, we have to use those objects daily.</p>\n<p>That's not to say they are completely useless as of today.</p>\n<p>The usages that intrigue me the most are:<sup id=\"fnref-3\"><a href=\"#fn-3\" class=\"footnote-ref\">3</a></sup></p>\n<ul>\n<li>Maps navigation (\"quick glance, straight on, a few haptic taps, go right — bam — you're arrived!\").</li>\n<li>Services like Capitaine Train <a href=\"https://blog.capitainetrain.com/8788-apple-watch\">(with an awesome watch app design that clearly understands its support and context)</a>.</li>\n<li>Passbooks and Apple Pay (if it ever comes to France).</li>\n<li>Music and podcasts playback (with Overcast or a remote).</li>\n<li>Fitness and health.</li>\n</ul>\n<p><strong>But not notifications.</strong></p>\n<hr>\n<p>I'm a huge proponent of disabling almost all notifications.</p>\n<p>I restrict the apps that can send notifications to the bare minimum (SMS, calendar, reminders and that's most of it) because I think that notifications are a nuisance.</p>\n<p>You don't need to know when someone followed you on Instagram or Twitter. You don't need to be interrupted when you receive a mail. That's also why I'm even more aggresive against sound for notifications (I do receive my mail every hour, but <em>silently</em>). I'd rather grab my phone and act willingly on something than being always distracted.</p>\n<p>People who are flooded by notifications (like <a href=\"http://www.theverge.com/a/apple-watch-review\">tech reviewers</a>) and criticize a device because of that ARE the issue, not the device. A wearable will only make their problem worse, because they will also allow access to those nuisance to a device that is physically connected to their body. And which can tap them <strong>anytime</strong>.</p>\n<hr>\n<p>What is really making sense is to have quick pertinent contextual information available at a glance.</p>\n<p>Like, when your train is ready to leave — which platform, what seat? That's useful: you are in a urge, you walk quickly and taking your phone out of your pocket takes time and precision.</p>\n<p>Having your itinerary directions given <a href=\"http://daringfireball.net/linked/2015/04/23/apple-watch-user-guide\">to you by a few vibrations</a>? That's great too.</p>\n<p>Having a full-fledged Twitter app on your wrist? Useless. Getting your Facebook likes instantly? Useless.<sup id=\"fnref-4\"><a href=\"#fn-4\" class=\"footnote-ref\">4</a></sup></p>\n<br>\n<p>I'm interested in wearables (<a href=\"https://www.google.com/glass/\">when they are not socially awkward</a>) because of what they might become. What they are today is just a glimpse of the potential of such devices.</p>\n<p>Imagine the application in the health field: with sensors on your body, it could be really easy to know and track diseases. To go there, we need to start small. For the moment, that means a watch with an heartbeat sensor and 18 hours of battery life.</p>\n<div class=\"footnotes\">\n<hr>\n<ol>\n<li id=\"fn-1\">\n<p>I probably won't, for the moment. <a href=\"http://steredenn.pixelnest.io\">Priorities</a>.</p>\n<a href=\"#fnref-1\" class=\"footnote-backref\">↩</a>\n</li>\n<li id=\"fn-2\">\n<p>And that's even the case in developing countries:</p>\n<blockquote>\n<p>Across all of this, and far more important, we are now well on our way to having some 3.5bn to 4bn people on earth with a smartphone. […] For the first time ever, the tech industry is selling not just to big corporations or middle-class families but to four fifths of all the adults on earth - <strong>it is selling to people who don’t have mains electricity or running water and substitute spending on cigarettes for mobile</strong>.</p>\n<p>— \"New questions in mobile\" by <a href=\"http://ben-evans.com/benedictevans/2014/11/20/time-for-new-questions-in-mobile\">Benedict Evans</a></p>\n</blockquote>\n<a href=\"#fnref-2\" class=\"footnote-backref\">↩</a>\n</li>\n<li id=\"fn-3\">\n<p>The watch feature is probably the less important feature of a smartwatch. It's handy like it is on a phone. But like the phone feature of a smartphone, it's not the decisive capability.</p>\n<p>  Go on people, make jokes about a watch that is only able to tell the time for a day before running out of battery. ;)</p>\n<a href=\"#fnref-3\" class=\"footnote-backref\">↩</a>\n</li>\n<li id=\"fn-4\">\n<p>But that's also true for the web or an app, to be honest.</p>\n<a href=\"#fnref-4\" class=\"footnote-backref\">↩</a>\n</li>\n</ol>\n</div>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2015-04-25T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2015/02/origami-2/",
-      "url": "https://matthieuoger.com/2015/02/origami-2/",
+      "id": "https://solarsailer.net/2015/02/origami-2/",
+      "url": "https://solarsailer.net/2015/02/origami-2/",
       "title": "Origami 2.0",
       "content_html": "<p>Facebook released <a href=\"https://code.facebook.com/posts/883904991672650/introducing-origami-live/\">Origami 2.0</a> yesterday… and wow, that's a huge update.</p>\n<p><a href=\"https://solarsailer.net/2014/02/origami-quartz-composer/\">I've already spoken about Origami one year ago</a>. I didn't have the chance to use this software that much since, but I'm still keeping an eye on it. And I'm really impressed by the 2.0 version.</p>\n<p><a href=\"https://medium.com/@bwalkin/introducing-origami-live-and-origami-2-0-a68116294e65\">Brandon Walkin on Medium</a>:</p>\n<blockquote>\n<p>Today, we’re excited to release Origami Live for iOS along with a major new version of Origami for Mac. Origami Live is a new app that lets you use your Origami prototypes on your iPhone or iPad. Alongside it, we’re releasing Origami 2.0, which has a ton of new features, including code exporting, powerful gesture support, Sketch integration, presentation mode, and more.</p>\n</blockquote>\n<p>I've watched the new video tutorials on the site and tested <a href=\"https://itunes.apple.com/app/id942636206\">Origami Live</a> (a companion app that displays your prototype right on your phone). It worked flawlessly and the results were impressive. The app is smooth and perfectly synchronized with the desktop viewer.</p>\n<p>I didn't try the Sketch integration, but if it works as advertised, that's a big win for my workflow.</p>\n<p>They have also added a ton of new shortcuts to speed-up the app. Like if you press <code class=\"language-text\">t</code> between two nodes (when hovering on the output or input of a node), Origami will automatically insert a <code class=\"language-text\">transition</code> node between them:</p>\n<p><img src=\"/images/posts/2015-02-25-origami-shortcut.gif\" alt=\"Origami new shortcuts\"></p>\n<p>There's a lot more that you can learn by <a href=\"http://facebook.github.io/origami/tutorials/\">watching the videos</a> or <a href=\"http://facebook.github.io/origami/documentation/concepts/KeyboardShortcuts.html\">reading the full list of shortcuts</a>. The documentation is much more complete than when I tried Origami last year. At the time, it was really difficult to get into it. It looks way easier now.<sup id=\"fnref-1\"><a href=\"#fn-1\" class=\"footnote-ref\">1</a></sup></p>\n<p>You can <a href=\"http://facebook.github.io/origami/\">download Origami here</a> (it requires Quartz Composer).</p>\n<hr>\n<p>If you are interested in Quartz Composer &#x26; Origami, there's also a plugin named <a href=\"https://labs.ideo.com/2014/05/27/avocado/\">\"Avocado\"</a> that enhances Origami. It has been updated for the 2.0 release, but I didn't use it with the latest version.</p>\n<div class=\"footnotes\">\n<hr>\n<ol>\n<li id=\"fn-1\">\n<p>I might be wrong, but I also have the impression that they removed the need for the patch inspector. It looks like you can do everything directly on the canvas now. But this may be the case since the previous versions.</p>\n<a href=\"#fnref-1\" class=\"footnote-backref\">↩</a>\n</li>\n</ol>\n</div>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2015-02-25T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2015/01/something-slightly-less-terrible/",
-      "url": "https://matthieuoger.com/2015/01/something-slightly-less-terrible/",
+      "id": "https://solarsailer.net/2015/01/something-slightly-less-terrible/",
+      "url": "https://solarsailer.net/2015/01/something-slightly-less-terrible/",
       "title": "Something Slightly Less Terrible",
       "content_html": "<p><a href=\"http://www.objc.io/issue-20/loren-brichter.html\">Fantastic interview of Loren Brichter on objc.io</a>:</p>\n<blockquote>\n<p>The more I learn, the more terrible I think programming is. I’d love to rip everything up and start over. But you can only swim against the tide so far, so it’s sometimes satisfying to sift through the garbage and repurpose terrible technologies to make something that is slightly less terrible. […]</p>\n<p>It’s not like a boat with a couple of holes that we can patch; it’s more like trying to sail across an ocean on a pile of accrued garbage. Sure, some of the stuff floats, and it keeps some other stuff from sinking. A better question might be: which parts are good? And you can only answer that if you look at a thing in isolation.</p>\n</blockquote>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2015-01-15T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2014/12/aaron-draplin-logo-design/",
-      "url": "https://matthieuoger.com/2014/12/aaron-draplin-logo-design/",
+      "id": "https://solarsailer.net/2014/12/aaron-draplin-logo-design/",
+      "url": "https://solarsailer.net/2014/12/aaron-draplin-logo-design/",
       "title": "Aaron Draplin Takes On A Logo Design Challenge",
       "content_html": "<iframe width=\"800\" height=\"404\" src=\"https://www.youtube.com/embed/zOPA0NaeTBk\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>\n<p>(/via <a href=\"http://ignorethecode.net/blog/2014/12/11/watch_aaron_draplin_design_a_logo/\">ignore the code</a>)</p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2014-12-22T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2014/12/get-info-redesign/",
-      "url": "https://matthieuoger.com/2014/12/get-info-redesign/",
+      "id": "https://solarsailer.net/2014/12/get-info-redesign/",
+      "url": "https://solarsailer.net/2014/12/get-info-redesign/",
       "title": "\"Get Info\" redesign",
       "content_html": "<p><a href=\"https://www.behance.net/gallery/19050689/MacOS-Get-Info-Design\">\"Get Info\" redesign on Behance:</a></p>\n<p><img src=\"/images/posts/2014-12-21-get-info-redesign.png\" alt=\"OSX Get Info Design\"></p>\n<blockquote>\n<p>Everyone who has ever worked on MacOS has felt this pain at least once.</p>\n<p>You select a couple of files, right click, open the menu, and tap Get Info…</p>\n</blockquote>\n<p>Nice.</p>\n<p>(/via <a href=\"http://www.subtraction.com/2014/12/17/get-info-redesigned/\">Subtraction</a>)</p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2014-12-21T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2014/12/a-tiny-game-that-you-can-play-forever/",
-      "url": "https://matthieuoger.com/2014/12/a-tiny-game-that-you-can-play-forever/",
+      "id": "https://solarsailer.net/2014/12/a-tiny-game-that-you-can-play-forever/",
+      "url": "https://solarsailer.net/2014/12/a-tiny-game-that-you-can-play-forever/",
       "title": "A Tiny Game That You Can Play Forever",
       "content_html": "<p>The <a href=\"http://www.upup.fm/\">Up Up Down Down</a> podcast has a good episode with Asher Vollmer.</p>\n<p><a href=\"http://www.upup.fm/show/a-tiny-game-that-you-can-play-forever/\">A Tiny Game That You Can Play Forever</a>:</p>\n<blockquote>\n<p>Asher Vollmer, creator of Threes and Close Castles, joins us to talk puzzle games. We discuss the process of designing developing Threes, and what goes in to making a great little puzzle game. We then talk about the whimsical minimalism that works so well in indie games, and how to bring them to life. We talk about difficulty, complexity, and how to tune games. We touch on the effects of free to play on puzzle games, and how it makes us feel weird.</p>\n</blockquote>\n<p>There're some great points in there. It focuses a lot on Threes' gameplay and evolutions and dives a bit more into minimalism in games.</p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2014-12-19T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2014/08/taking-a-break/",
-      "url": "https://matthieuoger.com/2014/08/taking-a-break/",
+      "id": "https://solarsailer.net/2014/08/taking-a-break/",
+      "url": "https://solarsailer.net/2014/08/taking-a-break/",
       "title": "Taking a break",
       "content_html": "<p>I'm self-employed and I work every day at home for my company, <a href=\"http://pixelnest.io\">Pixelnest Studio</a>.</p>\n<p>A common good practice recommended by almost any home-worker is to take a quick (3 minutes) <em>walking</em> break every 45 minutes or so.</p>\n<ol>\n<li>It makes you move your body. Especially your legs and your back.</li>\n<li>It gets you out of your computer.</li>\n<li>It rests your eyes. Try to fix an object at 15m and blink your eyes a few times. It's a good way to not only use your close-sight during work.</li>\n</ol>\n<p>It's a simple habit, but it's hard to get used to it. For the last weeks, I forced myself to walk for 3 minutes every 1 hour of work.</p>\n<p>And… it's great. I'm really feeling much more concentrated and ready.</p>\n<p>Because I will forget to stand up as soon as I'm working, <a href=\"https://gist.github.com/solarsailer/6328415616b485ff7bef\">I've made a little \"app\" for OSX</a>. In fact, it's just a simple automator app that will trigger a notification for three minutes. Follow the gist above to know how to use it. It's dead simple, but <strong>it works</strong>.</p>\n<hr>\n<p>NB: this advice is especially true for self-employed people (because you can't take a break with your coworkers), but anybody working at a desk for several hours should do it. It costs nothing, and your body will love it.</p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2014-08-01T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2014/07/material-design/",
-      "url": "https://matthieuoger.com/2014/07/material-design/",
+      "id": "https://solarsailer.net/2014/07/material-design/",
+      "url": "https://solarsailer.net/2014/07/material-design/",
       "title": "Material Design",
       "content_html": "<p>I've finally watched the Material Design segment of the Google I/O 2014 keynote.</p>\n<p><img src=\"/images/posts/2014-07-01-material-design.png\" alt=\"Material Design\"></p>\n<p><strong>Material Design</strong> is the new Google's design language. It looks promising and great. There are some nice ideas, akin to iOS 7, like depth (automatically integrated by a z-axis with live shadows rendering for developers) or transitions and animations as first-class citizens.</p>\n<p>Bonus? A <a href=\"http://www.google.com/design/\">comprehensive set of guidelines</a> with a lot of examples.</p>\n<p>Unfortunately, there is some bullshit lines lurking inside the documentation…</p>\n<blockquote>\n<p>Create a visual language that synthesizes classic principles of good design with the innovation and possibility of technology and science. […]</p>\n<p>A material metaphor is the unifying theory of a rationalized space and a system of motion. The material is grounded in tactile reality, inspired by the study of paper and ink, yet technologically advanced and open to imagination and magic.</p>\n</blockquote>\n<p>Please, oh please, don't let marketing people write technical papers.</p>\n<hr>\n<p>I'm really eager to see how it will be implemented in Android &#x26; the Google web apps (if I understood well, the current Android L preview is not completely converted to Material Design yet).</p>\n<p>There's still a lot of things that I don't like about Android and there's still a lot of rough edges (the awful black navigation bar, the heavy use of small typography, weird transitions &#x26; cie), but it's a great step forward for the platform. <em>And there's even a decent status bar now!</em></p>\n<p>The real problem for Google is to force developers to adapt to the new style. It's the fourth Android redesign (if I recount well) and the majority of the Android apps are still looking bad. I hope that this time, developers will rejoice and follow Google's lead.</p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2014-07-01T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2014/06/design-detail-ios8-messages/",
-      "url": "https://matthieuoger.com/2014/06/design-detail-ios8-messages/",
+      "id": "https://solarsailer.net/2014/06/design-detail-ios8-messages/",
+      "url": "https://solarsailer.net/2014/06/design-detail-ios8-messages/",
       "title": "Design detail in iOS 8 Messages",
       "content_html": "<p>One of the features that I wanted the most in iOS 8 was simple: add a <em>“Use Last Photo Taken”</em> button in the Messages app (along with the current \"Take Photo or Video\" and \"Choose Existing\").</p>\n<hr>\n<p>The idea was originally thought by <a href=\"http://mrgan.tumblr.com/post/12808983893/tweetbot-adds-last-photo-taken-feature\">Neven Mrgan</a> and later adopted by a lot of apps (Tweetbot, Slack, Droplr, etc.).</p>\n<figure>\n    <img\n    src=\"/images/posts/2014-06-03-picker-tweetbot.png\"\n    alt=\"Use “Last Photo Taken” in the Image Picker of Tweetbot 3\"\n    title=\"Use “Last Photo Taken”\"\n  >\n  <figcaption>Example: the Image Picker from Tweetbot 3.</figcaption>\n</figure>\n<p>But it was still missing in the one place where it would definitely shine: Messages.</p>\n<p><strong>No more.</strong></p>\n<hr>\n<p>The way it was added is brilliant. It's so simple that I don't know why it hasn't been done already (it might, I just don't know of an app that have done that).</p>\n<p>Here it is:</p>\n<figure>\n  <img\n    src=\"/images/posts/2014-06-03-picker-8.png\"\n    alt=\"Image Picker in iOS 8 Messages app\"\n    title=\"iOS 8 Messages\"\n  >\n  <figcaption>It's not a button. It's a grid of three (or more) images.</figcaption>\n</figure>\n<p>It solves three problems:</p>\n<ol>\n<li>\n<p>You can use the last photo. 80% of the time, it's what you (and I) want to do.</p>\n</li>\n<li>\n<p>You can see the last photo and be sure of what you are doing <strong>BEFORE</strong> doing it.</p>\n<p>With a button, the app had to provide a way to check the action.</p>\n<p>In Tweetbot, for example, the compose view shows a small thumbnail of the image.</p>\n<p>In Droplr, it's too late. As soon as you tap the button, the photo is uploaded and you have to delete it to fix your error.</p>\n</li>\n<li>\n<p>You can use the last few photos too. Which might represent 80% of the last remaining use cases.</p>\n</li>\n</ol>\n<p>It's so simple and clever that once you have seen it, you can only think: <em>\"Of course.\"</em>.</p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2014-06-03T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2014/04/monument-valley/",
-      "url": "https://matthieuoger.com/2014/04/monument-valley/",
+      "id": "https://solarsailer.net/2014/04/monument-valley/",
+      "url": "https://solarsailer.net/2014/04/monument-valley/",
       "title": "Monument Valley",
       "content_html": "<p><img src=\"/images/posts/2014-04-04-monument-valley.png\" alt=\"Monument Valley\"></p>\n<p>A wonderful new game (available on iOS and soon on Android). It reminds me of <a href=\"http://fezgame.com/\">Fez</a>, <a href=\"http://thatgamecompany.com/games/journey/\">Journey</a> and <a href=\"http://www.swordandsworcery.com/\">Sworcery</a>, but still with its own unique atmosphere and mechanics.</p>\n<p>The game is short, reasonably priced (4$) and stunning. Sounds are just perfect.</p>\n<p>I'm pretty sure that this game is going to generalize <a href=\"http://imgur.com/a/knj1I#8\">low-poly graphics</a> in indie games.</p>\n<p>→ <a href=\"http://monumentvalleygame.com/\">More info here</a>.</p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2014-04-04T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2014/02/origami-quartz-composer/",
-      "url": "https://matthieuoger.com/2014/02/origami-quartz-composer/",
+      "id": "https://solarsailer.net/2014/02/origami-quartz-composer/",
+      "url": "https://solarsailer.net/2014/02/origami-quartz-composer/",
       "title": "Interaction prototyping with Origami",
       "content_html": "<p><a href=\"http://facebook.github.io/origami/\">Origami</a> is a plugin for <a href=\"http://en.wikipedia.org/wiki/Quartz_Composer\">Quartz Composer</a>, developed by Facebook.</p>\n<p><img src=\"/images/posts/2014-02-05-origami.jpg\" alt=\"Origami\"></p>\n<p>Initially, Quartz Composer is a “visual programming” environment to create animated scenes.</p>\n<p>But recently, <a href=\"https://medium.com/the-year-of-the-looking-glass/af182add5a2f\">some designers</a> have started to use it to mockup animations and interactions.</p>\n<p>Because the primary goal of Quartz Composer is to create motion graphics, it makes sense to use it for interaction prototyping. The problem is that there isn't a lot of patches (a patch is like an instance of a class in a classic object-oriented programming language) dedicated to user interface in Quartz Composer.</p>\n<p>That's where Origami steps in:</p>\n<blockquote>\n<p>Origami provides a set of tools for Quartz Composer that make interaction prototyping a lot easier.</p>\n<p>Animations, transitions, buttons, layers, phones, etc.</p>\n</blockquote>\n<p>I recommend to watch <a href=\"https://vimeo.com/85578380\">this video</a> to get a brief overview of what is possible with Origami. It's intriguing, it looks promising and it motivates me to learn Quartz Composer more seriously.</p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2014-02-05T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2014/01/how-netflix-reverse-engineered-hollywood/",
-      "url": "https://matthieuoger.com/2014/01/how-netflix-reverse-engineered-hollywood/",
+      "id": "https://solarsailer.net/2014/01/how-netflix-reverse-engineered-hollywood/",
+      "url": "https://solarsailer.net/2014/01/how-netflix-reverse-engineered-hollywood/",
       "title": "How Netflix Reverse Engineered Hollywood",
       "content_html": "<p><a href=\"http://www.theatlantic.com/technology/archive/2014/01/how-netflix-reverse-engineered-hollywood/282679/\">Alexis Madrigal on Netflix classification</a> (emphasis mine):</p>\n<blockquote>\n<p>[…], we discovered that Netflix possesses not several hundred genres, or even several thousand, <strong>but 76,897 unique ways to describe types of movies</strong>. […]</p>\n<p>Using large teams of people specially trained to watch movies, Netflix deconstructed Hollywood. They paid people to watch films and tag them with all kinds of metadata. This process is so sophisticated and precise that taggers receive a 36-page training document that teaches them how to rate movies on their sexually suggestive content, goriness, romance levels, and even narrative elements like plot conclusiveness. […]</p>\n<p>The Netflix Quantum Theory doc spelled out ways of tagging movie endings, the \"social acceptability\" of lead characters, and dozens of other facets of a movie. Many values are \"scalar,\" that is to say, they go from 1 to 5. So, every movie gets a romance rating, not just the ones labeled \"romantic\" in the personalized genres. Every movie's ending is rated from happy to sad, passing through ambiguous. Every plot is tagged. Lead characters' jobs are tagged. Movie locations are tagged. Everything. Everyone.</p>\n<p>That's the data at the base of the pyramid. It is the basis for creating all the altgenres that I scraped. Netflix's engineers took the microtags and created a syntax for the genres, much of which we were able to reproduce in our generator.</p>\n</blockquote>\n<p>This article completely blew my mind. Great journalism.</p>\n<p>The idea to tag any movie that much and create ultra-specific subgenres is so clever. Hell of a work too.</p>\n<hr>\n<p>Concerning the <em>Perry Mason</em> mystery, I found an interesting <a href=\"http://www.theatlantic.com/technology/archive/2014/01/how-netflix-reverse-engineered-hollywood/282679/#comment-1184453715\">explanation</a> in the comments (yep):</p>\n<blockquote>\n<p>Actually, Alexis, I am baffled by your conclusion that the Perry Mason Mystery is a \"ghost in the machine\".</p>\n<p>To me it seems obvious: there is a subgenre, \"Understated Cerebral Mysteries with Ironclad Plots, Good Dialogue, Not Much Action or Romance, and on the Side of the Defense\", that is popular with viewers yet <em>drastically</em> underpopulated. It's so drastically underpopulated that the show that's a best-fit for the category is <em>enormously</em> popular, much more popular than anyone realized.</p>\n<p>Far from being a \"bug\", this is programming <em>platinum</em> for Netflix. If they're as smart as I think they are, this is the subgenre where they should be looking to make a TV series. The biggest problem will be finding a showrunner and scriptwriters who are able to go against so many of Hollywood's cliches and assumptions. They need to make something where what is visually interesting, striking, or exciting is unimportant, but where there are no holes in the plots. Very high degree of difficulty, and only profitable to Netflix, which makes money from its shows, not from the advertising.</p>\n</blockquote>\n<p>Sounds a bit like <a href=\"http://www.imdb.com/title/tt1475582/?ref_=fn_al_tt_1\">Sherlock</a>, no?</p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2014-01-07T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/11/unity-2d-tutorial/",
-      "url": "https://matthieuoger.com/2013/11/unity-2d-tutorial/",
+      "id": "https://solarsailer.net/2013/11/unity-2d-tutorial/",
+      "url": "https://solarsailer.net/2013/11/unity-2d-tutorial/",
       "title": "Pixelnest — Unity 2D tutorial",
       "content_html": "<p>During the last weeks, we (<a href=\"http://dmayance.com/\">Damien</a> and I) have cooked a complete tutorial about Unity and its new 2D tools. This tutorial covers the creation of a very small game from start to finish.</p>\n<p>We hope you will enjoy it.</p>\n<p>→ <a href=\"http://pixelnest.io/tutorials/2d-game-unity/\">You can read it here</a>.</p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2013-11-21T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/10/below/",
-      "url": "https://matthieuoger.com/2013/10/below/",
+      "id": "https://solarsailer.net/2013/10/below/",
+      "url": "https://solarsailer.net/2013/10/below/",
       "title": "Below",
       "content_html": "<p><img src=\"/images/posts/2013-10-23-below.jpg\" alt=\"Below\"></p>\n<p>It looks (and sounds) gorgeous. And it's made by Capy, which is arguably one of the best video game studios out there.</p>\n<p>→ <a href=\"http://whatliesbelow.com/\">What Lies Below</a>.</p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2013-10-23T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/10/how-designers-destroyed-the-world/",
-      "url": "https://matthieuoger.com/2013/10/how-designers-destroyed-the-world/",
+      "id": "https://solarsailer.net/2013/10/how-designers-destroyed-the-world/",
+      "url": "https://solarsailer.net/2013/10/how-designers-destroyed-the-world/",
       "title": "How Designers Destroyed The World",
       "content_html": "<p>Better late than never; I've managed to watch <a href=\"https://vimeo.com/68470326\">How Designers Destroyed The World</a> by Mike Monteiro.</p>\n<p>It's a great talk except that I'm not fond of the tone. Though it fits well with the content, I find it a bit overdramatic. The end is also a tad lengthy, which is unfortunate.</p>\n<p>Otherwise, I liked what I heard. <em>Which makes me consider…</em></p>\n<p>Regularly, I find myself stuck with incredibly ill-conceived things that frustrate me. These objects, rules or designs are things as simple as an ATM, a software or a door. They make us loose time, or worse, do (severe) mistakes.</p>\n<p>For example: there is a crossroad near my parents house. A few years ago, the mayor decided to remove the road signs at this place AND to not replace it. In France, there is an implicit rule which states that when there are no signs, you have to let the cars at your right cross the junction first. This rule is stupid. <strong>When you drive, you have no time to doubt</strong>. A sign serves primarily as way to convey a danger or a rule, without making you think. You know what you have to do instantly. <em>If you see a stop sign, you stop</em>. That is all.</p>\n<p>This implicit rule makes us do the contrary. At a junction like the one I talked about before, you see nothing, so you have to think, analyze and react. It's easy to have a (minor) car accident there. Moreover, people of my town had used this junction for years, knowing precisely how to react. But now, the priority rule has changed, and it's a mess. The result? In the best case, everybody stop, wait for 10 seconds to analyze the place and then drive.</p>\n<p><strong>This is a result of a design decision. Someone decided to do that.</strong> In this case, someone decided to break something that worked well for all this time.</p>\n<p>Sometimes, it might just be a dumb design that put you in an embarrassing situation. If you are a man, just remember the last time you have used a flat and too-high urinal. :)</p>\n<p>When I talk about that with some of my friends, they think that I'm excessively demanding and that the problem is me. Perhaps.</p>\n<p>I will conclude with a quote from the talk:</p>\n<blockquote>\n<p>There are professions more harmful than (industrial) design, <strong>but only a very few of them.</strong></p>\n<p>— Victor Papanek <em>(modified by Mike Monteiro)</em></p>\n</blockquote>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2013-10-22T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/10/you-must-prototype-it-in-code/",
-      "url": "https://matthieuoger.com/2013/10/you-must-prototype-it-in-code/",
+      "id": "https://solarsailer.net/2013/10/you-must-prototype-it-in-code/",
+      "url": "https://solarsailer.net/2013/10/you-must-prototype-it-in-code/",
       "title": "You must prototype it in code",
       "content_html": "<p>Jeff Atwood in <a href=\"http://www.codinghorror.com/blog/2004/11/good-programmers-get-off-their-butts.html\">Good Programmers Get Off Their Butts</a>:</p>\n<blockquote>\n<p>I am not proposing a code-like-hell methodology. I am merely observing that, in my experience, <strong>coding without planning is just as futile as coding with too much planning</strong>. Software development is <a href=\"http://www.codinghorror.com/blog/archives/000071.html\">a wicked problem</a>; you should never make planning decisions without some kind of code prototype to ensure that you're making informed decisions. If you plan too far ahead of the code, I guarantee you are doing work that will be thrown away or altered until it is unrecognizable.</p>\n<p>The most destructive symptom of over-planning is the wrongheaded idea that being a Software Architect™ means drawing a lot of UML diagrams and handing them off to a group of developers in Bangalore. <strong>UML is great if you don't want to do any work; you just draw pictures of what it would look like if work was actually done</strong>. This is not only borderline laziness, it's also a recipe for disaster. You can't architect a real world application on a whiteboard. You must prototype it in code to gather data on the performance and design implications of the choices you are making.</p>\n</blockquote>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2013-10-18T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/10/m7/",
-      "url": "https://matthieuoger.com/2013/10/m7/",
+      "id": "https://solarsailer.net/2013/10/m7/",
+      "url": "https://solarsailer.net/2013/10/m7/",
       "title": "M7",
       "content_html": "<p><a href=\"http://9to5mac.com/2013/09/29/more-m7-details-data-storage-battery-life-android-motion-coprocessor-adoption/\">9to5Mac</a> (emphasis mine):</p>\n<blockquote>\n<p>For pre-iPhone 5s devices, ARGUS usually drains about 20-30% of battery life per day while running in the background. The app continually checks for motion and calculates the distance and number of steps using the accelerometer and GPS. With the M7, however, the app does not need to be running in order to keep track of the number of steps – all of that data is tracked by the M7. <strong>As such, ARGUS no longer takes up any battery power while running in the background and the stated battery life from Apple – 10 hours 3G talk time, 250 hours of standby – will stay exactly the same</strong>. […]</p>\n<p>The M7 APIs allow developers to query information about the user’s current transportation status (whether they’re in a car, walking, not moving, etc.).</p>\n</blockquote>\n<p>If this is true, it's impressive.</p>\n<p>I hope that the use of the M7 will expand outside of the fitness and health apps.</p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2013-10-02T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/09/paying-for-softwares/",
-      "url": "https://matthieuoger.com/2013/09/paying-for-softwares/",
+      "id": "https://solarsailer.net/2013/09/paying-for-softwares/",
+      "url": "https://solarsailer.net/2013/09/paying-for-softwares/",
       "title": "Paying for softwares",
       "content_html": "<p>Florian Kugler about mobile apps in <a href=\"http://floriankugler.com/blog/2013/9/30/worth-less-than-a-cup-of-coffee\">Worth Less than a Cup of Coffee</a>:</p>\n<blockquote>\n<p>[People] might say otherwise when asked about, but their actions speak pretty clearly: A cup of coffee is worth more than almost every app on the store.</p>\n<p>That's a hard pill to swallow, but we should let it sink in. We pour all our creativity, time, and passion into creating basically worthless products.</p>\n</blockquote>\n<p>Recent events and the backlash <a href=\"http://realmacsoftware.com/blog/some-changes-for-clear\">against Realmac with Clear for iOS 7</a> are sad.</p>\n<p>People don't understand that creating softwares — <strong>truly</strong> good softwares that sweat every detail — takes a lot of time and money. Ironically, even a lot of developers who work in big companies don't want to pay for softwares.</p>\n<p>The mobile apps markets have made this situation worse.</p>\n<p>I'm currently thinking back about the mobile market, especially for games. At a time, I thought that going mobile-only was the best shot today, but the more I think about it, the more I'm realizing that a platform like Steam (which also drives the prices to the bottom, alas) is more sustainable for a developer/company.</p>\n<p><a href=\"http://www.marco.org/2013/09/28/underscore-price-dynamics\">Marco Arment</a> said in its latest blog post: <em>\"Paid-up-front iOS apps had a great run, but it’s over. Time to make other plans.\"</em>.</p>\n<p>So what does that leave? Freemium? Unfortunately, freemium almost always goes with <a href=\"https://itunes.apple.com/fr/app/candy-crush-saga/id553834731?mt=8\">bad apps or games that trick users to pay for more</a>.</p>\n<p>N.B.: To be clear, as a user, I'm happy to <em>pay less</em>. For almost everybody, a software or a game at 50-100$ is way too high, and that's fine. What I don't like is that we are now in a situation where  even one buck for an app you use daily is too much. <strong>One buck per app cannot sustain a one-person business.</strong></p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2013-09-30T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/09/patent-trolls/",
-      "url": "https://matthieuoger.com/2013/09/patent-trolls/",
+      "id": "https://solarsailer.net/2013/09/patent-trolls/",
+      "url": "https://solarsailer.net/2013/09/patent-trolls/",
       "title": "Patent trolls",
       "content_html": "<p><a href=\"http://arstechnica.com/tech-policy/2013/09/angry-entrepreneur-replies-to-patent-troll-with-racketeering-lawsuit/\">Angry entrepreneur replies to patent troll with racketeering lawsuit</a>:</p>\n<blockquote>\n<p>\"There's a lot of outrageous stories, but everyone's so damn afraid of coming forward—It's like going against the Mafia,\" he said. But the idea that trolls may retaliate against those who speak out is overblown, he thinks. \"If they want to try to teach me a lesson, go for it. This will be my retirement. I'll fight them.\"</p>\n</blockquote>\n<p>Here it is:</p>\n<ul>\n<li>Everyone knows that patent trolls are useless companies that only try to steal money from defenseless ones.</li>\n<li>Everyone knows that they don't invent anything.</li>\n<li>Everyone knows that they cost a lot — of time and money — with endless legal procedures.</li>\n<li>Everyone knows that it's pure bullshit and extortion, and yet, it is perfectly legal.</li>\n</ul>\n<p>Stupid system.</p>\n<hr>\n<p>I'm not against patents and inventors' rights. But there is a big difference between protecting your properties from real thieves and suing everyone without actually creating anything.</p>\n<p>However, if the only solution to this problem is to abolish the patents system, so be it.</p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2013-09-17T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/09/apple-is-future-proof/",
-      "url": "https://matthieuoger.com/2013/09/apple-is-future-proof/",
+      "id": "https://solarsailer.net/2013/09/apple-is-future-proof/",
+      "url": "https://solarsailer.net/2013/09/apple-is-future-proof/",
       "title": "Apple is future proof",
       "content_html": "<p><a href=\"http://cannyvision.com/2013/09/12/the-most-forward-thinking-apple-yet.html\">The Most Forward Thinking Apple Yet</a> (emphasis mine):</p>\n<blockquote>\n<p>In many ways, WWDC, and more so, the iPhone 5C and 5S represent (and had to represent) Apple's reply to the naysayers. <strong>However, I think there was more to the announcements than what met the eye.</strong></p>\n</blockquote>\n<p>Read the whole thing.</p>\n<p>Everything that Apple announced last week has no real purpose currently — or only a fraction of what will be possible with one day.</p>\n<p>For example, the fingerprint sensor is a really neat idea, but <a href=\"https://medium.com/mobile-world/b16ba37c433a\">we will be able to do a lot more with it in the future</a>. The use of the M7 motion co-processor or the 64-bits iOS are even less tangible. Unless you are Apple and you know what will be released next.</p>\n<p>They are calmly preparing the ground for the shape of things to come. <em>It's thrilling.</em></p>\n<p><br>N.B.: The Bluetooth LE technology that was embedded a few years ago was exactly that: at that time, it was useless, but in the context of a wearable Apple watch, it makes a <strong>lot</strong> of sense.</p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2013-09-16T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/09/reeder-2/",
-      "url": "https://matthieuoger.com/2013/09/reeder-2/",
+      "id": "https://solarsailer.net/2013/09/reeder-2/",
+      "url": "https://solarsailer.net/2013/09/reeder-2/",
       "title": "Reeder 2",
       "content_html": "<p>Hell, it's about time.</p>\n<p>→ <a href=\"https://itunes.apple.com/nz/app/reeder-2/id697846300?ls=1&#x26;mt=8\">Get here</a>.</p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2013-09-12T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/09/brand-and-logo/",
-      "url": "https://matthieuoger.com/2013/09/brand-and-logo/",
+      "id": "https://solarsailer.net/2013/09/brand-and-logo/",
+      "url": "https://solarsailer.net/2013/09/brand-and-logo/",
       "title": "Brand and logo",
       "content_html": "<p><a href=\"http://ia.net/blog/logo-bullshit-co-inc/\">Fantastic essay by Oliver Reichenstein</a>:</p>\n<blockquote>\n<p>This post is not about the technical quality of the logo. I am not writing about brand design, but about brand management. This is about a simple rule: Brand design follows brand management, not the other way around.</p>\n<p>One could argue that we can’t say if this is bad brand management. Unless we know what the brand ambition, the brand architecture, and the brand strategy is, we ought to have no opinion. Maybe the logo does exactly what it is supposed to do. Because really, it doesn’t matter whether it looks pretty, or whether someone likes or dislikes the purple or the scallops. The Coca-Cola logo was not designed by a professional designer, it is typographically hideous, but that doesn’t matter. Brand identity is not about visual refinement or aesthetics. It can be purposely ugly, like the London Olympics logo. What is important is that it is done seriously.</p>\n</blockquote>\n<p>Personally, I don't care about Yahoo's new logo. Anything would be better off that the old one.</p>\n<p>By the way, I'm still amazed by the quality of the iA website, and especially the blog. Typography, details, everything. It's wonderful.</p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2013-09-11T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/09/microsoft-out/",
-      "url": "https://matthieuoger.com/2013/09/microsoft-out/",
+      "id": "https://solarsailer.net/2013/09/microsoft-out/",
+      "url": "https://solarsailer.net/2013/09/microsoft-out/",
       "title": "Microsoft Out",
       "content_html": "<p><a href=\"http://fishbowl.pastiche.org/2013/08/26/bundled_out/\">Great article by Charles Miller about Microsoft fall</a>:</p>\n<blockquote>\n<p>Microsoft did not make its mark as a builder of great things, but as a very successful bundler of good-enough things. […]</p>\n<p>Eventually by the mid-90s an argument could be made that Microsoft was making the best PC software in its class. Not because it had suddenly found the ability to develop cool, innovative products, but because everyone else was dead. […]</p>\n<p>Still, outside that monopoly, there is a clear distinction between Microsoft products that can trace their market dominance back to DOS, and those that can't. The former make money, the latter lose it.</p>\n</blockquote>\n<hr>\n<h2>Update <span class=\"more\">08 June 2018</span></h2>\n<p><a href=\"https://stratechery.com/2018/the-end-of-windows/\">It's</a> <a href=\"https://en.wikipedia.org/wiki/Satya_Nadella\">funny</a> <a href=\"https://blog.github.com/2018-06-04-github-microsoft/\">how</a> <a href=\"https://code.visualstudio.com/\">things</a> <a href=\"https://www.typescriptlang.org/\">change</a>…</p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2013-09-09T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/09/inventing-the-favicon/",
-      "url": "https://matthieuoger.com/2013/09/inventing-the-favicon/",
+      "id": "https://solarsailer.net/2013/09/inventing-the-favicon/",
+      "url": "https://solarsailer.net/2013/09/inventing-the-favicon/",
       "title": "Inventing the favicon",
       "content_html": "<p><a href=\"http://ruthlessray.wordpress.com/2013/09/02/inventing-favicon-ico/\">Inventing Favicon.ico</a>:</p>\n<blockquote>\n<p>Bharat said, “this is good, right? Check it in?” And I said, “yeah, sure, how does it work?” […]</p>\n<p>So there you go, the story of the invention of favicon.ico.</p>\n</blockquote>\n<p>The story of a small and useful feature that was almost cancelled for no good reason.</p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2013-09-05T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/09/samsung-and-watches/",
-      "url": "https://matthieuoger.com/2013/09/samsung-and-watches/",
+      "id": "https://solarsailer.net/2013/09/samsung-and-watches/",
+      "url": "https://solarsailer.net/2013/09/samsung-and-watches/",
       "title": "Samsung And Watches",
       "content_html": "<p><a href=\"http://stratechery.com/2013/shameless-samsung/\">Ben Thompson nails it in “Shameless Samsung“</a>:</p>\n<blockquote>\n<p>I jumped on the leaked prototype, with the same general sentiment: Samsung’s watch will undoubtedly change drastically whenever Apple’s wearable is released. And, to be certain, we will mock them for copying. […]</p>\n<p>We, especially in the West, have a powerful sense of justice and fairness when it comes to product features and being first. Business, though, is not fair, even if it is more just than we care to admit.</p>\n</blockquote>\n<p>The Samsung Galaxy Gear is horrid. I was tempted to write an article about watches and Samsung last week, but Ben Thompson did it way better today.</p>\n<ul>\n<li>Samsung rushes to create a ridiculous watch in order to be the first.</li>\n<li>Someone else (probably Apple) will release a great watch.</li>\n<li>Samsung will copy it.</li>\n</ul>\n<p>But hey, it's business, so it does not really matter if it's fair.</p>\n<p>N.B.: The only thing that is against Samsung in this case is that watches are fashion accessories.</p>\n<p>The only hardware maker that has a sense of fashion is Apple (the iPhone is almost a “jewel” in its form after all). A watch needs to be elegant and refined. Samsung is probably incapable of doing that given its history of tasteless products.</p>\n<p>N.B. 2: The fun fact with watches is that ordinary, they are quite expensive. $300-400 for a “smart” watch that looks like a quality watch won't be that much for the targeted market.</p>\n<p><strong>Update on N.B. 2</strong>:</p>\n<blockquote class=\"twitter-tweet\">\n<p>My watch is gold too. Thieves: grab that instead. You can buy a good few iPhones with the proceeds.</p>&mdash; Matt Gemmell (@mattgemmell) <a href=\"https://twitter.com/mattgemmell/statuses/385121349712490497\">October 1, 2013</a>\n</blockquote>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2013-09-05T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/09/myosis/",
-      "url": "https://matthieuoger.com/2013/09/myosis/",
+      "id": "https://solarsailer.net/2013/09/myosis/",
+      "url": "https://solarsailer.net/2013/09/myosis/",
       "title": "Myosis",
       "content_html": "<p>A gorgeous short film.</p>\n<p>→ <a href=\"https://vimeo.com/73617382\">Watch here</a>.</p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2013-09-04T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/09/sketch-23/",
-      "url": "https://matthieuoger.com/2013/09/sketch-23/",
+      "id": "https://solarsailer.net/2013/09/sketch-23/",
+      "url": "https://solarsailer.net/2013/09/sketch-23/",
       "title": "Sketch 2.3",
       "content_html": "<p>The biggest new yesterday was not that Microsoft bought Nokia. In fact, it was written on the wall for more than 2 years. And others have blogged <a href=\"http://stratechery.com/2013/the-deal-that-makes-no-sense/\">better</a> <a href=\"http://ben-evans.com/benedictevans/2013/9/3/microsoft-and-nokia\">things</a> than I could.</p>\n<p>No, <a href=\"http://bohemiancoding.tumblr.com/post/60070936484/sketch-2-3\">it was the release of Sketch 2.3</a>.</p>\n<p>There's a lot of things that I like in this new version:</p>\n<ul>\n<li>Speed. <strong>It is incomparable</strong>.</li>\n<li>PDF import. I was looking for that for a long time.</li>\n<li>Sketch Mirror.</li>\n</ul>\n<p>The only downside of this release is when I work with text. It doesn't feel smooth.</p>\n<p>Such an awesome piece of software.</p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2013-09-04T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/nintendo-2ds/",
-      "url": "https://matthieuoger.com/2013/08/nintendo-2ds/",
+      "id": "https://solarsailer.net/2013/08/nintendo-2ds/",
+      "url": "https://solarsailer.net/2013/08/nintendo-2ds/",
       "title": "Nintendo 2DS",
       "content_html": "<p><a href=\"http://ignorethecode.net/blog/2013/08/29/nintendo/\">Great article</a> (as usual) by Lukas Mathis:</p>\n<blockquote>\n<p>But the 2DS just isn’t made for people like me. That doesn’t mean it’s going to fail. That doesn’t mean it’s a bad product. It just means it’s not for me.</p>\n<p>And this, finally, brings all of this back to the topic of design. If you want to design a successful product, don’t design a product that’s only good for people like you, because most people aren’t like you.</p>\n</blockquote>\n<p>Do not miss the footnotes either.</p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2013-08-30T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/the-gif-video-format/",
-      "url": "https://matthieuoger.com/2013/08/the-gif-video-format/",
-      "title": "The gif “video format”",
-      "content_html": "<p><a href=\"http://pornel.net/beat-gif-manifesto\">HTML video still can't beat GIF</a>:</p>\n<blockquote>\n<p>Animated GIF, despite having awful compression and terrible quality, is still more useful on the web than any other video format.</p>\n<p>In 2013 people still routinely convert YouTube clips to GIF (producing postage-stamp-sized dithered-to-death desaturated blobs that use more bandwidth than a full HD video), because there's still no better way to share a short movie clip on the web.</p>\n</blockquote>\n<p>Gifs are an abomination: they are heavy and the quality is, most of the time, terrible. However, their convenience is too good that people use them nonetheless.</p>\n<p>The electrical cost of gifs must be gigantic.</p>\n<hr>\n<h2>Update <span class=\"more\">08 June 2018</span></h2>\n<p>There's <a href=\"https://calendar.perfplanet.com/2017/animated-gif-without-the-gif/\">hope</a>. In a near future, and in other browsers than Safari, we will be able to use a video as an image to <em>simulate a gif</em> (ie., silence and autoplay). With perks of a video instead of an awful low-quality and heavy gif.</p>",
-      "author": {
-        "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
-      },
-      "date_published": "2013-08-29T00:00:00.000Z"
-    },
-    {
-      "id": "https://matthieuoger.com/2013/08/quote-modern-journalism/",
-      "url": "https://matthieuoger.com/2013/08/quote-modern-journalism/",
+      "id": "https://solarsailer.net/2013/08/quote-modern-journalism/",
+      "url": "https://solarsailer.net/2013/08/quote-modern-journalism/",
       "title": "Quote — Modern journalism",
       "content_html": "<p>This tweet could not better describe my feeling:</p>\n<blockquote class=\"twitter-tweet\">\n  <p>\n    Modern journalism is 90% reporting what people are saying on Twitter.\n  </p>\n<p>  — God (@TheTweetOfGod)\n<a href=\"https://twitter.com/TheTweetOfGod/statuses/359441152522469376\">July 22, 2013</a></p>\n</blockquote>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2013-08-29T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/quote-trent-reznor/",
-      "url": "https://matthieuoger.com/2013/08/quote-trent-reznor/",
-      "title": "Quote — Trent Reznor",
-      "content_html": "<blockquote>\n<p>I'm not saying offering things for free or pay-what-you-can is wrong. I'm saying my personal feeling is that my album's not a dime. It's not a buck. I made it as well as I could, and it costs 10 bucks, or go fuck yourself.</p>\n<p>— <a href=\"http://www.spin.com/featured/trent-reznor-upward-spiral-nine-inch-nails-spin-cover-september-2013/\">Trent Reznor</a></p>\n</blockquote>\n<p>(via <a href=\"http://parislemon.com/post/59507355135/i-know-that-what-were-doing-flies-in-the-face-of\">ParisLemon</a>)</p>",
+      "id": "https://solarsailer.net/2013/08/the-gif-video-format/",
+      "url": "https://solarsailer.net/2013/08/the-gif-video-format/",
+      "title": "The gif “video format”",
+      "content_html": "<p><a href=\"http://pornel.net/beat-gif-manifesto\">HTML video still can't beat GIF</a>:</p>\n<blockquote>\n<p>Animated GIF, despite having awful compression and terrible quality, is still more useful on the web than any other video format.</p>\n<p>In 2013 people still routinely convert YouTube clips to GIF (producing postage-stamp-sized dithered-to-death desaturated blobs that use more bandwidth than a full HD video), because there's still no better way to share a short movie clip on the web.</p>\n</blockquote>\n<p>Gifs are an abomination: they are heavy and the quality is, most of the time, terrible. However, their convenience is too good that people use them nonetheless.</p>\n<p>The electrical cost of gifs must be gigantic.</p>\n<hr>\n<h2>Update <span class=\"more\">08 June 2018</span></h2>\n<p>There's <a href=\"https://calendar.perfplanet.com/2017/animated-gif-without-the-gif/\">hope</a>. In a near future, and in other browsers than Safari, we will be able to use a video as an image to <em>simulate a gif</em> (ie., silence and autoplay). With perks of a video instead of an awful low-quality and heavy gif.</p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
-      "date_published": "2013-08-28T00:00:00.000Z"
+      "date_published": "2013-08-29T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/amazon-new-product-page/",
-      "url": "https://matthieuoger.com/2013/08/amazon-new-product-page/",
+      "id": "https://solarsailer.net/2013/08/amazon-new-product-page/",
+      "url": "https://solarsailer.net/2013/08/amazon-new-product-page/",
       "title": "Amazon's new product page",
       "content_html": "<p><a href=\"http://bokardo.com/archives/a-thought-on-amazons-new-product-page-design/\">Interesting article on Bokardo</a> about Amazon's \"new\" product page:</p>\n<blockquote>\n<p>If Amazon were to make a big change, like for example do some actual visual design so everything didn’t have the same visual weight, the mere shock of the change would probably send their revenue downward, at least initially. People dislike change because change is work. They have to figure out what changed, adapt to it, relearn the UI, and still try to get their job done (they one they used to know how to do). <strong>So the next time you hear “People hate change” think to yourself “People don’t hate change. They hate the work of change”.</strong></p>\n</blockquote>\n<p>(emphasis mine)</p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2013-08-28T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/quote-jonathan-blow/",
-      "url": "https://matthieuoger.com/2013/08/quote-jonathan-blow/",
+      "id": "https://solarsailer.net/2013/08/quote-trent-reznor/",
+      "url": "https://solarsailer.net/2013/08/quote-trent-reznor/",
+      "title": "Quote — Trent Reznor",
+      "content_html": "<blockquote>\n<p>I'm not saying offering things for free or pay-what-you-can is wrong. I'm saying my personal feeling is that my album's not a dime. It's not a buck. I made it as well as I could, and it costs 10 bucks, or go fuck yourself.</p>\n<p>— <a href=\"http://www.spin.com/featured/trent-reznor-upward-spiral-nine-inch-nails-spin-cover-september-2013/\">Trent Reznor</a></p>\n</blockquote>\n<p>(via <a href=\"http://parislemon.com/post/59507355135/i-know-that-what-were-doing-flies-in-the-face-of\">ParisLemon</a>)</p>",
+      "author": {
+        "name": "Matthieu Oger",
+        "url": "https://solarsailer.net/"
+      },
+      "date_published": "2013-08-28T00:00:00.000Z"
+    },
+    {
+      "id": "https://solarsailer.net/2013/08/quote-jonathan-blow/",
+      "url": "https://solarsailer.net/2013/08/quote-jonathan-blow/",
       "title": "Quote — Jonathan Blow",
       "content_html": "<blockquote>\n<p>Advertising is effective <em>only</em> because so many people think “Ads don't influence me” and “Ads give me what I want for free”.</p>\n<p>— <a href=\"https://twitter.com/Jonathan_Blow/status/372077731531350017\">Jonathan Blow</a></p>\n</blockquote>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2013-08-27T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/google-play-new-policies/",
-      "url": "https://matthieuoger.com/2013/08/google-play-new-policies/",
+      "id": "https://solarsailer.net/2013/08/google-play-new-policies/",
+      "url": "https://solarsailer.net/2013/08/google-play-new-policies/",
       "title": "Google Play new policies",
       "content_html": "<p><a href=\"http://blog.inner-active.com/2013/08/googles-new-policies-good-for-users-great-for-android-developers-and-the-ecosystem/\">Google’s New Policies: Good for Users, Great for Android Developers and the Ecosystem</a>:</p>\n<blockquote>\n<p>So what does all this mean? It means that Google understands that while open is great, at the end of the day, users would rather have a superior experience both in terms of Google Play as a whole, and apps behavior in particular.</p>\n</blockquote>\n<p>I am really thrilled by the changes, but I can't help smiling. Android might be \"open\", Google is definitely not.</p>\n<p>This makes me wonder…</p>\n<ul>\n<li>Android was the alternative to iOS because of the lack of policies (at least, by the developers). Google Play is now a lot more similar to the App Store. It is not as strict though.</li>\n<li>Will Google remove the abusive apps retroactively?</li>\n<li>China? Google was already out, but this will make the situation worse.</li>\n</ul>\n<p>Anyways, the chasm between Play (Google's Android) and Android is getting wider every day.</p>\n<p><strong>Update</strong>: I couldn't agree more with <a href=\"http://verynicewebsite.net/2013/08/open-always-loses/\">John Moltz</a>...</p>\n<blockquote>\n<p>I think it’s kind of amusing how quickly the narrative has changed from “Yay, open!” to “I, for one, welcome our closed overlords.”</p>\n</blockquote>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2013-08-26T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/ios7-user-tracking/",
-      "url": "https://matthieuoger.com/2013/08/ios7-user-tracking/",
+      "id": "https://solarsailer.net/2013/08/ios7-user-tracking/",
+      "url": "https://solarsailer.net/2013/08/ios7-user-tracking/",
       "title": "iOS 7 user tracking",
       "content_html": "<p><a href=\"http://iosdevweekly.com/issues/108/\">iOS Dev Weekly, issue 108</a>:</p>\n<blockquote>\n<p>If your solution to having uniqueIdentifier deprecated was to use the MAC address of the device in some way then you're going to have a bad time in iOS 7. […]</p>\n<p>The message here is very clear, Apple are not afraid to remove any API that makes tracking users across apps by different vendors possible.</p>\n</blockquote>\n<p><a href=\"https://developer.apple.com/news/index.php?id=8222013a\">Apple</a>:</p>\n<blockquote>\n<p>If your apps use the MAC address to identify an iOS device, the system will return the same static value for all devices running iOS 7.</p>\n</blockquote>\n<p>It is a bad week for advertisers (see: <a href=\"https://solarsailer.net/2013/08/google-play-new-policies/\">Google Play new policies</a>).</p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2013-08-26T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/lego-architects/",
-      "url": "https://matthieuoger.com/2013/08/lego-architects/",
+      "id": "https://solarsailer.net/2013/08/lego-architects/",
+      "url": "https://solarsailer.net/2013/08/lego-architects/",
       "title": "Lego Architects",
       "content_html": "<p><a href=\"http://www.wired.com/design/2013/08/a-lego-set-with-no-instructions-for-budding-architects/\">Wired</a>:</p>\n<blockquote>\n<p>Architecture Studio, a new set from Lego, comes with 1,210 white and translucent bricks. More notable is what it lacks: namely, instructions for any single thing you’re supposed to build with it. Instead, the kit is accompanied by a thick, 277-page guidebook filled with architectural concepts and building techniques alongside real world insights from prominent architecture studios from around the globe.</p>\n</blockquote>\n<p>It's a wonderful idea.</p>\n<p>(via <a href=\"https://twitter.com/molleindustria/status/369161957988765696\">@molleindustria</a>)</p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2013-08-19T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/team-of-one/",
-      "url": "https://matthieuoger.com/2013/08/team-of-one/",
+      "id": "https://solarsailer.net/2013/08/team-of-one/",
+      "url": "https://solarsailer.net/2013/08/team-of-one/",
       "title": "Team of One",
       "content_html": "<p><a href=\"https://myles.io/thoughts/theres-no-io-in-team\">There's no \"I/O\" in \"Team\"</a>:</p>\n<blockquote>\n<p>When you're a team of one, your I/O bandwidth is almost infinite. It's all in your brain, so you don't have to explain anything, write anything down, have meetings, draw on whiteboards, etc. Your available time to work collapses down to solving specific business problems with every line of code or web page update. Imagine a case where you never have to compromise, argue, make brain dead concessions or spend resources on proving your position. Assuming you are right, and have a good head for business, marketing and writing half-way decent code, you can solve a small problem very efficiently.</p>\n</blockquote>\n<p>Hard but hyper-efficient.</p>\n<p>We work <em>a bit</em> like that at <a href=\"http://pixelnest.io\">Pixelnest</a>. <a href=\"http://dmayance.com\">Damien</a> and me have a slightly different skill set, thus we can split the work almost equally. The advantage is that we can discuss together to avoid finishing in a dead end.</p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2013-08-19T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/tweaks/",
-      "url": "https://matthieuoger.com/2013/08/tweaks/",
-      "title": "Little tweaks",
-      "content_html": "<p>I just made some modifications to the blog. A bigger font, a <em>whiter</em> background and un-italicized quotations. I also reduced the size of the page by 300px. I've always felt that the page was way too large.</p>\n<p>I think that these little tweaks will make the reading experience more enjoyable.</p>",
-      "author": {
-        "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
-      },
-      "date_published": "2013-08-18T00:00:00.000Z"
-    },
-    {
-      "id": "https://matthieuoger.com/2013/08/google/",
-      "url": "https://matthieuoger.com/2013/08/google/",
+      "id": "https://solarsailer.net/2013/08/google/",
+      "url": "https://solarsailer.net/2013/08/google/",
       "title": "Google",
       "content_html": "<p><a href=\"https://engineering.gosquared.com/googles-downtime-40-drop-in-traffic\">Google’s downtime caused a 40% drop in global traffic</a>:</p>\n<blockquote>\n<p>That’s huge. As internet users, our reliance on google.com being up is huge.</p>\n</blockquote>\n<p>This <em>is</em> way more dangerous than any proprietary software. At least, you can still use your software even if it is discontinued.</p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2013-08-18T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/the-lineup-of-5/",
-      "url": "https://matthieuoger.com/2013/08/the-lineup-of-5/",
+      "id": "https://solarsailer.net/2013/08/tweaks/",
+      "url": "https://solarsailer.net/2013/08/tweaks/",
+      "title": "Little tweaks",
+      "content_html": "<p>I just made some modifications to the blog. A bigger font, a <em>whiter</em> background and un-italicized quotations. I also reduced the size of the page by 300px. I've always felt that the page was way too large.</p>\n<p>I think that these little tweaks will make the reading experience more enjoyable.</p>",
+      "author": {
+        "name": "Matthieu Oger",
+        "url": "https://solarsailer.net/"
+      },
+      "date_published": "2013-08-18T00:00:00.000Z"
+    },
+    {
+      "id": "https://solarsailer.net/2013/08/the-lineup-of-5/",
+      "url": "https://solarsailer.net/2013/08/the-lineup-of-5/",
       "title": "The Lineup of 5",
       "content_html": "<p>Apple is rumored to announce not one but two new iPhones on september 10. One of them will be the new premium iPhone (5S). The other will be the \"<em>cheap</em>\" one (5C).<sup id=\"fnref-1\"><a href=\"#fn-1\" class=\"footnote-ref\">1</a></sup></p>\n<p>It will be a big change in the current manufacturing strategy of Apple. Nowadays, there is three iPhones available: the flagship — the iPhone 5 —, and the older and (slightly) cheaper iPhone 4S and 4.</p>\n<p>By releasing the 5C, Apple can get rid of the iPhone 4 and 4S once and for all. It means that there will be only the iPhone 5C, the iPhone 5 and the iPhone 5S. Doing that was probably not possible for Apple before, without compromising the quality of the cheapest model and at the scale at which Apple operates.</p>\n<p>We can infer (if the rumors are true) that Apple has now the production lines to release two new iPhones at the same time.</p>\n<p>This has a big impact: In the fall, all the iPhones sold are going to be capable of using <strong>every</strong> features of the last OS. It's huge. For example, iOS 7 AirDrop only works on one current model: the iPhone 5.<sup id=\"fnref-2\"><a href=\"#fn-2\" class=\"footnote-ref\">2</a></sup></p>\n<ul>\n<li>\n<p>It can put the iPhone way ahead of its competitors that struggle with OSes versions and hardware disparities.</p>\n</li>\n<li>\n<p>It will also unify the lineup around the new lightning connector and the 4 inches screen.</p>\n</li>\n<li>\n<p>It implies that the hardware and the software are going to evolve at the same pace.</p>\n</li>\n</ul>\n<p>The story is the same with the iPads. I am almost certain that the iPad 2 will disappear this year, leaving only the new Mini and classic iPads available.</p>\n<p>The next year eventual iPhone five inches will fit perfectly in this new strategy: selling only renewed devices with state of the art hardware and software.</p>\n<p><strong>Update</strong>: Related, \"<a href=\"http://furbo.org/2013/08/15/its-the-production-line-stupid/\">It’s the Production Line, Stupid</a>\".</p>\n<p><strong>Update 09/12/2013</strong>: Guess I was wrong. The new lineup is made of an iPhone 5C, 5S and the old 4S.</p>\n<div class=\"footnotes\">\n<hr>\n<ol>\n<li id=\"fn-1\">\n<p>Cheap <strong>does not necessarily mean low quality</strong>.</p>\n<a href=\"#fnref-1\" class=\"footnote-backref\">↩</a>\n</li>\n<li id=\"fn-2\">\n<p>I take AirDrop as an example because I think that this technology is going to be a decisive advantage for Apple. The fact that it is currently not available on every model is a pain. Hopefully, the new lineup will mitigate the problem a lot.</p>\n<a href=\"#fnref-2\" class=\"footnote-backref\">↩</a>\n</li>\n</ol>\n</div>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2013-08-16T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/app-store/",
-      "url": "https://matthieuoger.com/2013/08/app-store/",
-      "title": "App Store",
-      "content_html": "<p>Truth:</p>\n<blockquote class=\"twitter-tweet\">\n<p>\n\tPossess:\n\t<br>&#10;1. ~1M captive audience of developers,\n\t<br>&#10;2. ~1M apps,\n\t<br>&#10;3. ~$150B in cash, and\n\t<br>&#10;4. fail to (re)design an App Store.\n\t<br>&#10;Nuts.\n</p>\n<p>— Kontra (@counternotions)\n<a href=\"https://twitter.com/counternotions/statuses/367619924929568768\">\nAugust 14, 2013\n</a></p>\n</blockquote>",
-      "author": {
-        "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
-      },
-      "date_published": "2013-08-15T00:00:00.000Z"
-    },
-    {
-      "id": "https://matthieuoger.com/2013/08/ios7/",
-      "url": "https://matthieuoger.com/2013/08/ios7/",
+      "id": "https://solarsailer.net/2013/08/ios7/",
+      "url": "https://solarsailer.net/2013/08/ios7/",
       "title": "iOS 7",
       "content_html": "<p><a href=\"http://www.imore.com/wheres-bigger-iphone\">Rene Ritchie</a>:</p>\n<blockquote>\n<p>When a company like Apple goes to all the trouble of building a <strong>physics</strong> and <strong>particle engine</strong> to support their interface, when they <strong>objectify</strong> it and <strong>gamify</strong> it and <strong>make it a dynamic, living thing</strong>, it opens up a lot of potential. When you add <strong>Text Kit</strong> to mix, and the <strong>design language</strong> in general, and when you see what it all looks and feels like on an iPad mini, then the possibilities for a bigger iPhone next year become infinitely more exciting.</p>\n</blockquote>\n<p>Good recap of the real changes brought by iOS 7.</p>\n<p><em>(emphasis mine)</em></p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2013-08-15T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/old-times/",
-      "url": "https://matthieuoger.com/2013/08/old-times/",
+      "id": "https://solarsailer.net/2013/08/app-store/",
+      "url": "https://solarsailer.net/2013/08/app-store/",
+      "title": "App Store",
+      "content_html": "<p>Truth:</p>\n<blockquote class=\"twitter-tweet\">\n<p>\n\tPossess:\n\t<br>&#10;1. ~1M captive audience of developers,\n\t<br>&#10;2. ~1M apps,\n\t<br>&#10;3. ~$150B in cash, and\n\t<br>&#10;4. fail to (re)design an App Store.\n\t<br>&#10;Nuts.\n</p>\n<p>— Kontra (@counternotions)\n<a href=\"https://twitter.com/counternotions/statuses/367619924929568768\">\nAugust 14, 2013\n</a></p>\n</blockquote>",
+      "author": {
+        "name": "Matthieu Oger",
+        "url": "https://solarsailer.net/"
+      },
+      "date_published": "2013-08-15T00:00:00.000Z"
+    },
+    {
+      "id": "https://solarsailer.net/2013/08/old-times/",
+      "url": "https://solarsailer.net/2013/08/old-times/",
       "title": "Old times",
       "content_html": "<p>I didn't find enough time to create this blog over the last years. However, during this timespan, I read <strong>a lot</strong> of great articles.</p>\n<p>I'm going to link some of them from time to time. After all, I also created this blog to be a sort of personal archive of what I liked, with my impressions.</p>\n<p>I already did that once, with this article: <a href=\"https://solarsailer.net/2013/08/life-too-short-ugly-graphs/\">Quote — \"Life is too short to stare at ugly graphs. And yes, you should feel bad.\"</a>.</p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2013-08-14T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/transitional-interfaces/",
-      "url": "https://matthieuoger.com/2013/08/transitional-interfaces/",
+      "id": "https://solarsailer.net/2013/08/transitional-interfaces/",
+      "url": "https://solarsailer.net/2013/08/transitional-interfaces/",
       "title": "Animations, interactions, transitions",
       "content_html": "<p><a href=\"https://medium.com/design-ux/926eb80d64e3\">Transitional Interfaces</a>:</p>\n<blockquote>\n<p>It seems crazy to me that more people don’t think about interfaces with respect to the dimension of time. Motion can provide so much information! Maybe the tools to create prototypes are too complicated for most designers?</p>\n</blockquote>\n<p>This is something I always speak about: an interface without motion is nothing. There is no context, no link between different objects.</p>\n<p>Windows Phone did a great job to this regard. For example, if you tap a tile on the homescreen, the rest of them move outside the screen before the one you pushed. The system has clearly been created around that, to respond to inputs and act on them.</p>\n<p>Motion is clearly a thing that designers tend to forget. Even if an interface is beautiful, it will look dull if nothing reacts to you. The \"<em>flat</em>\" design movement will exacerbate this. iOS 7 has made depth and context keys citizens of its new UX paradigm.</p>\n<p>Tools to simplify this process are now crucial.</p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2013-08-14T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/marketers/",
-      "url": "https://matthieuoger.com/2013/08/marketers/",
+      "id": "https://solarsailer.net/2013/08/marketers/",
+      "url": "https://solarsailer.net/2013/08/marketers/",
       "title": "Marketers",
       "content_html": "<p><a href=\"http://www.elezea.com/2013/07/hey-marketers/\">Hey Marketers, making a website is not about you</a> (emphasis mine):</p>\n<blockquote>\n<p>The problem with many Marketers today is that they too often make it all about the company, and not about user needs. I’m sorry, but it’s not about changing people, and it’s not about making them do stuff. That’s old school thinking from a time when brands could steamroll their way into the consciousness and wallets of people through clever advertising and sleight of hand. Those days are over. Now our job is not to make it about how awesome we are, <strong>but how well we help people accomplish their goals</strong>.</p>\n</blockquote>\n<p>Further readings related to this subject:</p>\n<ul>\n<li><a href=\"http://www.90percentofeverything.com/2013/07/23/the-slippery-slope/\">The slippery slope</a></li>\n<li><a href=\"http://seriouspony.com/blog/2013/7/24/your-app-makes-me-fat\">Your app makes me fat</a></li>\n</ul>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2013-08-13T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/zero/",
-      "url": "https://matthieuoger.com/2013/08/zero/",
+      "id": "https://solarsailer.net/2013/08/zero/",
+      "url": "https://solarsailer.net/2013/08/zero/",
       "title": "Zero",
       "content_html": "<p><a href=\"http://zachholman.com/posts/inbox-zero-everything-zero\">Zach Holman</a>:</p>\n<blockquote>\n<p>Everyone works differently. The trick is finding out how you work best. For me, I tend to take an OCD approach to emptying things. I keep a clean desktop: under three icons at a time, preferably. It made sense to use my desktop as a kind of bucket I needed to empty: it's always there, and I can put short, actionable items there because that visually disturbs me enough to want to clean it off (and do the action).</p>\n<p>This is why Inbox Zero works so well for handling email for me. I try to use that mentality everywhere, really: iOS notifications, browser tabs, terminal tabs, and so on. Reducing ambiguity around what to do next is a huge deal for me.</p>\n</blockquote>\n<p>I have a similar mindset. I hate having stuffs in front of me:</p>\n<ul>\n<li>I close any app I don't use now</li>\n<li>I keep my tabs at a minimum</li>\n<li>I empty my mail inbox as much as I can</li>\n<li>I prune my RSS and Twitter feeds</li>\n<li>I clean my OS desktop</li>\n</ul>\n<p>A sort of minimalism? Probably.</p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2013-08-09T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/future-programming/",
-      "url": "https://matthieuoger.com/2013/08/future-programming/",
+      "id": "https://solarsailer.net/2013/08/future-programming/",
+      "url": "https://solarsailer.net/2013/08/future-programming/",
       "title": "The Future Of Programming",
       "content_html": "<p>I finally watched the latest Brett Victor's conference: <a href=\"https://vimeo.com/71278954\">The Future Of Programming</a>. I highly recommend to check everything he has done. You will not loose your time.</p>\n<p>One of the moments I liked the best is when Brett Victor is talking about smalltalk and its browser view. This idea, that is fairly old now, reminds me of some initiatives like <a href=\"http://brackets.io/\">Brackets</a> or <a href=\"http://www.lighttable.com/\">Light Table</a>. These editors are still using text files to manage code, but they add inline code browsing or live feedback, amongst others. It is funny to see that we had to wait 40 years to see that happens.</p>\n<p>Which reminds me of the conclusion of Brett Victor: <strong>you have to realize that you do not know what you are doing in order to find new way of doing things</strong>.</p>\n<p>In the programming field, we have improved our tools, but globally, we are still doing the same thing: coding with text files. <em>That's sad</em>.</p>\n<h2>A brief aside</h2>\n<p>A theme that comes in almost all the Brett Victor's talks is live feedback. Just watch <a href=\"https://vimeo.com/36579366\">Inventing on Principle</a>.</p>\n<p>I have used Interface Builder a lot recently — a software to create interface for iOS apps —, and even if this tool is one of the best of its kind (I look at you Android, with your stupid XML UI files), it is not a good one for all that.</p>\n<p>It gives me a partial representation of my interface: I cannot do everything with it. I cannot see animations. I cannot see particles. I cannot test the physic (and physic is clearly one of the key points of the new iOS 7 interface). I loose a lot of time checking that what I have done in code and Interface Builder are really what I want. It is tedious. It is slow.</p>\n<p>We need better tools to create UI — we need <strong>feedback and interactivity</strong> directly within the creative process.</p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2013-08-06T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/quote-marco-arment/",
-      "url": "https://matthieuoger.com/2013/08/quote-marco-arment/",
-      "title": "Quote — Marco Arment",
-      "content_html": "<blockquote>\n<p>I offered to give my Nexus 7 and Kindle Fire to Betaworks in the Instapaper acquisition, but they had so many of both sitting around already that they declined. Tech companies with mobile apps can practically tile walls with outdated Android devices. They’re the new AOL CDs.</p>\n<p>— <a href=\"http://www.marco.org/2013/07/25/nexus-72\">Marco Arment</a></p>\n</blockquote>",
-      "author": {
-        "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
-      },
-      "date_published": "2013-08-05T00:00:00.000Z"
-    },
-    {
-      "id": "https://matthieuoger.com/2013/08/os-wp-winrt/",
-      "url": "https://matthieuoger.com/2013/08/os-wp-winrt/",
+      "id": "https://solarsailer.net/2013/08/os-wp-winrt/",
+      "url": "https://solarsailer.net/2013/08/os-wp-winrt/",
       "title": "Windows Phone and WinRT",
       "content_html": "<p>From <a href=\"http://winsupersite.com/windows-phone/windows-phone-or-windows-rt\">Windows Phone or Windows RT?</a>:</p>\n<blockquote>\n<p>Microsoft already has a mobile platform with a thriving ecosystem. It’s called Windows Phone, and I think it makes a far better choice for general purpose tablets than does Windows RT.</p>\n</blockquote>\n<p>I used to have a Nokia Windows Phone, that I loved. The experience was pretty good, except for the lack of apps.<sup id=\"fnref-1\"><a href=\"#fn-1\" class=\"footnote-ref\">1</a></sup></p>\n<p>I created some Windows Phone 7 applications (notably <a href=\"http://dmayance.com/culturez-vous/\">Culturez-Vous</a> with Damien Mayance). I also developed a WinRT library for my daily work then — before Pixelnest.</p>\n<p>I had a Windows 8 and a WinRT device (Surface) at my workplace these days, and it was horrible. The experience was bad — the OS was a schizophrenic beast, always switching between the classic desktop and the Metro environment, with no apps. It was slow, unrefined, confusing. <a href=\"http://cl.ly/image/102N3O3C0k3z1c0g0u3g\">The font rendering was horrid</a>.</p>\n<p>When the announcement of WinRT became public, I wondered why Microsoft did not leverage its Windows Phone OS, instead of starting from scratch with Windows 8. A tablet with Windows Phone would have been far better than a tablet with the fail that is WinRT/Windows 8.</p>\n<div class=\"footnotes\">\n<hr>\n<ol>\n<li id=\"fn-1\">\n<p>To be fair, however, even then I thought that iOS was a superior OS. But I like to try a new OS to discover what works and not, and to make my own opinion.<br><br>Windows Phone lacked some polish but was rock solid, especially when compared to Android. At least, the Lumia was a supercharged feature phone with a browser and a decent keyboard.</p>\n<a href=\"#fnref-1\" class=\"footnote-backref\">↩</a>\n</li>\n</ol>\n</div>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2013-08-05T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/",
-      "url": "https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/",
+      "id": "https://solarsailer.net/2013/08/quote-marco-arment/",
+      "url": "https://solarsailer.net/2013/08/quote-marco-arment/",
+      "title": "Quote — Marco Arment",
+      "content_html": "<blockquote>\n<p>I offered to give my Nexus 7 and Kindle Fire to Betaworks in the Instapaper acquisition, but they had so many of both sitting around already that they declined. Tech companies with mobile apps can practically tile walls with outdated Android devices. They’re the new AOL CDs.</p>\n<p>— <a href=\"http://www.marco.org/2013/07/25/nexus-72\">Marco Arment</a></p>\n</blockquote>",
+      "author": {
+        "name": "Matthieu Oger",
+        "url": "https://solarsailer.net/"
+      },
+      "date_published": "2013-08-05T00:00:00.000Z"
+    },
+    {
+      "id": "https://solarsailer.net/2013/08/life-too-short-ugly-graphs/",
+      "url": "https://solarsailer.net/2013/08/life-too-short-ugly-graphs/",
       "title": "Quote — \"Life is too short to stare at ugly graphs. And yes, you should feel bad.\"",
       "content_html": "<blockquote>\n<p>It was done in-house. We really care about how our graphs look, because graphs represent information. It's like typography. Humans learned how to write 5000 years ago, and it took us a very long while until we mastered the art of transmitting information like that. Once we mastered it, however, we started caring about the way we present that information. For no specific reason, but we developed unique typefaces that look beautiful, different, yet transmit the same information.</p>\n<p>Likewise, we've spent a ton of valuable time graphing and mining data from all over our stack; it's only natural that after that, we care about how we present that data. Like typography, it's hard because it's an arduous hunt for the aesthetics hidden behind information. But this hunt is what makes us human.</p>\n<p>That's why we design beautiful graphs, just like we'd design a beautiful typeface. Not because we are GitHubbers, nor because we are designers, but because we are humans.</p>\n<p><strong>Life is too short to stare at ugly graphs. And yes, you should feel bad.</strong></p>\n<p>PS: we have no project managers at GitHub.</p>\n<p>— <a href=\"https://news.ycombinator.com/item?id=4480876\">Tanoku, Hacker News</a></p>\n</blockquote>\n<p>An oldie, but I'm still loving it (emphasis mine).</p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2013-08-02T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/quote-changing-the-world/",
-      "url": "https://matthieuoger.com/2013/08/quote-changing-the-world/",
+      "id": "https://solarsailer.net/2013/08/quote-changing-the-world/",
+      "url": "https://solarsailer.net/2013/08/quote-changing-the-world/",
       "title": "Quote — \"Changing the world.\"",
       "content_html": "<blockquote>\n<p>Could \"changing the world\" be a contender the most trite, overused expression of 2013? Recent grads seem to have adopted it en masse as their personal tagline. It's a nice sentiment, but it hard not to roll your eyes when every 23 year old applies it to his mobile phone app with no users that he threw together in a couple weeks.</p>\n<p>[…]</p>\n<p>Besides, I'm not even sure it's a healthy sentiment for most people. If your focus is as broad as \"changing the world,\" you're probably setting yourself up to feel like a failure.</p>\n<p>— <a href=\"https://news.ycombinator.com/item?id=6108967\">Freyr, Hacker News</a></p>\n</blockquote>\n<p>(via <a href=\"http://wolfslittlestore.be/2013/08/changing-the-world/\">Wolf's Little Store</a>)</p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2013-08-02T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/07/designer-decision/",
-      "url": "https://matthieuoger.com/2013/07/designer-decision/",
+      "id": "https://solarsailer.net/2013/07/designer-decision/",
+      "url": "https://solarsailer.net/2013/07/designer-decision/",
       "title": "Designer's decision",
       "content_html": "<p><a href=\"https://benhowdle.im/options-are-the-devil.html\">Ben Howdle, in “Options Are The Devil”</a>:</p>\n<blockquote>\n<p>It’s kind of like going, “Well, erm, I dunno, this is a tricky UI/UX decision, oh hell, we’ll let the user decide.” Passing the buck to the user to make the UX decision for you? Sounds worse when it’s put like that, huh?</p>\n</blockquote>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2013-07-25T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/07/rule-three/",
-      "url": "https://matthieuoger.com/2013/07/rule-three/",
+      "id": "https://solarsailer.net/2013/07/rule-three/",
+      "url": "https://solarsailer.net/2013/07/rule-three/",
       "title": "The rule of Three",
       "content_html": "<p><a href=\"http://www.codinghorror.com/blog/2013/07/rule-of-three.html\">Jeff Atwood</a>:</p>\n<blockquote>\n<p>If I have learned anything in my programming career, it is this: building reusable software, <em>truly</em> reusable software, is an incredibly hard problem – right up there with <a href=\"http://martinfowler.com/bliki/TwoHardThings.html\">naming things and cache invalidation</a>.</p>\n</blockquote>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2013-07-24T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/07/current-days-science-fiction/",
-      "url": "https://matthieuoger.com/2013/07/current-days-science-fiction/",
+      "id": "https://solarsailer.net/2013/07/current-days-science-fiction/",
+      "url": "https://solarsailer.net/2013/07/current-days-science-fiction/",
       "title": "Current days science fiction",
       "content_html": "<p><a href=\"http://verynicewebsite.net/2013/07/a-planet-where-apes-evolved-from-man/\">John Moltz</a>:</p>\n<blockquote>\n<p>Microsoft struggles to get developers on its platforms with apps coming late or not at all, developers ship for Apple first and foremost and the platform with the most market share is, ostensibly, open-source.</p>\n<p>You couldn’t have written this as science fiction in 1997. No one would have believed it.</p>\n</blockquote>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2013-07-23T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/07/towerfall-interview/",
-      "url": "https://matthieuoger.com/2013/07/towerfall-interview/",
+      "id": "https://solarsailer.net/2013/07/towerfall-interview/",
+      "url": "https://solarsailer.net/2013/07/towerfall-interview/",
       "title": "Matt Thorson on Towerfall, Ouya, game design and pricing",
       "content_html": "<p>The <a href=\"http://www.polygon.com/2013/7/19/4535012/towerfall-ouya-matt-thorson-multiplayer-competitive-fighting-games\">full interview</a> is really great:</p>\n<blockquote>\n<p>\"I personally don't think the Ouya's audience is big enough to support mobile pricing,\" he added. \"All the arguments towards pricing lower were to cater to people's expectations, and I believe TowerFall is worth $15 if you have people to play with.\" […]</p>\n<p>\"On an iPhone, you can charge a dollar and potentially make it back because the audience is gigantic. But there aren't enough Ouyas out there yet.\"</p>\n</blockquote>\n<p>However, I must confess that I'm a bit surprised that only 2.000 copies have been sold. Even at $15 each.</p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2013-07-22T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/07/unsplash/",
-      "url": "https://matthieuoger.com/2013/07/unsplash/",
-      "title": "Unsplash",
-      "content_html": "<p> Wonderful resource for high quality photos.</p>\n<p> → <a href=\"http://unsplash.com/\">See here</a>.</p>",
-      "author": {
-        "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
-      },
-      "date_published": "2013-07-04T00:00:00.000Z"
-    },
-    {
-      "id": "https://matthieuoger.com/2013/07/ios7-david-cole/",
-      "url": "https://matthieuoger.com/2013/07/ios7-david-cole/",
+      "id": "https://solarsailer.net/2013/07/ios7-david-cole/",
+      "url": "https://solarsailer.net/2013/07/ios7-david-cole/",
       "title": "Is the new Apple iOS 7 look an improvement?",
       "content_html": "<p><a href=\"http://www.quora.com/iOS-7/Is-the-new-Apple-iOS-7-look-an-improvement/answer/David-Cole\">David Cole on Quora</a>:</p>\n<blockquote>\n<p>I have a different perspective than most of the other answerers here. I don't think the interesting components of iOS 7 are found in the icons or the color or the type — those are relatively self-contained and thus easy to change and evolve. I think the most interesting changes, and the best changes, run much deeper than that, and yet they're intrinsically linked to the \"look\" of it.</p>\n</blockquote>\n<p>One of the best analysis that I've read about iOS 7.</p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2013-07-04T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/07/quote-brent-simmons/",
-      "url": "https://matthieuoger.com/2013/07/quote-brent-simmons/",
+      "id": "https://solarsailer.net/2013/07/unsplash/",
+      "url": "https://solarsailer.net/2013/07/unsplash/",
+      "title": "Unsplash",
+      "content_html": "<p> Wonderful resource for high quality photos.</p>\n<p> → <a href=\"http://unsplash.com/\">See here</a>.</p>",
+      "author": {
+        "name": "Matthieu Oger",
+        "url": "https://solarsailer.net/"
+      },
+      "date_published": "2013-07-04T00:00:00.000Z"
+    },
+    {
+      "id": "https://solarsailer.net/2013/07/quote-brent-simmons/",
+      "url": "https://solarsailer.net/2013/07/quote-brent-simmons/",
       "title": "Quote — Brent Simmons",
       "content_html": "<blockquote>\n<p>Efficiency is more important than cloning Google Reader’s (undocumented and un-lovely) API and more important than adhering strictly to REST. (<strong>Because efficiency makes for a better user experience, and that’s more important than anything else.</strong>)</p>\n<p>— <a href=\"http://inessential.com/2013/07/01/netnewswire_and_syncing_speculation\">Brent Simmons</a></p>\n</blockquote>\n<p>(emphasis mine)</p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2013-07-02T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/07/firefox-os/",
-      "url": "https://matthieuoger.com/2013/07/firefox-os/",
+      "id": "https://solarsailer.net/2013/07/firefox-os/",
+      "url": "https://solarsailer.net/2013/07/firefox-os/",
       "title": "Firefox OS",
       "content_html": "<p>Mozilla and Telefónica have announced a phone running Firefox OS this morning - the ZTE Open. It will cost $69.</p>\n<p>Mozilla, as usual, promotes the open nature of its OS along with the fact that it is powered by web technologies:</p>\n<blockquote class=\"twitter-tweet\"><p><a href=\"https://twitter.com/search?q=%23FirefoxOS&amp;src=hash\">#FirefoxOS</a> arrives this month in select markets! Celebrate the 1st smartphone powered completely by Web technologies! <a href=\"http://t.co/Mio0f4zctj\">http://t.co/Mio0f4zctj</a></p>&mdash; Firefox (@firefox) <a href=\"https://twitter.com/firefox/statuses/351641840728023040\">July 1, 2013</a></blockquote>\n<p>I honestly don't get it:</p>\n<ul>\n<li>\n<p>As a user, why should I care that my phone is using web technologies? What is the benefit for <strong>me</strong>?</p>\n</li>\n<li>\n<p>This is the main argument that I have heard about FirefoxOS. Not that it is fast, features-rich or with a huge ecosystem. Just that the OS was built with web technologies. Once again, why should I care ? It's a technical detail, not something that has any value for a consumer.</p>\n</li>\n<li>\n<p>Firefox means a slow and heavy browser. The phone costs $69, which will probably result in a crappy hardware. The web (HTML, CSS and JavaScript) is a nice environment, a really powerful one to create websites, but it is <em>slow</em>. I want my phone to run quickly and smoothly. I want it to scroll at 60 fps. This phone (Firefox + crappy hardware + web) sounds <em>not</em> like a good deal.</p>\n</li>\n</ul>\n<p>I would like to be wrong, but I don't expect much and I don't see the value of Firefox OS, especially against its main competitor — Android. There are Android phones that are cheaper AND with Google Play.</p>\n<p>I agree with <a href=\"http://ben-evans.com/\">Benedict Evans</a>:</p>\n<blockquote class=\"twitter-tweet\"><p>When I hear people say how great Firefox OS is, they talk about operators, OEMs, litigation... and sometimes remember to mention users</p>&mdash; Benedict Evans (@BenedictEvans) <a href=\"https://twitter.com/BenedictEvans/statuses/351646258856857600\">July 1, 2013</a></blockquote>\n<p>And:</p>\n<blockquote class=\"twitter-tweet\"><p>Everyone agrees that the web is the future and apps are a dead end. The only people who disagree are the actual, you know, users.</p>&mdash; Benedict Evans (@BenedictEvans) <a href=\"https://twitter.com/BenedictEvans/statuses/351646755818975232\">July 1, 2013</a></blockquote>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2013-07-01T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/06/google-reader-alternative/",
-      "url": "https://matthieuoger.com/2013/06/google-reader-alternative/",
+      "id": "https://solarsailer.net/2013/06/google-reader-alternative/",
+      "url": "https://solarsailer.net/2013/06/google-reader-alternative/",
       "title": "The search for a Google Reader alternative",
       "content_html": "<p><a href=\"http://www.elezea.com/2013/06/google-reader-replacement/\">Rian Van Der Merwe, my Google Reader replacement setup</a>:</p>\n<blockquote>\n<p>But I do feel like I now know way too much about the RSS reader landscape than I every wanted to. Thanks, Google.</p>\n</blockquote>\n<p>Exactly my feeling.</p>\n<p>I used to read my feeds in one <strong>beautiful</strong> app, whatever the device I was using (Reeder - iPhone, iPad, Mac). Bonus: the sync service (Google Reader) was almost flawless.</p>\n<p>Now, we have a myriad of alternatives, and I can't find one that seems as good as Google Reader was — <em>and</em> working with each version of Reeder.</p>\n<p>The worst thing in this mess is that a fair amount of the old Google Reader users would have gladly paid for it - the adoption of Feedbin or FeedWrangler clearly demonstrates that.</p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2013-06-28T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/06/a-start/",
-      "url": "https://matthieuoger.com/2013/06/a-start/",
+      "id": "https://solarsailer.net/2013/06/a-start/",
+      "url": "https://solarsailer.net/2013/06/a-start/",
       "title": "A start",
       "content_html": "<p>For years, I was eager to create my own writing \"platform\".</p>\n<p>So, I guess it starts now.</p>",
       "author": {
         "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
+        "url": "https://solarsailer.net/"
       },
       "date_published": "2013-06-26T00:00:00.000Z"
     }

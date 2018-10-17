@@ -1,19 +1,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>https://matthieuoger.com/</id>
-  <updated>2018-10-17T17:26:22.766Z</updated>
+  <id>https://solarsailer.net/</id>
+  <updated>2018-10-17T17:32:07.369Z</updated>
   <title>Solar Sailer</title>
-  <icon>https://matthieuoger.com/feed.png</icon>
-  <link href="https://matthieuoger.com/atom.xml" rel="self"/>
-  <link href="https://matthieuoger.com/"/>
+  <icon>https://solarsailer.net/feed.png</icon>
+  <link href="https://solarsailer.net/atom.xml" rel="self"/>
+  <link href="https://solarsailer.net/"/>
   <author>
     <name>Matthieu Oger</name>
-    <uri>https://matthieuoger.com/</uri>
+    <uri>https://solarsailer.net/</uri>
   </author>
   <entry>
-    <id>https://matthieuoger.com/2018/09/glory-to-rome/</id>
+    <id>https://solarsailer.net/2018/09/glory-to-rome/</id>
     <updated>2018-09-16T00:00:00.000Z</updated>
     <title>The Story of Glory To Rome</title>
-    <link href="https://matthieuoger.com/2018/09/glory-to-rome/"/>
+    <link href="https://solarsailer.net/2018/09/glory-to-rome/"/>
     <content type="html"><![CDATA[<p><a href="https://arstechnica.com/gaming/2018/09/how-a-ceo-fiddled-while-beloved-board-game-glory-to-rome-crashed-and-burned/?comments=1">Cyrus Farivar at Ars Technica</a>:</p>
 <blockquote>
 <p>But [Glory To Rome] (GTR) felt different. First, I noticed the packaging. Unlike the high-quality large-format cardboard boxes with soft colors and thoughtful art, GTR came in a compact, cheap, plastic tub that wasn’t much bigger than a large paperback book. Second, and more jarring, was the game's art. It had a bright color palette and cartoonish characters that seemed like they belonged in a children’s clip art computer game.</p>
@@ -47,14 +47,14 @@
 </div>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2018/07/reboot/</id>
+    <id>https://solarsailer.net/2018/07/reboot/</id>
     <updated>2018-07-20T00:00:00.000Z</updated>
     <title>Reboot</title>
-    <link href="https://matthieuoger.com/2018/07/reboot/"/>
+    <link href="https://solarsailer.net/2018/07/reboot/"/>
     <content type="html"><![CDATA[<p>It's been a long time since my last post (more than two years, in fact). And the reason is absurd.</p>
 <p><strong>tl;dr</strong>: I have redesigned Solar Sailer, making the <a href="/">home page</a> the most important one and refocusing this site as a way to find me on Internet. The blog is relegated to a secondary part of the website. I still plan to publish articles, but the focus of Solar Sailer is to quickly know who I am, what I've done and where you can find me.</p>
 <p>The rest is a bonus. However, I'm still planning to expand this website in new ways — adding a portfolio and a resume, most notably.</p>
@@ -86,14 +86,14 @@
 <p>I hope you'll like it.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2016/04/dwarf-fortress-systems/</id>
+    <id>https://solarsailer.net/2016/04/dwarf-fortress-systems/</id>
     <updated>2016-04-01T00:00:00.000Z</updated>
     <title>Cats, taverns and cleaning systems</title>
-    <link href="https://matthieuoger.com/2016/04/dwarf-fortress-systems/"/>
+    <link href="https://solarsailer.net/2016/04/dwarf-fortress-systems/"/>
     <content type="html"><![CDATA[<p><a href="http://www.pcgamer.com/dwarf-fortress-creator-on-how-hes-42-towards-simulating-existence/">Tarn Adams</a>:</p>
 <blockquote>
 <p>It’s funny how I have popular bugs, right? You shouldn’t have popular bugs. […] I added taverns to fortress mode, so the dwarves will go to a proper establishment, get mugs, and make orders, and they’ll drink in the mug. And, you know, things happen, mugs get spilled, there’s some alcohol on the ground.</p>
@@ -112,14 +112,14 @@
 <p>I'm still baffled to know that many game developers (or other developers) work without version control. It seems so dangerous, but… well.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2016/03/delight/</id>
+    <id>https://solarsailer.net/2016/03/delight/</id>
     <updated>2016-03-19T00:00:00.000Z</updated>
     <title>Delight</title>
-    <link href="https://matthieuoger.com/2016/03/delight/"/>
+    <link href="https://solarsailer.net/2016/03/delight/"/>
     <content type="html"><![CDATA[<p><a href="http://craigmod.com/sputnik/leica_q/">Craig Mod in his beautiful essay about the Leica Q</a>:</p>
 <blockquote>
 <p>And what <em>is</em> delight? For me, delight is born from a tool’s intuitiveness. Things just working without much thought or fiddling. Delight is a simple menu system you almost never have to use. Delight is a well-balanced weight on the shoulder, in the hand. Delight is the just-right tension on the aperture ring between stops. Delight is a single battery lasting all day. Delight is being able to knock out a 10,000 iso image and know it'll be usable. Delight is extracting gorgeous details from the cloak of shadows. Delight is firing off a number of shots without having to wait for the buffer to catch up. Delight is constraints, joyfully embraced.</p>
@@ -134,14 +134,14 @@
 </blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2016/03/java/</id>
+    <id>https://solarsailer.net/2016/03/java/</id>
     <updated>2016-03-17T00:00:00.000Z</updated>
     <title>Why do many software engineers hate Java?</title>
-    <link href="https://matthieuoger.com/2016/03/java/"/>
+    <link href="https://solarsailer.net/2016/03/java/"/>
     <content type="html"><![CDATA[<p><a href="https://www.quora.com/Why-do-many-software-engineers-not-like-Java/answer/Michael-O-Church">Michael O. Church</a>:</p>
 <blockquote>
 <p>First, let's cover the technical issues. It's verbose, combines the worst of both worlds between static and dynamic typing by having a hobbled but extremely clunky type system, and mandates running on a virtual machine (VM) that has a macroscopic startup time (not an issue for long-running servers, but painful for command-line applications). […]</p>
@@ -161,14 +161,14 @@
 </blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2016/03/virtual-reality/</id>
+    <id>https://solarsailer.net/2016/03/virtual-reality/</id>
     <updated>2016-03-17T00:00:00.000Z</updated>
     <title>VR is not the future</title>
-    <link href="https://matthieuoger.com/2016/03/virtual-reality/"/>
+    <link href="https://solarsailer.net/2016/03/virtual-reality/"/>
     <content type="html"><![CDATA[<small>
   <em>This is a prediction. I may (must?) be completely wrong—after all, I hold an unpopular opinion and many tech companies seem to think otherwise. We'll see.</em>‍ 🤷
   <br><br>
@@ -218,14 +218,14 @@
 </div>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2016/03/doing-a-ted-talk/</id>
+    <id>https://solarsailer.net/2016/03/doing-a-ted-talk/</id>
     <updated>2016-03-15T00:00:00.000Z</updated>
     <title>Inside the mind of a master procrastinator</title>
-    <link href="https://matthieuoger.com/2016/03/doing-a-ted-talk/"/>
+    <link href="https://solarsailer.net/2016/03/doing-a-ted-talk/"/>
     <content type="html"><![CDATA[<p><a href="http://waitbutwhy.com/2016/03/doing-a-ted-talk-the-full-story.html">Tim Urban about rehearsing for his TED Talk</a>:</p>
 <blockquote>
 <p> I’ve mentioned before that we all have this problem where we’re weirdly obsessed with what other people think of us, so it makes sense that public speaking should be our collective phobia.</p>
@@ -240,14 +240,14 @@
 <p><strong>UPDATE</strong>: and <a href="http://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator">the talk is up on TED</a>. No surprise: it's great.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2016/02/invention-center/</id>
+    <id>https://solarsailer.net/2016/02/invention-center/</id>
     <updated>2016-02-16T00:00:00.000Z</updated>
     <title>Invention Centers</title>
-    <link href="https://matthieuoger.com/2016/02/invention-center/"/>
+    <link href="https://solarsailer.net/2016/02/invention-center/"/>
     <content type="html"><![CDATA[<p><a href="http://www.fastcodesign.com/3046437/5-steps-to-recreate-xerox-parcs-design-magic-from-the-guy-who-helped-make-it">Alan Kay</a>:</p>
 <blockquote>
 <p>Invention centers are 20 to 40 people doing odd things. Innovation is the process of taking something that’s already been invented and packaging it nicer.</p>
@@ -262,14 +262,14 @@
 <p>(via <a href="http://us1.campaign-archive2.com/?u=53a12bfed319e2ce36b906532&#x26;id=49acf1cd18">Avdi Grimm</a>)</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2015/10/sad-state-web-deployment/</id>
+    <id>https://solarsailer.net/2015/10/sad-state-web-deployment/</id>
     <updated>2015-10-13T00:00:00.000Z</updated>
     <title>The sad state of web app deployment</title>
-    <link href="https://matthieuoger.com/2015/10/sad-state-web-deployment/"/>
+    <link href="https://solarsailer.net/2015/10/sad-state-web-deployment/"/>
     <content type="html"><![CDATA[<p><a href="http://eev.ee/blog/2015/09/17/the-sad-state-of-web-app-deployment/">Eevee on Fuzzy Notepad</a>:</p>
 <blockquote>
 <p>We’ve been doing this for 20 years. We should have this by now. It should work, it should be pluggable and agnostic, and it should do everything right. […]</p>
@@ -279,14 +279,14 @@
 <p>See also: <a href="https://solarsailer.net/2015/01/something-slightly-less-terrible/">Something Slightly Less Terrible</a>.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2015/09/semicolon-comma-programming/</id>
+    <id>https://solarsailer.net/2015/09/semicolon-comma-programming/</id>
     <updated>2015-09-27T00:00:00.000Z</updated>
     <title>Compilation by a thousand semicolons and commas</title>
-    <link href="https://matthieuoger.com/2015/09/semicolon-comma-programming/"/>
+    <link href="https://solarsailer.net/2015/09/semicolon-comma-programming/"/>
     <content type="html"><![CDATA[<p>Something I like in most modern programming languages is that they tend to ditch semicolons completely.</p>
 <p>Semicolons are a nuisance, a waste of time, a source of (easily fixable) errors, ugly and unnecessary.</p>
 <p>Compilers can easily work without them. Keeping them in old languages is, most of the time, simply a question of backward-compatibility.</p>
@@ -385,14 +385,14 @@
 <p>Yep, this time, there is nothing at all.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2015/09/what-makes-indie-hit/</id>
+    <id>https://solarsailer.net/2015/09/what-makes-indie-hit/</id>
     <updated>2015-09-18T00:00:00.000Z</updated>
     <title>What makes an indie hit?</title>
-    <link href="https://matthieuoger.com/2015/09/what-makes-indie-hit/"/>
+    <link href="https://solarsailer.net/2015/09/what-makes-indie-hit/"/>
     <content type="html"><![CDATA[<p><a href="http://www.gamasutra.com/blogs/RyanClark/20150917/253842/What_Makes_an_Indie_Hit_How_to_Choose_the_Right_Design.php">"What Makes an Indie Hit?: How to Choose the Right Design"</a> by Ryan Clark (of <a href="http://necrodancer.com/">Crypt of the NecroDancer</a>) is an interesting read:</p>
 <blockquote>
 <p>In this industry it's difficult to go far without learning from others. But from whom should we learn? I think it is wisest to study developers who have been repeatedly successful. Each time a developer creates another successful game, it becomes less and less likely that their repeated successes have been due to luck. Only a minuscule fraction of indie games break even, so what are the odds of developers like Jamie Cheng, Edmund McMillen, and Cliff Harris stringing together a number of successful games? The odds are low. There must be something other than luck at work! So perhaps these folks (and many others like them!) are the ones you should be studying and listening to.</p>
@@ -440,14 +440,14 @@
 </div>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2015/09/quantum-post-mortem/</id>
+    <id>https://solarsailer.net/2015/09/quantum-post-mortem/</id>
     <updated>2015-09-15T00:00:00.000Z</updated>
     <title>Quantum post-mortem</title>
-    <link href="https://matthieuoger.com/2015/09/quantum-post-mortem/"/>
+    <link href="https://solarsailer.net/2015/09/quantum-post-mortem/"/>
     <content type="html"><![CDATA[<p><a href="http://boardgamegeek.com/blogpost/24083/designer-diary-cruel-cruel-galaxy-or-designing-qua">Fascinating post-mortem of Quantum, by its designer, Eric Zimmerman</a>:</p>
 <blockquote>
 <p>Quantum is a strategy game for two through four players that incorporates elements of tactics, resource management, and empire building. Players each begin the game with a small fleet of three starships on a customizable map built of modular tiles. Your goal is to expand by building Quantum Cubes on planets, along the way growing your fleet and evolving its abilities. […]</p>
@@ -463,14 +463,14 @@
 <p>The game is really fast, complex and deep. There's a bit of chance in the game through the roll of the dices (<em>obviously</em>), but I don't think it matters that much in the end. Your decisions are way more important than your luck.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2015/09/rule-of-two/</id>
+    <id>https://solarsailer.net/2015/09/rule-of-two/</id>
     <updated>2015-09-09T00:00:00.000Z</updated>
     <title>Quote — CGP Grey, the rule of two</title>
-    <link href="https://matthieuoger.com/2015/09/rule-of-two/"/>
+    <link href="https://solarsailer.net/2015/09/rule-of-two/"/>
     <content type="html"><![CDATA[<blockquote>
 <p>The rule of two is that <strong>two is one — and one is none.</strong> This is applicable to so many things in your life. As a starting point, I often like to think of the rule of two with things that you have around the house. So, for example, if you have one roll of toilet paper, you really don't have any toilet paper. Because when that one runs out, you're in trouble. So you really need two rolls of toilet paper at all time. It's a redundancy rule, basically. It's where this comes from. […]</p>
 <p>This is one of my little pieces of advice for trying to run a life very smoothly. It's that, everything that you can possibly have two of, you should have it. Two shampoo bottles, two bottles of vitamins, two boxes of cereal, two cartons of eggs. You want duplicates of everything. And then, when you're down to one of those things, that's the sign that you need to buy the next one. In this way, you are never out, you're never out of anything. […]</p>
@@ -485,14 +485,14 @@
 </blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2015/09/quote-myke-hurley-atv-console/</id>
+    <id>https://solarsailer.net/2015/09/quote-myke-hurley-atv-console/</id>
     <updated>2015-09-03T00:00:00.000Z</updated>
     <title>Quote — Myke Hurley about the new rumored Apple TV — a gaming console?</title>
-    <link href="https://matthieuoger.com/2015/09/quote-myke-hurley-atv-console/"/>
+    <link href="https://solarsailer.net/2015/09/quote-myke-hurley-atv-console/"/>
     <content type="html"><![CDATA[<blockquote>
 <p>If [Apple] do not show a first party gaming focused controller [for the new rumored Apple TV], I think that they are not as committed to games as they might think. […]</p>
 <p>And it needs to be a controller with buttons on it.</p>
@@ -502,14 +502,14 @@
 <p><a href="http://steredenn.pixelnest.io">Steredenn</a> would be cool on the alleged Apple TV… but without a dedicated controller, it's a no go.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2015/08/dead-or-finished-libraries/</id>
+    <id>https://solarsailer.net/2015/08/dead-or-finished-libraries/</id>
     <updated>2015-08-21T00:00:00.000Z</updated>
     <title>Dead or finished libraries?</title>
-    <link href="https://matthieuoger.com/2015/08/dead-or-finished-libraries/"/>
+    <link href="https://solarsailer.net/2015/08/dead-or-finished-libraries/"/>
     <content type="html"><![CDATA[<p><a href="http://perl.plover.com/yak/12views/samples/notes.html">Twelve Views of Mark Jason Dominus</a>:</p>
 <blockquote>
 <p>I released the Text::Template module several years ago, and it was immediately very successful. It's small, simple, fast, and it does a lot of things well. At the time, there were not yet 29 templating systems available on CPAN.</p>
@@ -523,14 +523,14 @@
 <p>(via <a href="http://www.drmaciver.com/2015/08/what-if-we-had-more-finished-libraries/">What if we had more finished libraries?</a>)</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2015/06/ads/</id>
+    <id>https://solarsailer.net/2015/06/ads/</id>
     <updated>2015-06-11T00:00:00.000Z</updated>
     <title>The web, the ads and the ad-blockers</title>
-    <link href="https://matthieuoger.com/2015/06/ads/"/>
+    <link href="https://solarsailer.net/2015/06/ads/"/>
     <content type="html"><![CDATA[<p>Like almost everyone else, I don't like ads. Nevertheless, I don't use an ad-blocker either.</p>
 <p>Using the web and using an ad-blocker is hypocrite. Like it or not, it's the most widely used business model on the web. That's how most people get paid for the content you read, watch and listen <strong>for free</strong>.</p>
 <p>There're other ways to do it (affiliate links, feed sponsorships, paywalls, etc.), but the dominant model today is ads.</p>
@@ -564,14 +564,14 @@
 </div>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2015/06/force-touch/</id>
+    <id>https://solarsailer.net/2015/06/force-touch/</id>
     <updated>2015-06-08T00:00:00.000Z</updated>
     <title>Force Touch Affordance</title>
-    <link href="https://matthieuoger.com/2015/06/force-touch/"/>
+    <link href="https://solarsailer.net/2015/06/force-touch/"/>
     <content type="html"><![CDATA[<p><a href="https://www.apple.com/watch/technology/#sensitive">Force Touch</a> is an impressive piece of technology. It currently equips the Apple Watch and the new Macbooks. You press firmly on the screen and the haptic engine will register a "deep" press.</p>
 <p>On the Watch, I found that the feedback was not properly mapped to the press (it's a tap on your wrist, not on your finger). I didn't use the Watch a lot, but I've also found that it was sometime hard to trigger.</p>
 <p>On the new Macbooks' trackpad, the feeling is fantastic. You can push multiple times and sense the force you apply like it's real. You may not even understand that it's not a true physical button.</p>
@@ -581,14 +581,14 @@
 <p>On OS X, I found that the usage of Force Touch is better: it's not a way to show secondary actions, but just a "deeper version" of an action. In QuickTime, for example, you press firmly on the forward button and the video will fast forward faster for each level you reach. It's still hard to know when it's available and might result in nothing, but at least, it's consistant with its source.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2015/04/space-odyssey/</id>
+    <id>https://solarsailer.net/2015/04/space-odyssey/</id>
     <updated>2015-04-26T00:00:00.000Z</updated>
     <title>Space Odyssey</title>
-    <link href="https://matthieuoger.com/2015/04/space-odyssey/"/>
+    <link href="https://solarsailer.net/2015/04/space-odyssey/"/>
     <content type="html"><![CDATA[<p>I've finally convinced myself to watch <a href="http://www.imdb.com/title/tt0062622/?ref_=fn_al_tt_5">2001: A Space Odyssey</a>.<sup id="fnref-1"><a href="#fn-1" class="footnote-ref">1</a></sup></p>
 <p><strong>N.B.: If you haven't seen it, I don't think you should read what's coming. Spoilers ahead.</strong><br><br></p>
 <p>Well. I didn't <strong>love</strong> the movie (the pace is really <strong>slow</strong>, even for a movie from the sixties, and not being a fan of classical scores might not have helped). I don't mind if a film is ambiguous or doesn't explain much, but 2001 may have gone a bit too far.</p>
@@ -622,14 +622,14 @@
 </div>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2015/04/wearables/</id>
+    <id>https://solarsailer.net/2015/04/wearables/</id>
     <updated>2015-04-25T00:00:00.000Z</updated>
     <title>Perspectives on wearables</title>
-    <link href="https://matthieuoger.com/2015/04/wearables/"/>
+    <link href="https://solarsailer.net/2015/04/wearables/"/>
     <content type="html"><![CDATA[<p>For a few reasons, I'm considering whether or not I should be buying an Apple Watch.<sup id="fnref-1"><a href="#fn-1" class="footnote-ref">1</a></sup></p>
 <p>For many people I know, it's another useless gadget.</p>
 <p>That's fine: most people are sceptical about new technologies, after all. It's in our nature: human doesn't like change (and new things) until it reaches a certain threshold and becomes acceptable. And to be fair, it might just be a fad.</p>
@@ -687,14 +687,14 @@
 </div>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2015/02/origami-2/</id>
+    <id>https://solarsailer.net/2015/02/origami-2/</id>
     <updated>2015-02-25T00:00:00.000Z</updated>
     <title>Origami 2.0</title>
-    <link href="https://matthieuoger.com/2015/02/origami-2/"/>
+    <link href="https://solarsailer.net/2015/02/origami-2/"/>
     <content type="html"><![CDATA[<p>Facebook released <a href="https://code.facebook.com/posts/883904991672650/introducing-origami-live/">Origami 2.0</a> yesterday… and wow, that's a huge update.</p>
 <p><a href="https://solarsailer.net/2014/02/origami-quartz-composer/">I've already spoken about Origami one year ago</a>. I didn't have the chance to use this software that much since, but I'm still keeping an eye on it. And I'm really impressed by the 2.0 version.</p>
 <p><a href="https://medium.com/@bwalkin/introducing-origami-live-and-origami-2-0-a68116294e65">Brandon Walkin on Medium</a>:</p>
@@ -720,14 +720,14 @@
 </div>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2015/01/something-slightly-less-terrible/</id>
+    <id>https://solarsailer.net/2015/01/something-slightly-less-terrible/</id>
     <updated>2015-01-15T00:00:00.000Z</updated>
     <title>Something Slightly Less Terrible</title>
-    <link href="https://matthieuoger.com/2015/01/something-slightly-less-terrible/"/>
+    <link href="https://solarsailer.net/2015/01/something-slightly-less-terrible/"/>
     <content type="html"><![CDATA[<p><a href="http://www.objc.io/issue-20/loren-brichter.html">Fantastic interview of Loren Brichter on objc.io</a>:</p>
 <blockquote>
 <p>The more I learn, the more terrible I think programming is. I’d love to rip everything up and start over. But you can only swim against the tide so far, so it’s sometimes satisfying to sift through the garbage and repurpose terrible technologies to make something that is slightly less terrible. […]</p>
@@ -735,26 +735,26 @@
 </blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2014/12/aaron-draplin-logo-design/</id>
+    <id>https://solarsailer.net/2014/12/aaron-draplin-logo-design/</id>
     <updated>2014-12-22T00:00:00.000Z</updated>
     <title>Aaron Draplin Takes On A Logo Design Challenge</title>
-    <link href="https://matthieuoger.com/2014/12/aaron-draplin-logo-design/"/>
+    <link href="https://solarsailer.net/2014/12/aaron-draplin-logo-design/"/>
     <content type="html"><![CDATA[<iframe width="800" height="404" src="https://www.youtube.com/embed/zOPA0NaeTBk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <p>(/via <a href="http://ignorethecode.net/blog/2014/12/11/watch_aaron_draplin_design_a_logo/">ignore the code</a>)</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2014/12/get-info-redesign/</id>
+    <id>https://solarsailer.net/2014/12/get-info-redesign/</id>
     <updated>2014-12-21T00:00:00.000Z</updated>
     <title>&quot;Get Info&quot; redesign</title>
-    <link href="https://matthieuoger.com/2014/12/get-info-redesign/"/>
+    <link href="https://solarsailer.net/2014/12/get-info-redesign/"/>
     <content type="html"><![CDATA[<p><a href="https://www.behance.net/gallery/19050689/MacOS-Get-Info-Design">"Get Info" redesign on Behance:</a></p>
 <p><img src="/images/posts/2014-12-21-get-info-redesign.png" alt="OSX Get Info Design"></p>
 <blockquote>
@@ -765,14 +765,14 @@
 <p>(/via <a href="http://www.subtraction.com/2014/12/17/get-info-redesigned/">Subtraction</a>)</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2014/12/a-tiny-game-that-you-can-play-forever/</id>
+    <id>https://solarsailer.net/2014/12/a-tiny-game-that-you-can-play-forever/</id>
     <updated>2014-12-19T00:00:00.000Z</updated>
     <title>A Tiny Game That You Can Play Forever</title>
-    <link href="https://matthieuoger.com/2014/12/a-tiny-game-that-you-can-play-forever/"/>
+    <link href="https://solarsailer.net/2014/12/a-tiny-game-that-you-can-play-forever/"/>
     <content type="html"><![CDATA[<p>The <a href="http://www.upup.fm/">Up Up Down Down</a> podcast has a good episode with Asher Vollmer.</p>
 <p><a href="http://www.upup.fm/show/a-tiny-game-that-you-can-play-forever/">A Tiny Game That You Can Play Forever</a>:</p>
 <blockquote>
@@ -781,14 +781,14 @@
 <p>There're some great points in there. It focuses a lot on Threes' gameplay and evolutions and dives a bit more into minimalism in games.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2014/08/taking-a-break/</id>
+    <id>https://solarsailer.net/2014/08/taking-a-break/</id>
     <updated>2014-08-01T00:00:00.000Z</updated>
     <title>Taking a break</title>
-    <link href="https://matthieuoger.com/2014/08/taking-a-break/"/>
+    <link href="https://solarsailer.net/2014/08/taking-a-break/"/>
     <content type="html"><![CDATA[<p>I'm self-employed and I work every day at home for my company, <a href="http://pixelnest.io">Pixelnest Studio</a>.</p>
 <p>A common good practice recommended by almost any home-worker is to take a quick (3 minutes) <em>walking</em> break every 45 minutes or so.</p>
 <ol>
@@ -803,14 +803,14 @@
 <p>NB: this advice is especially true for self-employed people (because you can't take a break with your coworkers), but anybody working at a desk for several hours should do it. It costs nothing, and your body will love it.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2014/07/material-design/</id>
+    <id>https://solarsailer.net/2014/07/material-design/</id>
     <updated>2014-07-01T00:00:00.000Z</updated>
     <title>Material Design</title>
-    <link href="https://matthieuoger.com/2014/07/material-design/"/>
+    <link href="https://solarsailer.net/2014/07/material-design/"/>
     <content type="html"><![CDATA[<p>I've finally watched the Material Design segment of the Google I/O 2014 keynote.</p>
 <p><img src="/images/posts/2014-07-01-material-design.png" alt="Material Design"></p>
 <p><strong>Material Design</strong> is the new Google's design language. It looks promising and great. There are some nice ideas, akin to iOS 7, like depth (automatically integrated by a z-axis with live shadows rendering for developers) or transitions and animations as first-class citizens.</p>
@@ -827,14 +827,14 @@
 <p>The real problem for Google is to force developers to adapt to the new style. It's the fourth Android redesign (if I recount well) and the majority of the Android apps are still looking bad. I hope that this time, developers will rejoice and follow Google's lead.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2014/06/design-detail-ios8-messages/</id>
+    <id>https://solarsailer.net/2014/06/design-detail-ios8-messages/</id>
     <updated>2014-06-03T00:00:00.000Z</updated>
     <title>Design detail in iOS 8 Messages</title>
-    <link href="https://matthieuoger.com/2014/06/design-detail-ios8-messages/"/>
+    <link href="https://solarsailer.net/2014/06/design-detail-ios8-messages/"/>
     <content type="html"><![CDATA[<p>One of the features that I wanted the most in iOS 8 was simple: add a <em>“Use Last Photo Taken”</em> button in the Messages app (along with the current "Take Photo or Video" and "Choose Existing").</p>
 <hr>
 <p>The idea was originally thought by <a href="http://mrgan.tumblr.com/post/12808983893/tweetbot-adds-last-photo-taken-feature">Neven Mrgan</a> and later adopted by a lot of apps (Tweetbot, Slack, Droplr, etc.).</p>
@@ -877,14 +877,14 @@
 <p>It's so simple and clever that once you have seen it, you can only think: <em>"Of course."</em>.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2014/04/monument-valley/</id>
+    <id>https://solarsailer.net/2014/04/monument-valley/</id>
     <updated>2014-04-04T00:00:00.000Z</updated>
     <title>Monument Valley</title>
-    <link href="https://matthieuoger.com/2014/04/monument-valley/"/>
+    <link href="https://solarsailer.net/2014/04/monument-valley/"/>
     <content type="html"><![CDATA[<p><img src="/images/posts/2014-04-04-monument-valley.png" alt="Monument Valley"></p>
 <p>A wonderful new game (available on iOS and soon on Android). It reminds me of <a href="http://fezgame.com/">Fez</a>, <a href="http://thatgamecompany.com/games/journey/">Journey</a> and <a href="http://www.swordandsworcery.com/">Sworcery</a>, but still with its own unique atmosphere and mechanics.</p>
 <p>The game is short, reasonably priced (4$) and stunning. Sounds are just perfect.</p>
@@ -892,14 +892,14 @@
 <p>→ <a href="http://monumentvalleygame.com/">More info here</a>.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2014/02/origami-quartz-composer/</id>
+    <id>https://solarsailer.net/2014/02/origami-quartz-composer/</id>
     <updated>2014-02-05T00:00:00.000Z</updated>
     <title>Interaction prototyping with Origami</title>
-    <link href="https://matthieuoger.com/2014/02/origami-quartz-composer/"/>
+    <link href="https://solarsailer.net/2014/02/origami-quartz-composer/"/>
     <content type="html"><![CDATA[<p><a href="http://facebook.github.io/origami/">Origami</a> is a plugin for <a href="http://en.wikipedia.org/wiki/Quartz_Composer">Quartz Composer</a>, developed by Facebook.</p>
 <p><img src="/images/posts/2014-02-05-origami.jpg" alt="Origami"></p>
 <p>Initially, Quartz Composer is a “visual programming” environment to create animated scenes.</p>
@@ -913,14 +913,14 @@
 <p>I recommend to watch <a href="https://vimeo.com/85578380">this video</a> to get a brief overview of what is possible with Origami. It's intriguing, it looks promising and it motivates me to learn Quartz Composer more seriously.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2014/01/how-netflix-reverse-engineered-hollywood/</id>
+    <id>https://solarsailer.net/2014/01/how-netflix-reverse-engineered-hollywood/</id>
     <updated>2014-01-07T00:00:00.000Z</updated>
     <title>How Netflix Reverse Engineered Hollywood</title>
-    <link href="https://matthieuoger.com/2014/01/how-netflix-reverse-engineered-hollywood/"/>
+    <link href="https://solarsailer.net/2014/01/how-netflix-reverse-engineered-hollywood/"/>
     <content type="html"><![CDATA[<p><a href="http://www.theatlantic.com/technology/archive/2014/01/how-netflix-reverse-engineered-hollywood/282679/">Alexis Madrigal on Netflix classification</a> (emphasis mine):</p>
 <blockquote>
 <p>[…], we discovered that Netflix possesses not several hundred genres, or even several thousand, <strong>but 76,897 unique ways to describe types of movies</strong>. […]</p>
@@ -940,40 +940,40 @@
 <p>Sounds a bit like <a href="http://www.imdb.com/title/tt1475582/?ref_=fn_al_tt_1">Sherlock</a>, no?</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/11/unity-2d-tutorial/</id>
+    <id>https://solarsailer.net/2013/11/unity-2d-tutorial/</id>
     <updated>2013-11-21T00:00:00.000Z</updated>
     <title>Pixelnest — Unity 2D tutorial</title>
-    <link href="https://matthieuoger.com/2013/11/unity-2d-tutorial/"/>
+    <link href="https://solarsailer.net/2013/11/unity-2d-tutorial/"/>
     <content type="html"><![CDATA[<p>During the last weeks, we (<a href="http://dmayance.com/">Damien</a> and I) have cooked a complete tutorial about Unity and its new 2D tools. This tutorial covers the creation of a very small game from start to finish.</p>
 <p>We hope you will enjoy it.</p>
 <p>→ <a href="http://pixelnest.io/tutorials/2d-game-unity/">You can read it here</a>.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/10/below/</id>
+    <id>https://solarsailer.net/2013/10/below/</id>
     <updated>2013-10-23T00:00:00.000Z</updated>
     <title>Below</title>
-    <link href="https://matthieuoger.com/2013/10/below/"/>
+    <link href="https://solarsailer.net/2013/10/below/"/>
     <content type="html"><![CDATA[<p><img src="/images/posts/2013-10-23-below.jpg" alt="Below"></p>
 <p>It looks (and sounds) gorgeous. And it's made by Capy, which is arguably one of the best video game studios out there.</p>
 <p>→ <a href="http://whatliesbelow.com/">What Lies Below</a>.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/10/how-designers-destroyed-the-world/</id>
+    <id>https://solarsailer.net/2013/10/how-designers-destroyed-the-world/</id>
     <updated>2013-10-22T00:00:00.000Z</updated>
     <title>How Designers Destroyed The World</title>
-    <link href="https://matthieuoger.com/2013/10/how-designers-destroyed-the-world/"/>
+    <link href="https://solarsailer.net/2013/10/how-designers-destroyed-the-world/"/>
     <content type="html"><![CDATA[<p>Better late than never; I've managed to watch <a href="https://vimeo.com/68470326">How Designers Destroyed The World</a> by Mike Monteiro.</p>
 <p>It's a great talk except that I'm not fond of the tone. Though it fits well with the content, I find it a bit overdramatic. The end is also a tad lengthy, which is unfortunate.</p>
 <p>Otherwise, I liked what I heard. <em>Which makes me consider…</em></p>
@@ -990,14 +990,14 @@
 </blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/10/you-must-prototype-it-in-code/</id>
+    <id>https://solarsailer.net/2013/10/you-must-prototype-it-in-code/</id>
     <updated>2013-10-18T00:00:00.000Z</updated>
     <title>You must prototype it in code</title>
-    <link href="https://matthieuoger.com/2013/10/you-must-prototype-it-in-code/"/>
+    <link href="https://solarsailer.net/2013/10/you-must-prototype-it-in-code/"/>
     <content type="html"><![CDATA[<p>Jeff Atwood in <a href="http://www.codinghorror.com/blog/2004/11/good-programmers-get-off-their-butts.html">Good Programmers Get Off Their Butts</a>:</p>
 <blockquote>
 <p>I am not proposing a code-like-hell methodology. I am merely observing that, in my experience, <strong>coding without planning is just as futile as coding with too much planning</strong>. Software development is <a href="http://www.codinghorror.com/blog/archives/000071.html">a wicked problem</a>; you should never make planning decisions without some kind of code prototype to ensure that you're making informed decisions. If you plan too far ahead of the code, I guarantee you are doing work that will be thrown away or altered until it is unrecognizable.</p>
@@ -1005,14 +1005,14 @@
 </blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/10/m7/</id>
+    <id>https://solarsailer.net/2013/10/m7/</id>
     <updated>2013-10-02T00:00:00.000Z</updated>
     <title>M7</title>
-    <link href="https://matthieuoger.com/2013/10/m7/"/>
+    <link href="https://solarsailer.net/2013/10/m7/"/>
     <content type="html"><![CDATA[<p><a href="http://9to5mac.com/2013/09/29/more-m7-details-data-storage-battery-life-android-motion-coprocessor-adoption/">9to5Mac</a> (emphasis mine):</p>
 <blockquote>
 <p>For pre-iPhone 5s devices, ARGUS usually drains about 20-30% of battery life per day while running in the background. The app continually checks for motion and calculates the distance and number of steps using the accelerometer and GPS. With the M7, however, the app does not need to be running in order to keep track of the number of steps – all of that data is tracked by the M7. <strong>As such, ARGUS no longer takes up any battery power while running in the background and the stated battery life from Apple – 10 hours 3G talk time, 250 hours of standby – will stay exactly the same</strong>. […]</p>
@@ -1022,14 +1022,14 @@
 <p>I hope that the use of the M7 will expand outside of the fitness and health apps.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/09/paying-for-softwares/</id>
+    <id>https://solarsailer.net/2013/09/paying-for-softwares/</id>
     <updated>2013-09-30T00:00:00.000Z</updated>
     <title>Paying for softwares</title>
-    <link href="https://matthieuoger.com/2013/09/paying-for-softwares/"/>
+    <link href="https://solarsailer.net/2013/09/paying-for-softwares/"/>
     <content type="html"><![CDATA[<p>Florian Kugler about mobile apps in <a href="http://floriankugler.com/blog/2013/9/30/worth-less-than-a-cup-of-coffee">Worth Less than a Cup of Coffee</a>:</p>
 <blockquote>
 <p>[People] might say otherwise when asked about, but their actions speak pretty clearly: A cup of coffee is worth more than almost every app on the store.</p>
@@ -1044,14 +1044,14 @@
 <p>N.B.: To be clear, as a user, I'm happy to <em>pay less</em>. For almost everybody, a software or a game at 50-100$ is way too high, and that's fine. What I don't like is that we are now in a situation where  even one buck for an app you use daily is too much. <strong>One buck per app cannot sustain a one-person business.</strong></p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/09/patent-trolls/</id>
+    <id>https://solarsailer.net/2013/09/patent-trolls/</id>
     <updated>2013-09-17T00:00:00.000Z</updated>
     <title>Patent trolls</title>
-    <link href="https://matthieuoger.com/2013/09/patent-trolls/"/>
+    <link href="https://solarsailer.net/2013/09/patent-trolls/"/>
     <content type="html"><![CDATA[<p><a href="http://arstechnica.com/tech-policy/2013/09/angry-entrepreneur-replies-to-patent-troll-with-racketeering-lawsuit/">Angry entrepreneur replies to patent troll with racketeering lawsuit</a>:</p>
 <blockquote>
 <p>"There's a lot of outrageous stories, but everyone's so damn afraid of coming forward—It's like going against the Mafia," he said. But the idea that trolls may retaliate against those who speak out is overblown, he thinks. "If they want to try to teach me a lesson, go for it. This will be my retirement. I'll fight them."</p>
@@ -1069,14 +1069,14 @@
 <p>However, if the only solution to this problem is to abolish the patents system, so be it.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/09/apple-is-future-proof/</id>
+    <id>https://solarsailer.net/2013/09/apple-is-future-proof/</id>
     <updated>2013-09-16T00:00:00.000Z</updated>
     <title>Apple is future proof</title>
-    <link href="https://matthieuoger.com/2013/09/apple-is-future-proof/"/>
+    <link href="https://solarsailer.net/2013/09/apple-is-future-proof/"/>
     <content type="html"><![CDATA[<p><a href="http://cannyvision.com/2013/09/12/the-most-forward-thinking-apple-yet.html">The Most Forward Thinking Apple Yet</a> (emphasis mine):</p>
 <blockquote>
 <p>In many ways, WWDC, and more so, the iPhone 5C and 5S represent (and had to represent) Apple's reply to the naysayers. <strong>However, I think there was more to the announcements than what met the eye.</strong></p>
@@ -1088,26 +1088,26 @@
 <p><br>N.B.: The Bluetooth LE technology that was embedded a few years ago was exactly that: at that time, it was useless, but in the context of a wearable Apple watch, it makes a <strong>lot</strong> of sense.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/09/reeder-2/</id>
+    <id>https://solarsailer.net/2013/09/reeder-2/</id>
     <updated>2013-09-12T00:00:00.000Z</updated>
     <title>Reeder 2</title>
-    <link href="https://matthieuoger.com/2013/09/reeder-2/"/>
+    <link href="https://solarsailer.net/2013/09/reeder-2/"/>
     <content type="html"><![CDATA[<p>Hell, it's about time.</p>
 <p>→ <a href="https://itunes.apple.com/nz/app/reeder-2/id697846300?ls=1&#x26;mt=8">Get here</a>.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/09/brand-and-logo/</id>
+    <id>https://solarsailer.net/2013/09/brand-and-logo/</id>
     <updated>2013-09-11T00:00:00.000Z</updated>
     <title>Brand and logo</title>
-    <link href="https://matthieuoger.com/2013/09/brand-and-logo/"/>
+    <link href="https://solarsailer.net/2013/09/brand-and-logo/"/>
     <content type="html"><![CDATA[<p><a href="http://ia.net/blog/logo-bullshit-co-inc/">Fantastic essay by Oliver Reichenstein</a>:</p>
 <blockquote>
 <p>This post is not about the technical quality of the logo. I am not writing about brand design, but about brand management. This is about a simple rule: Brand design follows brand management, not the other way around.</p>
@@ -1117,14 +1117,14 @@
 <p>By the way, I'm still amazed by the quality of the iA website, and especially the blog. Typography, details, everything. It's wonderful.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/09/microsoft-out/</id>
+    <id>https://solarsailer.net/2013/09/microsoft-out/</id>
     <updated>2013-09-09T00:00:00.000Z</updated>
     <title>Microsoft Out</title>
-    <link href="https://matthieuoger.com/2013/09/microsoft-out/"/>
+    <link href="https://solarsailer.net/2013/09/microsoft-out/"/>
     <content type="html"><![CDATA[<p><a href="http://fishbowl.pastiche.org/2013/08/26/bundled_out/">Great article by Charles Miller about Microsoft fall</a>:</p>
 <blockquote>
 <p>Microsoft did not make its mark as a builder of great things, but as a very successful bundler of good-enough things. […]</p>
@@ -1136,14 +1136,14 @@
 <p><a href="https://stratechery.com/2018/the-end-of-windows/">It's</a> <a href="https://en.wikipedia.org/wiki/Satya_Nadella">funny</a> <a href="https://blog.github.com/2018-06-04-github-microsoft/">how</a> <a href="https://code.visualstudio.com/">things</a> <a href="https://www.typescriptlang.org/">change</a>…</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/09/inventing-the-favicon/</id>
+    <id>https://solarsailer.net/2013/09/inventing-the-favicon/</id>
     <updated>2013-09-05T00:00:00.000Z</updated>
     <title>Inventing the favicon</title>
-    <link href="https://matthieuoger.com/2013/09/inventing-the-favicon/"/>
+    <link href="https://solarsailer.net/2013/09/inventing-the-favicon/"/>
     <content type="html"><![CDATA[<p><a href="http://ruthlessray.wordpress.com/2013/09/02/inventing-favicon-ico/">Inventing Favicon.ico</a>:</p>
 <blockquote>
 <p>Bharat said, “this is good, right? Check it in?” And I said, “yeah, sure, how does it work?” […]</p>
@@ -1152,14 +1152,14 @@
 <p>The story of a small and useful feature that was almost cancelled for no good reason.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/09/samsung-and-watches/</id>
+    <id>https://solarsailer.net/2013/09/samsung-and-watches/</id>
     <updated>2013-09-05T00:00:00.000Z</updated>
     <title>Samsung And Watches</title>
-    <link href="https://matthieuoger.com/2013/09/samsung-and-watches/"/>
+    <link href="https://solarsailer.net/2013/09/samsung-and-watches/"/>
     <content type="html"><![CDATA[<p><a href="http://stratechery.com/2013/shameless-samsung/">Ben Thompson nails it in “Shameless Samsung“</a>:</p>
 <blockquote>
 <p>I jumped on the leaked prototype, with the same general sentiment: Samsung’s watch will undoubtedly change drastically whenever Apple’s wearable is released. And, to be certain, we will mock them for copying. […]</p>
@@ -1181,26 +1181,26 @@
 </blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/09/myosis/</id>
+    <id>https://solarsailer.net/2013/09/myosis/</id>
     <updated>2013-09-04T00:00:00.000Z</updated>
     <title>Myosis</title>
-    <link href="https://matthieuoger.com/2013/09/myosis/"/>
+    <link href="https://solarsailer.net/2013/09/myosis/"/>
     <content type="html"><![CDATA[<p>A gorgeous short film.</p>
 <p>→ <a href="https://vimeo.com/73617382">Watch here</a>.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/09/sketch-23/</id>
+    <id>https://solarsailer.net/2013/09/sketch-23/</id>
     <updated>2013-09-04T00:00:00.000Z</updated>
     <title>Sketch 2.3</title>
-    <link href="https://matthieuoger.com/2013/09/sketch-23/"/>
+    <link href="https://solarsailer.net/2013/09/sketch-23/"/>
     <content type="html"><![CDATA[<p>The biggest new yesterday was not that Microsoft bought Nokia. In fact, it was written on the wall for more than 2 years. And others have blogged <a href="http://stratechery.com/2013/the-deal-that-makes-no-sense/">better</a> <a href="http://ben-evans.com/benedictevans/2013/9/3/microsoft-and-nokia">things</a> than I could.</p>
 <p>No, <a href="http://bohemiancoding.tumblr.com/post/60070936484/sketch-2-3">it was the release of Sketch 2.3</a>.</p>
 <p>There's a lot of things that I like in this new version:</p>
@@ -1213,14 +1213,14 @@
 <p>Such an awesome piece of software.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/nintendo-2ds/</id>
+    <id>https://solarsailer.net/2013/08/nintendo-2ds/</id>
     <updated>2013-08-30T00:00:00.000Z</updated>
     <title>Nintendo 2DS</title>
-    <link href="https://matthieuoger.com/2013/08/nintendo-2ds/"/>
+    <link href="https://solarsailer.net/2013/08/nintendo-2ds/"/>
     <content type="html"><![CDATA[<p><a href="http://ignorethecode.net/blog/2013/08/29/nintendo/">Great article</a> (as usual) by Lukas Mathis:</p>
 <blockquote>
 <p>But the 2DS just isn’t made for people like me. That doesn’t mean it’s going to fail. That doesn’t mean it’s a bad product. It just means it’s not for me.</p>
@@ -1229,14 +1229,32 @@
 <p>Do not miss the footnotes either.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/the-gif-video-format/</id>
+    <id>https://solarsailer.net/2013/08/quote-modern-journalism/</id>
+    <updated>2013-08-29T00:00:00.000Z</updated>
+    <title>Quote — Modern journalism</title>
+    <link href="https://solarsailer.net/2013/08/quote-modern-journalism/"/>
+    <content type="html"><![CDATA[<p>This tweet could not better describe my feeling:</p>
+<blockquote class="twitter-tweet">
+  <p>
+    Modern journalism is 90% reporting what people are saying on Twitter.
+  </p>
+<p>  — God (@TheTweetOfGod)
+<a href="https://twitter.com/TheTweetOfGod/statuses/359441152522469376">July 22, 2013</a></p>
+</blockquote>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://solarsailer.net/</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://solarsailer.net/2013/08/the-gif-video-format/</id>
     <updated>2013-08-29T00:00:00.000Z</updated>
     <title>The gif “video format”</title>
-    <link href="https://matthieuoger.com/2013/08/the-gif-video-format/"/>
+    <link href="https://solarsailer.net/2013/08/the-gif-video-format/"/>
     <content type="html"><![CDATA[<p><a href="http://pornel.net/beat-gif-manifesto">HTML video still can't beat GIF</a>:</p>
 <blockquote>
 <p>Animated GIF, despite having awful compression and terrible quality, is still more useful on the web than any other video format.</p>
@@ -1249,47 +1267,14 @@
 <p>There's <a href="https://calendar.perfplanet.com/2017/animated-gif-without-the-gif/">hope</a>. In a near future, and in other browsers than Safari, we will be able to use a video as an image to <em>simulate a gif</em> (ie., silence and autoplay). With perks of a video instead of an awful low-quality and heavy gif.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/quote-modern-journalism/</id>
-    <updated>2013-08-29T00:00:00.000Z</updated>
-    <title>Quote — Modern journalism</title>
-    <link href="https://matthieuoger.com/2013/08/quote-modern-journalism/"/>
-    <content type="html"><![CDATA[<p>This tweet could not better describe my feeling:</p>
-<blockquote class="twitter-tweet">
-  <p>
-    Modern journalism is 90% reporting what people are saying on Twitter.
-  </p>
-<p>  — God (@TheTweetOfGod)
-<a href="https://twitter.com/TheTweetOfGod/statuses/359441152522469376">July 22, 2013</a></p>
-</blockquote>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2013/08/quote-trent-reznor/</id>
-    <updated>2013-08-28T00:00:00.000Z</updated>
-    <title>Quote — Trent Reznor</title>
-    <link href="https://matthieuoger.com/2013/08/quote-trent-reznor/"/>
-    <content type="html"><![CDATA[<blockquote>
-<p>I'm not saying offering things for free or pay-what-you-can is wrong. I'm saying my personal feeling is that my album's not a dime. It's not a buck. I made it as well as I could, and it costs 10 bucks, or go fuck yourself.</p>
-<p>— <a href="http://www.spin.com/featured/trent-reznor-upward-spiral-nine-inch-nails-spin-cover-september-2013/">Trent Reznor</a></p>
-</blockquote>
-<p>(via <a href="http://parislemon.com/post/59507355135/i-know-that-what-were-doing-flies-in-the-face-of">ParisLemon</a>)</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2013/08/amazon-new-product-page/</id>
+    <id>https://solarsailer.net/2013/08/amazon-new-product-page/</id>
     <updated>2013-08-28T00:00:00.000Z</updated>
     <title>Amazon&apos;s new product page</title>
-    <link href="https://matthieuoger.com/2013/08/amazon-new-product-page/"/>
+    <link href="https://solarsailer.net/2013/08/amazon-new-product-page/"/>
     <content type="html"><![CDATA[<p><a href="http://bokardo.com/archives/a-thought-on-amazons-new-product-page-design/">Interesting article on Bokardo</a> about Amazon's "new" product page:</p>
 <blockquote>
 <p>If Amazon were to make a big change, like for example do some actual visual design so everything didn’t have the same visual weight, the mere shock of the change would probably send their revenue downward, at least initially. People dislike change because change is work. They have to figure out what changed, adapt to it, relearn the UI, and still try to get their job done (they one they used to know how to do). <strong>So the next time you hear “People hate change” think to yourself “People don’t hate change. They hate the work of change”.</strong></p>
@@ -1297,28 +1282,43 @@
 <p>(emphasis mine)</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/quote-jonathan-blow/</id>
+    <id>https://solarsailer.net/2013/08/quote-trent-reznor/</id>
+    <updated>2013-08-28T00:00:00.000Z</updated>
+    <title>Quote — Trent Reznor</title>
+    <link href="https://solarsailer.net/2013/08/quote-trent-reznor/"/>
+    <content type="html"><![CDATA[<blockquote>
+<p>I'm not saying offering things for free or pay-what-you-can is wrong. I'm saying my personal feeling is that my album's not a dime. It's not a buck. I made it as well as I could, and it costs 10 bucks, or go fuck yourself.</p>
+<p>— <a href="http://www.spin.com/featured/trent-reznor-upward-spiral-nine-inch-nails-spin-cover-september-2013/">Trent Reznor</a></p>
+</blockquote>
+<p>(via <a href="http://parislemon.com/post/59507355135/i-know-that-what-were-doing-flies-in-the-face-of">ParisLemon</a>)</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://solarsailer.net/</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://solarsailer.net/2013/08/quote-jonathan-blow/</id>
     <updated>2013-08-27T00:00:00.000Z</updated>
     <title>Quote — Jonathan Blow</title>
-    <link href="https://matthieuoger.com/2013/08/quote-jonathan-blow/"/>
+    <link href="https://solarsailer.net/2013/08/quote-jonathan-blow/"/>
     <content type="html"><![CDATA[<blockquote>
 <p>Advertising is effective <em>only</em> because so many people think “Ads don't influence me” and “Ads give me what I want for free”.</p>
 <p>— <a href="https://twitter.com/Jonathan_Blow/status/372077731531350017">Jonathan Blow</a></p>
 </blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/google-play-new-policies/</id>
+    <id>https://solarsailer.net/2013/08/google-play-new-policies/</id>
     <updated>2013-08-26T00:00:00.000Z</updated>
     <title>Google Play new policies</title>
-    <link href="https://matthieuoger.com/2013/08/google-play-new-policies/"/>
+    <link href="https://solarsailer.net/2013/08/google-play-new-policies/"/>
     <content type="html"><![CDATA[<p><a href="http://blog.inner-active.com/2013/08/googles-new-policies-good-for-users-great-for-android-developers-and-the-ecosystem/">Google’s New Policies: Good for Users, Great for Android Developers and the Ecosystem</a>:</p>
 <blockquote>
 <p>So what does all this mean? It means that Google understands that while open is great, at the end of the day, users would rather have a superior experience both in terms of Google Play as a whole, and apps behavior in particular.</p>
@@ -1337,14 +1337,14 @@
 </blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/ios7-user-tracking/</id>
+    <id>https://solarsailer.net/2013/08/ios7-user-tracking/</id>
     <updated>2013-08-26T00:00:00.000Z</updated>
     <title>iOS 7 user tracking</title>
-    <link href="https://matthieuoger.com/2013/08/ios7-user-tracking/"/>
+    <link href="https://solarsailer.net/2013/08/ios7-user-tracking/"/>
     <content type="html"><![CDATA[<p><a href="http://iosdevweekly.com/issues/108/">iOS Dev Weekly, issue 108</a>:</p>
 <blockquote>
 <p>If your solution to having uniqueIdentifier deprecated was to use the MAC address of the device in some way then you're going to have a bad time in iOS 7. […]</p>
@@ -1357,14 +1357,14 @@
 <p>It is a bad week for advertisers (see: <a href="https://solarsailer.net/2013/08/google-play-new-policies/">Google Play new policies</a>).</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/lego-architects/</id>
+    <id>https://solarsailer.net/2013/08/lego-architects/</id>
     <updated>2013-08-19T00:00:00.000Z</updated>
     <title>Lego Architects</title>
-    <link href="https://matthieuoger.com/2013/08/lego-architects/"/>
+    <link href="https://solarsailer.net/2013/08/lego-architects/"/>
     <content type="html"><![CDATA[<p><a href="http://www.wired.com/design/2013/08/a-lego-set-with-no-instructions-for-budding-architects/">Wired</a>:</p>
 <blockquote>
 <p>Architecture Studio, a new set from Lego, comes with 1,210 white and translucent bricks. More notable is what it lacks: namely, instructions for any single thing you’re supposed to build with it. Instead, the kit is accompanied by a thick, 277-page guidebook filled with architectural concepts and building techniques alongside real world insights from prominent architecture studios from around the globe.</p>
@@ -1373,14 +1373,14 @@
 <p>(via <a href="https://twitter.com/molleindustria/status/369161957988765696">@molleindustria</a>)</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/team-of-one/</id>
+    <id>https://solarsailer.net/2013/08/team-of-one/</id>
     <updated>2013-08-19T00:00:00.000Z</updated>
     <title>Team of One</title>
-    <link href="https://matthieuoger.com/2013/08/team-of-one/"/>
+    <link href="https://solarsailer.net/2013/08/team-of-one/"/>
     <content type="html"><![CDATA[<p><a href="https://myles.io/thoughts/theres-no-io-in-team">There's no "I/O" in "Team"</a>:</p>
 <blockquote>
 <p>When you're a team of one, your I/O bandwidth is almost infinite. It's all in your brain, so you don't have to explain anything, write anything down, have meetings, draw on whiteboards, etc. Your available time to work collapses down to solving specific business problems with every line of code or web page update. Imagine a case where you never have to compromise, argue, make brain dead concessions or spend resources on proving your position. Assuming you are right, and have a good head for business, marketing and writing half-way decent code, you can solve a small problem very efficiently.</p>
@@ -1389,26 +1389,14 @@
 <p>We work <em>a bit</em> like that at <a href="http://pixelnest.io">Pixelnest</a>. <a href="http://dmayance.com">Damien</a> and me have a slightly different skill set, thus we can split the work almost equally. The advantage is that we can discuss together to avoid finishing in a dead end.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/tweaks/</id>
-    <updated>2013-08-18T00:00:00.000Z</updated>
-    <title>Little tweaks</title>
-    <link href="https://matthieuoger.com/2013/08/tweaks/"/>
-    <content type="html"><![CDATA[<p>I just made some modifications to the blog. A bigger font, a <em>whiter</em> background and un-italicized quotations. I also reduced the size of the page by 300px. I've always felt that the page was way too large.</p>
-<p>I think that these little tweaks will make the reading experience more enjoyable.</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2013/08/google/</id>
+    <id>https://solarsailer.net/2013/08/google/</id>
     <updated>2013-08-18T00:00:00.000Z</updated>
     <title>Google</title>
-    <link href="https://matthieuoger.com/2013/08/google/"/>
+    <link href="https://solarsailer.net/2013/08/google/"/>
     <content type="html"><![CDATA[<p><a href="https://engineering.gosquared.com/googles-downtime-40-drop-in-traffic">Google’s downtime caused a 40% drop in global traffic</a>:</p>
 <blockquote>
 <p>That’s huge. As internet users, our reliance on google.com being up is huge.</p>
@@ -1416,14 +1404,26 @@
 <p>This <em>is</em> way more dangerous than any proprietary software. At least, you can still use your software even if it is discontinued.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/the-lineup-of-5/</id>
+    <id>https://solarsailer.net/2013/08/tweaks/</id>
+    <updated>2013-08-18T00:00:00.000Z</updated>
+    <title>Little tweaks</title>
+    <link href="https://solarsailer.net/2013/08/tweaks/"/>
+    <content type="html"><![CDATA[<p>I just made some modifications to the blog. A bigger font, a <em>whiter</em> background and un-italicized quotations. I also reduced the size of the page by 300px. I've always felt that the page was way too large.</p>
+<p>I think that these little tweaks will make the reading experience more enjoyable.</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://solarsailer.net/</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://solarsailer.net/2013/08/the-lineup-of-5/</id>
     <updated>2013-08-16T00:00:00.000Z</updated>
     <title>The Lineup of 5</title>
-    <link href="https://matthieuoger.com/2013/08/the-lineup-of-5/"/>
+    <link href="https://solarsailer.net/2013/08/the-lineup-of-5/"/>
     <content type="html"><![CDATA[<p>Apple is rumored to announce not one but two new iPhones on september 10. One of them will be the new premium iPhone (5S). The other will be the "<em>cheap</em>" one (5C).<sup id="fnref-1"><a href="#fn-1" class="footnote-ref">1</a></sup></p>
 <p>It will be a big change in the current manufacturing strategy of Apple. Nowadays, there is three iPhones available: the flagship — the iPhone 5 —, and the older and (slightly) cheaper iPhone 4S and 4.</p>
 <p>By releasing the 5C, Apple can get rid of the iPhone 4 and 4S once and for all. It means that there will be only the iPhone 5C, the iPhone 5 and the iPhone 5S. Doing that was probably not possible for Apple before, without compromising the quality of the cheapest model and at the scale at which Apple operates.</p>
@@ -1459,14 +1459,30 @@
 </div>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/app-store/</id>
+    <id>https://solarsailer.net/2013/08/ios7/</id>
+    <updated>2013-08-15T00:00:00.000Z</updated>
+    <title>iOS 7</title>
+    <link href="https://solarsailer.net/2013/08/ios7/"/>
+    <content type="html"><![CDATA[<p><a href="http://www.imore.com/wheres-bigger-iphone">Rene Ritchie</a>:</p>
+<blockquote>
+<p>When a company like Apple goes to all the trouble of building a <strong>physics</strong> and <strong>particle engine</strong> to support their interface, when they <strong>objectify</strong> it and <strong>gamify</strong> it and <strong>make it a dynamic, living thing</strong>, it opens up a lot of potential. When you add <strong>Text Kit</strong> to mix, and the <strong>design language</strong> in general, and when you see what it all looks and feels like on an iPad mini, then the possibilities for a bigger iPhone next year become infinitely more exciting.</p>
+</blockquote>
+<p>Good recap of the real changes brought by iOS 7.</p>
+<p><em>(emphasis mine)</em></p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://solarsailer.net/</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://solarsailer.net/2013/08/app-store/</id>
     <updated>2013-08-15T00:00:00.000Z</updated>
     <title>App Store</title>
-    <link href="https://matthieuoger.com/2013/08/app-store/"/>
+    <link href="https://solarsailer.net/2013/08/app-store/"/>
     <content type="html"><![CDATA[<p>Truth:</p>
 <blockquote class="twitter-tweet">
 <p>
@@ -1484,43 +1500,27 @@ August 14, 2013
 </blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/ios7/</id>
-    <updated>2013-08-15T00:00:00.000Z</updated>
-    <title>iOS 7</title>
-    <link href="https://matthieuoger.com/2013/08/ios7/"/>
-    <content type="html"><![CDATA[<p><a href="http://www.imore.com/wheres-bigger-iphone">Rene Ritchie</a>:</p>
-<blockquote>
-<p>When a company like Apple goes to all the trouble of building a <strong>physics</strong> and <strong>particle engine</strong> to support their interface, when they <strong>objectify</strong> it and <strong>gamify</strong> it and <strong>make it a dynamic, living thing</strong>, it opens up a lot of potential. When you add <strong>Text Kit</strong> to mix, and the <strong>design language</strong> in general, and when you see what it all looks and feels like on an iPad mini, then the possibilities for a bigger iPhone next year become infinitely more exciting.</p>
-</blockquote>
-<p>Good recap of the real changes brought by iOS 7.</p>
-<p><em>(emphasis mine)</em></p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2013/08/old-times/</id>
+    <id>https://solarsailer.net/2013/08/old-times/</id>
     <updated>2013-08-14T00:00:00.000Z</updated>
     <title>Old times</title>
-    <link href="https://matthieuoger.com/2013/08/old-times/"/>
+    <link href="https://solarsailer.net/2013/08/old-times/"/>
     <content type="html"><![CDATA[<p>I didn't find enough time to create this blog over the last years. However, during this timespan, I read <strong>a lot</strong> of great articles.</p>
 <p>I'm going to link some of them from time to time. After all, I also created this blog to be a sort of personal archive of what I liked, with my impressions.</p>
 <p>I already did that once, with this article: <a href="https://solarsailer.net/2013/08/life-too-short-ugly-graphs/">Quote — "Life is too short to stare at ugly graphs. And yes, you should feel bad."</a>.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/transitional-interfaces/</id>
+    <id>https://solarsailer.net/2013/08/transitional-interfaces/</id>
     <updated>2013-08-14T00:00:00.000Z</updated>
     <title>Animations, interactions, transitions</title>
-    <link href="https://matthieuoger.com/2013/08/transitional-interfaces/"/>
+    <link href="https://solarsailer.net/2013/08/transitional-interfaces/"/>
     <content type="html"><![CDATA[<p><a href="https://medium.com/design-ux/926eb80d64e3">Transitional Interfaces</a>:</p>
 <blockquote>
 <p>It seems crazy to me that more people don’t think about interfaces with respect to the dimension of time. Motion can provide so much information! Maybe the tools to create prototypes are too complicated for most designers?</p>
@@ -1531,14 +1531,14 @@ August 14, 2013
 <p>Tools to simplify this process are now crucial.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/marketers/</id>
+    <id>https://solarsailer.net/2013/08/marketers/</id>
     <updated>2013-08-13T00:00:00.000Z</updated>
     <title>Marketers</title>
-    <link href="https://matthieuoger.com/2013/08/marketers/"/>
+    <link href="https://solarsailer.net/2013/08/marketers/"/>
     <content type="html"><![CDATA[<p><a href="http://www.elezea.com/2013/07/hey-marketers/">Hey Marketers, making a website is not about you</a> (emphasis mine):</p>
 <blockquote>
 <p>The problem with many Marketers today is that they too often make it all about the company, and not about user needs. I’m sorry, but it’s not about changing people, and it’s not about making them do stuff. That’s old school thinking from a time when brands could steamroll their way into the consciousness and wallets of people through clever advertising and sleight of hand. Those days are over. Now our job is not to make it about how awesome we are, <strong>but how well we help people accomplish their goals</strong>.</p>
@@ -1550,14 +1550,14 @@ August 14, 2013
 </ul>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/zero/</id>
+    <id>https://solarsailer.net/2013/08/zero/</id>
     <updated>2013-08-09T00:00:00.000Z</updated>
     <title>Zero</title>
-    <link href="https://matthieuoger.com/2013/08/zero/"/>
+    <link href="https://solarsailer.net/2013/08/zero/"/>
     <content type="html"><![CDATA[<p><a href="http://zachholman.com/posts/inbox-zero-everything-zero">Zach Holman</a>:</p>
 <blockquote>
 <p>Everyone works differently. The trick is finding out how you work best. For me, I tend to take an OCD approach to emptying things. I keep a clean desktop: under three icons at a time, preferably. It made sense to use my desktop as a kind of bucket I needed to empty: it's always there, and I can put short, actionable items there because that visually disturbs me enough to want to clean it off (and do the action).</p>
@@ -1574,14 +1574,14 @@ August 14, 2013
 <p>A sort of minimalism? Probably.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/future-programming/</id>
+    <id>https://solarsailer.net/2013/08/future-programming/</id>
     <updated>2013-08-06T00:00:00.000Z</updated>
     <title>The Future Of Programming</title>
-    <link href="https://matthieuoger.com/2013/08/future-programming/"/>
+    <link href="https://solarsailer.net/2013/08/future-programming/"/>
     <content type="html"><![CDATA[<p>I finally watched the latest Brett Victor's conference: <a href="https://vimeo.com/71278954">The Future Of Programming</a>. I highly recommend to check everything he has done. You will not loose your time.</p>
 <p>One of the moments I liked the best is when Brett Victor is talking about smalltalk and its browser view. This idea, that is fairly old now, reminds me of some initiatives like <a href="http://brackets.io/">Brackets</a> or <a href="http://www.lighttable.com/">Light Table</a>. These editors are still using text files to manage code, but they add inline code browsing or live feedback, amongst others. It is funny to see that we had to wait 40 years to see that happens.</p>
 <p>Which reminds me of the conclusion of Brett Victor: <strong>you have to realize that you do not know what you are doing in order to find new way of doing things</strong>.</p>
@@ -1593,28 +1593,14 @@ August 14, 2013
 <p>We need better tools to create UI — we need <strong>feedback and interactivity</strong> directly within the creative process.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/quote-marco-arment/</id>
-    <updated>2013-08-05T00:00:00.000Z</updated>
-    <title>Quote — Marco Arment</title>
-    <link href="https://matthieuoger.com/2013/08/quote-marco-arment/"/>
-    <content type="html"><![CDATA[<blockquote>
-<p>I offered to give my Nexus 7 and Kindle Fire to Betaworks in the Instapaper acquisition, but they had so many of both sitting around already that they declined. Tech companies with mobile apps can practically tile walls with outdated Android devices. They’re the new AOL CDs.</p>
-<p>— <a href="http://www.marco.org/2013/07/25/nexus-72">Marco Arment</a></p>
-</blockquote>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2013/08/os-wp-winrt/</id>
+    <id>https://solarsailer.net/2013/08/os-wp-winrt/</id>
     <updated>2013-08-05T00:00:00.000Z</updated>
     <title>Windows Phone and WinRT</title>
-    <link href="https://matthieuoger.com/2013/08/os-wp-winrt/"/>
+    <link href="https://solarsailer.net/2013/08/os-wp-winrt/"/>
     <content type="html"><![CDATA[<p>From <a href="http://winsupersite.com/windows-phone/windows-phone-or-windows-rt">Windows Phone or Windows RT?</a>:</p>
 <blockquote>
 <p>Microsoft already has a mobile platform with a thriving ecosystem. It’s called Windows Phone, and I think it makes a far better choice for general purpose tablets than does Windows RT.</p>
@@ -1634,14 +1620,28 @@ August 14, 2013
 </div>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/</id>
+    <id>https://solarsailer.net/2013/08/quote-marco-arment/</id>
+    <updated>2013-08-05T00:00:00.000Z</updated>
+    <title>Quote — Marco Arment</title>
+    <link href="https://solarsailer.net/2013/08/quote-marco-arment/"/>
+    <content type="html"><![CDATA[<blockquote>
+<p>I offered to give my Nexus 7 and Kindle Fire to Betaworks in the Instapaper acquisition, but they had so many of both sitting around already that they declined. Tech companies with mobile apps can practically tile walls with outdated Android devices. They’re the new AOL CDs.</p>
+<p>— <a href="http://www.marco.org/2013/07/25/nexus-72">Marco Arment</a></p>
+</blockquote>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://solarsailer.net/</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://solarsailer.net/2013/08/life-too-short-ugly-graphs/</id>
     <updated>2013-08-02T00:00:00.000Z</updated>
     <title>Quote — &quot;Life is too short to stare at ugly graphs. And yes, you should feel bad.&quot;</title>
-    <link href="https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/"/>
+    <link href="https://solarsailer.net/2013/08/life-too-short-ugly-graphs/"/>
     <content type="html"><![CDATA[<blockquote>
 <p>It was done in-house. We really care about how our graphs look, because graphs represent information. It's like typography. Humans learned how to write 5000 years ago, and it took us a very long while until we mastered the art of transmitting information like that. Once we mastered it, however, we started caring about the way we present that information. For no specific reason, but we developed unique typefaces that look beautiful, different, yet transmit the same information.</p>
 <p>Likewise, we've spent a ton of valuable time graphing and mining data from all over our stack; it's only natural that after that, we care about how we present that data. Like typography, it's hard because it's an arduous hunt for the aesthetics hidden behind information. But this hunt is what makes us human.</p>
@@ -1653,14 +1653,14 @@ August 14, 2013
 <p>An oldie, but I'm still loving it (emphasis mine).</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/quote-changing-the-world/</id>
+    <id>https://solarsailer.net/2013/08/quote-changing-the-world/</id>
     <updated>2013-08-02T00:00:00.000Z</updated>
     <title>Quote — &quot;Changing the world.&quot;</title>
-    <link href="https://matthieuoger.com/2013/08/quote-changing-the-world/"/>
+    <link href="https://solarsailer.net/2013/08/quote-changing-the-world/"/>
     <content type="html"><![CDATA[<blockquote>
 <p>Could "changing the world" be a contender the most trite, overused expression of 2013? Recent grads seem to have adopted it en masse as their personal tagline. It's a nice sentiment, but it hard not to roll your eyes when every 23 year old applies it to his mobile phone app with no users that he threw together in a couple weeks.</p>
 <p>[…]</p>
@@ -1670,42 +1670,42 @@ August 14, 2013
 <p>(via <a href="http://wolfslittlestore.be/2013/08/changing-the-world/">Wolf's Little Store</a>)</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/07/designer-decision/</id>
+    <id>https://solarsailer.net/2013/07/designer-decision/</id>
     <updated>2013-07-25T00:00:00.000Z</updated>
     <title>Designer&apos;s decision</title>
-    <link href="https://matthieuoger.com/2013/07/designer-decision/"/>
+    <link href="https://solarsailer.net/2013/07/designer-decision/"/>
     <content type="html"><![CDATA[<p><a href="https://benhowdle.im/options-are-the-devil.html">Ben Howdle, in “Options Are The Devil”</a>:</p>
 <blockquote>
 <p>It’s kind of like going, “Well, erm, I dunno, this is a tricky UI/UX decision, oh hell, we’ll let the user decide.” Passing the buck to the user to make the UX decision for you? Sounds worse when it’s put like that, huh?</p>
 </blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/07/rule-three/</id>
+    <id>https://solarsailer.net/2013/07/rule-three/</id>
     <updated>2013-07-24T00:00:00.000Z</updated>
     <title>The rule of Three</title>
-    <link href="https://matthieuoger.com/2013/07/rule-three/"/>
+    <link href="https://solarsailer.net/2013/07/rule-three/"/>
     <content type="html"><![CDATA[<p><a href="http://www.codinghorror.com/blog/2013/07/rule-of-three.html">Jeff Atwood</a>:</p>
 <blockquote>
 <p>If I have learned anything in my programming career, it is this: building reusable software, <em>truly</em> reusable software, is an incredibly hard problem – right up there with <a href="http://martinfowler.com/bliki/TwoHardThings.html">naming things and cache invalidation</a>.</p>
 </blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/07/current-days-science-fiction/</id>
+    <id>https://solarsailer.net/2013/07/current-days-science-fiction/</id>
     <updated>2013-07-23T00:00:00.000Z</updated>
     <title>Current days science fiction</title>
-    <link href="https://matthieuoger.com/2013/07/current-days-science-fiction/"/>
+    <link href="https://solarsailer.net/2013/07/current-days-science-fiction/"/>
     <content type="html"><![CDATA[<p><a href="http://verynicewebsite.net/2013/07/a-planet-where-apes-evolved-from-man/">John Moltz</a>:</p>
 <blockquote>
 <p>Microsoft struggles to get developers on its platforms with apps coming late or not at all, developers ship for Apple first and foremost and the platform with the most market share is, ostensibly, open-source.</p>
@@ -1713,14 +1713,14 @@ August 14, 2013
 </blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/07/towerfall-interview/</id>
+    <id>https://solarsailer.net/2013/07/towerfall-interview/</id>
     <updated>2013-07-22T00:00:00.000Z</updated>
     <title>Matt Thorson on Towerfall, Ouya, game design and pricing</title>
-    <link href="https://matthieuoger.com/2013/07/towerfall-interview/"/>
+    <link href="https://solarsailer.net/2013/07/towerfall-interview/"/>
     <content type="html"><![CDATA[<p>The <a href="http://www.polygon.com/2013/7/19/4535012/towerfall-ouya-matt-thorson-multiplayer-competitive-fighting-games">full interview</a> is really great:</p>
 <blockquote>
 <p>"I personally don't think the Ouya's audience is big enough to support mobile pricing," he added. "All the arguments towards pricing lower were to cater to people's expectations, and I believe TowerFall is worth $15 if you have people to play with." […]</p>
@@ -1729,26 +1729,14 @@ August 14, 2013
 <p>However, I must confess that I'm a bit surprised that only 2.000 copies have been sold. Even at $15 each.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/07/unsplash/</id>
-    <updated>2013-07-04T00:00:00.000Z</updated>
-    <title>Unsplash</title>
-    <link href="https://matthieuoger.com/2013/07/unsplash/"/>
-    <content type="html"><![CDATA[<p> Wonderful resource for high quality photos.</p>
-<p> → <a href="http://unsplash.com/">See here</a>.</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2013/07/ios7-david-cole/</id>
+    <id>https://solarsailer.net/2013/07/ios7-david-cole/</id>
     <updated>2013-07-04T00:00:00.000Z</updated>
     <title>Is the new Apple iOS 7 look an improvement?</title>
-    <link href="https://matthieuoger.com/2013/07/ios7-david-cole/"/>
+    <link href="https://solarsailer.net/2013/07/ios7-david-cole/"/>
     <content type="html"><![CDATA[<p><a href="http://www.quora.com/iOS-7/Is-the-new-Apple-iOS-7-look-an-improvement/answer/David-Cole">David Cole on Quora</a>:</p>
 <blockquote>
 <p>I have a different perspective than most of the other answerers here. I don't think the interesting components of iOS 7 are found in the icons or the color or the type — those are relatively self-contained and thus easy to change and evolve. I think the most interesting changes, and the best changes, run much deeper than that, and yet they're intrinsically linked to the "look" of it.</p>
@@ -1756,14 +1744,26 @@ August 14, 2013
 <p>One of the best analysis that I've read about iOS 7.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/07/quote-brent-simmons/</id>
+    <id>https://solarsailer.net/2013/07/unsplash/</id>
+    <updated>2013-07-04T00:00:00.000Z</updated>
+    <title>Unsplash</title>
+    <link href="https://solarsailer.net/2013/07/unsplash/"/>
+    <content type="html"><![CDATA[<p> Wonderful resource for high quality photos.</p>
+<p> → <a href="http://unsplash.com/">See here</a>.</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://solarsailer.net/</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://solarsailer.net/2013/07/quote-brent-simmons/</id>
     <updated>2013-07-02T00:00:00.000Z</updated>
     <title>Quote — Brent Simmons</title>
-    <link href="https://matthieuoger.com/2013/07/quote-brent-simmons/"/>
+    <link href="https://solarsailer.net/2013/07/quote-brent-simmons/"/>
     <content type="html"><![CDATA[<blockquote>
 <p>Efficiency is more important than cloning Google Reader’s (undocumented and un-lovely) API and more important than adhering strictly to REST. (<strong>Because efficiency makes for a better user experience, and that’s more important than anything else.</strong>)</p>
 <p>— <a href="http://inessential.com/2013/07/01/netnewswire_and_syncing_speculation">Brent Simmons</a></p>
@@ -1771,14 +1771,14 @@ August 14, 2013
 <p>(emphasis mine)</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/07/firefox-os/</id>
+    <id>https://solarsailer.net/2013/07/firefox-os/</id>
     <updated>2013-07-01T00:00:00.000Z</updated>
     <title>Firefox OS</title>
-    <link href="https://matthieuoger.com/2013/07/firefox-os/"/>
+    <link href="https://solarsailer.net/2013/07/firefox-os/"/>
     <content type="html"><![CDATA[<p>Mozilla and Telefónica have announced a phone running Firefox OS this morning - the ZTE Open. It will cost $69.</p>
 <p>Mozilla, as usual, promotes the open nature of its OS along with the fact that it is powered by web technologies:</p>
 <blockquote class="twitter-tweet"><p><a href="https://twitter.com/search?q=%23FirefoxOS&amp;src=hash">#FirefoxOS</a> arrives this month in select markets! Celebrate the 1st smartphone powered completely by Web technologies! <a href="http://t.co/Mio0f4zctj">http://t.co/Mio0f4zctj</a></p>&mdash; Firefox (@firefox) <a href="https://twitter.com/firefox/statuses/351641840728023040">July 1, 2013</a></blockquote>
@@ -1801,14 +1801,14 @@ August 14, 2013
 <blockquote class="twitter-tweet"><p>Everyone agrees that the web is the future and apps are a dead end. The only people who disagree are the actual, you know, users.</p>&mdash; Benedict Evans (@BenedictEvans) <a href="https://twitter.com/BenedictEvans/statuses/351646755818975232">July 1, 2013</a></blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/06/google-reader-alternative/</id>
+    <id>https://solarsailer.net/2013/06/google-reader-alternative/</id>
     <updated>2013-06-28T00:00:00.000Z</updated>
     <title>The search for a Google Reader alternative</title>
-    <link href="https://matthieuoger.com/2013/06/google-reader-alternative/"/>
+    <link href="https://solarsailer.net/2013/06/google-reader-alternative/"/>
     <content type="html"><![CDATA[<p><a href="http://www.elezea.com/2013/06/google-reader-replacement/">Rian Van Der Merwe, my Google Reader replacement setup</a>:</p>
 <blockquote>
 <p>But I do feel like I now know way too much about the RSS reader landscape than I every wanted to. Thanks, Google.</p>
@@ -1819,19 +1819,19 @@ August 14, 2013
 <p>The worst thing in this mess is that a fair amount of the old Google Reader users would have gladly paid for it - the adoption of Feedbin or FeedWrangler clearly demonstrates that.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/06/a-start/</id>
+    <id>https://solarsailer.net/2013/06/a-start/</id>
     <updated>2013-06-26T00:00:00.000Z</updated>
     <title>A start</title>
-    <link href="https://matthieuoger.com/2013/06/a-start/"/>
+    <link href="https://solarsailer.net/2013/06/a-start/"/>
     <content type="html"><![CDATA[<p>For years, I was eager to create my own writing "platform".</p>
 <p>So, I guess it starts now.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://solarsailer.net/</uri>
     </author>
   </entry>
 </feed>
