@@ -1,7 +1,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://matthieuoger.com/</id>
-  <updated>2018-10-18T07:09:30.956Z</updated>
-  <title>Solar Sailer</title>
+  <updated>2018-10-18T14:58:06.446Z</updated>
+  <title>Matthieu Oger</title>
   <icon>https://matthieuoger.com/feed.png</icon>
   <link href="https://matthieuoger.com/atom.xml" rel="self"/>
   <link href="https://matthieuoger.com/"/>
@@ -122,7 +122,7 @@
 <p><em>Side note: the work by <a href="https://www.boardgamegeek.com/thread/643046/poll-would-you-buy-re-design-glory-rome">Heiko Günther</a> is beautiful too. I think that the French version is clearer in an actual game, but wow this is pretty.</em></p>
 <hr>
 <p>This article makes me think that many boardgames disappear each year, going unnoticed and forgotten forever.</p>
-<p>I wrote about <a href="https://solarsailer.net/2015/09/quantum-post-mortem/">Quantum</a> before, one of my favorite boardgames, which is out of stock too. I looked for a new copy a few months ago, and to my surprise, wasn't able to find one. I looked today, and the game is not even listed on most sites anymore.</p>
+<p>I wrote about <a href="https://matthieuoger.com/2015/09/quantum-post-mortem/">Quantum</a> before, one of my favorite boardgames, which is out of stock too. I looked for a new copy a few months ago, and to my surprise, wasn't able to find one. I looked today, and the game is not even listed on most sites anymore.</p>
 <p>Each year<sup id="fnref-1"><a href="#fn-1" class="footnote-ref">1</a></sup>, an increasing number of new games is released, and each year, an even bigger number is retired. The disturbing thing, however, is that most of these games are, actually, great games.</p>
 <p>Only a small and highly-successful portion of all the boardgames will be kept forever (Catan, Race for the Galaxy, Carcassonne, Monopoly, 7 Wonders, etc.). Are those the very best of the best? Or just the most successful ones?</p>
 <div class="footnotes">
@@ -172,7 +172,9 @@
 </ul>
 <p>I'm so exhausted by this whole process and that's mainly why I'm so long to end this blog post. 😇</p>
 <hr>
-<p>I hope you'll like it.</p>]]></content>
+<p>I hope you'll like it.</p>
+<h2>Update <span class="more">18 October 2018</span></h2>
+<p>I've renamed the site to simply "Matthieu Oger". The "brand" I was trying to create with the "Solar Sailer" name was not working at all. It's better to just drop it and use my name as of now. If you encounter a broken link somewhere, please <a href="/about/">contact me</a>.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com/</uri>
@@ -365,7 +367,7 @@
 <p>Instead, we stack layer after layer of additional convoluted crap on top of what we’ve already got because we don’t know how to fix it. Instead, we flit constantly from Thin to Mongrel to Passenger to Heroku to Bitnami to Docker to whatever new way to deploy trivial apps came out yesterday. Instead, we obsess over adding better Sass integration to our frameworks.</p>
 <p>And I’m really not picking on Ruby, or Rails, or this particular app. I hate deploying my own web software, because there are so many parts all over the system that only barely know about each other, but if any of them fail then the whole shebang stops working.</p>
 </blockquote>
-<p>See also: <a href="https://solarsailer.net/2015/01/something-slightly-less-terrible/">Something Slightly Less Terrible</a>.</p>]]></content>
+<p>See also: <a href="https://matthieuoger.com/2015/01/something-slightly-less-terrible/">Something Slightly Less Terrible</a>.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com/</uri>
@@ -785,7 +787,7 @@
     <title>Origami 2.0</title>
     <link href="https://matthieuoger.com/2015/02/origami-2/"/>
     <content type="html"><![CDATA[<p>Facebook released <a href="https://code.facebook.com/posts/883904991672650/introducing-origami-live/">Origami 2.0</a> yesterday… and wow, that's a huge update.</p>
-<p><a href="https://solarsailer.net/2014/02/origami-quartz-composer/">I've already spoken about Origami one year ago</a>. I didn't have the chance to use this software that much since, but I'm still keeping an eye on it. And I'm really impressed by the 2.0 version.</p>
+<p><a href="https://matthieuoger.com/2014/02/origami-quartz-composer/">I've already spoken about Origami one year ago</a>. I didn't have the chance to use this software that much since, but I'm still keeping an eye on it. And I'm really impressed by the 2.0 version.</p>
 <p><a href="https://medium.com/@bwalkin/introducing-origami-live-and-origami-2-0-a68116294e65">Brandon Walkin on Medium</a>:</p>
 <blockquote>
 <p>Today, we’re excited to release Origami Live for iOS along with a major new version of Origami for Mac. Origami Live is a new app that lets you use your Origami prototypes on your iPhone or iPad. Alongside it, we’re releasing Origami 2.0, which has a ton of new features, including code exporting, powerful gesture support, Sketch integration, presentation mode, and more.</p>
@@ -878,7 +880,7 @@
     <updated>2014-08-01T00:00:00.000Z</updated>
     <title>Taking a break</title>
     <link href="https://matthieuoger.com/2014/08/taking-a-break/"/>
-    <content type="html"><![CDATA[<p>I'm self-employed and I work every day at home for my company, <a href="http://pixelnest.io">Pixelnest Studio</a>.</p>
+    <content type="html"><![CDATA[<p>I'm self-employed and I work every day at home for my company, <a href="https://pixelnest.io">Pixelnest Studio</a>.</p>
 <p>A common good practice recommended by almost any home-worker is to take a quick (3 minutes) <em>walking</em> break every 45 minutes or so.</p>
 <ol>
 <li>It makes you move your body. Especially your legs and your back.</li>
@@ -1037,9 +1039,9 @@
     <updated>2013-11-21T00:00:00.000Z</updated>
     <title>Pixelnest — Unity 2D tutorial</title>
     <link href="https://matthieuoger.com/2013/11/unity-2d-tutorial/"/>
-    <content type="html"><![CDATA[<p>During the last weeks, we (<a href="http://dmayance.com/">Damien</a> and I) have cooked a complete tutorial about Unity and its new 2D tools. This tutorial covers the creation of a very small game from start to finish.</p>
+    <content type="html"><![CDATA[<p>During the last weeks, we (<a href="https://dmayance.com/">Damien</a> and I) have cooked a complete tutorial about Unity and its new 2D tools. This tutorial covers the creation of a very small game from start to finish.</p>
 <p>We hope you will enjoy it.</p>
-<p>→ <a href="http://pixelnest.io/tutorials/2d-game-unity/">You can read it here</a>.</p>]]></content>
+<p>→ <a href="https://pixelnest.io/tutorials/2d-game-unity/">You can read it here</a>.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com/</uri>
@@ -1443,7 +1445,7 @@
 <blockquote>
 <p>If your apps use the MAC address to identify an iOS device, the system will return the same static value for all devices running iOS 7.</p>
 </blockquote>
-<p>It is a bad week for advertisers (see: <a href="https://solarsailer.net/2013/08/google-play-new-policies/">Google Play new policies</a>).</p>]]></content>
+<p>It is a bad week for advertisers (see: <a href="https://matthieuoger.com/2013/08/google-play-new-policies/">Google Play new policies</a>).</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com/</uri>
@@ -1475,7 +1477,19 @@
 <p>When you're a team of one, your I/O bandwidth is almost infinite. It's all in your brain, so you don't have to explain anything, write anything down, have meetings, draw on whiteboards, etc. Your available time to work collapses down to solving specific business problems with every line of code or web page update. Imagine a case where you never have to compromise, argue, make brain dead concessions or spend resources on proving your position. Assuming you are right, and have a good head for business, marketing and writing half-way decent code, you can solve a small problem very efficiently.</p>
 </blockquote>
 <p>Hard but hyper-efficient.</p>
-<p>We work <em>a bit</em> like that at <a href="http://pixelnest.io">Pixelnest</a>. <a href="http://dmayance.com">Damien</a> and me have a slightly different skill set, thus we can split the work almost equally. The advantage is that we can discuss together to avoid finishing in a dead end.</p>]]></content>
+<p>We work <em>a bit</em> like that at <a href="https://pixelnest.io">Pixelnest</a>. <a href="https://dmayance.com">Damien</a> and me have a slightly different skill set, thus we can split the work almost equally. The advantage is that we can discuss together to avoid finishing in a dead end.</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com/</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://matthieuoger.com/2013/08/tweaks/</id>
+    <updated>2013-08-18T00:00:00.000Z</updated>
+    <title>Little tweaks</title>
+    <link href="https://matthieuoger.com/2013/08/tweaks/"/>
+    <content type="html"><![CDATA[<p>I just made some modifications to the blog. A bigger font, a <em>whiter</em> background and un-italicized quotations. I also reduced the size of the page by 300px. I've always felt that the page was way too large.</p>
+<p>I think that these little tweaks will make the reading experience more enjoyable.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com/</uri>
@@ -1491,18 +1505,6 @@
 <p>That’s huge. As internet users, our reliance on google.com being up is huge.</p>
 </blockquote>
 <p>This <em>is</em> way more dangerous than any proprietary software. At least, you can still use your software even if it is discontinued.</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2013/08/tweaks/</id>
-    <updated>2013-08-18T00:00:00.000Z</updated>
-    <title>Little tweaks</title>
-    <link href="https://matthieuoger.com/2013/08/tweaks/"/>
-    <content type="html"><![CDATA[<p>I just made some modifications to the blog. A bigger font, a <em>whiter</em> background and un-italicized quotations. I also reduced the size of the page by 300px. I've always felt that the page was way too large.</p>
-<p>I think that these little tweaks will make the reading experience more enjoyable.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com/</uri>
@@ -1599,7 +1601,7 @@ August 14, 2013
     <link href="https://matthieuoger.com/2013/08/old-times/"/>
     <content type="html"><![CDATA[<p>I didn't find enough time to create this blog over the last years. However, during this timespan, I read <strong>a lot</strong> of great articles.</p>
 <p>I'm going to link some of them from time to time. After all, I also created this blog to be a sort of personal archive of what I liked, with my impressions.</p>
-<p>I already did that once, with this article: <a href="https://solarsailer.net/2013/08/life-too-short-ugly-graphs/">Quote — "Life is too short to stare at ugly graphs. And yes, you should feel bad."</a>.</p>]]></content>
+<p>I already did that once, with this article: <a href="https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/">Quote — "Life is too short to stare at ugly graphs. And yes, you should feel bad."</a>.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com/</uri>
@@ -1686,33 +1688,6 @@ August 14, 2013
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/os-wp-winrt/</id>
-    <updated>2013-08-05T00:00:00.000Z</updated>
-    <title>Windows Phone and WinRT</title>
-    <link href="https://matthieuoger.com/2013/08/os-wp-winrt/"/>
-    <content type="html"><![CDATA[<p>From <a href="http://winsupersite.com/windows-phone/windows-phone-or-windows-rt">Windows Phone or Windows RT?</a>:</p>
-<blockquote>
-<p>Microsoft already has a mobile platform with a thriving ecosystem. It’s called Windows Phone, and I think it makes a far better choice for general purpose tablets than does Windows RT.</p>
-</blockquote>
-<p>I used to have a Nokia Windows Phone, that I loved. The experience was pretty good, except for the lack of apps.<sup id="fnref-1"><a href="#fn-1" class="footnote-ref">1</a></sup></p>
-<p>I created some Windows Phone 7 applications (notably <a href="http://dmayance.com/culturez-vous/">Culturez-Vous</a> with Damien Mayance). I also developed a WinRT library for my daily work then — before Pixelnest.</p>
-<p>I had a Windows 8 and a WinRT device (Surface) at my workplace these days, and it was horrible. The experience was bad — the OS was a schizophrenic beast, always switching between the classic desktop and the Metro environment, with no apps. It was slow, unrefined, confusing. <a href="http://cl.ly/image/102N3O3C0k3z1c0g0u3g">The font rendering was horrid</a>.</p>
-<p>When the announcement of WinRT became public, I wondered why Microsoft did not leverage its Windows Phone OS, instead of starting from scratch with Windows 8. A tablet with Windows Phone would have been far better than a tablet with the fail that is WinRT/Windows 8.</p>
-<div class="footnotes">
-<hr>
-<ol>
-<li id="fn-1">
-<p>To be fair, however, even then I thought that iOS was a superior OS. But I like to try a new OS to discover what works and not, and to make my own opinion.<br><br>Windows Phone lacked some polish but was rock solid, especially when compared to Android. At least, the Lumia was a supercharged feature phone with a browser and a decent keyboard.</p>
-<a href="#fnref-1" class="footnote-backref">↩</a>
-</li>
-</ol>
-</div>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://matthieuoger.com/2013/08/quote-marco-arment/</id>
     <updated>2013-08-05T00:00:00.000Z</updated>
     <title>Quote — Marco Arment</title>
@@ -1727,17 +1702,27 @@ August 14, 2013
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/quote-changing-the-world/</id>
-    <updated>2013-08-02T00:00:00.000Z</updated>
-    <title>Quote — &quot;Changing the world.&quot;</title>
-    <link href="https://matthieuoger.com/2013/08/quote-changing-the-world/"/>
-    <content type="html"><![CDATA[<blockquote>
-<p>Could "changing the world" be a contender the most trite, overused expression of 2013? Recent grads seem to have adopted it en masse as their personal tagline. It's a nice sentiment, but it hard not to roll your eyes when every 23 year old applies it to his mobile phone app with no users that he threw together in a couple weeks.</p>
-<p>[…]</p>
-<p>Besides, I'm not even sure it's a healthy sentiment for most people. If your focus is as broad as "changing the world," you're probably setting yourself up to feel like a failure.</p>
-<p>— <a href="https://news.ycombinator.com/item?id=6108967">Freyr, Hacker News</a></p>
+    <id>https://matthieuoger.com/2013/08/os-wp-winrt/</id>
+    <updated>2013-08-05T00:00:00.000Z</updated>
+    <title>Windows Phone and WinRT</title>
+    <link href="https://matthieuoger.com/2013/08/os-wp-winrt/"/>
+    <content type="html"><![CDATA[<p>From <a href="http://winsupersite.com/windows-phone/windows-phone-or-windows-rt">Windows Phone or Windows RT?</a>:</p>
+<blockquote>
+<p>Microsoft already has a mobile platform with a thriving ecosystem. It’s called Windows Phone, and I think it makes a far better choice for general purpose tablets than does Windows RT.</p>
 </blockquote>
-<p>(via <a href="http://wolfslittlestore.be/2013/08/changing-the-world/">Wolf's Little Store</a>)</p>]]></content>
+<p>I used to have a Nokia Windows Phone, that I loved. The experience was pretty good, except for the lack of apps.<sup id="fnref-1"><a href="#fn-1" class="footnote-ref">1</a></sup></p>
+<p>I created some Windows Phone 7 applications (notably <a href="https://dmayance.com/culturez-vous/">Culturez-Vous</a> with Damien Mayance). I also developed a WinRT library for my daily work then — before Pixelnest.</p>
+<p>I had a Windows 8 and a WinRT device (Surface) at my workplace these days, and it was horrible. The experience was bad — the OS was a schizophrenic beast, always switching between the classic desktop and the Metro environment, with no apps. It was slow, unrefined, confusing. <a href="http://cl.ly/image/102N3O3C0k3z1c0g0u3g">The font rendering was horrid</a>.</p>
+<p>When the announcement of WinRT became public, I wondered why Microsoft did not leverage its Windows Phone OS, instead of starting from scratch with Windows 8. A tablet with Windows Phone would have been far better than a tablet with the fail that is WinRT/Windows 8.</p>
+<div class="footnotes">
+<hr>
+<ol>
+<li id="fn-1">
+<p>To be fair, however, even then I thought that iOS was a superior OS. But I like to try a new OS to discover what works and not, and to make my own opinion.<br><br>Windows Phone lacked some polish but was rock solid, especially when compared to Android. At least, the Lumia was a supercharged feature phone with a browser and a decent keyboard.</p>
+<a href="#fnref-1" class="footnote-backref">↩</a>
+</li>
+</ol>
+</div>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com/</uri>
@@ -1757,6 +1742,23 @@ August 14, 2013
 <p>— <a href="https://news.ycombinator.com/item?id=4480876">Tanoku, Hacker News</a></p>
 </blockquote>
 <p>An oldie, but I'm still loving it (emphasis mine).</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com/</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://matthieuoger.com/2013/08/quote-changing-the-world/</id>
+    <updated>2013-08-02T00:00:00.000Z</updated>
+    <title>Quote — &quot;Changing the world.&quot;</title>
+    <link href="https://matthieuoger.com/2013/08/quote-changing-the-world/"/>
+    <content type="html"><![CDATA[<blockquote>
+<p>Could "changing the world" be a contender the most trite, overused expression of 2013? Recent grads seem to have adopted it en masse as their personal tagline. It's a nice sentiment, but it hard not to roll your eyes when every 23 year old applies it to his mobile phone app with no users that he threw together in a couple weeks.</p>
+<p>[…]</p>
+<p>Besides, I'm not even sure it's a healthy sentiment for most people. If your focus is as broad as "changing the world," you're probably setting yourself up to feel like a failure.</p>
+<p>— <a href="https://news.ycombinator.com/item?id=6108967">Freyr, Hacker News</a></p>
+</blockquote>
+<p>(via <a href="http://wolfslittlestore.be/2013/08/changing-the-world/">Wolf's Little Store</a>)</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com/</uri>
