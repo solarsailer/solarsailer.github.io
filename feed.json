@@ -8,6 +8,17 @@
   "feed_url": "https://matthieuoger.com/feed.json",
   "items": [
     {
+      "id": "https://matthieuoger.com/2018/10/give-it-five-minutes/",
+      "url": "https://matthieuoger.com/2018/10/give-it-five-minutes/",
+      "title": "“Give it five minutes”",
+      "content_html": "<blockquote>\n<p>[Richard Saul Wurman] said “Man, give it five minutes.” I asked him what he meant by that? He said, it’s fine to disagree, it’s fine to push back, it’s great to have strong opinions and beliefs, but give my ideas some time to set in before you’re sure you want to argue against them. “Five minutes” represented “think”, not react. He was totally right.</p>\n<p>[…]</p>\n<p>[He] has spent his career thinking about these problems. He’s given it 30 years. And I gave it just a few minutes. Now, certainly he can be wrong and I could be right, but it’s better to think deeply about something first before being so certain you’re right.</p>\n<p>— <a href=\"https://signalvnoise.com/posts/3124-give-it-five-minutes\">Jason Fried</a></p>\n</blockquote>\n<hr>\n<p>This comes to my mind every time I face new ideas, laws, structures, products, redesigns, or just a change in my life.</p>\n<p>When we talk about politics, for example, it's really easy to dismiss what someone is doing and say \"it's so stupid and I would do <em>this</em> instead of <em>that</em>, of course!\". Without understanding the big picture, or the <a href=\"https://www.youtube.com/watch?v=rStL7niR7gs\">keys</a> behind a problem, yeah, for sure we would do differently. This is not a justification for world destruction or horrible legislations, but a mental framework to acquire knowledge about why <em>it's</em> like that and how <em>it</em> could be really improved.</p>\n<p><strong>It's hard</strong>, and we all fell for it, but each time I try to understand the motivation or the <em>why</em> behind something I would push against, it always makes more sense, whether I liked it or not. Then, I get a better grasp on the problem. And sometimes, it can even change my mind.</p>",
+      "author": {
+        "name": "Matthieu Oger",
+        "url": "https://matthieuoger.com/"
+      },
+      "date_published": "2018-10-31T00:00:00.000Z"
+    },
+    {
       "id": "https://matthieuoger.com/2018/10/unity-iphone-x-home-indicator/",
       "url": "https://matthieuoger.com/2018/10/unity-iphone-x-home-indicator/",
       "title": "Unity and iPhone X's home indicator",
@@ -492,10 +503,10 @@
       "date_published": "2013-09-05T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/09/myosis/",
-      "url": "https://matthieuoger.com/2013/09/myosis/",
-      "title": "Myosis",
-      "content_html": "<p>A gorgeous short film.</p>\n<p>→ <a href=\"https://vimeo.com/73617382\">Watch here</a>.</p>",
+      "id": "https://matthieuoger.com/2013/09/sketch-23/",
+      "url": "https://matthieuoger.com/2013/09/sketch-23/",
+      "title": "Sketch 2.3",
+      "content_html": "<p>The biggest new yesterday was not that Microsoft bought Nokia. In fact, it was written on the wall for more than 2 years. And others have blogged <a href=\"http://stratechery.com/2013/the-deal-that-makes-no-sense/\">better</a> <a href=\"http://ben-evans.com/benedictevans/2013/9/3/microsoft-and-nokia\">things</a> than I could.</p>\n<p>No, <a href=\"http://bohemiancoding.tumblr.com/post/60070936484/sketch-2-3\">it was the release of Sketch 2.3</a>.</p>\n<p>There's a lot of things that I like in this new version:</p>\n<ul>\n<li>Speed. <strong>It is incomparable</strong>.</li>\n<li>PDF import. I was looking for that for a long time.</li>\n<li>Sketch Mirror.</li>\n</ul>\n<p>The only downside of this release is when I work with text. It doesn't feel smooth.</p>\n<p>Such an awesome piece of software.</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com/"
@@ -503,10 +514,10 @@
       "date_published": "2013-09-04T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/09/sketch-23/",
-      "url": "https://matthieuoger.com/2013/09/sketch-23/",
-      "title": "Sketch 2.3",
-      "content_html": "<p>The biggest new yesterday was not that Microsoft bought Nokia. In fact, it was written on the wall for more than 2 years. And others have blogged <a href=\"http://stratechery.com/2013/the-deal-that-makes-no-sense/\">better</a> <a href=\"http://ben-evans.com/benedictevans/2013/9/3/microsoft-and-nokia\">things</a> than I could.</p>\n<p>No, <a href=\"http://bohemiancoding.tumblr.com/post/60070936484/sketch-2-3\">it was the release of Sketch 2.3</a>.</p>\n<p>There's a lot of things that I like in this new version:</p>\n<ul>\n<li>Speed. <strong>It is incomparable</strong>.</li>\n<li>PDF import. I was looking for that for a long time.</li>\n<li>Sketch Mirror.</li>\n</ul>\n<p>The only downside of this release is when I work with text. It doesn't feel smooth.</p>\n<p>Such an awesome piece of software.</p>",
+      "id": "https://matthieuoger.com/2013/09/myosis/",
+      "url": "https://matthieuoger.com/2013/09/myosis/",
+      "title": "Myosis",
+      "content_html": "<p>A gorgeous short film.</p>\n<p>→ <a href=\"https://vimeo.com/73617382\">Watch here</a>.</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com/"
@@ -624,10 +635,10 @@
       "date_published": "2013-08-19T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/tweaks/",
-      "url": "https://matthieuoger.com/2013/08/tweaks/",
-      "title": "Little tweaks",
-      "content_html": "<p>I just made some modifications to the blog. A bigger font, a <em>whiter</em> background and un-italicized quotations. I also reduced the size of the page by 300px. I've always felt that the page was way too large.</p>\n<p>I think that these little tweaks will make the reading experience more enjoyable.</p>",
+      "id": "https://matthieuoger.com/2013/08/google/",
+      "url": "https://matthieuoger.com/2013/08/google/",
+      "title": "Google",
+      "content_html": "<p><a href=\"https://engineering.gosquared.com/googles-downtime-40-drop-in-traffic\">Google’s downtime caused a 40% drop in global traffic</a>:</p>\n<blockquote>\n<p>That’s huge. As internet users, our reliance on google.com being up is huge.</p>\n</blockquote>\n<p>This <em>is</em> way more dangerous than any proprietary software. At least, you can still use your software even if it is discontinued.</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com/"
@@ -635,10 +646,10 @@
       "date_published": "2013-08-18T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/google/",
-      "url": "https://matthieuoger.com/2013/08/google/",
-      "title": "Google",
-      "content_html": "<p><a href=\"https://engineering.gosquared.com/googles-downtime-40-drop-in-traffic\">Google’s downtime caused a 40% drop in global traffic</a>:</p>\n<blockquote>\n<p>That’s huge. As internet users, our reliance on google.com being up is huge.</p>\n</blockquote>\n<p>This <em>is</em> way more dangerous than any proprietary software. At least, you can still use your software even if it is discontinued.</p>",
+      "id": "https://matthieuoger.com/2013/08/tweaks/",
+      "url": "https://matthieuoger.com/2013/08/tweaks/",
+      "title": "Little tweaks",
+      "content_html": "<p>I just made some modifications to the blog. A bigger font, a <em>whiter</em> background and un-italicized quotations. I also reduced the size of the page by 300px. I've always felt that the page was way too large.</p>\n<p>I think that these little tweaks will make the reading experience more enjoyable.</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com/"
@@ -657,17 +668,6 @@
       "date_published": "2013-08-16T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/app-store/",
-      "url": "https://matthieuoger.com/2013/08/app-store/",
-      "title": "App Store",
-      "content_html": "<p>Truth:</p>\n<blockquote class=\"twitter-tweet\">\n<p>\n\tPossess:\n\t<br>&#10;1. ~1M captive audience of developers,\n\t<br>&#10;2. ~1M apps,\n\t<br>&#10;3. ~$150B in cash, and\n\t<br>&#10;4. fail to (re)design an App Store.\n\t<br>&#10;Nuts.\n</p>\n<p>— Kontra (@counternotions)\n<a href=\"https://twitter.com/counternotions/statuses/367619924929568768\">\nAugust 14, 2013\n</a></p>\n</blockquote>",
-      "author": {
-        "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
-      },
-      "date_published": "2013-08-15T00:00:00.000Z"
-    },
-    {
       "id": "https://matthieuoger.com/2013/08/ios7/",
       "url": "https://matthieuoger.com/2013/08/ios7/",
       "title": "iOS 7",
@@ -679,10 +679,21 @@
       "date_published": "2013-08-15T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/old-times/",
-      "url": "https://matthieuoger.com/2013/08/old-times/",
-      "title": "Old times",
-      "content_html": "<p>I didn't find enough time to create this blog over the last years. However, during this timespan, I read <strong>a lot</strong> of great articles.</p>\n<p>I'm going to link some of them from time to time. After all, I also created this blog to be a sort of personal archive of what I liked, with my impressions.</p>\n<p>I already did that once, with this article: <a href=\"https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/\">Quote — \"Life is too short to stare at ugly graphs. And yes, you should feel bad.\"</a>.</p>",
+      "id": "https://matthieuoger.com/2013/08/app-store/",
+      "url": "https://matthieuoger.com/2013/08/app-store/",
+      "title": "App Store",
+      "content_html": "<p>Truth:</p>\n<blockquote class=\"twitter-tweet\">\n<p>\n\tPossess:\n\t<br>&#10;1. ~1M captive audience of developers,\n\t<br>&#10;2. ~1M apps,\n\t<br>&#10;3. ~$150B in cash, and\n\t<br>&#10;4. fail to (re)design an App Store.\n\t<br>&#10;Nuts.\n</p>\n<p>— Kontra (@counternotions)\n<a href=\"https://twitter.com/counternotions/statuses/367619924929568768\">\nAugust 14, 2013\n</a></p>\n</blockquote>",
+      "author": {
+        "name": "Matthieu Oger",
+        "url": "https://matthieuoger.com/"
+      },
+      "date_published": "2013-08-15T00:00:00.000Z"
+    },
+    {
+      "id": "https://matthieuoger.com/2013/08/transitional-interfaces/",
+      "url": "https://matthieuoger.com/2013/08/transitional-interfaces/",
+      "title": "Animations, interactions, transitions",
+      "content_html": "<p><a href=\"https://medium.com/design-ux/926eb80d64e3\">Transitional Interfaces</a>:</p>\n<blockquote>\n<p>It seems crazy to me that more people don’t think about interfaces with respect to the dimension of time. Motion can provide so much information! Maybe the tools to create prototypes are too complicated for most designers?</p>\n</blockquote>\n<p>This is something I always speak about: an interface without motion is nothing. There is no context, no link between different objects.</p>\n<p>Windows Phone did a great job to this regard. For example, if you tap a tile on the homescreen, the rest of them move outside the screen before the one you pushed. The system has clearly been created around that, to respond to inputs and act on them.</p>\n<p>Motion is clearly a thing that designers tend to forget. Even if an interface is beautiful, it will look dull if nothing reacts to you. The \"<em>flat</em>\" design movement will exacerbate this. iOS 7 has made depth and context keys citizens of its new UX paradigm.</p>\n<p>Tools to simplify this process are now crucial.</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com/"
@@ -690,10 +701,10 @@
       "date_published": "2013-08-14T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/transitional-interfaces/",
-      "url": "https://matthieuoger.com/2013/08/transitional-interfaces/",
-      "title": "Animations, interactions, transitions",
-      "content_html": "<p><a href=\"https://medium.com/design-ux/926eb80d64e3\">Transitional Interfaces</a>:</p>\n<blockquote>\n<p>It seems crazy to me that more people don’t think about interfaces with respect to the dimension of time. Motion can provide so much information! Maybe the tools to create prototypes are too complicated for most designers?</p>\n</blockquote>\n<p>This is something I always speak about: an interface without motion is nothing. There is no context, no link between different objects.</p>\n<p>Windows Phone did a great job to this regard. For example, if you tap a tile on the homescreen, the rest of them move outside the screen before the one you pushed. The system has clearly been created around that, to respond to inputs and act on them.</p>\n<p>Motion is clearly a thing that designers tend to forget. Even if an interface is beautiful, it will look dull if nothing reacts to you. The \"<em>flat</em>\" design movement will exacerbate this. iOS 7 has made depth and context keys citizens of its new UX paradigm.</p>\n<p>Tools to simplify this process are now crucial.</p>",
+      "id": "https://matthieuoger.com/2013/08/old-times/",
+      "url": "https://matthieuoger.com/2013/08/old-times/",
+      "title": "Old times",
+      "content_html": "<p>I didn't find enough time to create this blog over the last years. However, during this timespan, I read <strong>a lot</strong> of great articles.</p>\n<p>I'm going to link some of them from time to time. After all, I also created this blog to be a sort of personal archive of what I liked, with my impressions.</p>\n<p>I already did that once, with this article: <a href=\"https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/\">Quote — \"Life is too short to stare at ugly graphs. And yes, you should feel bad.\"</a>.</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com/"

@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://matthieuoger.com/</id>
-  <updated>2018-10-18T16:41:11.767Z</updated>
+  <updated>2018-10-31T18:57:08.735Z</updated>
   <title>Matthieu Oger</title>
   <icon>https://matthieuoger.com/feed.png</icon>
   <link href="https://matthieuoger.com/atom.xml" rel="self"/>
@@ -9,6 +9,26 @@
     <name>Matthieu Oger</name>
     <uri>https://matthieuoger.com/</uri>
   </author>
+  <entry>
+    <id>https://matthieuoger.com/2018/10/give-it-five-minutes/</id>
+    <updated>2018-10-31T00:00:00.000Z</updated>
+    <title>“Give it five minutes”</title>
+    <link href="https://matthieuoger.com/2018/10/give-it-five-minutes/"/>
+    <content type="html"><![CDATA[<blockquote>
+<p>[Richard Saul Wurman] said “Man, give it five minutes.” I asked him what he meant by that? He said, it’s fine to disagree, it’s fine to push back, it’s great to have strong opinions and beliefs, but give my ideas some time to set in before you’re sure you want to argue against them. “Five minutes” represented “think”, not react. He was totally right.</p>
+<p>[…]</p>
+<p>[He] has spent his career thinking about these problems. He’s given it 30 years. And I gave it just a few minutes. Now, certainly he can be wrong and I could be right, but it’s better to think deeply about something first before being so certain you’re right.</p>
+<p>— <a href="https://signalvnoise.com/posts/3124-give-it-five-minutes">Jason Fried</a></p>
+</blockquote>
+<hr>
+<p>This comes to my mind every time I face new ideas, laws, structures, products, redesigns, or just a change in my life.</p>
+<p>When we talk about politics, for example, it's really easy to dismiss what someone is doing and say "it's so stupid and I would do <em>this</em> instead of <em>that</em>, of course!". Without understanding the big picture, or the <a href="https://www.youtube.com/watch?v=rStL7niR7gs">keys</a> behind a problem, yeah, for sure we would do differently. This is not a justification for world destruction or horrible legislations, but a mental framework to acquire knowledge about why <em>it's</em> like that and how <em>it</em> could be really improved.</p>
+<p><strong>It's hard</strong>, and we all fell for it, but each time I try to understand the motivation or the <em>why</em> behind something I would push against, it always makes more sense, whether I liked it or not. Then, I get a better grasp on the problem. And sometimes, it can even change my mind.</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com/</uri>
+    </author>
+  </entry>
   <entry>
     <id>https://matthieuoger.com/2018/10/unity-iphone-x-home-indicator/</id>
     <updated>2018-10-18T00:00:00.000Z</updated>
@@ -1276,18 +1296,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/09/myosis/</id>
-    <updated>2013-09-04T00:00:00.000Z</updated>
-    <title>Myosis</title>
-    <link href="https://matthieuoger.com/2013/09/myosis/"/>
-    <content type="html"><![CDATA[<p>A gorgeous short film.</p>
-<p>→ <a href="https://vimeo.com/73617382">Watch here</a>.</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://matthieuoger.com/2013/09/sketch-23/</id>
     <updated>2013-09-04T00:00:00.000Z</updated>
     <title>Sketch 2.3</title>
@@ -1302,6 +1310,18 @@
 </ul>
 <p>The only downside of this release is when I work with text. It doesn't feel smooth.</p>
 <p>Such an awesome piece of software.</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com/</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://matthieuoger.com/2013/09/myosis/</id>
+    <updated>2013-09-04T00:00:00.000Z</updated>
+    <title>Myosis</title>
+    <link href="https://matthieuoger.com/2013/09/myosis/"/>
+    <content type="html"><![CDATA[<p>A gorgeous short film.</p>
+<p>→ <a href="https://vimeo.com/73617382">Watch here</a>.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com/</uri>
@@ -1484,18 +1504,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/tweaks/</id>
-    <updated>2013-08-18T00:00:00.000Z</updated>
-    <title>Little tweaks</title>
-    <link href="https://matthieuoger.com/2013/08/tweaks/"/>
-    <content type="html"><![CDATA[<p>I just made some modifications to the blog. A bigger font, a <em>whiter</em> background and un-italicized quotations. I also reduced the size of the page by 300px. I've always felt that the page was way too large.</p>
-<p>I think that these little tweaks will make the reading experience more enjoyable.</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://matthieuoger.com/2013/08/google/</id>
     <updated>2013-08-18T00:00:00.000Z</updated>
     <title>Google</title>
@@ -1505,6 +1513,18 @@
 <p>That’s huge. As internet users, our reliance on google.com being up is huge.</p>
 </blockquote>
 <p>This <em>is</em> way more dangerous than any proprietary software. At least, you can still use your software even if it is discontinued.</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com/</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://matthieuoger.com/2013/08/tweaks/</id>
+    <updated>2013-08-18T00:00:00.000Z</updated>
+    <title>Little tweaks</title>
+    <link href="https://matthieuoger.com/2013/08/tweaks/"/>
+    <content type="html"><![CDATA[<p>I just made some modifications to the blog. A bigger font, a <em>whiter</em> background and un-italicized quotations. I also reduced the size of the page by 300px. I've always felt that the page was way too large.</p>
+<p>I think that these little tweaks will make the reading experience more enjoyable.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com/</uri>
@@ -1554,6 +1574,22 @@
     </author>
   </entry>
   <entry>
+    <id>https://matthieuoger.com/2013/08/ios7/</id>
+    <updated>2013-08-15T00:00:00.000Z</updated>
+    <title>iOS 7</title>
+    <link href="https://matthieuoger.com/2013/08/ios7/"/>
+    <content type="html"><![CDATA[<p><a href="http://www.imore.com/wheres-bigger-iphone">Rene Ritchie</a>:</p>
+<blockquote>
+<p>When a company like Apple goes to all the trouble of building a <strong>physics</strong> and <strong>particle engine</strong> to support their interface, when they <strong>objectify</strong> it and <strong>gamify</strong> it and <strong>make it a dynamic, living thing</strong>, it opens up a lot of potential. When you add <strong>Text Kit</strong> to mix, and the <strong>design language</strong> in general, and when you see what it all looks and feels like on an iPad mini, then the possibilities for a bigger iPhone next year become infinitely more exciting.</p>
+</blockquote>
+<p>Good recap of the real changes brought by iOS 7.</p>
+<p><em>(emphasis mine)</em></p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com/</uri>
+    </author>
+  </entry>
+  <entry>
     <id>https://matthieuoger.com/2013/08/app-store/</id>
     <updated>2013-08-15T00:00:00.000Z</updated>
     <title>App Store</title>
@@ -1579,16 +1615,18 @@ August 14, 2013
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/ios7/</id>
-    <updated>2013-08-15T00:00:00.000Z</updated>
-    <title>iOS 7</title>
-    <link href="https://matthieuoger.com/2013/08/ios7/"/>
-    <content type="html"><![CDATA[<p><a href="http://www.imore.com/wheres-bigger-iphone">Rene Ritchie</a>:</p>
+    <id>https://matthieuoger.com/2013/08/transitional-interfaces/</id>
+    <updated>2013-08-14T00:00:00.000Z</updated>
+    <title>Animations, interactions, transitions</title>
+    <link href="https://matthieuoger.com/2013/08/transitional-interfaces/"/>
+    <content type="html"><![CDATA[<p><a href="https://medium.com/design-ux/926eb80d64e3">Transitional Interfaces</a>:</p>
 <blockquote>
-<p>When a company like Apple goes to all the trouble of building a <strong>physics</strong> and <strong>particle engine</strong> to support their interface, when they <strong>objectify</strong> it and <strong>gamify</strong> it and <strong>make it a dynamic, living thing</strong>, it opens up a lot of potential. When you add <strong>Text Kit</strong> to mix, and the <strong>design language</strong> in general, and when you see what it all looks and feels like on an iPad mini, then the possibilities for a bigger iPhone next year become infinitely more exciting.</p>
+<p>It seems crazy to me that more people don’t think about interfaces with respect to the dimension of time. Motion can provide so much information! Maybe the tools to create prototypes are too complicated for most designers?</p>
 </blockquote>
-<p>Good recap of the real changes brought by iOS 7.</p>
-<p><em>(emphasis mine)</em></p>]]></content>
+<p>This is something I always speak about: an interface without motion is nothing. There is no context, no link between different objects.</p>
+<p>Windows Phone did a great job to this regard. For example, if you tap a tile on the homescreen, the rest of them move outside the screen before the one you pushed. The system has clearly been created around that, to respond to inputs and act on them.</p>
+<p>Motion is clearly a thing that designers tend to forget. Even if an interface is beautiful, it will look dull if nothing reacts to you. The "<em>flat</em>" design movement will exacerbate this. iOS 7 has made depth and context keys citizens of its new UX paradigm.</p>
+<p>Tools to simplify this process are now crucial.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com/</uri>
@@ -1602,24 +1640,6 @@ August 14, 2013
     <content type="html"><![CDATA[<p>I didn't find enough time to create this blog over the last years. However, during this timespan, I read <strong>a lot</strong> of great articles.</p>
 <p>I'm going to link some of them from time to time. After all, I also created this blog to be a sort of personal archive of what I liked, with my impressions.</p>
 <p>I already did that once, with this article: <a href="https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/">Quote — "Life is too short to stare at ugly graphs. And yes, you should feel bad."</a>.</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2013/08/transitional-interfaces/</id>
-    <updated>2013-08-14T00:00:00.000Z</updated>
-    <title>Animations, interactions, transitions</title>
-    <link href="https://matthieuoger.com/2013/08/transitional-interfaces/"/>
-    <content type="html"><![CDATA[<p><a href="https://medium.com/design-ux/926eb80d64e3">Transitional Interfaces</a>:</p>
-<blockquote>
-<p>It seems crazy to me that more people don’t think about interfaces with respect to the dimension of time. Motion can provide so much information! Maybe the tools to create prototypes are too complicated for most designers?</p>
-</blockquote>
-<p>This is something I always speak about: an interface without motion is nothing. There is no context, no link between different objects.</p>
-<p>Windows Phone did a great job to this regard. For example, if you tap a tile on the homescreen, the rest of them move outside the screen before the one you pushed. The system has clearly been created around that, to respond to inputs and act on them.</p>
-<p>Motion is clearly a thing that designers tend to forget. Even if an interface is beautiful, it will look dull if nothing reacts to you. The "<em>flat</em>" design movement will exacerbate this. iOS 7 has made depth and context keys citizens of its new UX paradigm.</p>
-<p>Tools to simplify this process are now crucial.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com/</uri>
