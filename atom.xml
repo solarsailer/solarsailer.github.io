@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://matthieuoger.com/</id>
-  <updated>2018-11-14T16:41:50.107Z</updated>
+  <updated>2018-11-26T11:19:19.090Z</updated>
   <title>Matthieu Oger</title>
   <icon>https://matthieuoger.com/feed.png</icon>
   <link href="https://matthieuoger.com/atom.xml" rel="self"/>
@@ -9,6 +9,21 @@
     <name>Matthieu Oger</name>
     <uri>https://matthieuoger.com/</uri>
   </author>
+  <entry>
+    <id>https://matthieuoger.com/2018/11/flank-it/</id>
+    <updated>2018-11-26T00:00:00.000Z</updated>
+    <title>Flank it</title>
+    <link href="https://matthieuoger.com/2018/11/flank-it/"/>
+    <content type="html"><![CDATA[<p><a href="https://medium.com/@steve.yegge/jeff-bezos-jack-ma-and-the-quest-to-kill-ebay-bb4992dc5020">Steve Yegge</a>:</p>
+<blockquote>
+<p>[This] one is pretty goddamn important: Don’t try to beat a network by making a clone with improvements. It ain’t gonna work. There is too much gravitational inertia in the original network; nobody is incentivized to leave it.</p>
+<p>There are some approaches that will work […]. Both approaches require you to get into an entirely different market and build a network there. You can’t beat a strong network head-on, but you can flank it.</p>
+</blockquote>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com/</uri>
+    </author>
+  </entry>
   <entry>
     <id>https://matthieuoger.com/2018/11/bad-design/</id>
     <updated>2018-11-14T00:00:00.000Z</updated>

@@ -8,6 +8,17 @@
   "feed_url": "https://matthieuoger.com/feed.json",
   "items": [
     {
+      "id": "https://matthieuoger.com/2018/11/flank-it/",
+      "url": "https://matthieuoger.com/2018/11/flank-it/",
+      "title": "Flank it",
+      "content_html": "<p><a href=\"https://medium.com/@steve.yegge/jeff-bezos-jack-ma-and-the-quest-to-kill-ebay-bb4992dc5020\">Steve Yegge</a>:</p>\n<blockquote>\n<p>[This] one is pretty goddamn important: Don’t try to beat a network by making a clone with improvements. It ain’t gonna work. There is too much gravitational inertia in the original network; nobody is incentivized to leave it.</p>\n<p>There are some approaches that will work […]. Both approaches require you to get into an entirely different market and build a network there. You can’t beat a strong network head-on, but you can flank it.</p>\n</blockquote>",
+      "author": {
+        "name": "Matthieu Oger",
+        "url": "https://matthieuoger.com/"
+      },
+      "date_published": "2018-11-26T00:00:00.000Z"
+    },
+    {
       "id": "https://matthieuoger.com/2018/11/bad-design/",
       "url": "https://matthieuoger.com/2018/11/bad-design/",
       "title": "The cost of bad design and the “ghetto of inattention”",
