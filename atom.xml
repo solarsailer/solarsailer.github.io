@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://matthieuoger.com/</id>
-  <updated>2018-12-05T10:56:36.730Z</updated>
+  <updated>2018-12-13T20:52:24.866Z</updated>
   <title>Matthieu Oger</title>
   <icon>https://matthieuoger.com/feed.png</icon>
   <link href="https://matthieuoger.com/atom.xml" rel="self"/>
@@ -9,6 +9,26 @@
     <name>Matthieu Oger</name>
     <uri>https://matthieuoger.com/</uri>
   </author>
+  <entry>
+    <id>https://matthieuoger.com/2018/12/better-meetups-conferences/</id>
+    <updated>2018-12-13T00:00:00.000Z</updated>
+    <title>Better meetups and conferences</title>
+    <link href="https://matthieuoger.com/2018/12/better-meetups-conferences/"/>
+    <content type="html"><![CDATA[<p>I was watching <a href="https://youtu.be/_9D6ZIEQalc">this talk</a> by <a href="https://twitter.com/jessiechar">Jessie Char</a> and it reminded me of some thoughts I have each time I attend a meetup or conference.</p>
+<p>I think we could improve these events with some little tweaks that would make the experience of every attendee better.</p>
+<ul>
+<li><strong>Manage the noise level</strong>. This is <em>the most important</em> thing. Noise must be low during the "networking phase", which means that the venue should not produce too much sound acoustically (and if it's not possible, simply reduce the number of people attending your event). People should be able to talk to each other at more than 20cm away after a talk. I can't count the number of times I approached a group, finding that I couldn't hear one single word because the room was too loud.</li>
+<li><strong>Get 3 mics</strong> at least. One for the moderator, one for the speaker (or group of speakers), and one for the audience. The audience also wants to listen to the questions. The speaker or moderator should repeat the question after hearing it anyways, but this common practice is often forgotten, unfortunately.</li>
+<li><strong>Fresh air access</strong>. This is more for conferences, since meetups are usually shorter. There's nothing worse than not being able to go outside for a few minutes every hour. Headaches and odors await otherwise.</li>
+<li><strong>Find ways to nudge people to talk to each other</strong>. There will be groups of people that know each other, so the task is, by default, harder for strangers. Give them help, find ways to make interaction more natural. It's not that hard, I think (but it depends on the venue and what your event is about). For conferences, what I like is when other activities are offered (games for examples) — it's good to have breaks. And many times you can meet new people more easily in a different setup.</li>
+<li><strong>Reduce</strong>. <strong>The</strong>. <strong>Number</strong>. <strong>Of</strong>. <strong>Attendees</strong>. I get it that organizers don't want a small number of people at their meetups or conferences. It's not as profitable and it's not as good for the press/reputation, but participants will thank you. 1) It helps people talking to each other after a talk. 2) It reduces noise. 3) It creates intimacy and makes people ask more questions to the speakers. 4) And, in fact, it reduces your cost and makes everything more manageable.</li>
+</ul>
+<p>There're many other things to do, but these are my main frustrations. For the rest, the talk linked above is excellent! :)</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com/</uri>
+    </author>
+  </entry>
   <entry>
     <id>https://matthieuoger.com/2018/12/tools/</id>
     <updated>2018-12-05T00:00:00.000Z</updated>
@@ -1354,6 +1374,18 @@
     </author>
   </entry>
   <entry>
+    <id>https://matthieuoger.com/2013/09/myosis/</id>
+    <updated>2013-09-04T00:00:00.000Z</updated>
+    <title>Myosis</title>
+    <link href="https://matthieuoger.com/2013/09/myosis/"/>
+    <content type="html"><![CDATA[<p>A gorgeous short film.</p>
+<p>→ <a href="https://vimeo.com/73617382">Watch here</a>.</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com/</uri>
+    </author>
+  </entry>
+  <entry>
     <id>https://matthieuoger.com/2013/09/sketch-23/</id>
     <updated>2013-09-04T00:00:00.000Z</updated>
     <title>Sketch 2.3</title>
@@ -1368,18 +1400,6 @@
 </ul>
 <p>The only downside of this release is when I work with text. It doesn't feel smooth.</p>
 <p>Such an awesome piece of software.</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2013/09/myosis/</id>
-    <updated>2013-09-04T00:00:00.000Z</updated>
-    <title>Myosis</title>
-    <link href="https://matthieuoger.com/2013/09/myosis/"/>
-    <content type="html"><![CDATA[<p>A gorgeous short film.</p>
-<p>→ <a href="https://vimeo.com/73617382">Watch here</a>.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com/</uri>
@@ -1562,6 +1582,18 @@
     </author>
   </entry>
   <entry>
+    <id>https://matthieuoger.com/2013/08/tweaks/</id>
+    <updated>2013-08-18T00:00:00.000Z</updated>
+    <title>Little tweaks</title>
+    <link href="https://matthieuoger.com/2013/08/tweaks/"/>
+    <content type="html"><![CDATA[<p>I just made some modifications to the blog. A bigger font, a <em>whiter</em> background and un-italicized quotations. I also reduced the size of the page by 300px. I've always felt that the page was way too large.</p>
+<p>I think that these little tweaks will make the reading experience more enjoyable.</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com/</uri>
+    </author>
+  </entry>
+  <entry>
     <id>https://matthieuoger.com/2013/08/google/</id>
     <updated>2013-08-18T00:00:00.000Z</updated>
     <title>Google</title>
@@ -1571,18 +1603,6 @@
 <p>That’s huge. As internet users, our reliance on google.com being up is huge.</p>
 </blockquote>
 <p>This <em>is</em> way more dangerous than any proprietary software. At least, you can still use your software even if it is discontinued.</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2013/08/tweaks/</id>
-    <updated>2013-08-18T00:00:00.000Z</updated>
-    <title>Little tweaks</title>
-    <link href="https://matthieuoger.com/2013/08/tweaks/"/>
-    <content type="html"><![CDATA[<p>I just made some modifications to the blog. A bigger font, a <em>whiter</em> background and un-italicized quotations. I also reduced the size of the page by 300px. I've always felt that the page was way too large.</p>
-<p>I think that these little tweaks will make the reading experience more enjoyable.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com/</uri>
@@ -1632,22 +1652,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/ios7/</id>
-    <updated>2013-08-15T00:00:00.000Z</updated>
-    <title>iOS 7</title>
-    <link href="https://matthieuoger.com/2013/08/ios7/"/>
-    <content type="html"><![CDATA[<p><a href="http://www.imore.com/wheres-bigger-iphone">Rene Ritchie</a>:</p>
-<blockquote>
-<p>When a company like Apple goes to all the trouble of building a <strong>physics</strong> and <strong>particle engine</strong> to support their interface, when they <strong>objectify</strong> it and <strong>gamify</strong> it and <strong>make it a dynamic, living thing</strong>, it opens up a lot of potential. When you add <strong>Text Kit</strong> to mix, and the <strong>design language</strong> in general, and when you see what it all looks and feels like on an iPad mini, then the possibilities for a bigger iPhone next year become infinitely more exciting.</p>
-</blockquote>
-<p>Good recap of the real changes brought by iOS 7.</p>
-<p><em>(emphasis mine)</em></p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://matthieuoger.com/2013/08/app-store/</id>
     <updated>2013-08-15T00:00:00.000Z</updated>
     <title>App Store</title>
@@ -1673,18 +1677,16 @@ August 14, 2013
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/transitional-interfaces/</id>
-    <updated>2013-08-14T00:00:00.000Z</updated>
-    <title>Animations, interactions, transitions</title>
-    <link href="https://matthieuoger.com/2013/08/transitional-interfaces/"/>
-    <content type="html"><![CDATA[<p><a href="https://medium.com/design-ux/926eb80d64e3">Transitional Interfaces</a>:</p>
+    <id>https://matthieuoger.com/2013/08/ios7/</id>
+    <updated>2013-08-15T00:00:00.000Z</updated>
+    <title>iOS 7</title>
+    <link href="https://matthieuoger.com/2013/08/ios7/"/>
+    <content type="html"><![CDATA[<p><a href="http://www.imore.com/wheres-bigger-iphone">Rene Ritchie</a>:</p>
 <blockquote>
-<p>It seems crazy to me that more people don’t think about interfaces with respect to the dimension of time. Motion can provide so much information! Maybe the tools to create prototypes are too complicated for most designers?</p>
+<p>When a company like Apple goes to all the trouble of building a <strong>physics</strong> and <strong>particle engine</strong> to support their interface, when they <strong>objectify</strong> it and <strong>gamify</strong> it and <strong>make it a dynamic, living thing</strong>, it opens up a lot of potential. When you add <strong>Text Kit</strong> to mix, and the <strong>design language</strong> in general, and when you see what it all looks and feels like on an iPad mini, then the possibilities for a bigger iPhone next year become infinitely more exciting.</p>
 </blockquote>
-<p>This is something I always speak about: an interface without motion is nothing. There is no context, no link between different objects.</p>
-<p>Windows Phone did a great job to this regard. For example, if you tap a tile on the homescreen, the rest of them move outside the screen before the one you pushed. The system has clearly been created around that, to respond to inputs and act on them.</p>
-<p>Motion is clearly a thing that designers tend to forget. Even if an interface is beautiful, it will look dull if nothing reacts to you. The "<em>flat</em>" design movement will exacerbate this. iOS 7 has made depth and context keys citizens of its new UX paradigm.</p>
-<p>Tools to simplify this process are now crucial.</p>]]></content>
+<p>Good recap of the real changes brought by iOS 7.</p>
+<p><em>(emphasis mine)</em></p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com/</uri>
@@ -1698,6 +1700,24 @@ August 14, 2013
     <content type="html"><![CDATA[<p>I didn't find enough time to create this blog over the last years. However, during this timespan, I read <strong>a lot</strong> of great articles.</p>
 <p>I'm going to link some of them from time to time. After all, I also created this blog to be a sort of personal archive of what I liked, with my impressions.</p>
 <p>I already did that once, with this article: <a href="https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/">Quote — "Life is too short to stare at ugly graphs. And yes, you should feel bad."</a>.</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com/</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://matthieuoger.com/2013/08/transitional-interfaces/</id>
+    <updated>2013-08-14T00:00:00.000Z</updated>
+    <title>Animations, interactions, transitions</title>
+    <link href="https://matthieuoger.com/2013/08/transitional-interfaces/"/>
+    <content type="html"><![CDATA[<p><a href="https://medium.com/design-ux/926eb80d64e3">Transitional Interfaces</a>:</p>
+<blockquote>
+<p>It seems crazy to me that more people don’t think about interfaces with respect to the dimension of time. Motion can provide so much information! Maybe the tools to create prototypes are too complicated for most designers?</p>
+</blockquote>
+<p>This is something I always speak about: an interface without motion is nothing. There is no context, no link between different objects.</p>
+<p>Windows Phone did a great job to this regard. For example, if you tap a tile on the homescreen, the rest of them move outside the screen before the one you pushed. The system has clearly been created around that, to respond to inputs and act on them.</p>
+<p>Motion is clearly a thing that designers tend to forget. Even if an interface is beautiful, it will look dull if nothing reacts to you. The "<em>flat</em>" design movement will exacerbate this. iOS 7 has made depth and context keys citizens of its new UX paradigm.</p>
+<p>Tools to simplify this process are now crucial.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com/</uri>
