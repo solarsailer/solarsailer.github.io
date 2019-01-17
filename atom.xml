@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://matthieuoger.com/</id>
-  <updated>2018-12-13T20:52:24.866Z</updated>
+  <updated>2019-01-17T17:49:23.907Z</updated>
   <title>Matthieu Oger</title>
   <icon>https://matthieuoger.com/feed.png</icon>
   <link href="https://matthieuoger.com/atom.xml" rel="self"/>
@@ -1582,18 +1582,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/tweaks/</id>
-    <updated>2013-08-18T00:00:00.000Z</updated>
-    <title>Little tweaks</title>
-    <link href="https://matthieuoger.com/2013/08/tweaks/"/>
-    <content type="html"><![CDATA[<p>I just made some modifications to the blog. A bigger font, a <em>whiter</em> background and un-italicized quotations. I also reduced the size of the page by 300px. I've always felt that the page was way too large.</p>
-<p>I think that these little tweaks will make the reading experience more enjoyable.</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://matthieuoger.com/2013/08/google/</id>
     <updated>2013-08-18T00:00:00.000Z</updated>
     <title>Google</title>
@@ -1603,6 +1591,18 @@
 <p>That’s huge. As internet users, our reliance on google.com being up is huge.</p>
 </blockquote>
 <p>This <em>is</em> way more dangerous than any proprietary software. At least, you can still use your software even if it is discontinued.</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com/</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://matthieuoger.com/2013/08/tweaks/</id>
+    <updated>2013-08-18T00:00:00.000Z</updated>
+    <title>Little tweaks</title>
+    <link href="https://matthieuoger.com/2013/08/tweaks/"/>
+    <content type="html"><![CDATA[<p>I just made some modifications to the blog. A bigger font, a <em>whiter</em> background and un-italicized quotations. I also reduced the size of the page by 300px. I've always felt that the page was way too large.</p>
+<p>I think that these little tweaks will make the reading experience more enjoyable.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com/</uri>
@@ -1786,20 +1786,6 @@ August 14, 2013
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/quote-marco-arment/</id>
-    <updated>2013-08-05T00:00:00.000Z</updated>
-    <title>Quote — Marco Arment</title>
-    <link href="https://matthieuoger.com/2013/08/quote-marco-arment/"/>
-    <content type="html"><![CDATA[<blockquote>
-<p>I offered to give my Nexus 7 and Kindle Fire to Betaworks in the Instapaper acquisition, but they had so many of both sitting around already that they declined. Tech companies with mobile apps can practically tile walls with outdated Android devices. They’re the new AOL CDs.</p>
-<p>— <a href="http://www.marco.org/2013/07/25/nexus-72">Marco Arment</a></p>
-</blockquote>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://matthieuoger.com/2013/08/os-wp-winrt/</id>
     <updated>2013-08-05T00:00:00.000Z</updated>
     <title>Windows Phone and WinRT</title>
@@ -1821,6 +1807,20 @@ August 14, 2013
 </li>
 </ol>
 </div>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com/</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://matthieuoger.com/2013/08/quote-marco-arment/</id>
+    <updated>2013-08-05T00:00:00.000Z</updated>
+    <title>Quote — Marco Arment</title>
+    <link href="https://matthieuoger.com/2013/08/quote-marco-arment/"/>
+    <content type="html"><![CDATA[<blockquote>
+<p>I offered to give my Nexus 7 and Kindle Fire to Betaworks in the Instapaper acquisition, but they had so many of both sitting around already that they declined. Tech companies with mobile apps can practically tile walls with outdated Android devices. They’re the new AOL CDs.</p>
+<p>— <a href="http://www.marco.org/2013/07/25/nexus-72">Marco Arment</a></p>
+</blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com/</uri>

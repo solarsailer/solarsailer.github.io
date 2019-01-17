@@ -1,7 +1,7 @@
 {
   "version": "https://jsonfeed.org/version/1",
   "title": "Matthieu Oger",
-  "description": "I am a developer, designer and product manager from France. Co-founder of Pixelnest Studio.",
+  "description": "I am a product manager, developer and designer from France. Co-founder of Pixelnest Studio.",
   "icon": "https://matthieuoger.com/feed.png",
   "favicon": "https://matthieuoger.com/favicon.ico",
   "home_page_url": "https://matthieuoger.com/",
@@ -679,10 +679,10 @@
       "date_published": "2013-08-19T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/tweaks/",
-      "url": "https://matthieuoger.com/2013/08/tweaks/",
-      "title": "Little tweaks",
-      "content_html": "<p>I just made some modifications to the blog. A bigger font, a <em>whiter</em> background and un-italicized quotations. I also reduced the size of the page by 300px. I've always felt that the page was way too large.</p>\n<p>I think that these little tweaks will make the reading experience more enjoyable.</p>",
+      "id": "https://matthieuoger.com/2013/08/google/",
+      "url": "https://matthieuoger.com/2013/08/google/",
+      "title": "Google",
+      "content_html": "<p><a href=\"https://engineering.gosquared.com/googles-downtime-40-drop-in-traffic\">Google’s downtime caused a 40% drop in global traffic</a>:</p>\n<blockquote>\n<p>That’s huge. As internet users, our reliance on google.com being up is huge.</p>\n</blockquote>\n<p>This <em>is</em> way more dangerous than any proprietary software. At least, you can still use your software even if it is discontinued.</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com/"
@@ -690,10 +690,10 @@
       "date_published": "2013-08-18T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/google/",
-      "url": "https://matthieuoger.com/2013/08/google/",
-      "title": "Google",
-      "content_html": "<p><a href=\"https://engineering.gosquared.com/googles-downtime-40-drop-in-traffic\">Google’s downtime caused a 40% drop in global traffic</a>:</p>\n<blockquote>\n<p>That’s huge. As internet users, our reliance on google.com being up is huge.</p>\n</blockquote>\n<p>This <em>is</em> way more dangerous than any proprietary software. At least, you can still use your software even if it is discontinued.</p>",
+      "id": "https://matthieuoger.com/2013/08/tweaks/",
+      "url": "https://matthieuoger.com/2013/08/tweaks/",
+      "title": "Little tweaks",
+      "content_html": "<p>I just made some modifications to the blog. A bigger font, a <em>whiter</em> background and un-italicized quotations. I also reduced the size of the page by 300px. I've always felt that the page was way too large.</p>\n<p>I think that these little tweaks will make the reading experience more enjoyable.</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com/"
@@ -789,10 +789,10 @@
       "date_published": "2013-08-06T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/quote-marco-arment/",
-      "url": "https://matthieuoger.com/2013/08/quote-marco-arment/",
-      "title": "Quote — Marco Arment",
-      "content_html": "<blockquote>\n<p>I offered to give my Nexus 7 and Kindle Fire to Betaworks in the Instapaper acquisition, but they had so many of both sitting around already that they declined. Tech companies with mobile apps can practically tile walls with outdated Android devices. They’re the new AOL CDs.</p>\n<p>— <a href=\"http://www.marco.org/2013/07/25/nexus-72\">Marco Arment</a></p>\n</blockquote>",
+      "id": "https://matthieuoger.com/2013/08/os-wp-winrt/",
+      "url": "https://matthieuoger.com/2013/08/os-wp-winrt/",
+      "title": "Windows Phone and WinRT",
+      "content_html": "<p>From <a href=\"http://winsupersite.com/windows-phone/windows-phone-or-windows-rt\">Windows Phone or Windows RT?</a>:</p>\n<blockquote>\n<p>Microsoft already has a mobile platform with a thriving ecosystem. It’s called Windows Phone, and I think it makes a far better choice for general purpose tablets than does Windows RT.</p>\n</blockquote>\n<p>I used to have a Nokia Windows Phone, that I loved. The experience was pretty good, except for the lack of apps.<sup id=\"fnref-1\"><a href=\"#fn-1\" class=\"footnote-ref\">1</a></sup></p>\n<p>I created some Windows Phone 7 applications (notably <a href=\"https://dmayance.com/culturez-vous/\">Culturez-Vous</a> with Damien Mayance). I also developed a WinRT library for my daily work then — before Pixelnest.</p>\n<p>I had a Windows 8 and a WinRT device (Surface) at my workplace these days, and it was horrible. The experience was bad — the OS was a schizophrenic beast, always switching between the classic desktop and the Metro environment, with no apps. It was slow, unrefined, confusing. <a href=\"http://cl.ly/image/102N3O3C0k3z1c0g0u3g\">The font rendering was horrid</a>.</p>\n<p>When the announcement of WinRT became public, I wondered why Microsoft did not leverage its Windows Phone OS, instead of starting from scratch with Windows 8. A tablet with Windows Phone would have been far better than a tablet with the fail that is WinRT/Windows 8.</p>\n<div class=\"footnotes\">\n<hr>\n<ol>\n<li id=\"fn-1\">\n<p>To be fair, however, even then I thought that iOS was a superior OS. But I like to try a new OS to discover what works and not, and to make my own opinion.<br><br>Windows Phone lacked some polish but was rock solid, especially when compared to Android. At least, the Lumia was a supercharged feature phone with a browser and a decent keyboard.</p>\n<a href=\"#fnref-1\" class=\"footnote-backref\">↩</a>\n</li>\n</ol>\n</div>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com/"
@@ -800,10 +800,10 @@
       "date_published": "2013-08-05T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/os-wp-winrt/",
-      "url": "https://matthieuoger.com/2013/08/os-wp-winrt/",
-      "title": "Windows Phone and WinRT",
-      "content_html": "<p>From <a href=\"http://winsupersite.com/windows-phone/windows-phone-or-windows-rt\">Windows Phone or Windows RT?</a>:</p>\n<blockquote>\n<p>Microsoft already has a mobile platform with a thriving ecosystem. It’s called Windows Phone, and I think it makes a far better choice for general purpose tablets than does Windows RT.</p>\n</blockquote>\n<p>I used to have a Nokia Windows Phone, that I loved. The experience was pretty good, except for the lack of apps.<sup id=\"fnref-1\"><a href=\"#fn-1\" class=\"footnote-ref\">1</a></sup></p>\n<p>I created some Windows Phone 7 applications (notably <a href=\"https://dmayance.com/culturez-vous/\">Culturez-Vous</a> with Damien Mayance). I also developed a WinRT library for my daily work then — before Pixelnest.</p>\n<p>I had a Windows 8 and a WinRT device (Surface) at my workplace these days, and it was horrible. The experience was bad — the OS was a schizophrenic beast, always switching between the classic desktop and the Metro environment, with no apps. It was slow, unrefined, confusing. <a href=\"http://cl.ly/image/102N3O3C0k3z1c0g0u3g\">The font rendering was horrid</a>.</p>\n<p>When the announcement of WinRT became public, I wondered why Microsoft did not leverage its Windows Phone OS, instead of starting from scratch with Windows 8. A tablet with Windows Phone would have been far better than a tablet with the fail that is WinRT/Windows 8.</p>\n<div class=\"footnotes\">\n<hr>\n<ol>\n<li id=\"fn-1\">\n<p>To be fair, however, even then I thought that iOS was a superior OS. But I like to try a new OS to discover what works and not, and to make my own opinion.<br><br>Windows Phone lacked some polish but was rock solid, especially when compared to Android. At least, the Lumia was a supercharged feature phone with a browser and a decent keyboard.</p>\n<a href=\"#fnref-1\" class=\"footnote-backref\">↩</a>\n</li>\n</ol>\n</div>",
+      "id": "https://matthieuoger.com/2013/08/quote-marco-arment/",
+      "url": "https://matthieuoger.com/2013/08/quote-marco-arment/",
+      "title": "Quote — Marco Arment",
+      "content_html": "<blockquote>\n<p>I offered to give my Nexus 7 and Kindle Fire to Betaworks in the Instapaper acquisition, but they had so many of both sitting around already that they declined. Tech companies with mobile apps can practically tile walls with outdated Android devices. They’re the new AOL CDs.</p>\n<p>— <a href=\"http://www.marco.org/2013/07/25/nexus-72\">Marco Arment</a></p>\n</blockquote>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com/"
