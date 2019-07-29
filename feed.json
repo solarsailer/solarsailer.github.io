@@ -8,6 +8,17 @@
   "feed_url": "https://matthieuoger.com/feed.json",
   "items": [
     {
+      "id": "https://matthieuoger.com/2019/07/withhold-the-fun/",
+      "url": "https://matthieuoger.com/2019/07/withhold-the-fun/",
+      "title": "Withhold the Fun",
+      "content_html": "<p><a href=\"https://atp.fm/episodes/335\">John Siracusa</a>, in episode 335 of <a href=\"https://atp.fm\">ATP</a>:</p>\n<blockquote>\n<p>\"We are trying to win on quality\". And if you try to win on quality in the enterprise, that is not a winning strategy, because, we established before the definition of enterprise software, <strong>the people who pay for the software and select it are not the people who use it so your software being more desirable for users means almost nothing in the enterprise.</strong></p>\n<p>All that matters is: does it do the thing that I needed to do, does it check all the checkboxes for compliance and <em>blablabla</em> and how much does it cost?</p>\n</blockquote>\n<p>(Emphasis mine)</p>",
+      "author": {
+        "name": "Matthieu Oger",
+        "url": "https://matthieuoger.com/"
+      },
+      "date_published": "2019-07-29T00:00:00.000Z"
+    },
+    {
       "id": "https://matthieuoger.com/2019/04/a-real-dial/",
       "url": "https://matthieuoger.com/2019/04/a-real-dial/",
       "title": "A Real Dial",
@@ -888,10 +899,10 @@
       "date_published": "2013-07-22T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/07/ios7-david-cole/",
-      "url": "https://matthieuoger.com/2013/07/ios7-david-cole/",
-      "title": "Is the new Apple iOS 7 look an improvement?",
-      "content_html": "<p><a href=\"http://www.quora.com/iOS-7/Is-the-new-Apple-iOS-7-look-an-improvement/answer/David-Cole\">David Cole on Quora</a>:</p>\n<blockquote>\n<p>I have a different perspective than most of the other answerers here. I don't think the interesting components of iOS 7 are found in the icons or the color or the type — those are relatively self-contained and thus easy to change and evolve. I think the most interesting changes, and the best changes, run much deeper than that, and yet they're intrinsically linked to the \"look\" of it.</p>\n</blockquote>\n<p>One of the best analysis that I've read about iOS 7.</p>",
+      "id": "https://matthieuoger.com/2013/07/unsplash/",
+      "url": "https://matthieuoger.com/2013/07/unsplash/",
+      "title": "Unsplash",
+      "content_html": "<p> Wonderful resource for high quality photos.</p>\n<p> → <a href=\"http://unsplash.com/\">See here</a>.</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com/"
@@ -899,10 +910,10 @@
       "date_published": "2013-07-04T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/07/unsplash/",
-      "url": "https://matthieuoger.com/2013/07/unsplash/",
-      "title": "Unsplash",
-      "content_html": "<p> Wonderful resource for high quality photos.</p>\n<p> → <a href=\"http://unsplash.com/\">See here</a>.</p>",
+      "id": "https://matthieuoger.com/2013/07/ios7-david-cole/",
+      "url": "https://matthieuoger.com/2013/07/ios7-david-cole/",
+      "title": "Is the new Apple iOS 7 look an improvement?",
+      "content_html": "<p><a href=\"http://www.quora.com/iOS-7/Is-the-new-Apple-iOS-7-look-an-improvement/answer/David-Cole\">David Cole on Quora</a>:</p>\n<blockquote>\n<p>I have a different perspective than most of the other answerers here. I don't think the interesting components of iOS 7 are found in the icons or the color or the type — those are relatively self-contained and thus easy to change and evolve. I think the most interesting changes, and the best changes, run much deeper than that, and yet they're intrinsically linked to the \"look\" of it.</p>\n</blockquote>\n<p>One of the best analysis that I've read about iOS 7.</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com/"
