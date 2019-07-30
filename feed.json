@@ -8,6 +8,17 @@
   "feed_url": "https://matthieuoger.com/feed.json",
   "items": [
     {
+      "id": "https://matthieuoger.com/2019/07/book-basecamp/",
+      "url": "https://matthieuoger.com/2019/07/book-basecamp/",
+      "title": "It Doesn't Have to Be Crazy at Work",
+      "content_html": "<p>Random highlights taken from the book “<a href=\"https://basecamp.com/books/calm\">It Doesn't Have to Be Crazy at Work</a>” by <a href=\"https://basecamp.com\">Basecamp</a>.</p>\n<hr>\n<p>Page 176:</p>\n<blockquote>\n<p>Later is where excuses live. Later is where good intentions go to die. Later is a broken back and a bent spirit. Later says “all-nighters are temporary until we’ve got this figured out.” Unlikely. Make the change now.</p>\n</blockquote>\n<p>Page 185:</p>\n<blockquote>\n<p>Being clear about what demands excellence and what’s perfectly okay just being adequate is a great way to bring a sense of calm into your work. You’ll worry less, you’ll accept more. “That’s fine” is such a wonderfully relaxing way to work most of the time. Save the occasional scrutiny for the differentiating details that truly matter.</p>\n</blockquote>\n<p>Page 182:</p>\n<blockquote>\n<p>We’ve been practicing disagree and commit since the beginning, but it took Bezos’s letter to name the practice. Now we even use that exact term in our discussions. “I disagree, but let’s commit” is something you’ll hear at Basecamp after heated debates about specific products or strategy decisions.</p>\n<p>Companies waste an enormous amount of time and energy trying to convince everyone to agree before moving forward on something. What they’ll often get is reluctant acceptance that masks secret resentment.</p>\n</blockquote>\n<p>Page 252:</p>\n<blockquote>\n<p>Jean-Louis Gassée, who used to run Apple France, describes this situation as the choice between two tokens. When you deal with people who have trouble, you can either choose to take the token that says “It’s no big deal” or the token that says “It’s the end of the world.” Whichever token you pick, they’ll take the other.</p>\n</blockquote>\n<p>Page 20:</p>\n<blockquote>\n<p>It begins with this idea: <em>your company is a product</em>.</p>\n<p>Yes, the things you make are products (or services), but your company is the thing that makes those things. That’s why your company should be your best product. […] That, like product development, progress is achieved through iteration. If you want to make a product better, you have to keep tweaking, revising, and iterating. The same thing is true with a company.</p>\n<p>[…]</p>\n<p>But when you think of the company as a product, you ask different questions: Do people who work here know how to use the company? Is it simple? Complex? Is it obvious how it works? What’s fast about it? What’s slow about it? Are there bugs? What’s broken that we can fix quickly and what’s going to take a long time?</p>\n<p>A company is like software. It has to be usable, it has to be useful. And it probably also has bugs, places where the company crashes because of bad organizational design or cultural oversights.</p>\n<p>When you start to think about your company as a product, all sorts of new possibilities for improvement emerge. When you realize the way you work is malleable, you can start molding something new, something better.</p>\n</blockquote>",
+      "author": {
+        "name": "Matthieu Oger",
+        "url": "https://matthieuoger.com/"
+      },
+      "date_published": "2019-07-30T00:00:00.000Z"
+    },
+    {
       "id": "https://matthieuoger.com/2019/07/withhold-the-fun/",
       "url": "https://matthieuoger.com/2019/07/withhold-the-fun/",
       "title": "Withhold the Fun",
@@ -602,10 +613,10 @@
       "date_published": "2013-08-30T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/quote-modern-journalism/",
-      "url": "https://matthieuoger.com/2013/08/quote-modern-journalism/",
-      "title": "Quote — Modern journalism",
-      "content_html": "<p>This tweet could not better describe my feeling:</p>\n<blockquote class=\"twitter-tweet\">\n  <p>\n    Modern journalism is 90% reporting what people are saying on Twitter.\n  </p>\n<p>  — God (@TheTweetOfGod)\n<a href=\"https://twitter.com/TheTweetOfGod/statuses/359441152522469376\">July 22, 2013</a></p>\n</blockquote>",
+      "id": "https://matthieuoger.com/2013/08/the-gif-video-format/",
+      "url": "https://matthieuoger.com/2013/08/the-gif-video-format/",
+      "title": "The gif “video format”",
+      "content_html": "<p><a href=\"http://pornel.net/beat-gif-manifesto\">HTML video still can't beat GIF</a>:</p>\n<blockquote>\n<p>Animated GIF, despite having awful compression and terrible quality, is still more useful on the web than any other video format.</p>\n<p>In 2013 people still routinely convert YouTube clips to GIF (producing postage-stamp-sized dithered-to-death desaturated blobs that use more bandwidth than a full HD video), because there's still no better way to share a short movie clip on the web.</p>\n</blockquote>\n<p>Gifs are an abomination: they are heavy and the quality is, most of the time, terrible. However, their convenience is too good that people use them nonetheless.</p>\n<p>The electrical cost of gifs must be gigantic.</p>\n<hr>\n<h2>Update <span class=\"more\">08 June 2018</span></h2>\n<p>There's <a href=\"https://calendar.perfplanet.com/2017/animated-gif-without-the-gif/\">hope</a>. In a near future, and in other browsers than Safari, we will be able to use a video as an image to <em>simulate a gif</em> (ie., silence and autoplay). With perks of a video instead of an awful low-quality and heavy gif.</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com/"
@@ -613,10 +624,10 @@
       "date_published": "2013-08-29T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/the-gif-video-format/",
-      "url": "https://matthieuoger.com/2013/08/the-gif-video-format/",
-      "title": "The gif “video format”",
-      "content_html": "<p><a href=\"http://pornel.net/beat-gif-manifesto\">HTML video still can't beat GIF</a>:</p>\n<blockquote>\n<p>Animated GIF, despite having awful compression and terrible quality, is still more useful on the web than any other video format.</p>\n<p>In 2013 people still routinely convert YouTube clips to GIF (producing postage-stamp-sized dithered-to-death desaturated blobs that use more bandwidth than a full HD video), because there's still no better way to share a short movie clip on the web.</p>\n</blockquote>\n<p>Gifs are an abomination: they are heavy and the quality is, most of the time, terrible. However, their convenience is too good that people use them nonetheless.</p>\n<p>The electrical cost of gifs must be gigantic.</p>\n<hr>\n<h2>Update <span class=\"more\">08 June 2018</span></h2>\n<p>There's <a href=\"https://calendar.perfplanet.com/2017/animated-gif-without-the-gif/\">hope</a>. In a near future, and in other browsers than Safari, we will be able to use a video as an image to <em>simulate a gif</em> (ie., silence and autoplay). With perks of a video instead of an awful low-quality and heavy gif.</p>",
+      "id": "https://matthieuoger.com/2013/08/quote-modern-journalism/",
+      "url": "https://matthieuoger.com/2013/08/quote-modern-journalism/",
+      "title": "Quote — Modern journalism",
+      "content_html": "<p>This tweet could not better describe my feeling:</p>\n<blockquote class=\"twitter-tweet\">\n  <p>\n    Modern journalism is 90% reporting what people are saying on Twitter.\n  </p>\n<p>  — God (@TheTweetOfGod)\n<a href=\"https://twitter.com/TheTweetOfGod/statuses/359441152522469376\">July 22, 2013</a></p>\n</blockquote>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com/"
@@ -657,10 +668,10 @@
       "date_published": "2013-08-27T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/google-play-new-policies/",
-      "url": "https://matthieuoger.com/2013/08/google-play-new-policies/",
-      "title": "Google Play new policies",
-      "content_html": "<p><a href=\"http://blog.inner-active.com/2013/08/googles-new-policies-good-for-users-great-for-android-developers-and-the-ecosystem/\">Google’s New Policies: Good for Users, Great for Android Developers and the Ecosystem</a>:</p>\n<blockquote>\n<p>So what does all this mean? It means that Google understands that while open is great, at the end of the day, users would rather have a superior experience both in terms of Google Play as a whole, and apps behavior in particular.</p>\n</blockquote>\n<p>I am really thrilled by the changes, but I can't help smiling. Android might be \"open\", Google is definitely not.</p>\n<p>This makes me wonder…</p>\n<ul>\n<li>Android was the alternative to iOS because of the lack of policies (at least, by the developers). Google Play is now a lot more similar to the App Store. It is not as strict though.</li>\n<li>Will Google remove the abusive apps retroactively?</li>\n<li>China? Google was already out, but this will make the situation worse.</li>\n</ul>\n<p>Anyways, the chasm between Play (Google's Android) and Android is getting wider every day.</p>\n<p><strong>Update</strong>: I couldn't agree more with <a href=\"http://verynicewebsite.net/2013/08/open-always-loses/\">John Moltz</a>...</p>\n<blockquote>\n<p>I think it’s kind of amusing how quickly the narrative has changed from “Yay, open!” to “I, for one, welcome our closed overlords.”</p>\n</blockquote>",
+      "id": "https://matthieuoger.com/2013/08/ios7-user-tracking/",
+      "url": "https://matthieuoger.com/2013/08/ios7-user-tracking/",
+      "title": "iOS 7 user tracking",
+      "content_html": "<p><a href=\"http://iosdevweekly.com/issues/108/\">iOS Dev Weekly, issue 108</a>:</p>\n<blockquote>\n<p>If your solution to having uniqueIdentifier deprecated was to use the MAC address of the device in some way then you're going to have a bad time in iOS 7. […]</p>\n<p>The message here is very clear, Apple are not afraid to remove any API that makes tracking users across apps by different vendors possible.</p>\n</blockquote>\n<p><a href=\"https://developer.apple.com/news/index.php?id=8222013a\">Apple</a>:</p>\n<blockquote>\n<p>If your apps use the MAC address to identify an iOS device, the system will return the same static value for all devices running iOS 7.</p>\n</blockquote>\n<p>It is a bad week for advertisers (see: <a href=\"https://matthieuoger.com/2013/08/google-play-new-policies/\">Google Play new policies</a>).</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com/"
@@ -668,10 +679,10 @@
       "date_published": "2013-08-26T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/ios7-user-tracking/",
-      "url": "https://matthieuoger.com/2013/08/ios7-user-tracking/",
-      "title": "iOS 7 user tracking",
-      "content_html": "<p><a href=\"http://iosdevweekly.com/issues/108/\">iOS Dev Weekly, issue 108</a>:</p>\n<blockquote>\n<p>If your solution to having uniqueIdentifier deprecated was to use the MAC address of the device in some way then you're going to have a bad time in iOS 7. […]</p>\n<p>The message here is very clear, Apple are not afraid to remove any API that makes tracking users across apps by different vendors possible.</p>\n</blockquote>\n<p><a href=\"https://developer.apple.com/news/index.php?id=8222013a\">Apple</a>:</p>\n<blockquote>\n<p>If your apps use the MAC address to identify an iOS device, the system will return the same static value for all devices running iOS 7.</p>\n</blockquote>\n<p>It is a bad week for advertisers (see: <a href=\"https://matthieuoger.com/2013/08/google-play-new-policies/\">Google Play new policies</a>).</p>",
+      "id": "https://matthieuoger.com/2013/08/google-play-new-policies/",
+      "url": "https://matthieuoger.com/2013/08/google-play-new-policies/",
+      "title": "Google Play new policies",
+      "content_html": "<p><a href=\"http://blog.inner-active.com/2013/08/googles-new-policies-good-for-users-great-for-android-developers-and-the-ecosystem/\">Google’s New Policies: Good for Users, Great for Android Developers and the Ecosystem</a>:</p>\n<blockquote>\n<p>So what does all this mean? It means that Google understands that while open is great, at the end of the day, users would rather have a superior experience both in terms of Google Play as a whole, and apps behavior in particular.</p>\n</blockquote>\n<p>I am really thrilled by the changes, but I can't help smiling. Android might be \"open\", Google is definitely not.</p>\n<p>This makes me wonder…</p>\n<ul>\n<li>Android was the alternative to iOS because of the lack of policies (at least, by the developers). Google Play is now a lot more similar to the App Store. It is not as strict though.</li>\n<li>Will Google remove the abusive apps retroactively?</li>\n<li>China? Google was already out, but this will make the situation worse.</li>\n</ul>\n<p>Anyways, the chasm between Play (Google's Android) and Android is getting wider every day.</p>\n<p><strong>Update</strong>: I couldn't agree more with <a href=\"http://verynicewebsite.net/2013/08/open-always-loses/\">John Moltz</a>...</p>\n<blockquote>\n<p>I think it’s kind of amusing how quickly the narrative has changed from “Yay, open!” to “I, for one, welcome our closed overlords.”</p>\n</blockquote>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com/"
@@ -899,10 +910,10 @@
       "date_published": "2013-07-22T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/07/unsplash/",
-      "url": "https://matthieuoger.com/2013/07/unsplash/",
-      "title": "Unsplash",
-      "content_html": "<p> Wonderful resource for high quality photos.</p>\n<p> → <a href=\"http://unsplash.com/\">See here</a>.</p>",
+      "id": "https://matthieuoger.com/2013/07/ios7-david-cole/",
+      "url": "https://matthieuoger.com/2013/07/ios7-david-cole/",
+      "title": "Is the new Apple iOS 7 look an improvement?",
+      "content_html": "<p><a href=\"http://www.quora.com/iOS-7/Is-the-new-Apple-iOS-7-look-an-improvement/answer/David-Cole\">David Cole on Quora</a>:</p>\n<blockquote>\n<p>I have a different perspective than most of the other answerers here. I don't think the interesting components of iOS 7 are found in the icons or the color or the type — those are relatively self-contained and thus easy to change and evolve. I think the most interesting changes, and the best changes, run much deeper than that, and yet they're intrinsically linked to the \"look\" of it.</p>\n</blockquote>\n<p>One of the best analysis that I've read about iOS 7.</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com/"
@@ -910,10 +921,10 @@
       "date_published": "2013-07-04T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/07/ios7-david-cole/",
-      "url": "https://matthieuoger.com/2013/07/ios7-david-cole/",
-      "title": "Is the new Apple iOS 7 look an improvement?",
-      "content_html": "<p><a href=\"http://www.quora.com/iOS-7/Is-the-new-Apple-iOS-7-look-an-improvement/answer/David-Cole\">David Cole on Quora</a>:</p>\n<blockquote>\n<p>I have a different perspective than most of the other answerers here. I don't think the interesting components of iOS 7 are found in the icons or the color or the type — those are relatively self-contained and thus easy to change and evolve. I think the most interesting changes, and the best changes, run much deeper than that, and yet they're intrinsically linked to the \"look\" of it.</p>\n</blockquote>\n<p>One of the best analysis that I've read about iOS 7.</p>",
+      "id": "https://matthieuoger.com/2013/07/unsplash/",
+      "url": "https://matthieuoger.com/2013/07/unsplash/",
+      "title": "Unsplash",
+      "content_html": "<p> Wonderful resource for high quality photos.</p>\n<p> → <a href=\"http://unsplash.com/\">See here</a>.</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com/"

@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://matthieuoger.com/</id>
-  <updated>2019-07-29T21:29:44.027Z</updated>
+  <updated>2019-07-30T21:24:51.947Z</updated>
   <title>Matthieu Oger</title>
   <icon>https://matthieuoger.com/feed.png</icon>
   <link href="https://matthieuoger.com/atom.xml" rel="self"/>
@@ -9,6 +9,44 @@
     <name>Matthieu Oger</name>
     <uri>https://matthieuoger.com/</uri>
   </author>
+  <entry>
+    <id>https://matthieuoger.com/2019/07/book-basecamp/</id>
+    <updated>2019-07-30T00:00:00.000Z</updated>
+    <title>It Doesn&apos;t Have to Be Crazy at Work</title>
+    <link href="https://matthieuoger.com/2019/07/book-basecamp/"/>
+    <content type="html"><![CDATA[<p>Random highlights taken from the book “<a href="https://basecamp.com/books/calm">It Doesn't Have to Be Crazy at Work</a>” by <a href="https://basecamp.com">Basecamp</a>.</p>
+<hr>
+<p>Page 176:</p>
+<blockquote>
+<p>Later is where excuses live. Later is where good intentions go to die. Later is a broken back and a bent spirit. Later says “all-nighters are temporary until we’ve got this figured out.” Unlikely. Make the change now.</p>
+</blockquote>
+<p>Page 185:</p>
+<blockquote>
+<p>Being clear about what demands excellence and what’s perfectly okay just being adequate is a great way to bring a sense of calm into your work. You’ll worry less, you’ll accept more. “That’s fine” is such a wonderfully relaxing way to work most of the time. Save the occasional scrutiny for the differentiating details that truly matter.</p>
+</blockquote>
+<p>Page 182:</p>
+<blockquote>
+<p>We’ve been practicing disagree and commit since the beginning, but it took Bezos’s letter to name the practice. Now we even use that exact term in our discussions. “I disagree, but let’s commit” is something you’ll hear at Basecamp after heated debates about specific products or strategy decisions.</p>
+<p>Companies waste an enormous amount of time and energy trying to convince everyone to agree before moving forward on something. What they’ll often get is reluctant acceptance that masks secret resentment.</p>
+</blockquote>
+<p>Page 252:</p>
+<blockquote>
+<p>Jean-Louis Gassée, who used to run Apple France, describes this situation as the choice between two tokens. When you deal with people who have trouble, you can either choose to take the token that says “It’s no big deal” or the token that says “It’s the end of the world.” Whichever token you pick, they’ll take the other.</p>
+</blockquote>
+<p>Page 20:</p>
+<blockquote>
+<p>It begins with this idea: <em>your company is a product</em>.</p>
+<p>Yes, the things you make are products (or services), but your company is the thing that makes those things. That’s why your company should be your best product. […] That, like product development, progress is achieved through iteration. If you want to make a product better, you have to keep tweaking, revising, and iterating. The same thing is true with a company.</p>
+<p>[…]</p>
+<p>But when you think of the company as a product, you ask different questions: Do people who work here know how to use the company? Is it simple? Complex? Is it obvious how it works? What’s fast about it? What’s slow about it? Are there bugs? What’s broken that we can fix quickly and what’s going to take a long time?</p>
+<p>A company is like software. It has to be usable, it has to be useful. And it probably also has bugs, places where the company crashes because of bad organizational design or cultural oversights.</p>
+<p>When you start to think about your company as a product, all sorts of new possibilities for improvement emerge. When you realize the way you work is malleable, you can start molding something new, something better.</p>
+</blockquote>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com/</uri>
+    </author>
+  </entry>
   <entry>
     <id>https://matthieuoger.com/2019/07/withhold-the-fun/</id>
     <updated>2019-07-29T00:00:00.000Z</updated>
@@ -1462,24 +1500,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/quote-modern-journalism/</id>
-    <updated>2013-08-29T00:00:00.000Z</updated>
-    <title>Quote — Modern journalism</title>
-    <link href="https://matthieuoger.com/2013/08/quote-modern-journalism/"/>
-    <content type="html"><![CDATA[<p>This tweet could not better describe my feeling:</p>
-<blockquote class="twitter-tweet">
-  <p>
-    Modern journalism is 90% reporting what people are saying on Twitter.
-  </p>
-<p>  — God (@TheTweetOfGod)
-<a href="https://twitter.com/TheTweetOfGod/statuses/359441152522469376">July 22, 2013</a></p>
-</blockquote>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://matthieuoger.com/2013/08/the-gif-video-format/</id>
     <updated>2013-08-29T00:00:00.000Z</updated>
     <title>The gif “video format”</title>
@@ -1494,6 +1514,24 @@
 <hr>
 <h2>Update <span class="more">08 June 2018</span></h2>
 <p>There's <a href="https://calendar.perfplanet.com/2017/animated-gif-without-the-gif/">hope</a>. In a near future, and in other browsers than Safari, we will be able to use a video as an image to <em>simulate a gif</em> (ie., silence and autoplay). With perks of a video instead of an awful low-quality and heavy gif.</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com/</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://matthieuoger.com/2013/08/quote-modern-journalism/</id>
+    <updated>2013-08-29T00:00:00.000Z</updated>
+    <title>Quote — Modern journalism</title>
+    <link href="https://matthieuoger.com/2013/08/quote-modern-journalism/"/>
+    <content type="html"><![CDATA[<p>This tweet could not better describe my feeling:</p>
+<blockquote class="twitter-tweet">
+  <p>
+    Modern journalism is 90% reporting what people are saying on Twitter.
+  </p>
+<p>  — God (@TheTweetOfGod)
+<a href="https://twitter.com/TheTweetOfGod/statuses/359441152522469376">July 22, 2013</a></p>
+</blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com/</uri>
@@ -1544,6 +1582,26 @@
     </author>
   </entry>
   <entry>
+    <id>https://matthieuoger.com/2013/08/ios7-user-tracking/</id>
+    <updated>2013-08-26T00:00:00.000Z</updated>
+    <title>iOS 7 user tracking</title>
+    <link href="https://matthieuoger.com/2013/08/ios7-user-tracking/"/>
+    <content type="html"><![CDATA[<p><a href="http://iosdevweekly.com/issues/108/">iOS Dev Weekly, issue 108</a>:</p>
+<blockquote>
+<p>If your solution to having uniqueIdentifier deprecated was to use the MAC address of the device in some way then you're going to have a bad time in iOS 7. […]</p>
+<p>The message here is very clear, Apple are not afraid to remove any API that makes tracking users across apps by different vendors possible.</p>
+</blockquote>
+<p><a href="https://developer.apple.com/news/index.php?id=8222013a">Apple</a>:</p>
+<blockquote>
+<p>If your apps use the MAC address to identify an iOS device, the system will return the same static value for all devices running iOS 7.</p>
+</blockquote>
+<p>It is a bad week for advertisers (see: <a href="https://matthieuoger.com/2013/08/google-play-new-policies/">Google Play new policies</a>).</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com/</uri>
+    </author>
+  </entry>
+  <entry>
     <id>https://matthieuoger.com/2013/08/google-play-new-policies/</id>
     <updated>2013-08-26T00:00:00.000Z</updated>
     <title>Google Play new policies</title>
@@ -1564,26 +1622,6 @@
 <blockquote>
 <p>I think it’s kind of amusing how quickly the narrative has changed from “Yay, open!” to “I, for one, welcome our closed overlords.”</p>
 </blockquote>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2013/08/ios7-user-tracking/</id>
-    <updated>2013-08-26T00:00:00.000Z</updated>
-    <title>iOS 7 user tracking</title>
-    <link href="https://matthieuoger.com/2013/08/ios7-user-tracking/"/>
-    <content type="html"><![CDATA[<p><a href="http://iosdevweekly.com/issues/108/">iOS Dev Weekly, issue 108</a>:</p>
-<blockquote>
-<p>If your solution to having uniqueIdentifier deprecated was to use the MAC address of the device in some way then you're going to have a bad time in iOS 7. […]</p>
-<p>The message here is very clear, Apple are not afraid to remove any API that makes tracking users across apps by different vendors possible.</p>
-</blockquote>
-<p><a href="https://developer.apple.com/news/index.php?id=8222013a">Apple</a>:</p>
-<blockquote>
-<p>If your apps use the MAC address to identify an iOS device, the system will return the same static value for all devices running iOS 7.</p>
-</blockquote>
-<p>It is a bad week for advertisers (see: <a href="https://matthieuoger.com/2013/08/google-play-new-policies/">Google Play new policies</a>).</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com/</uri>
@@ -1962,18 +2000,6 @@ August 14, 2013
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/07/unsplash/</id>
-    <updated>2013-07-04T00:00:00.000Z</updated>
-    <title>Unsplash</title>
-    <link href="https://matthieuoger.com/2013/07/unsplash/"/>
-    <content type="html"><![CDATA[<p> Wonderful resource for high quality photos.</p>
-<p> → <a href="http://unsplash.com/">See here</a>.</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://matthieuoger.com/2013/07/ios7-david-cole/</id>
     <updated>2013-07-04T00:00:00.000Z</updated>
     <title>Is the new Apple iOS 7 look an improvement?</title>
@@ -1983,6 +2009,18 @@ August 14, 2013
 <p>I have a different perspective than most of the other answerers here. I don't think the interesting components of iOS 7 are found in the icons or the color or the type — those are relatively self-contained and thus easy to change and evolve. I think the most interesting changes, and the best changes, run much deeper than that, and yet they're intrinsically linked to the "look" of it.</p>
 </blockquote>
 <p>One of the best analysis that I've read about iOS 7.</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com/</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://matthieuoger.com/2013/07/unsplash/</id>
+    <updated>2013-07-04T00:00:00.000Z</updated>
+    <title>Unsplash</title>
+    <link href="https://matthieuoger.com/2013/07/unsplash/"/>
+    <content type="html"><![CDATA[<p> Wonderful resource for high quality photos.</p>
+<p> → <a href="http://unsplash.com/">See here</a>.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com/</uri>
