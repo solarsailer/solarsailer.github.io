@@ -723,10 +723,10 @@
       "date_published": "2013-08-19T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/google/",
-      "url": "https://matthieuoger.com/2013/08/google/",
-      "title": "Google",
-      "content_html": "<p><a href=\"https://engineering.gosquared.com/googles-downtime-40-drop-in-traffic\">Google’s downtime caused a 40% drop in global traffic</a>:</p>\n<blockquote>\n<p>That’s huge. As internet users, our reliance on google.com being up is huge.</p>\n</blockquote>\n<p>This <em>is</em> way more dangerous than any proprietary software. At least, you can still use your software even if it is discontinued.</p>",
+      "id": "https://matthieuoger.com/2013/08/tweaks/",
+      "url": "https://matthieuoger.com/2013/08/tweaks/",
+      "title": "Little tweaks",
+      "content_html": "<p>I just made some modifications to the blog. A bigger font, a <em>whiter</em> background and un-italicized quotations. I also reduced the size of the page by 300px. I've always felt that the page was way too large.</p>\n<p>I think that these little tweaks will make the reading experience more enjoyable.</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com/"
@@ -734,10 +734,10 @@
       "date_published": "2013-08-18T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/tweaks/",
-      "url": "https://matthieuoger.com/2013/08/tweaks/",
-      "title": "Little tweaks",
-      "content_html": "<p>I just made some modifications to the blog. A bigger font, a <em>whiter</em> background and un-italicized quotations. I also reduced the size of the page by 300px. I've always felt that the page was way too large.</p>\n<p>I think that these little tweaks will make the reading experience more enjoyable.</p>",
+      "id": "https://matthieuoger.com/2013/08/google/",
+      "url": "https://matthieuoger.com/2013/08/google/",
+      "title": "Google",
+      "content_html": "<p><a href=\"https://engineering.gosquared.com/googles-downtime-40-drop-in-traffic\">Google’s downtime caused a 40% drop in global traffic</a>:</p>\n<blockquote>\n<p>That’s huge. As internet users, our reliance on google.com being up is huge.</p>\n</blockquote>\n<p>This <em>is</em> way more dangerous than any proprietary software. At least, you can still use your software even if it is discontinued.</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com/"
