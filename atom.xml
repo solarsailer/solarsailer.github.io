@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://matthieuoger.com/</id>
-  <updated>2019-07-30T21:24:51.947Z</updated>
+  <updated>2019-08-01T21:03:20.279Z</updated>
   <title>Matthieu Oger</title>
   <icon>https://matthieuoger.com/feed.png</icon>
   <link href="https://matthieuoger.com/atom.xml" rel="self"/>
@@ -9,6 +9,34 @@
     <name>Matthieu Oger</name>
     <uri>https://matthieuoger.com/</uri>
   </author>
+  <entry>
+    <id>https://matthieuoger.com/2019/08/fast/</id>
+    <updated>2019-08-01T00:00:00.000Z</updated>
+    <title>Fast</title>
+    <link href="https://matthieuoger.com/2019/08/fast/"/>
+    <content type="html"><![CDATA[<p>Craig Mod in <a href="https://craigmod.com/essays/fast_software/">“Fast Software, the Best Software”</a>:</p>
+<blockquote>
+<p>I <em>love</em> fast software. That is, software speedy both in function and interface. Software with minimal to no lag between wanting to activate or manipulate something and the thing happening. Lightness.</p>
+<p>Software that’s speedy usually means it’s focused. Like a good tool, it often means that it’s simple, but that’s not necessarily true. Speed in software is probably the most valuable, least valued asset. To me, speedy software is the difference between an application smoothly integrating into your life, and one called upon with great reluctance.</p>
+<p>[…] Because — it’s not <em>quite</em> as fast. We’re talking milliseconds, but it’s enough that you <em>feel</em> the difference.</p>
+<p>[…] Still, the slowness feels indicative of unseen rot on the inside of the machine. The slowness is like an off smell. I don’t trust the application as much as I would if it didn’t slow down […]</p>
+<p>Speed and reliability are often intuited hand-in-hand. Speed can be a good proxy for general engineering quality. If an application slows down on simple tasks, then it can mean the engineers aren’t obsessive detail sticklers. Not always, but it can mean disastrous other issues lurk. I want all my craftspeople to stickle.</p>
+<p>[…] I love software that does this: Software that unbloats over time. This should be the goal of all software. The longer it’s around, the more elegant it should become. Smooth over like a river stone.</p>
+<p>[…] But why is slow bad? Fast software is not always good software, but slow software is rarely able to rise to greatness. Fast software gives the user a chance to “meld” with its toolset. That is, not break flow.</p>
+<p>[…] It feels — intuitively — that software (beyond core functionality) should aim for speed. Speed as a proxy for efficiency. […]</p>
+<p><em>Ultimately, to be fast is to be light.</em></p>
+</blockquote>
+<p>He's talking about software — where it's most perceptible —, but I think this could also be applied easily to physical objects.</p>
+<hr>
+<p>As an aparté, but similarly, Craig also wrote this sentence that I like a lot in his <a href="https://craigmod.com/roden/028/">latest Roden newsletter</a>:</p>
+<blockquote>
+<p>Part of me wishes there was more of a trend in the startup world to build sustainably small, single-serving, hyper-focused, <em>culturally-impactful</em> businesses.</p>
+</blockquote>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com/</uri>
+    </author>
+  </entry>
   <entry>
     <id>https://matthieuoger.com/2019/07/book-basecamp/</id>
     <updated>2019-07-30T00:00:00.000Z</updated>
@@ -1500,6 +1528,24 @@
     </author>
   </entry>
   <entry>
+    <id>https://matthieuoger.com/2013/08/quote-modern-journalism/</id>
+    <updated>2013-08-29T00:00:00.000Z</updated>
+    <title>Quote — Modern journalism</title>
+    <link href="https://matthieuoger.com/2013/08/quote-modern-journalism/"/>
+    <content type="html"><![CDATA[<p>This tweet could not better describe my feeling:</p>
+<blockquote class="twitter-tweet">
+  <p>
+    Modern journalism is 90% reporting what people are saying on Twitter.
+  </p>
+<p>  — God (@TheTweetOfGod)
+<a href="https://twitter.com/TheTweetOfGod/statuses/359441152522469376">July 22, 2013</a></p>
+</blockquote>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com/</uri>
+    </author>
+  </entry>
+  <entry>
     <id>https://matthieuoger.com/2013/08/the-gif-video-format/</id>
     <updated>2013-08-29T00:00:00.000Z</updated>
     <title>The gif “video format”</title>
@@ -1514,24 +1560,6 @@
 <hr>
 <h2>Update <span class="more">08 June 2018</span></h2>
 <p>There's <a href="https://calendar.perfplanet.com/2017/animated-gif-without-the-gif/">hope</a>. In a near future, and in other browsers than Safari, we will be able to use a video as an image to <em>simulate a gif</em> (ie., silence and autoplay). With perks of a video instead of an awful low-quality and heavy gif.</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2013/08/quote-modern-journalism/</id>
-    <updated>2013-08-29T00:00:00.000Z</updated>
-    <title>Quote — Modern journalism</title>
-    <link href="https://matthieuoger.com/2013/08/quote-modern-journalism/"/>
-    <content type="html"><![CDATA[<p>This tweet could not better describe my feeling:</p>
-<blockquote class="twitter-tweet">
-  <p>
-    Modern journalism is 90% reporting what people are saying on Twitter.
-  </p>
-<p>  — God (@TheTweetOfGod)
-<a href="https://twitter.com/TheTweetOfGod/statuses/359441152522469376">July 22, 2013</a></p>
-</blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com/</uri>
@@ -1582,26 +1610,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/ios7-user-tracking/</id>
-    <updated>2013-08-26T00:00:00.000Z</updated>
-    <title>iOS 7 user tracking</title>
-    <link href="https://matthieuoger.com/2013/08/ios7-user-tracking/"/>
-    <content type="html"><![CDATA[<p><a href="http://iosdevweekly.com/issues/108/">iOS Dev Weekly, issue 108</a>:</p>
-<blockquote>
-<p>If your solution to having uniqueIdentifier deprecated was to use the MAC address of the device in some way then you're going to have a bad time in iOS 7. […]</p>
-<p>The message here is very clear, Apple are not afraid to remove any API that makes tracking users across apps by different vendors possible.</p>
-</blockquote>
-<p><a href="https://developer.apple.com/news/index.php?id=8222013a">Apple</a>:</p>
-<blockquote>
-<p>If your apps use the MAC address to identify an iOS device, the system will return the same static value for all devices running iOS 7.</p>
-</blockquote>
-<p>It is a bad week for advertisers (see: <a href="https://matthieuoger.com/2013/08/google-play-new-policies/">Google Play new policies</a>).</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://matthieuoger.com/2013/08/google-play-new-policies/</id>
     <updated>2013-08-26T00:00:00.000Z</updated>
     <title>Google Play new policies</title>
@@ -1628,16 +1636,20 @@
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/lego-architects/</id>
-    <updated>2013-08-19T00:00:00.000Z</updated>
-    <title>Lego Architects</title>
-    <link href="https://matthieuoger.com/2013/08/lego-architects/"/>
-    <content type="html"><![CDATA[<p><a href="http://www.wired.com/design/2013/08/a-lego-set-with-no-instructions-for-budding-architects/">Wired</a>:</p>
+    <id>https://matthieuoger.com/2013/08/ios7-user-tracking/</id>
+    <updated>2013-08-26T00:00:00.000Z</updated>
+    <title>iOS 7 user tracking</title>
+    <link href="https://matthieuoger.com/2013/08/ios7-user-tracking/"/>
+    <content type="html"><![CDATA[<p><a href="http://iosdevweekly.com/issues/108/">iOS Dev Weekly, issue 108</a>:</p>
 <blockquote>
-<p>Architecture Studio, a new set from Lego, comes with 1,210 white and translucent bricks. More notable is what it lacks: namely, instructions for any single thing you’re supposed to build with it. Instead, the kit is accompanied by a thick, 277-page guidebook filled with architectural concepts and building techniques alongside real world insights from prominent architecture studios from around the globe.</p>
+<p>If your solution to having uniqueIdentifier deprecated was to use the MAC address of the device in some way then you're going to have a bad time in iOS 7. […]</p>
+<p>The message here is very clear, Apple are not afraid to remove any API that makes tracking users across apps by different vendors possible.</p>
 </blockquote>
-<p>It's a wonderful idea.</p>
-<p>(via <a href="https://twitter.com/molleindustria/status/369161957988765696">@molleindustria</a>)</p>]]></content>
+<p><a href="https://developer.apple.com/news/index.php?id=8222013a">Apple</a>:</p>
+<blockquote>
+<p>If your apps use the MAC address to identify an iOS device, the system will return the same static value for all devices running iOS 7.</p>
+</blockquote>
+<p>It is a bad week for advertisers (see: <a href="https://matthieuoger.com/2013/08/google-play-new-policies/">Google Play new policies</a>).</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com/</uri>
@@ -1654,6 +1666,22 @@
 </blockquote>
 <p>Hard but hyper-efficient.</p>
 <p>We work <em>a bit</em> like that at <a href="https://pixelnest.io">Pixelnest</a>. <a href="https://dmayance.com">Damien</a> and me have a slightly different skill set, thus we can split the work almost equally. The advantage is that we can discuss together to avoid finishing in a dead end.</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com/</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://matthieuoger.com/2013/08/lego-architects/</id>
+    <updated>2013-08-19T00:00:00.000Z</updated>
+    <title>Lego Architects</title>
+    <link href="https://matthieuoger.com/2013/08/lego-architects/"/>
+    <content type="html"><![CDATA[<p><a href="http://www.wired.com/design/2013/08/a-lego-set-with-no-instructions-for-budding-architects/">Wired</a>:</p>
+<blockquote>
+<p>Architecture Studio, a new set from Lego, comes with 1,210 white and translucent bricks. More notable is what it lacks: namely, instructions for any single thing you’re supposed to build with it. Instead, the kit is accompanied by a thick, 277-page guidebook filled with architectural concepts and building techniques alongside real world insights from prominent architecture studios from around the globe.</p>
+</blockquote>
+<p>It's a wonderful idea.</p>
+<p>(via <a href="https://twitter.com/molleindustria/status/369161957988765696">@molleindustria</a>)</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com/</uri>

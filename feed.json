@@ -8,6 +8,17 @@
   "feed_url": "https://matthieuoger.com/feed.json",
   "items": [
     {
+      "id": "https://matthieuoger.com/2019/08/fast/",
+      "url": "https://matthieuoger.com/2019/08/fast/",
+      "title": "Fast",
+      "content_html": "<p>Craig Mod in <a href=\"https://craigmod.com/essays/fast_software/\">“Fast Software, the Best Software”</a>:</p>\n<blockquote>\n<p>I <em>love</em> fast software. That is, software speedy both in function and interface. Software with minimal to no lag between wanting to activate or manipulate something and the thing happening. Lightness.</p>\n<p>Software that’s speedy usually means it’s focused. Like a good tool, it often means that it’s simple, but that’s not necessarily true. Speed in software is probably the most valuable, least valued asset. To me, speedy software is the difference between an application smoothly integrating into your life, and one called upon with great reluctance.</p>\n<p>[…] Because — it’s not <em>quite</em> as fast. We’re talking milliseconds, but it’s enough that you <em>feel</em> the difference.</p>\n<p>[…] Still, the slowness feels indicative of unseen rot on the inside of the machine. The slowness is like an off smell. I don’t trust the application as much as I would if it didn’t slow down […]</p>\n<p>Speed and reliability are often intuited hand-in-hand. Speed can be a good proxy for general engineering quality. If an application slows down on simple tasks, then it can mean the engineers aren’t obsessive detail sticklers. Not always, but it can mean disastrous other issues lurk. I want all my craftspeople to stickle.</p>\n<p>[…] I love software that does this: Software that unbloats over time. This should be the goal of all software. The longer it’s around, the more elegant it should become. Smooth over like a river stone.</p>\n<p>[…] But why is slow bad? Fast software is not always good software, but slow software is rarely able to rise to greatness. Fast software gives the user a chance to “meld” with its toolset. That is, not break flow.</p>\n<p>[…] It feels — intuitively — that software (beyond core functionality) should aim for speed. Speed as a proxy for efficiency. […]</p>\n<p><em>Ultimately, to be fast is to be light.</em></p>\n</blockquote>\n<p>He's talking about software — where it's most perceptible —, but I think this could also be applied easily to physical objects.</p>\n<hr>\n<p>As an aparté, but similarly, Craig also wrote this sentence that I like a lot in his <a href=\"https://craigmod.com/roden/028/\">latest Roden newsletter</a>:</p>\n<blockquote>\n<p>Part of me wishes there was more of a trend in the startup world to build sustainably small, single-serving, hyper-focused, <em>culturally-impactful</em> businesses.</p>\n</blockquote>",
+      "author": {
+        "name": "Matthieu Oger",
+        "url": "https://matthieuoger.com/"
+      },
+      "date_published": "2019-08-01T00:00:00.000Z"
+    },
+    {
       "id": "https://matthieuoger.com/2019/07/book-basecamp/",
       "url": "https://matthieuoger.com/2019/07/book-basecamp/",
       "title": "It Doesn't Have to Be Crazy at Work",
@@ -613,10 +624,10 @@
       "date_published": "2013-08-30T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/the-gif-video-format/",
-      "url": "https://matthieuoger.com/2013/08/the-gif-video-format/",
-      "title": "The gif “video format”",
-      "content_html": "<p><a href=\"http://pornel.net/beat-gif-manifesto\">HTML video still can't beat GIF</a>:</p>\n<blockquote>\n<p>Animated GIF, despite having awful compression and terrible quality, is still more useful on the web than any other video format.</p>\n<p>In 2013 people still routinely convert YouTube clips to GIF (producing postage-stamp-sized dithered-to-death desaturated blobs that use more bandwidth than a full HD video), because there's still no better way to share a short movie clip on the web.</p>\n</blockquote>\n<p>Gifs are an abomination: they are heavy and the quality is, most of the time, terrible. However, their convenience is too good that people use them nonetheless.</p>\n<p>The electrical cost of gifs must be gigantic.</p>\n<hr>\n<h2>Update <span class=\"more\">08 June 2018</span></h2>\n<p>There's <a href=\"https://calendar.perfplanet.com/2017/animated-gif-without-the-gif/\">hope</a>. In a near future, and in other browsers than Safari, we will be able to use a video as an image to <em>simulate a gif</em> (ie., silence and autoplay). With perks of a video instead of an awful low-quality and heavy gif.</p>",
+      "id": "https://matthieuoger.com/2013/08/quote-modern-journalism/",
+      "url": "https://matthieuoger.com/2013/08/quote-modern-journalism/",
+      "title": "Quote — Modern journalism",
+      "content_html": "<p>This tweet could not better describe my feeling:</p>\n<blockquote class=\"twitter-tweet\">\n  <p>\n    Modern journalism is 90% reporting what people are saying on Twitter.\n  </p>\n<p>  — God (@TheTweetOfGod)\n<a href=\"https://twitter.com/TheTweetOfGod/statuses/359441152522469376\">July 22, 2013</a></p>\n</blockquote>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com/"
@@ -624,10 +635,10 @@
       "date_published": "2013-08-29T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/quote-modern-journalism/",
-      "url": "https://matthieuoger.com/2013/08/quote-modern-journalism/",
-      "title": "Quote — Modern journalism",
-      "content_html": "<p>This tweet could not better describe my feeling:</p>\n<blockquote class=\"twitter-tweet\">\n  <p>\n    Modern journalism is 90% reporting what people are saying on Twitter.\n  </p>\n<p>  — God (@TheTweetOfGod)\n<a href=\"https://twitter.com/TheTweetOfGod/statuses/359441152522469376\">July 22, 2013</a></p>\n</blockquote>",
+      "id": "https://matthieuoger.com/2013/08/the-gif-video-format/",
+      "url": "https://matthieuoger.com/2013/08/the-gif-video-format/",
+      "title": "The gif “video format”",
+      "content_html": "<p><a href=\"http://pornel.net/beat-gif-manifesto\">HTML video still can't beat GIF</a>:</p>\n<blockquote>\n<p>Animated GIF, despite having awful compression and terrible quality, is still more useful on the web than any other video format.</p>\n<p>In 2013 people still routinely convert YouTube clips to GIF (producing postage-stamp-sized dithered-to-death desaturated blobs that use more bandwidth than a full HD video), because there's still no better way to share a short movie clip on the web.</p>\n</blockquote>\n<p>Gifs are an abomination: they are heavy and the quality is, most of the time, terrible. However, their convenience is too good that people use them nonetheless.</p>\n<p>The electrical cost of gifs must be gigantic.</p>\n<hr>\n<h2>Update <span class=\"more\">08 June 2018</span></h2>\n<p>There's <a href=\"https://calendar.perfplanet.com/2017/animated-gif-without-the-gif/\">hope</a>. In a near future, and in other browsers than Safari, we will be able to use a video as an image to <em>simulate a gif</em> (ie., silence and autoplay). With perks of a video instead of an awful low-quality and heavy gif.</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com/"
@@ -668,17 +679,6 @@
       "date_published": "2013-08-27T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/ios7-user-tracking/",
-      "url": "https://matthieuoger.com/2013/08/ios7-user-tracking/",
-      "title": "iOS 7 user tracking",
-      "content_html": "<p><a href=\"http://iosdevweekly.com/issues/108/\">iOS Dev Weekly, issue 108</a>:</p>\n<blockquote>\n<p>If your solution to having uniqueIdentifier deprecated was to use the MAC address of the device in some way then you're going to have a bad time in iOS 7. […]</p>\n<p>The message here is very clear, Apple are not afraid to remove any API that makes tracking users across apps by different vendors possible.</p>\n</blockquote>\n<p><a href=\"https://developer.apple.com/news/index.php?id=8222013a\">Apple</a>:</p>\n<blockquote>\n<p>If your apps use the MAC address to identify an iOS device, the system will return the same static value for all devices running iOS 7.</p>\n</blockquote>\n<p>It is a bad week for advertisers (see: <a href=\"https://matthieuoger.com/2013/08/google-play-new-policies/\">Google Play new policies</a>).</p>",
-      "author": {
-        "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com/"
-      },
-      "date_published": "2013-08-26T00:00:00.000Z"
-    },
-    {
       "id": "https://matthieuoger.com/2013/08/google-play-new-policies/",
       "url": "https://matthieuoger.com/2013/08/google-play-new-policies/",
       "title": "Google Play new policies",
@@ -690,10 +690,21 @@
       "date_published": "2013-08-26T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/lego-architects/",
-      "url": "https://matthieuoger.com/2013/08/lego-architects/",
-      "title": "Lego Architects",
-      "content_html": "<p><a href=\"http://www.wired.com/design/2013/08/a-lego-set-with-no-instructions-for-budding-architects/\">Wired</a>:</p>\n<blockquote>\n<p>Architecture Studio, a new set from Lego, comes with 1,210 white and translucent bricks. More notable is what it lacks: namely, instructions for any single thing you’re supposed to build with it. Instead, the kit is accompanied by a thick, 277-page guidebook filled with architectural concepts and building techniques alongside real world insights from prominent architecture studios from around the globe.</p>\n</blockquote>\n<p>It's a wonderful idea.</p>\n<p>(via <a href=\"https://twitter.com/molleindustria/status/369161957988765696\">@molleindustria</a>)</p>",
+      "id": "https://matthieuoger.com/2013/08/ios7-user-tracking/",
+      "url": "https://matthieuoger.com/2013/08/ios7-user-tracking/",
+      "title": "iOS 7 user tracking",
+      "content_html": "<p><a href=\"http://iosdevweekly.com/issues/108/\">iOS Dev Weekly, issue 108</a>:</p>\n<blockquote>\n<p>If your solution to having uniqueIdentifier deprecated was to use the MAC address of the device in some way then you're going to have a bad time in iOS 7. […]</p>\n<p>The message here is very clear, Apple are not afraid to remove any API that makes tracking users across apps by different vendors possible.</p>\n</blockquote>\n<p><a href=\"https://developer.apple.com/news/index.php?id=8222013a\">Apple</a>:</p>\n<blockquote>\n<p>If your apps use the MAC address to identify an iOS device, the system will return the same static value for all devices running iOS 7.</p>\n</blockquote>\n<p>It is a bad week for advertisers (see: <a href=\"https://matthieuoger.com/2013/08/google-play-new-policies/\">Google Play new policies</a>).</p>",
+      "author": {
+        "name": "Matthieu Oger",
+        "url": "https://matthieuoger.com/"
+      },
+      "date_published": "2013-08-26T00:00:00.000Z"
+    },
+    {
+      "id": "https://matthieuoger.com/2013/08/team-of-one/",
+      "url": "https://matthieuoger.com/2013/08/team-of-one/",
+      "title": "Team of One",
+      "content_html": "<p><a href=\"https://myles.io/thoughts/theres-no-io-in-team\">There's no \"I/O\" in \"Team\"</a>:</p>\n<blockquote>\n<p>When you're a team of one, your I/O bandwidth is almost infinite. It's all in your brain, so you don't have to explain anything, write anything down, have meetings, draw on whiteboards, etc. Your available time to work collapses down to solving specific business problems with every line of code or web page update. Imagine a case where you never have to compromise, argue, make brain dead concessions or spend resources on proving your position. Assuming you are right, and have a good head for business, marketing and writing half-way decent code, you can solve a small problem very efficiently.</p>\n</blockquote>\n<p>Hard but hyper-efficient.</p>\n<p>We work <em>a bit</em> like that at <a href=\"https://pixelnest.io\">Pixelnest</a>. <a href=\"https://dmayance.com\">Damien</a> and me have a slightly different skill set, thus we can split the work almost equally. The advantage is that we can discuss together to avoid finishing in a dead end.</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com/"
@@ -701,10 +712,10 @@
       "date_published": "2013-08-19T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/team-of-one/",
-      "url": "https://matthieuoger.com/2013/08/team-of-one/",
-      "title": "Team of One",
-      "content_html": "<p><a href=\"https://myles.io/thoughts/theres-no-io-in-team\">There's no \"I/O\" in \"Team\"</a>:</p>\n<blockquote>\n<p>When you're a team of one, your I/O bandwidth is almost infinite. It's all in your brain, so you don't have to explain anything, write anything down, have meetings, draw on whiteboards, etc. Your available time to work collapses down to solving specific business problems with every line of code or web page update. Imagine a case where you never have to compromise, argue, make brain dead concessions or spend resources on proving your position. Assuming you are right, and have a good head for business, marketing and writing half-way decent code, you can solve a small problem very efficiently.</p>\n</blockquote>\n<p>Hard but hyper-efficient.</p>\n<p>We work <em>a bit</em> like that at <a href=\"https://pixelnest.io\">Pixelnest</a>. <a href=\"https://dmayance.com\">Damien</a> and me have a slightly different skill set, thus we can split the work almost equally. The advantage is that we can discuss together to avoid finishing in a dead end.</p>",
+      "id": "https://matthieuoger.com/2013/08/lego-architects/",
+      "url": "https://matthieuoger.com/2013/08/lego-architects/",
+      "title": "Lego Architects",
+      "content_html": "<p><a href=\"http://www.wired.com/design/2013/08/a-lego-set-with-no-instructions-for-budding-architects/\">Wired</a>:</p>\n<blockquote>\n<p>Architecture Studio, a new set from Lego, comes with 1,210 white and translucent bricks. More notable is what it lacks: namely, instructions for any single thing you’re supposed to build with it. Instead, the kit is accompanied by a thick, 277-page guidebook filled with architectural concepts and building techniques alongside real world insights from prominent architecture studios from around the globe.</p>\n</blockquote>\n<p>It's a wonderful idea.</p>\n<p>(via <a href=\"https://twitter.com/molleindustria/status/369161957988765696\">@molleindustria</a>)</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com/"
