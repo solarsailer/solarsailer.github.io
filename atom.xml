@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://matthieuoger.com/</id>
-  <updated>2019-08-01T21:22:09.006Z</updated>
+  <updated>2019-08-26T20:07:31.471Z</updated>
   <title>Matthieu Oger</title>
   <icon>https://matthieuoger.com/feed.png</icon>
   <link href="https://matthieuoger.com/atom.xml" rel="self"/>
@@ -9,6 +9,23 @@
     <name>Matthieu Oger</name>
     <uri>https://matthieuoger.com/</uri>
   </author>
+  <entry>
+    <id>https://matthieuoger.com/2019/08/art-of-lists/</id>
+    <updated>2019-08-26T00:00:00.000Z</updated>
+    <title>Art of Lists</title>
+    <link href="https://matthieuoger.com/2019/08/art-of-lists/"/>
+    <content type="html"><![CDATA[<p><a href="https://allenpike.com/2019/making-a-list-bold">Allen Pike</a>:</p>
+<blockquote>
+<p>Occasionally we need to write something that must be understood, absorbed, and acted on. The more important it is that readers understand and act, the more time you should spend refining the writing.</p>
+<p>There are a lot of things you can do to make an email, blog post, proposal, or process document clearer. For example you can keep it short, make it engaging, or have a colleague refine it before sending it out. These can all help a lot.</p>
+<p>However, if it’s critical to you that your writing is read – especially by busy people – you need to make it skimmable.</p>
+<p>[…] There is one core approach though, one workhorse of the skimmable document, that is worth mastering: lists. […] I’d like to share one weird trick to quickly writing a clear and useful list: <a href="https://allenpike.com/2019/making-a-list-bold#the-bolding-trick">The Bolding Trick</a>.</p>
+</blockquote>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com/</uri>
+    </author>
+  </entry>
   <entry>
     <id>https://matthieuoger.com/2019/08/fast/</id>
     <updated>2019-08-01T00:00:00.000Z</updated>
@@ -1688,18 +1705,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/tweaks/</id>
-    <updated>2013-08-18T00:00:00.000Z</updated>
-    <title>Little tweaks</title>
-    <link href="https://matthieuoger.com/2013/08/tweaks/"/>
-    <content type="html"><![CDATA[<p>I just made some modifications to the blog. A bigger font, a <em>whiter</em> background and un-italicized quotations. I also reduced the size of the page by 300px. I've always felt that the page was way too large.</p>
-<p>I think that these little tweaks will make the reading experience more enjoyable.</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://matthieuoger.com/2013/08/google/</id>
     <updated>2013-08-18T00:00:00.000Z</updated>
     <title>Google</title>
@@ -1709,6 +1714,18 @@
 <p>That’s huge. As internet users, our reliance on google.com being up is huge.</p>
 </blockquote>
 <p>This <em>is</em> way more dangerous than any proprietary software. At least, you can still use your software even if it is discontinued.</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com/</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://matthieuoger.com/2013/08/tweaks/</id>
+    <updated>2013-08-18T00:00:00.000Z</updated>
+    <title>Little tweaks</title>
+    <link href="https://matthieuoger.com/2013/08/tweaks/"/>
+    <content type="html"><![CDATA[<p>I just made some modifications to the blog. A bigger font, a <em>whiter</em> background and un-italicized quotations. I also reduced the size of the page by 300px. I've always felt that the page was way too large.</p>
+<p>I think that these little tweaks will make the reading experience more enjoyable.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com/</uri>
