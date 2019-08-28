@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://matthieuoger.com/</id>
-  <updated>2019-08-28T23:03:04.040Z</updated>
+  <updated>2019-08-28T23:06:16.101Z</updated>
   <title>Matthieu Oger</title>
   <icon>https://matthieuoger.com/feed.png</icon>
   <link href="https://matthieuoger.com/atom.xml" rel="self"/>
@@ -458,33 +458,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2016/03/java/</id>
-    <updated>2016-03-17T00:00:00.000Z</updated>
-    <title>Why do many software engineers hate Java?</title>
-    <link href="https://matthieuoger.com/2016/03/java/"/>
-    <content type="html"><![CDATA[<p><a href="https://www.quora.com/Why-do-many-software-engineers-not-like-Java/answer/Michael-O-Church">Michael O. Church</a>:</p>
-<blockquote>
-<p>First, let's cover the technical issues. It's verbose, combines the worst of both worlds between static and dynamic typing by having a hobbled but extremely clunky type system, and mandates running on a virtual machine (VM) that has a macroscopic startup time (not an issue for long-running servers, but painful for command-line applications). […]</p>
-<p>The VM itself has a lot to recommend it. It offers concurrency and garbage collection at a level of quality that, until recently, wasn't found anywhere else. […] Much important software in the early 2000s was written in Java because, at the time, it was the best choice, even taking the mediocrity of the language itself into account. It had Unicode (albeit, UTF-16) from the start and a strong concurrency story, and it was a notch above C++ in terms of user experience. […]</p>
-<p>If you put Java on a technical trial, it doesn't do so bad. The <em>language</em> sucks, the platform is pretty good for most purposes. I do hate the dominant interpretation of "object-oriented programming" with a passion, because it objectively sucks. […]</p>
-<p>So let's talk about the political and cultural issues. First, the dominant Java culture is one of mediocrity and bad taste, with MetaModelVibratorVisitorFactory classes dominating. I've heard a number of experts on "the Java issue" argue that Java's biggest problem is the community, and that comes directly from the fact that good programmers don't want to deal with the bastardization of OOP that has entrenched itself in mainstream corporate development. You have a lot of people who trained up as "Java programmers", haven't seen a command line ever, and have no clue how the computer actually works. Most of them have never actually written a program; they just write classes and some Senior Chief Architect (who makes $246,001 per year and hasn't written a line of code since the 1990s) figures out how to stitch them together, and then tells some other clueless junior how to implement the glue in the gutshot hope that one will actually have the talent to make an actual working program out of the mess.</p>
-<p>This isn't inherent to the JVM, because Clojure (currently hosted on the JVM, although its endgame seems to be language-agnosticism) has a radically different (and better) community. Scala's community is more mixed, but the top Scala engineers (the ones making tools like Spark and Kestrel) are really fucking good.</p>
-<p>[…]</p>
-<p>So, the short answer is: it's mostly not about the underlying platform (which is generally of high quality) and its only partly about the language (which is mediocre but can't be blamed directly for community problems). It goes a lot deeper than that, and not all of it is Java's fault. However, Java takes its share of the blame for its clear favoritism toward large programs (technically, established by its long startup time) and by its support of a very ugly (and counterproductive) variety of object-oriented programming.</p>
-</blockquote>
-<p><a href="https://www.quora.com/Why-do-many-software-engineers-not-like-Java/answer/Stanley-Idesis">Stanley Idesis</a>:</p>
-<blockquote>
-<p>I’ve read the popular answers and will claim no contest to a majority of the complaints I found. […] However, here’s why I <em>love</em> it. […]</p>
-<p>In the Android world, developers use Java because they <em>have</em> to. However, much creativity has sprung from that limitation. People have written many excellent OS libraries in Java for Android. The platform continues to be a hotbed of Java activity which developers contribute to from all over the world. […]</p>
-<p>Android’s open nature, wide distribution, and powerful support from Google are almost enough to make Java hip again. […] Sure, some may argue that other runtimes and languages can enable the same capabilities of the device, but for whatever reason, Android chose Java.</p>
-<p>Until Google changes its mind, Java will remain relevant and the source of fascinating developments in the software community as long as Android remains popular.</p>
-</blockquote>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://matthieuoger.com/2016/03/virtual-reality/</id>
     <updated>2016-03-17T00:00:00.000Z</updated>
     <title>VR is not the future</title>
@@ -536,6 +509,33 @@
 </li>
 </ol>
 </div>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com/</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://matthieuoger.com/2016/03/java/</id>
+    <updated>2016-03-17T00:00:00.000Z</updated>
+    <title>Why do many software engineers hate Java?</title>
+    <link href="https://matthieuoger.com/2016/03/java/"/>
+    <content type="html"><![CDATA[<p><a href="https://www.quora.com/Why-do-many-software-engineers-not-like-Java/answer/Michael-O-Church">Michael O. Church</a>:</p>
+<blockquote>
+<p>First, let's cover the technical issues. It's verbose, combines the worst of both worlds between static and dynamic typing by having a hobbled but extremely clunky type system, and mandates running on a virtual machine (VM) that has a macroscopic startup time (not an issue for long-running servers, but painful for command-line applications). […]</p>
+<p>The VM itself has a lot to recommend it. It offers concurrency and garbage collection at a level of quality that, until recently, wasn't found anywhere else. […] Much important software in the early 2000s was written in Java because, at the time, it was the best choice, even taking the mediocrity of the language itself into account. It had Unicode (albeit, UTF-16) from the start and a strong concurrency story, and it was a notch above C++ in terms of user experience. […]</p>
+<p>If you put Java on a technical trial, it doesn't do so bad. The <em>language</em> sucks, the platform is pretty good for most purposes. I do hate the dominant interpretation of "object-oriented programming" with a passion, because it objectively sucks. […]</p>
+<p>So let's talk about the political and cultural issues. First, the dominant Java culture is one of mediocrity and bad taste, with MetaModelVibratorVisitorFactory classes dominating. I've heard a number of experts on "the Java issue" argue that Java's biggest problem is the community, and that comes directly from the fact that good programmers don't want to deal with the bastardization of OOP that has entrenched itself in mainstream corporate development. You have a lot of people who trained up as "Java programmers", haven't seen a command line ever, and have no clue how the computer actually works. Most of them have never actually written a program; they just write classes and some Senior Chief Architect (who makes $246,001 per year and hasn't written a line of code since the 1990s) figures out how to stitch them together, and then tells some other clueless junior how to implement the glue in the gutshot hope that one will actually have the talent to make an actual working program out of the mess.</p>
+<p>This isn't inherent to the JVM, because Clojure (currently hosted on the JVM, although its endgame seems to be language-agnosticism) has a radically different (and better) community. Scala's community is more mixed, but the top Scala engineers (the ones making tools like Spark and Kestrel) are really fucking good.</p>
+<p>[…]</p>
+<p>So, the short answer is: it's mostly not about the underlying platform (which is generally of high quality) and its only partly about the language (which is mediocre but can't be blamed directly for community problems). It goes a lot deeper than that, and not all of it is Java's fault. However, Java takes its share of the blame for its clear favoritism toward large programs (technically, established by its long startup time) and by its support of a very ugly (and counterproductive) variety of object-oriented programming.</p>
+</blockquote>
+<p><a href="https://www.quora.com/Why-do-many-software-engineers-not-like-Java/answer/Stanley-Idesis">Stanley Idesis</a>:</p>
+<blockquote>
+<p>I’ve read the popular answers and will claim no contest to a majority of the complaints I found. […] However, here’s why I <em>love</em> it. […]</p>
+<p>In the Android world, developers use Java because they <em>have</em> to. However, much creativity has sprung from that limitation. People have written many excellent OS libraries in Java for Android. The platform continues to be a hotbed of Java activity which developers contribute to from all over the world. […]</p>
+<p>Android’s open nature, wide distribution, and powerful support from Google are almost enough to make Java hip again. […] Sure, some may argue that other runtimes and languages can enable the same capabilities of the device, but for whatever reason, Android chose Java.</p>
+<p>Until Google changes its mind, Java will remain relevant and the source of fascinating developments in the software community as long as Android remains popular.</p>
+</blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com/</uri>
@@ -1591,21 +1591,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/amazon-new-product-page/</id>
-    <updated>2013-08-28T00:00:00.000Z</updated>
-    <title>Amazon&apos;s new product page</title>
-    <link href="https://matthieuoger.com/2013/08/amazon-new-product-page/"/>
-    <content type="html"><![CDATA[<p><a href="http://bokardo.com/archives/a-thought-on-amazons-new-product-page-design/">Interesting article on Bokardo</a> about Amazon's "new" product page:</p>
-<blockquote>
-<p>If Amazon were to make a big change, like for example do some actual visual design so everything didn’t have the same visual weight, the mere shock of the change would probably send their revenue downward, at least initially. People dislike change because change is work. They have to figure out what changed, adapt to it, relearn the UI, and still try to get their job done (they one they used to know how to do). <strong>So the next time you hear “People hate change” think to yourself “People don’t hate change. They hate the work of change”.</strong></p>
-</blockquote>
-<p>(emphasis mine)</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://matthieuoger.com/2013/08/quote-trent-reznor/</id>
     <updated>2013-08-28T00:00:00.000Z</updated>
     <title>Quote — Trent Reznor</title>
@@ -1615,6 +1600,21 @@
 <p>— <a href="http://www.spin.com/featured/trent-reznor-upward-spiral-nine-inch-nails-spin-cover-september-2013/">Trent Reznor</a></p>
 </blockquote>
 <p>(via <a href="http://parislemon.com/post/59507355135/i-know-that-what-were-doing-flies-in-the-face-of">ParisLemon</a>)</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com/</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://matthieuoger.com/2013/08/amazon-new-product-page/</id>
+    <updated>2013-08-28T00:00:00.000Z</updated>
+    <title>Amazon&apos;s new product page</title>
+    <link href="https://matthieuoger.com/2013/08/amazon-new-product-page/"/>
+    <content type="html"><![CDATA[<p><a href="http://bokardo.com/archives/a-thought-on-amazons-new-product-page-design/">Interesting article on Bokardo</a> about Amazon's "new" product page:</p>
+<blockquote>
+<p>If Amazon were to make a big change, like for example do some actual visual design so everything didn’t have the same visual weight, the mere shock of the change would probably send their revenue downward, at least initially. People dislike change because change is work. They have to figure out what changed, adapt to it, relearn the UI, and still try to get their job done (they one they used to know how to do). <strong>So the next time you hear “People hate change” think to yourself “People don’t hate change. They hate the work of change”.</strong></p>
+</blockquote>
+<p>(emphasis mine)</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com/</uri>
@@ -2053,6 +2053,18 @@ August 14, 2013
     </author>
   </entry>
   <entry>
+    <id>https://matthieuoger.com/2013/07/unsplash/</id>
+    <updated>2013-07-04T00:00:00.000Z</updated>
+    <title>Unsplash</title>
+    <link href="https://matthieuoger.com/2013/07/unsplash/"/>
+    <content type="html"><![CDATA[<p> Wonderful resource for high quality photos.</p>
+<p> → <a href="http://unsplash.com/">See here</a>.</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com/</uri>
+    </author>
+  </entry>
+  <entry>
     <id>https://matthieuoger.com/2013/07/ios7-david-cole/</id>
     <updated>2013-07-04T00:00:00.000Z</updated>
     <title>Is the new Apple iOS 7 look an improvement?</title>
@@ -2062,18 +2074,6 @@ August 14, 2013
 <p>I have a different perspective than most of the other answerers here. I don't think the interesting components of iOS 7 are found in the icons or the color or the type — those are relatively self-contained and thus easy to change and evolve. I think the most interesting changes, and the best changes, run much deeper than that, and yet they're intrinsically linked to the "look" of it.</p>
 </blockquote>
 <p>One of the best analysis that I've read about iOS 7.</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2013/07/unsplash/</id>
-    <updated>2013-07-04T00:00:00.000Z</updated>
-    <title>Unsplash</title>
-    <link href="https://matthieuoger.com/2013/07/unsplash/"/>
-    <content type="html"><![CDATA[<p> Wonderful resource for high quality photos.</p>
-<p> → <a href="http://unsplash.com/">See here</a>.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com/</uri>
