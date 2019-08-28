@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://matthieuoger.com/</id>
-  <updated>2019-08-26T20:07:31.471Z</updated>
+  <updated>2019-08-28T20:40:18.933Z</updated>
   <title>Matthieu Oger</title>
   <icon>https://matthieuoger.com/feed.png</icon>
   <link href="https://matthieuoger.com/atom.xml" rel="self"/>
@@ -48,7 +48,15 @@
 <p>As an aparté, but similarly, Craig also wrote this sentence that I like a lot in his <a href="https://craigmod.com/roden/028/">latest Roden newsletter</a>:</p>
 <blockquote>
 <p>Part of me wishes there was more of a trend in the startup world to build sustainably small, single-serving, hyper-focused, <em>culturally-impactful</em> businesses.</p>
-</blockquote>]]></content>
+</blockquote>
+<hr>
+<h2>Update <span class="more">28 August 2019</span></h2>
+<p>Related to this topic, <a href="https://overcast.fm/+R7DVyEUt0/1:37:42">John Siracusa</a> in <a href="https://atp.fm/episodes/337">episode #337 of ATP</a>:</p>
+<blockquote>
+<p>That's what I want. I don't want to be waiting for the computer for things that I shouldn't have to be waiting for the computer for. For small interactive things. That involves, like, it's not saying "oh yes, eliminate animations because it takes too long". I just want everything to be interactive… all the time.</p>
+<p>I want it to be responsive to my input.</p>
+</blockquote>
+<p>This really is the crux of the problem. As soon as you start your actions and you have to stop because the software is not able to follow you, it's over (exhibit A: Jira, or as <a href="/sounds/posts/2019-08-01-fast/jira.mp3">John's co-host says…</a>).</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com/</uri>
