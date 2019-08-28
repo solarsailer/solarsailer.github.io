@@ -1,13 +1,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>https://matthieuoger.com/</id>
-  <updated>2019-08-28T23:11:34.716Z</updated>
+  <id>https://matthieuoger.com</id>
+  <updated>2019-08-28T23:45:35.786Z</updated>
   <title>Matthieu Oger</title>
   <icon>https://matthieuoger.com/feed.png</icon>
   <link href="https://matthieuoger.com/atom.xml" rel="self"/>
-  <link href="https://matthieuoger.com/"/>
+  <link href="https://matthieuoger.com"/>
   <author>
     <name>Matthieu Oger</name>
-    <uri>https://matthieuoger.com/</uri>
+    <uri>https://matthieuoger.com</uri>
   </author>
   <entry>
     <id>https://matthieuoger.com/2019/08/art-of-lists/</id>
@@ -23,7 +23,7 @@
 </blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -59,7 +59,7 @@
 <p>This really is the crux of the problem. As soon as you start your actions and you have to stop because the software is not able to follow you, it's over (exhibit A: Jira, or as <a href="/sounds/posts/2019-08-01-fast/jira.mp3">John's co-host says…</a>).</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -97,7 +97,7 @@
 </blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -113,7 +113,7 @@
 <p>(Emphasis mine)</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -137,7 +137,7 @@
 <p>(Emphasis mine)</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -157,7 +157,7 @@
 <p>There're many other things to do, but these are my main frustrations. For the rest, the talk linked above is excellent! :)</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -175,7 +175,7 @@
 <p>(Emphasis mine)</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -190,7 +190,7 @@
 </blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -215,7 +215,7 @@
 </blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -235,7 +235,7 @@
 <p><strong>It's hard</strong>, and we all fell for it, but each time I try to understand the motivation or the <em>why</em> behind something I would push against, it always makes more sense, whether I liked it or not. Then, I get a better grasp on the problem. And sometimes, it can even change my mind.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -324,7 +324,7 @@
 </div>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -365,7 +365,7 @@
 </div>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -406,7 +406,7 @@
 <p>I've renamed the site to simply "Matthieu Oger". The "brand" I was trying to create with the "Solar Sailer" name was not working at all. It's better to just drop it and use my name as of now. If you encounter a broken link somewhere, please <a href="/about/">contact me</a>.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -432,7 +432,7 @@
 <p>I'm still baffled to know that many game developers (or other developers) work without version control. It seems so dangerous, but… well.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -454,7 +454,7 @@
 </blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -481,7 +481,7 @@
 </blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -538,7 +538,7 @@
 </div>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -560,7 +560,7 @@
 <p><strong>UPDATE</strong>: and <a href="http://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator">the talk is up on TED</a>. No surprise: it's great.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -582,7 +582,7 @@
 <p>(via <a href="http://us1.campaign-archive2.com/?u=53a12bfed319e2ce36b906532&#x26;id=49acf1cd18">Avdi Grimm</a>)</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -599,7 +599,7 @@
 <p>See also: <a href="https://matthieuoger.com/2015/01/something-slightly-less-terrible/">Something Slightly Less Terrible</a>.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -664,16 +664,12 @@
 <span class="token punctuation">]</span></code></pre></div>
 <p>Simpler, prettier. And it gives a few bonuses beyond the cosmetic aspect:</p>
 <ol>
-<li>
-<p>It's less error-prone.</p>
-</li>
+<li>It's less error-prone.</li>
 <li>
 <p>It's more practical for versioning tool's diffs:</p>
 <p><img src="/images/posts/2015-09-27-diff.png" alt="Diff"></p>
 </li>
-<li>
-<p>It's consistent with the semicolon behavior.</p>
-</li>
+<li>It's consistent with the semicolon behavior.</li>
 </ol>
 <p>I would apply the same rule to functions definition, maps or anything which needs commas, like I wrote in this example:</p>
 <div class="gatsby-highlight" data-language="swift"><pre class="language-swift"><code class="language-swift"><span class="token comment">// One-line, comma.</span>
@@ -705,7 +701,7 @@
 <p>Yep, this time, there is nothing at all.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -760,7 +756,7 @@
 </div>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -783,7 +779,7 @@
 <p>The game is really fast, complex and deep. There's a bit of chance in the game through the roll of the dices (<em>obviously</em>), but I don't think it matters that much in the end. Your decisions are way more important than your luck.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -805,7 +801,7 @@
 </blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -822,7 +818,7 @@
 <p><a href="http://steredenn.pixelnest.io">Steredenn</a> would be cool on the alleged Apple TV… but without a dedicated controller, it's a no go.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -843,7 +839,7 @@
 <p>(via <a href="http://www.drmaciver.com/2015/08/what-if-we-had-more-finished-libraries/">What if we had more finished libraries?</a>)</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -884,7 +880,7 @@
 </div>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -901,7 +897,7 @@
 <p>On OS X, I found that the usage of Force Touch is better: it's not a way to show secondary actions, but just a "deeper version" of an action. In QuickTime, for example, you press firmly on the forward button and the video will fast forward faster for each level you reach. It's still hard to know when it's available and might result in nothing, but at least, it's consistant with its source.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -942,7 +938,7 @@
 </div>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1007,7 +1003,7 @@
 </div>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1040,7 +1036,7 @@
 </div>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1055,7 +1051,7 @@
 </blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1067,7 +1063,7 @@
 <p>(/via <a href="http://ignorethecode.net/blog/2014/12/11/watch_aaron_draplin_design_a_logo/">ignore the code</a>)</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1085,7 +1081,7 @@
 <p>(/via <a href="http://www.subtraction.com/2014/12/17/get-info-redesigned/">Subtraction</a>)</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1101,7 +1097,7 @@
 <p>There're some great points in there. It focuses a lot on Threes' gameplay and evolutions and dives a bit more into minimalism in games.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1123,7 +1119,7 @@
 <p>NB: this advice is especially true for self-employed people (because you can't take a break with your coworkers), but anybody working at a desk for several hours should do it. It costs nothing, and your body will love it.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1147,7 +1143,7 @@
 <p>The real problem for Google is to force developers to adapt to the new style. It's the fourth Android redesign (if I recount well) and the majority of the Android apps are still looking bad. I hope that this time, developers will rejoice and follow Google's lead.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1181,23 +1177,19 @@
 </figure>
 <p>It solves three problems:</p>
 <ol>
-<li>
-<p>You can use the last photo. 80% of the time, it's what you (and I) want to do.</p>
-</li>
+<li>You can use the last photo. 80% of the time, it's what you (and I) want to do.</li>
 <li>
 <p>You can see the last photo and be sure of what you are doing <strong>BEFORE</strong> doing it.</p>
 <p>With a button, the app had to provide a way to check the action.</p>
 <p>In Tweetbot, for example, the compose view shows a small thumbnail of the image.</p>
 <p>In Droplr, it's too late. As soon as you tap the button, the photo is uploaded and you have to delete it to fix your error.</p>
 </li>
-<li>
-<p>You can use the last few photos too. Which might represent 80% of the last remaining use cases.</p>
-</li>
+<li>You can use the last few photos too. Which might represent 80% of the last remaining use cases.</li>
 </ol>
 <p>It's so simple and clever that once you have seen it, you can only think: <em>"Of course."</em>.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1212,7 +1204,7 @@
 <p>→ <a href="http://monumentvalleygame.com/">More info here</a>.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1233,7 +1225,7 @@
 <p>I recommend to watch <a href="https://vimeo.com/85578380">this video</a> to get a brief overview of what is possible with Origami. It's intriguing, it looks promising and it motivates me to learn Quartz Composer more seriously.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1260,7 +1252,7 @@
 <p>Sounds a bit like <a href="http://www.imdb.com/title/tt1475582/?ref_=fn_al_tt_1">Sherlock</a>, no?</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1273,7 +1265,7 @@
 <p>→ <a href="https://pixelnest.io/tutorials/2d-game-unity/">You can read it here</a>.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1286,7 +1278,7 @@
 <p>→ <a href="http://whatliesbelow.com/">What Lies Below</a>.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1310,7 +1302,7 @@
 </blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1325,7 +1317,7 @@
 </blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1342,7 +1334,7 @@
 <p>I hope that the use of the M7 will expand outside of the fitness and health apps.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1364,7 +1356,7 @@
 <p>N.B.: To be clear, as a user, I'm happy to <em>pay less</em>. For almost everybody, a software or a game at 50-100$ is way too high, and that's fine. What I don't like is that we are now in a situation where  even one buck for an app you use daily is too much. <strong>One buck per app cannot sustain a one-person business.</strong></p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1389,7 +1381,7 @@
 <p>However, if the only solution to this problem is to abolish the patents system, so be it.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1408,7 +1400,7 @@
 <p><br>N.B.: The Bluetooth LE technology that was embedded a few years ago was exactly that: at that time, it was useless, but in the context of a wearable Apple watch, it makes a <strong>lot</strong> of sense.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1420,7 +1412,7 @@
 <p>→ <a href="https://itunes.apple.com/nz/app/reeder-2/id697846300?ls=1&#x26;mt=8">Get here</a>.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1437,7 +1429,7 @@
 <p>By the way, I'm still amazed by the quality of the iA website, and especially the blog. Typography, details, everything. It's wonderful.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1456,7 +1448,7 @@
 <p><a href="https://stratechery.com/2018/the-end-of-windows/">It's</a> <a href="https://en.wikipedia.org/wiki/Satya_Nadella">funny</a> <a href="https://blog.github.com/2018-06-04-github-microsoft/">how</a> <a href="https://code.visualstudio.com/">things</a> <a href="https://www.typescriptlang.org/">change</a>…</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1472,7 +1464,7 @@
 <p>The story of a small and useful feature that was almost cancelled for no good reason.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1501,7 +1493,7 @@
 </blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1513,7 +1505,7 @@
 <p>→ <a href="https://vimeo.com/73617382">Watch here</a>.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1533,7 +1525,7 @@
 <p>Such an awesome piece of software.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1549,7 +1541,7 @@
 <p>Do not miss the footnotes either.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1567,7 +1559,7 @@
 </blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1587,22 +1579,7 @@
 <p>There's <a href="https://calendar.perfplanet.com/2017/animated-gif-without-the-gif/">hope</a>. In a near future, and in other browsers than Safari, we will be able to use a video as an image to <em>simulate a gif</em> (ie., silence and autoplay). With perks of a video instead of an awful low-quality and heavy gif.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2013/08/quote-trent-reznor/</id>
-    <updated>2013-08-28T00:00:00.000Z</updated>
-    <title>Quote — Trent Reznor</title>
-    <link href="https://matthieuoger.com/2013/08/quote-trent-reznor/"/>
-    <content type="html"><![CDATA[<blockquote>
-<p>I'm not saying offering things for free or pay-what-you-can is wrong. I'm saying my personal feeling is that my album's not a dime. It's not a buck. I made it as well as I could, and it costs 10 bucks, or go fuck yourself.</p>
-<p>— <a href="http://www.spin.com/featured/trent-reznor-upward-spiral-nine-inch-nails-spin-cover-september-2013/">Trent Reznor</a></p>
-</blockquote>
-<p>(via <a href="http://parislemon.com/post/59507355135/i-know-that-what-were-doing-flies-in-the-face-of">ParisLemon</a>)</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1617,7 +1594,22 @@
 <p>(emphasis mine)</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://matthieuoger.com/2013/08/quote-trent-reznor/</id>
+    <updated>2013-08-28T00:00:00.000Z</updated>
+    <title>Quote — Trent Reznor</title>
+    <link href="https://matthieuoger.com/2013/08/quote-trent-reznor/"/>
+    <content type="html"><![CDATA[<blockquote>
+<p>I'm not saying offering things for free or pay-what-you-can is wrong. I'm saying my personal feeling is that my album's not a dime. It's not a buck. I made it as well as I could, and it costs 10 bucks, or go fuck yourself.</p>
+<p>— <a href="http://www.spin.com/featured/trent-reznor-upward-spiral-nine-inch-nails-spin-cover-september-2013/">Trent Reznor</a></p>
+</blockquote>
+<p>(via <a href="http://parislemon.com/post/59507355135/i-know-that-what-were-doing-flies-in-the-face-of">ParisLemon</a>)</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1631,7 +1623,7 @@
 </blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1657,7 +1649,7 @@
 </blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1677,7 +1669,7 @@
 <p>It is a bad week for advertisers (see: <a href="https://matthieuoger.com/2013/08/google-play-new-policies/">Google Play new policies</a>).</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1693,7 +1685,7 @@
 <p>(via <a href="https://twitter.com/molleindustria/status/369161957988765696">@molleindustria</a>)</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1709,7 +1701,7 @@
 <p>We work <em>a bit</em> like that at <a href="https://pixelnest.io">Pixelnest</a>. <a href="https://dmayance.com">Damien</a> and me have a slightly different skill set, thus we can split the work almost equally. The advantage is that we can discuss together to avoid finishing in a dead end.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1724,7 +1716,7 @@
 <p>This <em>is</em> way more dangerous than any proprietary software. At least, you can still use your software even if it is discontinued.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1736,7 +1728,7 @@
 <p>I think that these little tweaks will make the reading experience more enjoyable.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1750,15 +1742,9 @@
 <p>We can infer (if the rumors are true) that Apple has now the production lines to release two new iPhones at the same time.</p>
 <p>This has a big impact: In the fall, all the iPhones sold are going to be capable of using <strong>every</strong> features of the last OS. It's huge. For example, iOS 7 AirDrop only works on one current model: the iPhone 5.<sup id="fnref-2"><a href="#fn-2" class="footnote-ref">2</a></sup></p>
 <ul>
-<li>
-<p>It can put the iPhone way ahead of its competitors that struggle with OSes versions and hardware disparities.</p>
-</li>
-<li>
-<p>It will also unify the lineup around the new lightning connector and the 4 inches screen.</p>
-</li>
-<li>
-<p>It implies that the hardware and the software are going to evolve at the same pace.</p>
-</li>
+<li>It can put the iPhone way ahead of its competitors that struggle with OSes versions and hardware disparities.</li>
+<li>It will also unify the lineup around the new lightning connector and the 4 inches screen.</li>
+<li>It implies that the hardware and the software are going to evolve at the same pace.</li>
 </ul>
 <p>The story is the same with the iPads. I am almost certain that the iPad 2 will disappear this year, leaving only the new Mini and classic iPads available.</p>
 <p>The next year eventual iPhone five inches will fit perfectly in this new strategy: selling only renewed devices with state of the art hardware and software.</p>
@@ -1779,7 +1765,7 @@
 </div>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1804,7 +1790,7 @@ August 14, 2013
 </blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1820,7 +1806,7 @@ August 14, 2013
 <p><em>(emphasis mine)</em></p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1833,7 +1819,7 @@ August 14, 2013
 <p>I already did that once, with this article: <a href="https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/">Quote — "Life is too short to stare at ugly graphs. And yes, you should feel bad."</a>.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1851,7 +1837,7 @@ August 14, 2013
 <p>Tools to simplify this process are now crucial.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1870,7 +1856,7 @@ August 14, 2013
 </ul>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1894,7 +1880,7 @@ August 14, 2013
 <p>A sort of minimalism? Probably.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1913,7 +1899,21 @@ August 14, 2013
 <p>We need better tools to create UI — we need <strong>feedback and interactivity</strong> directly within the creative process.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://matthieuoger.com/2013/08/quote-marco-arment/</id>
+    <updated>2013-08-05T00:00:00.000Z</updated>
+    <title>Quote — Marco Arment</title>
+    <link href="https://matthieuoger.com/2013/08/quote-marco-arment/"/>
+    <content type="html"><![CDATA[<blockquote>
+<p>I offered to give my Nexus 7 and Kindle Fire to Betaworks in the Instapaper acquisition, but they had so many of both sitting around already that they declined. Tech companies with mobile apps can practically tile walls with outdated Android devices. They’re the new AOL CDs.</p>
+<p>— <a href="http://www.marco.org/2013/07/25/nexus-72">Marco Arment</a></p>
+</blockquote>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1940,21 +1940,7 @@ August 14, 2013
 </div>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2013/08/quote-marco-arment/</id>
-    <updated>2013-08-05T00:00:00.000Z</updated>
-    <title>Quote — Marco Arment</title>
-    <link href="https://matthieuoger.com/2013/08/quote-marco-arment/"/>
-    <content type="html"><![CDATA[<blockquote>
-<p>I offered to give my Nexus 7 and Kindle Fire to Betaworks in the Instapaper acquisition, but they had so many of both sitting around already that they declined. Tech companies with mobile apps can practically tile walls with outdated Android devices. They’re the new AOL CDs.</p>
-<p>— <a href="http://www.marco.org/2013/07/25/nexus-72">Marco Arment</a></p>
-</blockquote>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1973,7 +1959,7 @@ August 14, 2013
 <p>An oldie, but I'm still loving it (emphasis mine).</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -1990,7 +1976,7 @@ August 14, 2013
 <p>(via <a href="http://wolfslittlestore.be/2013/08/changing-the-world/">Wolf's Little Store</a>)</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -2004,7 +1990,7 @@ August 14, 2013
 </blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -2018,7 +2004,7 @@ August 14, 2013
 </blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -2033,7 +2019,7 @@ August 14, 2013
 </blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -2049,7 +2035,7 @@ August 14, 2013
 <p>However, I must confess that I'm a bit surprised that only 2.000 copies have been sold. Even at $15 each.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -2064,7 +2050,7 @@ August 14, 2013
 <p>One of the best analysis that I've read about iOS 7.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -2076,7 +2062,7 @@ August 14, 2013
 <p> → <a href="http://unsplash.com/">See here</a>.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -2091,7 +2077,7 @@ August 14, 2013
 <p>(emphasis mine)</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -2104,15 +2090,9 @@ August 14, 2013
 <blockquote class="twitter-tweet"><p><a href="https://twitter.com/search?q=%23FirefoxOS&amp;src=hash">#FirefoxOS</a> arrives this month in select markets! Celebrate the 1st smartphone powered completely by Web technologies! <a href="http://t.co/Mio0f4zctj">http://t.co/Mio0f4zctj</a></p>&mdash; Firefox (@firefox) <a href="https://twitter.com/firefox/statuses/351641840728023040">July 1, 2013</a></blockquote>
 <p>I honestly don't get it:</p>
 <ul>
-<li>
-<p>As a user, why should I care that my phone is using web technologies? What is the benefit for <strong>me</strong>?</p>
-</li>
-<li>
-<p>This is the main argument that I have heard about FirefoxOS. Not that it is fast, features-rich or with a huge ecosystem. Just that the OS was built with web technologies. Once again, why should I care ? It's a technical detail, not something that has any value for a consumer.</p>
-</li>
-<li>
-<p>Firefox means a slow and heavy browser. The phone costs $69, which will probably result in a crappy hardware. The web (HTML, CSS and JavaScript) is a nice environment, a really powerful one to create websites, but it is <em>slow</em>. I want my phone to run quickly and smoothly. I want it to scroll at 60 fps. This phone (Firefox + crappy hardware + web) sounds <em>not</em> like a good deal.</p>
-</li>
+<li>As a user, why should I care that my phone is using web technologies? What is the benefit for <strong>me</strong>?</li>
+<li>This is the main argument that I have heard about FirefoxOS. Not that it is fast, features-rich or with a huge ecosystem. Just that the OS was built with web technologies. Once again, why should I care ? It's a technical detail, not something that has any value for a consumer.</li>
+<li>Firefox means a slow and heavy browser. The phone costs $69, which will probably result in a crappy hardware. The web (HTML, CSS and JavaScript) is a nice environment, a really powerful one to create websites, but it is <em>slow</em>. I want my phone to run quickly and smoothly. I want it to scroll at 60 fps. This phone (Firefox + crappy hardware + web) sounds <em>not</em> like a good deal.</li>
 </ul>
 <p>I would like to be wrong, but I don't expect much and I don't see the value of Firefox OS, especially against its main competitor — Android. There are Android phones that are cheaper AND with Google Play.</p>
 <p>I agree with <a href="http://ben-evans.com/">Benedict Evans</a>:</p>
@@ -2121,7 +2101,7 @@ August 14, 2013
 <blockquote class="twitter-tweet"><p>Everyone agrees that the web is the future and apps are a dead end. The only people who disagree are the actual, you know, users.</p>&mdash; Benedict Evans (@BenedictEvans) <a href="https://twitter.com/BenedictEvans/statuses/351646755818975232">July 1, 2013</a></blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -2139,7 +2119,7 @@ August 14, 2013
 <p>The worst thing in this mess is that a fair amount of the old Google Reader users would have gladly paid for it - the adoption of Feedbin or FeedWrangler clearly demonstrates that.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
   <entry>
@@ -2151,7 +2131,7 @@ August 14, 2013
 <p>So, I guess it starts now.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com/</uri>
+      <uri>https://matthieuoger.com</uri>
     </author>
   </entry>
 </feed>
