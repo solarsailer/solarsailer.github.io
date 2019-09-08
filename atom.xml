@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://matthieuoger.com</id>
-  <updated>2019-09-08T19:15:13.921Z</updated>
+  <updated>2019-09-08T19:19:10.664Z</updated>
   <title>Matthieu Oger</title>
   <icon>https://matthieuoger.com/feed.png</icon>
   <link href="https://matthieuoger.com/atom.xml" rel="self"/>
@@ -30,7 +30,7 @@
 <p>As long as we write code like we did 50 years ago, this will continue to be true. We will continue to make the same mistakes, we will continue to create bugs just by calling an API or rendering a few graphical elements on a screen. It's no wonder that the average quality of softwares is so low right now: considering everything you have to take into account, the requirements and the variety of environments, it's already impressive that humanity was able to go this far with such a primitive tooling — it's a giant effort and a long struggle to be able to create something of quality in the software virtual world.</p>
 <p>Hopefully, and surprisingly, programmers are probably the only one that are actually eagerly trying to create the next-generation of tools that will replace them. </p>
 <p>It's been a long time that I've formed this opinion in my head, and these are the reasons that I choose to not focus on programming anymore, but instead on the products at a higher level.</p>
-<p>Software engineers will probably become like blacksmiths (or similar professions): a few are highly valued for <a href="https://youtu.be/TD2XGwmRJi8">the quality of their work, and the dedication to their craft</a>, but the other 99% have vanished.</p>]]></content>
+<p>Software engineers will probably become like blacksmiths (or similar professions): a few are highly valued for <a href="https://youtu.be/TD2XGwmRJi8">the quality of their work, and the dedication to their craft</a>, but the other 99% have vanished or been replaced by low-wage jobs.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
