@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://matthieuoger.com</id>
-  <updated>2019-09-08T19:14:10.262Z</updated>
+  <updated>2019-09-08T19:15:13.921Z</updated>
   <title>Matthieu Oger</title>
   <icon>https://matthieuoger.com/feed.png</icon>
   <link href="https://matthieuoger.com/atom.xml" rel="self"/>
@@ -10,10 +10,10 @@
     <uri>https://matthieuoger.com</uri>
   </author>
   <entry>
-    <id>https://matthieuoger.com/2019/09/software-craftmanship/</id>
+    <id>https://matthieuoger.com/2019/09/what-will-happen-to-code/</id>
     <updated>2019-09-08T00:00:00.000Z</updated>
     <title>What will happen to code?</title>
-    <link href="https://matthieuoger.com/2019/09/software-craftmanship/"/>
+    <link href="https://matthieuoger.com/2019/09/what-will-happen-to-code/"/>
     <content type="html"><![CDATA[<p>Pieter Levels in <a href="https://levels.io/no-code/">No Code</a>:</p>
 <blockquote>
 <p>In the future writing actual code will be like using a pro DSLR camera, and no code will be like using a smartphone camera. Some pros will keep doing work with DSLRs (and need them), but most basic apps will be built with no code. </p>
