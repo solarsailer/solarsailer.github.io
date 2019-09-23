@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://matthieuoger.com</id>
-  <updated>2019-09-23T21:49:40.724Z</updated>
+  <updated>2019-09-23T21:50:23.323Z</updated>
   <title>Matthieu Oger</title>
   <icon>https://matthieuoger.com/feed.png</icon>
   <link href="https://matthieuoger.com/atom.xml" rel="self"/>
@@ -1681,6 +1681,26 @@
     </author>
   </entry>
   <entry>
+    <id>https://matthieuoger.com/2013/08/ios7-user-tracking/</id>
+    <updated>2013-08-26T00:00:00.000Z</updated>
+    <title>iOS 7 User Tracking</title>
+    <link href="https://matthieuoger.com/2013/08/ios7-user-tracking/"/>
+    <content type="html"><![CDATA[<p><a href="http://iosdevweekly.com/issues/108/">iOS Dev Weekly, issue 108</a>:</p>
+<blockquote>
+<p>If your solution to having uniqueIdentifier deprecated was to use the MAC address of the device in some way then you're going to have a bad time in iOS 7. […]</p>
+<p>The message here is very clear, Apple are not afraid to remove any API that makes tracking users across apps by different vendors possible.</p>
+</blockquote>
+<p><a href="https://developer.apple.com/news/index.php?id=8222013a">Apple</a>:</p>
+<blockquote>
+<p>If your apps use the MAC address to identify an iOS device, the system will return the same static value for all devices running iOS 7.</p>
+</blockquote>
+<p>It is a bad week for advertisers (see: <a href="https://matthieuoger.com/2013/08/google-play-new-policies/">Google Play new policies</a>).</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
+  <entry>
     <id>https://matthieuoger.com/2013/08/google-play-new-policies/</id>
     <updated>2013-08-26T00:00:00.000Z</updated>
     <title>Google Play New Policies</title>
@@ -1701,26 +1721,6 @@
 <blockquote>
 <p>I think it’s kind of amusing how quickly the narrative has changed from “Yay, open!” to “I, for one, welcome our closed overlords.”</p>
 </blockquote>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2013/08/ios7-user-tracking/</id>
-    <updated>2013-08-26T00:00:00.000Z</updated>
-    <title>iOS 7 User Tracking</title>
-    <link href="https://matthieuoger.com/2013/08/ios7-user-tracking/"/>
-    <content type="html"><![CDATA[<p><a href="http://iosdevweekly.com/issues/108/">iOS Dev Weekly, issue 108</a>:</p>
-<blockquote>
-<p>If your solution to having uniqueIdentifier deprecated was to use the MAC address of the device in some way then you're going to have a bad time in iOS 7. […]</p>
-<p>The message here is very clear, Apple are not afraid to remove any API that makes tracking users across apps by different vendors possible.</p>
-</blockquote>
-<p><a href="https://developer.apple.com/news/index.php?id=8222013a">Apple</a>:</p>
-<blockquote>
-<p>If your apps use the MAC address to identify an iOS device, the system will return the same static value for all devices running iOS 7.</p>
-</blockquote>
-<p>It is a bad week for advertisers (see: <a href="https://matthieuoger.com/2013/08/google-play-new-policies/">Google Play new policies</a>).</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
@@ -1759,18 +1759,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/tweaks/</id>
-    <updated>2013-08-18T00:00:00.000Z</updated>
-    <title>Little Tweaks</title>
-    <link href="https://matthieuoger.com/2013/08/tweaks/"/>
-    <content type="html"><![CDATA[<p>I just made some modifications to the blog. A bigger font, a <em>whiter</em> background and un-italicized quotations. I also reduced the size of the page by 300px. I've always felt that the page was way too large.</p>
-<p>I think that these little tweaks will make the reading experience more enjoyable.</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://matthieuoger.com/2013/08/google/</id>
     <updated>2013-08-18T00:00:00.000Z</updated>
     <title>Google</title>
@@ -1780,6 +1768,18 @@
 <p>That’s huge. As internet users, our reliance on google.com being up is huge.</p>
 </blockquote>
 <p>This <em>is</em> way more dangerous than any proprietary software. At least, you can still use your software even if it is discontinued.</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://matthieuoger.com/2013/08/tweaks/</id>
+    <updated>2013-08-18T00:00:00.000Z</updated>
+    <title>Little Tweaks</title>
+    <link href="https://matthieuoger.com/2013/08/tweaks/"/>
+    <content type="html"><![CDATA[<p>I just made some modifications to the blog. A bigger font, a <em>whiter</em> background and un-italicized quotations. I also reduced the size of the page by 300px. I've always felt that the page was way too large.</p>
+<p>I think that these little tweaks will make the reading experience more enjoyable.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
@@ -1998,23 +1998,6 @@ August 14, 2013
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/quote-changing-the-world/</id>
-    <updated>2013-08-02T00:00:00.000Z</updated>
-    <title>Changing the World…?</title>
-    <link href="https://matthieuoger.com/2013/08/quote-changing-the-world/"/>
-    <content type="html"><![CDATA[<blockquote>
-<p>Could "changing the world" be a contender the most trite, overused expression of 2013? Recent grads seem to have adopted it en masse as their personal tagline. It's a nice sentiment, but it hard not to roll your eyes when every 23 year old applies it to his mobile phone app with no users that he threw together in a couple weeks.</p>
-<p>[…]</p>
-<p>Besides, I'm not even sure it's a healthy sentiment for most people. If your focus is as broad as "changing the world," you're probably setting yourself up to feel like a failure.</p>
-<p>— <a href="https://news.ycombinator.com/item?id=6108967">Freyr, Hacker News</a></p>
-</blockquote>
-<p>(via <a href="http://wolfslittlestore.be/2013/08/changing-the-world/">Wolf's Little Store</a>)</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/</id>
     <updated>2013-08-02T00:00:00.000Z</updated>
     <title>Life Is Too Short To Stare at Ugly Graphs — and Yes, You Should Feel Bad</title>
@@ -2028,6 +2011,23 @@ August 14, 2013
 <p>— <a href="https://news.ycombinator.com/item?id=4480876">Tanoku, Hacker News</a></p>
 </blockquote>
 <p>An oldie, but I'm still loving it (emphasis mine).</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://matthieuoger.com/2013/08/quote-changing-the-world/</id>
+    <updated>2013-08-02T00:00:00.000Z</updated>
+    <title>Changing the World…?</title>
+    <link href="https://matthieuoger.com/2013/08/quote-changing-the-world/"/>
+    <content type="html"><![CDATA[<blockquote>
+<p>Could "changing the world" be a contender the most trite, overused expression of 2013? Recent grads seem to have adopted it en masse as their personal tagline. It's a nice sentiment, but it hard not to roll your eyes when every 23 year old applies it to his mobile phone app with no users that he threw together in a couple weeks.</p>
+<p>[…]</p>
+<p>Besides, I'm not even sure it's a healthy sentiment for most people. If your focus is as broad as "changing the world," you're probably setting yourself up to feel like a failure.</p>
+<p>— <a href="https://news.ycombinator.com/item?id=6108967">Freyr, Hacker News</a></p>
+</blockquote>
+<p>(via <a href="http://wolfslittlestore.be/2013/08/changing-the-world/">Wolf's Little Store</a>)</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
@@ -2093,18 +2093,6 @@ August 14, 2013
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/07/unsplash/</id>
-    <updated>2013-07-04T00:00:00.000Z</updated>
-    <title>Unsplash</title>
-    <link href="https://matthieuoger.com/2013/07/unsplash/"/>
-    <content type="html"><![CDATA[<p> Wonderful resource for high quality photos.</p>
-<p> → <a href="http://unsplash.com/">See here</a>.</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://matthieuoger.com/2013/07/ios7-david-cole/</id>
     <updated>2013-07-04T00:00:00.000Z</updated>
     <title>Is the New Apple iOS 7 Look an Improvement?</title>
@@ -2114,6 +2102,18 @@ August 14, 2013
 <p>I have a different perspective than most of the other answerers here. I don't think the interesting components of iOS 7 are found in the icons or the color or the type — those are relatively self-contained and thus easy to change and evolve. I think the most interesting changes, and the best changes, run much deeper than that, and yet they're intrinsically linked to the "look" of it.</p>
 </blockquote>
 <p>One of the best analysis that I've read about iOS 7.</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://matthieuoger.com/2013/07/unsplash/</id>
+    <updated>2013-07-04T00:00:00.000Z</updated>
+    <title>Unsplash</title>
+    <link href="https://matthieuoger.com/2013/07/unsplash/"/>
+    <content type="html"><![CDATA[<p> Wonderful resource for high quality photos.</p>
+<p> → <a href="http://unsplash.com/">See here</a>.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>

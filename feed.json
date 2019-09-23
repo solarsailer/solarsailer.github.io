@@ -712,10 +712,10 @@
       "date_published": "2013-08-27T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/google-play-new-policies/",
-      "url": "https://matthieuoger.com/2013/08/google-play-new-policies/",
-      "title": "Google Play New Policies",
-      "content_html": "<p><a href=\"http://blog.inner-active.com/2013/08/googles-new-policies-good-for-users-great-for-android-developers-and-the-ecosystem/\">Google’s New Policies: Good for Users, Great for Android Developers and the Ecosystem</a>:</p>\n<blockquote>\n<p>So what does all this mean? It means that Google understands that while open is great, at the end of the day, users would rather have a superior experience both in terms of Google Play as a whole, and apps behavior in particular.</p>\n</blockquote>\n<p>I am really thrilled by the changes, but I can't help smiling. Android might be \"open\", Google is definitely not.</p>\n<p>This makes me wonder…</p>\n<ul>\n<li>Android was the alternative to iOS because of the lack of policies (at least, by the developers). Google Play is now a lot more similar to the App Store. It is not as strict though.</li>\n<li>Will Google remove the abusive apps retroactively?</li>\n<li>China? Google was already out, but this will make the situation worse.</li>\n</ul>\n<p>Anyways, the chasm between Play (Google's Android) and Android is getting wider every day.</p>\n<p><strong>Update</strong>: I couldn't agree more with <a href=\"http://verynicewebsite.net/2013/08/open-always-loses/\">John Moltz</a>...</p>\n<blockquote>\n<p>I think it’s kind of amusing how quickly the narrative has changed from “Yay, open!” to “I, for one, welcome our closed overlords.”</p>\n</blockquote>",
+      "id": "https://matthieuoger.com/2013/08/ios7-user-tracking/",
+      "url": "https://matthieuoger.com/2013/08/ios7-user-tracking/",
+      "title": "iOS 7 User Tracking",
+      "content_html": "<p><a href=\"http://iosdevweekly.com/issues/108/\">iOS Dev Weekly, issue 108</a>:</p>\n<blockquote>\n<p>If your solution to having uniqueIdentifier deprecated was to use the MAC address of the device in some way then you're going to have a bad time in iOS 7. […]</p>\n<p>The message here is very clear, Apple are not afraid to remove any API that makes tracking users across apps by different vendors possible.</p>\n</blockquote>\n<p><a href=\"https://developer.apple.com/news/index.php?id=8222013a\">Apple</a>:</p>\n<blockquote>\n<p>If your apps use the MAC address to identify an iOS device, the system will return the same static value for all devices running iOS 7.</p>\n</blockquote>\n<p>It is a bad week for advertisers (see: <a href=\"https://matthieuoger.com/2013/08/google-play-new-policies/\">Google Play new policies</a>).</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com"
@@ -723,10 +723,10 @@
       "date_published": "2013-08-26T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/ios7-user-tracking/",
-      "url": "https://matthieuoger.com/2013/08/ios7-user-tracking/",
-      "title": "iOS 7 User Tracking",
-      "content_html": "<p><a href=\"http://iosdevweekly.com/issues/108/\">iOS Dev Weekly, issue 108</a>:</p>\n<blockquote>\n<p>If your solution to having uniqueIdentifier deprecated was to use the MAC address of the device in some way then you're going to have a bad time in iOS 7. […]</p>\n<p>The message here is very clear, Apple are not afraid to remove any API that makes tracking users across apps by different vendors possible.</p>\n</blockquote>\n<p><a href=\"https://developer.apple.com/news/index.php?id=8222013a\">Apple</a>:</p>\n<blockquote>\n<p>If your apps use the MAC address to identify an iOS device, the system will return the same static value for all devices running iOS 7.</p>\n</blockquote>\n<p>It is a bad week for advertisers (see: <a href=\"https://matthieuoger.com/2013/08/google-play-new-policies/\">Google Play new policies</a>).</p>",
+      "id": "https://matthieuoger.com/2013/08/google-play-new-policies/",
+      "url": "https://matthieuoger.com/2013/08/google-play-new-policies/",
+      "title": "Google Play New Policies",
+      "content_html": "<p><a href=\"http://blog.inner-active.com/2013/08/googles-new-policies-good-for-users-great-for-android-developers-and-the-ecosystem/\">Google’s New Policies: Good for Users, Great for Android Developers and the Ecosystem</a>:</p>\n<blockquote>\n<p>So what does all this mean? It means that Google understands that while open is great, at the end of the day, users would rather have a superior experience both in terms of Google Play as a whole, and apps behavior in particular.</p>\n</blockquote>\n<p>I am really thrilled by the changes, but I can't help smiling. Android might be \"open\", Google is definitely not.</p>\n<p>This makes me wonder…</p>\n<ul>\n<li>Android was the alternative to iOS because of the lack of policies (at least, by the developers). Google Play is now a lot more similar to the App Store. It is not as strict though.</li>\n<li>Will Google remove the abusive apps retroactively?</li>\n<li>China? Google was already out, but this will make the situation worse.</li>\n</ul>\n<p>Anyways, the chasm between Play (Google's Android) and Android is getting wider every day.</p>\n<p><strong>Update</strong>: I couldn't agree more with <a href=\"http://verynicewebsite.net/2013/08/open-always-loses/\">John Moltz</a>...</p>\n<blockquote>\n<p>I think it’s kind of amusing how quickly the narrative has changed from “Yay, open!” to “I, for one, welcome our closed overlords.”</p>\n</blockquote>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com"
@@ -756,10 +756,10 @@
       "date_published": "2013-08-19T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/tweaks/",
-      "url": "https://matthieuoger.com/2013/08/tweaks/",
-      "title": "Little Tweaks",
-      "content_html": "<p>I just made some modifications to the blog. A bigger font, a <em>whiter</em> background and un-italicized quotations. I also reduced the size of the page by 300px. I've always felt that the page was way too large.</p>\n<p>I think that these little tweaks will make the reading experience more enjoyable.</p>",
+      "id": "https://matthieuoger.com/2013/08/google/",
+      "url": "https://matthieuoger.com/2013/08/google/",
+      "title": "Google",
+      "content_html": "<p><a href=\"https://engineering.gosquared.com/googles-downtime-40-drop-in-traffic\">Google’s downtime caused a 40% drop in global traffic</a>:</p>\n<blockquote>\n<p>That’s huge. As internet users, our reliance on google.com being up is huge.</p>\n</blockquote>\n<p>This <em>is</em> way more dangerous than any proprietary software. At least, you can still use your software even if it is discontinued.</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com"
@@ -767,10 +767,10 @@
       "date_published": "2013-08-18T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/google/",
-      "url": "https://matthieuoger.com/2013/08/google/",
-      "title": "Google",
-      "content_html": "<p><a href=\"https://engineering.gosquared.com/googles-downtime-40-drop-in-traffic\">Google’s downtime caused a 40% drop in global traffic</a>:</p>\n<blockquote>\n<p>That’s huge. As internet users, our reliance on google.com being up is huge.</p>\n</blockquote>\n<p>This <em>is</em> way more dangerous than any proprietary software. At least, you can still use your software even if it is discontinued.</p>",
+      "id": "https://matthieuoger.com/2013/08/tweaks/",
+      "url": "https://matthieuoger.com/2013/08/tweaks/",
+      "title": "Little Tweaks",
+      "content_html": "<p>I just made some modifications to the blog. A bigger font, a <em>whiter</em> background and un-italicized quotations. I also reduced the size of the page by 300px. I've always felt that the page was way too large.</p>\n<p>I think that these little tweaks will make the reading experience more enjoyable.</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com"
@@ -888,10 +888,10 @@
       "date_published": "2013-08-05T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/quote-changing-the-world/",
-      "url": "https://matthieuoger.com/2013/08/quote-changing-the-world/",
-      "title": "Changing the World…?",
-      "content_html": "<blockquote>\n<p>Could \"changing the world\" be a contender the most trite, overused expression of 2013? Recent grads seem to have adopted it en masse as their personal tagline. It's a nice sentiment, but it hard not to roll your eyes when every 23 year old applies it to his mobile phone app with no users that he threw together in a couple weeks.</p>\n<p>[…]</p>\n<p>Besides, I'm not even sure it's a healthy sentiment for most people. If your focus is as broad as \"changing the world,\" you're probably setting yourself up to feel like a failure.</p>\n<p>— <a href=\"https://news.ycombinator.com/item?id=6108967\">Freyr, Hacker News</a></p>\n</blockquote>\n<p>(via <a href=\"http://wolfslittlestore.be/2013/08/changing-the-world/\">Wolf's Little Store</a>)</p>",
+      "id": "https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/",
+      "url": "https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/",
+      "title": "Life Is Too Short To Stare at Ugly Graphs — and Yes, You Should Feel Bad",
+      "content_html": "<blockquote>\n<p>It was done in-house. We really care about how our graphs look, because graphs represent information. It's like typography. Humans learned how to write 5000 years ago, and it took us a very long while until we mastered the art of transmitting information like that. Once we mastered it, however, we started caring about the way we present that information. For no specific reason, but we developed unique typefaces that look beautiful, different, yet transmit the same information.</p>\n<p>Likewise, we've spent a ton of valuable time graphing and mining data from all over our stack; it's only natural that after that, we care about how we present that data. Like typography, it's hard because it's an arduous hunt for the aesthetics hidden behind information. But this hunt is what makes us human.</p>\n<p>That's why we design beautiful graphs, just like we'd design a beautiful typeface. Not because we are GitHubbers, nor because we are designers, but because we are humans.</p>\n<p><strong>Life is too short to stare at ugly graphs. And yes, you should feel bad.</strong></p>\n<p>PS: we have no project managers at GitHub.</p>\n<p>— <a href=\"https://news.ycombinator.com/item?id=4480876\">Tanoku, Hacker News</a></p>\n</blockquote>\n<p>An oldie, but I'm still loving it (emphasis mine).</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com"
@@ -899,10 +899,10 @@
       "date_published": "2013-08-02T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/",
-      "url": "https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/",
-      "title": "Life Is Too Short To Stare at Ugly Graphs — and Yes, You Should Feel Bad",
-      "content_html": "<blockquote>\n<p>It was done in-house. We really care about how our graphs look, because graphs represent information. It's like typography. Humans learned how to write 5000 years ago, and it took us a very long while until we mastered the art of transmitting information like that. Once we mastered it, however, we started caring about the way we present that information. For no specific reason, but we developed unique typefaces that look beautiful, different, yet transmit the same information.</p>\n<p>Likewise, we've spent a ton of valuable time graphing and mining data from all over our stack; it's only natural that after that, we care about how we present that data. Like typography, it's hard because it's an arduous hunt for the aesthetics hidden behind information. But this hunt is what makes us human.</p>\n<p>That's why we design beautiful graphs, just like we'd design a beautiful typeface. Not because we are GitHubbers, nor because we are designers, but because we are humans.</p>\n<p><strong>Life is too short to stare at ugly graphs. And yes, you should feel bad.</strong></p>\n<p>PS: we have no project managers at GitHub.</p>\n<p>— <a href=\"https://news.ycombinator.com/item?id=4480876\">Tanoku, Hacker News</a></p>\n</blockquote>\n<p>An oldie, but I'm still loving it (emphasis mine).</p>",
+      "id": "https://matthieuoger.com/2013/08/quote-changing-the-world/",
+      "url": "https://matthieuoger.com/2013/08/quote-changing-the-world/",
+      "title": "Changing the World…?",
+      "content_html": "<blockquote>\n<p>Could \"changing the world\" be a contender the most trite, overused expression of 2013? Recent grads seem to have adopted it en masse as their personal tagline. It's a nice sentiment, but it hard not to roll your eyes when every 23 year old applies it to his mobile phone app with no users that he threw together in a couple weeks.</p>\n<p>[…]</p>\n<p>Besides, I'm not even sure it's a healthy sentiment for most people. If your focus is as broad as \"changing the world,\" you're probably setting yourself up to feel like a failure.</p>\n<p>— <a href=\"https://news.ycombinator.com/item?id=6108967\">Freyr, Hacker News</a></p>\n</blockquote>\n<p>(via <a href=\"http://wolfslittlestore.be/2013/08/changing-the-world/\">Wolf's Little Store</a>)</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com"
@@ -954,10 +954,10 @@
       "date_published": "2013-07-22T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/07/unsplash/",
-      "url": "https://matthieuoger.com/2013/07/unsplash/",
-      "title": "Unsplash",
-      "content_html": "<p> Wonderful resource for high quality photos.</p>\n<p> → <a href=\"http://unsplash.com/\">See here</a>.</p>",
+      "id": "https://matthieuoger.com/2013/07/ios7-david-cole/",
+      "url": "https://matthieuoger.com/2013/07/ios7-david-cole/",
+      "title": "Is the New Apple iOS 7 Look an Improvement?",
+      "content_html": "<p><a href=\"http://www.quora.com/iOS-7/Is-the-new-Apple-iOS-7-look-an-improvement/answer/David-Cole\">David Cole on Quora</a>:</p>\n<blockquote>\n<p>I have a different perspective than most of the other answerers here. I don't think the interesting components of iOS 7 are found in the icons or the color or the type — those are relatively self-contained and thus easy to change and evolve. I think the most interesting changes, and the best changes, run much deeper than that, and yet they're intrinsically linked to the \"look\" of it.</p>\n</blockquote>\n<p>One of the best analysis that I've read about iOS 7.</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com"
@@ -965,10 +965,10 @@
       "date_published": "2013-07-04T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/07/ios7-david-cole/",
-      "url": "https://matthieuoger.com/2013/07/ios7-david-cole/",
-      "title": "Is the New Apple iOS 7 Look an Improvement?",
-      "content_html": "<p><a href=\"http://www.quora.com/iOS-7/Is-the-new-Apple-iOS-7-look-an-improvement/answer/David-Cole\">David Cole on Quora</a>:</p>\n<blockquote>\n<p>I have a different perspective than most of the other answerers here. I don't think the interesting components of iOS 7 are found in the icons or the color or the type — those are relatively self-contained and thus easy to change and evolve. I think the most interesting changes, and the best changes, run much deeper than that, and yet they're intrinsically linked to the \"look\" of it.</p>\n</blockquote>\n<p>One of the best analysis that I've read about iOS 7.</p>",
+      "id": "https://matthieuoger.com/2013/07/unsplash/",
+      "url": "https://matthieuoger.com/2013/07/unsplash/",
+      "title": "Unsplash",
+      "content_html": "<p> Wonderful resource for high quality photos.</p>\n<p> → <a href=\"http://unsplash.com/\">See here</a>.</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com"
