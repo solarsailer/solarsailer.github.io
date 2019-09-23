@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://matthieuoger.com</id>
-  <updated>2019-09-08T19:40:30.724Z</updated>
+  <updated>2019-09-23T21:15:10.386Z</updated>
   <title>Matthieu Oger</title>
   <icon>https://matthieuoger.com/feed.png</icon>
   <link href="https://matthieuoger.com/atom.xml" rel="self"/>
@@ -9,6 +9,33 @@
     <name>Matthieu Oger</name>
     <uri>https://matthieuoger.com</uri>
   </author>
+  <entry>
+    <id>https://matthieuoger.com/2019/09/passing-of-time-in-a-photo/</id>
+    <updated>2019-09-23T00:00:00.000Z</updated>
+    <title>The Passing of Time, Caught in a Single Photo</title>
+    <link href="https://matthieuoger.com/2019/09/passing-of-time-in-a-photo/"/>
+    <content type="html"><![CDATA[<p>Stephen Wilkes in "<a href="https://youtu.be/afev0ZjAhUA">The Passing of Time, Caught in a Single Photo</a>":</p>
+<blockquote>
+<p>Einstein described time as a fabric. Think of the surface of a trampoline: it warps and stretches with gravity.</p>
+<p>I see time as a fabric as well, except I take that fabric and flatten it, compress it into a single plane. One of the unique aspects of this work is also, if you look at all my pictures, the time vector changes: sometimes I'll go left to right, sometimes front to back, up or down, even diagonally. I am exploring the space-time continuum within a two-dimensional still photograph.</p>
+<p>[…] I build a photograph based on time. […]</p>
+<p>I'm compressing the day and night as I saw it, creating a unique harmony between these two very discordant worlds.</p>
+<p>[…] Time is this extraordinary thing that we never can really wrap our heads around. But in a very unique and special way, I believe these photographs begin to put a face on time. They embody a new metaphysical visual reality. […]</p>
+<p><strong>I realised that Day to Night is really a new way of seeing.</strong></p>
+</blockquote>
+<hr>
+<blockquote>
+<p>I watched over 15 hours all these people not even look at Sacré-Coeur. They were more interested in using it as a backdrop. They would walk up, take a picture, and then walk away. And I found this to be an absolutely extraordinary example, a powerful disconnect between what we think the human experience is versus what the human experience is evolving into. <em>The act of sharing has suddenly become more important than the experience itself.</em></p>
+</blockquote>
+<hr>
+<blockquote>
+<p>[Near a watering hole in the Serengeti National Park in Tanzania] What I witnessed was unimaginable. Frankly, it was biblical. We saw, for 26 hours, all these competitive species share a single resource called water. The same resource that humanity is supposed to have wars over during the next 50 years. The animals never even grunted at each other. <em>They seem to understand something that we humans don't.</em> That this precious resource called water is something we all have <strong>to share</strong>.</p>
+</blockquote>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
   <entry>
     <id>https://matthieuoger.com/2019/09/what-will-happen-to-code/</id>
     <updated>2019-09-08T00:00:00.000Z</updated>
@@ -1654,6 +1681,26 @@
     </author>
   </entry>
   <entry>
+    <id>https://matthieuoger.com/2013/08/ios7-user-tracking/</id>
+    <updated>2013-08-26T00:00:00.000Z</updated>
+    <title>iOS 7 user tracking</title>
+    <link href="https://matthieuoger.com/2013/08/ios7-user-tracking/"/>
+    <content type="html"><![CDATA[<p><a href="http://iosdevweekly.com/issues/108/">iOS Dev Weekly, issue 108</a>:</p>
+<blockquote>
+<p>If your solution to having uniqueIdentifier deprecated was to use the MAC address of the device in some way then you're going to have a bad time in iOS 7. […]</p>
+<p>The message here is very clear, Apple are not afraid to remove any API that makes tracking users across apps by different vendors possible.</p>
+</blockquote>
+<p><a href="https://developer.apple.com/news/index.php?id=8222013a">Apple</a>:</p>
+<blockquote>
+<p>If your apps use the MAC address to identify an iOS device, the system will return the same static value for all devices running iOS 7.</p>
+</blockquote>
+<p>It is a bad week for advertisers (see: <a href="https://matthieuoger.com/2013/08/google-play-new-policies/">Google Play new policies</a>).</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
+  <entry>
     <id>https://matthieuoger.com/2013/08/google-play-new-policies/</id>
     <updated>2013-08-26T00:00:00.000Z</updated>
     <title>Google Play new policies</title>
@@ -1674,26 +1721,6 @@
 <blockquote>
 <p>I think it’s kind of amusing how quickly the narrative has changed from “Yay, open!” to “I, for one, welcome our closed overlords.”</p>
 </blockquote>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2013/08/ios7-user-tracking/</id>
-    <updated>2013-08-26T00:00:00.000Z</updated>
-    <title>iOS 7 user tracking</title>
-    <link href="https://matthieuoger.com/2013/08/ios7-user-tracking/"/>
-    <content type="html"><![CDATA[<p><a href="http://iosdevweekly.com/issues/108/">iOS Dev Weekly, issue 108</a>:</p>
-<blockquote>
-<p>If your solution to having uniqueIdentifier deprecated was to use the MAC address of the device in some way then you're going to have a bad time in iOS 7. […]</p>
-<p>The message here is very clear, Apple are not afraid to remove any API that makes tracking users across apps by different vendors possible.</p>
-</blockquote>
-<p><a href="https://developer.apple.com/news/index.php?id=8222013a">Apple</a>:</p>
-<blockquote>
-<p>If your apps use the MAC address to identify an iOS device, the system will return the same static value for all devices running iOS 7.</p>
-</blockquote>
-<p>It is a bad week for advertisers (see: <a href="https://matthieuoger.com/2013/08/google-play-new-policies/">Google Play new policies</a>).</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
@@ -1930,6 +1957,20 @@ August 14, 2013
     </author>
   </entry>
   <entry>
+    <id>https://matthieuoger.com/2013/08/quote-marco-arment/</id>
+    <updated>2013-08-05T00:00:00.000Z</updated>
+    <title>Quote — Marco Arment</title>
+    <link href="https://matthieuoger.com/2013/08/quote-marco-arment/"/>
+    <content type="html"><![CDATA[<blockquote>
+<p>I offered to give my Nexus 7 and Kindle Fire to Betaworks in the Instapaper acquisition, but they had so many of both sitting around already that they declined. Tech companies with mobile apps can practically tile walls with outdated Android devices. They’re the new AOL CDs.</p>
+<p>— <a href="http://www.marco.org/2013/07/25/nexus-72">Marco Arment</a></p>
+</blockquote>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
+  <entry>
     <id>https://matthieuoger.com/2013/08/os-wp-winrt/</id>
     <updated>2013-08-05T00:00:00.000Z</updated>
     <title>Windows Phone and WinRT</title>
@@ -1957,14 +1998,17 @@ August 14, 2013
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/quote-marco-arment/</id>
-    <updated>2013-08-05T00:00:00.000Z</updated>
-    <title>Quote — Marco Arment</title>
-    <link href="https://matthieuoger.com/2013/08/quote-marco-arment/"/>
+    <id>https://matthieuoger.com/2013/08/quote-changing-the-world/</id>
+    <updated>2013-08-02T00:00:00.000Z</updated>
+    <title>Quote — &quot;Changing the world.&quot;</title>
+    <link href="https://matthieuoger.com/2013/08/quote-changing-the-world/"/>
     <content type="html"><![CDATA[<blockquote>
-<p>I offered to give my Nexus 7 and Kindle Fire to Betaworks in the Instapaper acquisition, but they had so many of both sitting around already that they declined. Tech companies with mobile apps can practically tile walls with outdated Android devices. They’re the new AOL CDs.</p>
-<p>— <a href="http://www.marco.org/2013/07/25/nexus-72">Marco Arment</a></p>
-</blockquote>]]></content>
+<p>Could "changing the world" be a contender the most trite, overused expression of 2013? Recent grads seem to have adopted it en masse as their personal tagline. It's a nice sentiment, but it hard not to roll your eyes when every 23 year old applies it to his mobile phone app with no users that he threw together in a couple weeks.</p>
+<p>[…]</p>
+<p>Besides, I'm not even sure it's a healthy sentiment for most people. If your focus is as broad as "changing the world," you're probably setting yourself up to feel like a failure.</p>
+<p>— <a href="https://news.ycombinator.com/item?id=6108967">Freyr, Hacker News</a></p>
+</blockquote>
+<p>(via <a href="http://wolfslittlestore.be/2013/08/changing-the-world/">Wolf's Little Store</a>)</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
@@ -1984,23 +2028,6 @@ August 14, 2013
 <p>— <a href="https://news.ycombinator.com/item?id=4480876">Tanoku, Hacker News</a></p>
 </blockquote>
 <p>An oldie, but I'm still loving it (emphasis mine).</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2013/08/quote-changing-the-world/</id>
-    <updated>2013-08-02T00:00:00.000Z</updated>
-    <title>Quote — &quot;Changing the world.&quot;</title>
-    <link href="https://matthieuoger.com/2013/08/quote-changing-the-world/"/>
-    <content type="html"><![CDATA[<blockquote>
-<p>Could "changing the world" be a contender the most trite, overused expression of 2013? Recent grads seem to have adopted it en masse as their personal tagline. It's a nice sentiment, but it hard not to roll your eyes when every 23 year old applies it to his mobile phone app with no users that he threw together in a couple weeks.</p>
-<p>[…]</p>
-<p>Besides, I'm not even sure it's a healthy sentiment for most people. If your focus is as broad as "changing the world," you're probably setting yourself up to feel like a failure.</p>
-<p>— <a href="https://news.ycombinator.com/item?id=6108967">Freyr, Hacker News</a></p>
-</blockquote>
-<p>(via <a href="http://wolfslittlestore.be/2013/08/changing-the-world/">Wolf's Little Store</a>)</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
