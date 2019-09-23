@@ -756,10 +756,10 @@
       "date_published": "2013-08-19T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/google/",
-      "url": "https://matthieuoger.com/2013/08/google/",
-      "title": "Google",
-      "content_html": "<p><a href=\"https://engineering.gosquared.com/googles-downtime-40-drop-in-traffic\">Google’s downtime caused a 40% drop in global traffic</a>:</p>\n<blockquote>\n<p>That’s huge. As internet users, our reliance on google.com being up is huge.</p>\n</blockquote>\n<p>This <em>is</em> way more dangerous than any proprietary software. At least, you can still use your software even if it is discontinued.</p>",
+      "id": "https://matthieuoger.com/2013/08/tweaks/",
+      "url": "https://matthieuoger.com/2013/08/tweaks/",
+      "title": "Little Tweaks",
+      "content_html": "<p>I just made some modifications to the blog. A bigger font, a <em>whiter</em> background and un-italicized quotations. I also reduced the size of the page by 300px. I've always felt that the page was way too large.</p>\n<p>I think that these little tweaks will make the reading experience more enjoyable.</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com"
@@ -767,10 +767,10 @@
       "date_published": "2013-08-18T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/tweaks/",
-      "url": "https://matthieuoger.com/2013/08/tweaks/",
-      "title": "Little Tweaks",
-      "content_html": "<p>I just made some modifications to the blog. A bigger font, a <em>whiter</em> background and un-italicized quotations. I also reduced the size of the page by 300px. I've always felt that the page was way too large.</p>\n<p>I think that these little tweaks will make the reading experience more enjoyable.</p>",
+      "id": "https://matthieuoger.com/2013/08/google/",
+      "url": "https://matthieuoger.com/2013/08/google/",
+      "title": "Google",
+      "content_html": "<p><a href=\"https://engineering.gosquared.com/googles-downtime-40-drop-in-traffic\">Google’s downtime caused a 40% drop in global traffic</a>:</p>\n<blockquote>\n<p>That’s huge. As internet users, our reliance on google.com being up is huge.</p>\n</blockquote>\n<p>This <em>is</em> way more dangerous than any proprietary software. At least, you can still use your software even if it is discontinued.</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com"
@@ -866,17 +866,6 @@
       "date_published": "2013-08-06T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/os-wp-winrt/",
-      "url": "https://matthieuoger.com/2013/08/os-wp-winrt/",
-      "title": "Windows Phone and WinRT",
-      "content_html": "<p>From <a href=\"http://winsupersite.com/windows-phone/windows-phone-or-windows-rt\">Windows Phone or Windows RT?</a>:</p>\n<blockquote>\n<p>Microsoft already has a mobile platform with a thriving ecosystem. It’s called Windows Phone, and I think it makes a far better choice for general purpose tablets than does Windows RT.</p>\n</blockquote>\n<p>I used to have a Nokia Windows Phone, that I loved. The experience was pretty good, except for the lack of apps.<sup id=\"fnref-1\"><a href=\"#fn-1\" class=\"footnote-ref\">1</a></sup></p>\n<p>I created some Windows Phone 7 applications (notably <a href=\"https://dmayance.com/culturez-vous/\">Culturez-Vous</a> with Damien Mayance). I also developed a WinRT library for my daily work then — before Pixelnest.</p>\n<p>I had a Windows 8 and a WinRT device (Surface) at my workplace these days, and it was horrible. The experience was bad — the OS was a schizophrenic beast, always switching between the classic desktop and the Metro environment, with no apps. It was slow, unrefined, confusing. <a href=\"http://cl.ly/image/102N3O3C0k3z1c0g0u3g\">The font rendering was horrid</a>.</p>\n<p>When the announcement of WinRT became public, I wondered why Microsoft did not leverage its Windows Phone OS, instead of starting from scratch with Windows 8. A tablet with Windows Phone would have been far better than a tablet with the fail that is WinRT/Windows 8.</p>\n<div class=\"footnotes\">\n<hr>\n<ol>\n<li id=\"fn-1\">\n<p>To be fair, however, even then I thought that iOS was a superior OS. But I like to try a new OS to discover what works and not, and to make my own opinion.<br><br>Windows Phone lacked some polish but was rock solid, especially when compared to Android. At least, the Lumia was a supercharged feature phone with a browser and a decent keyboard.</p>\n<a href=\"#fnref-1\" class=\"footnote-backref\">↩</a>\n</li>\n</ol>\n</div>",
-      "author": {
-        "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com"
-      },
-      "date_published": "2013-08-05T00:00:00.000Z"
-    },
-    {
       "id": "https://matthieuoger.com/2013/08/quote-marco-arment/",
       "url": "https://matthieuoger.com/2013/08/quote-marco-arment/",
       "title": "Marco Arment",
@@ -888,10 +877,21 @@
       "date_published": "2013-08-05T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/",
-      "url": "https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/",
-      "title": "Life Is Too Short To Stare at Ugly Graphs — and Yes, You Should Feel Bad",
-      "content_html": "<blockquote>\n<p>It was done in-house. We really care about how our graphs look, because graphs represent information. It's like typography. Humans learned how to write 5000 years ago, and it took us a very long while until we mastered the art of transmitting information like that. Once we mastered it, however, we started caring about the way we present that information. For no specific reason, but we developed unique typefaces that look beautiful, different, yet transmit the same information.</p>\n<p>Likewise, we've spent a ton of valuable time graphing and mining data from all over our stack; it's only natural that after that, we care about how we present that data. Like typography, it's hard because it's an arduous hunt for the aesthetics hidden behind information. But this hunt is what makes us human.</p>\n<p>That's why we design beautiful graphs, just like we'd design a beautiful typeface. Not because we are GitHubbers, nor because we are designers, but because we are humans.</p>\n<p><strong>Life is too short to stare at ugly graphs. And yes, you should feel bad.</strong></p>\n<p>PS: we have no project managers at GitHub.</p>\n<p>— <a href=\"https://news.ycombinator.com/item?id=4480876\">Tanoku, Hacker News</a></p>\n</blockquote>\n<p>An oldie, but I'm still loving it (emphasis mine).</p>",
+      "id": "https://matthieuoger.com/2013/08/os-wp-winrt/",
+      "url": "https://matthieuoger.com/2013/08/os-wp-winrt/",
+      "title": "Windows Phone and WinRT",
+      "content_html": "<p>From <a href=\"http://winsupersite.com/windows-phone/windows-phone-or-windows-rt\">Windows Phone or Windows RT?</a>:</p>\n<blockquote>\n<p>Microsoft already has a mobile platform with a thriving ecosystem. It’s called Windows Phone, and I think it makes a far better choice for general purpose tablets than does Windows RT.</p>\n</blockquote>\n<p>I used to have a Nokia Windows Phone, that I loved. The experience was pretty good, except for the lack of apps.<sup id=\"fnref-1\"><a href=\"#fn-1\" class=\"footnote-ref\">1</a></sup></p>\n<p>I created some Windows Phone 7 applications (notably <a href=\"https://dmayance.com/culturez-vous/\">Culturez-Vous</a> with Damien Mayance). I also developed a WinRT library for my daily work then — before Pixelnest.</p>\n<p>I had a Windows 8 and a WinRT device (Surface) at my workplace these days, and it was horrible. The experience was bad — the OS was a schizophrenic beast, always switching between the classic desktop and the Metro environment, with no apps. It was slow, unrefined, confusing. <a href=\"http://cl.ly/image/102N3O3C0k3z1c0g0u3g\">The font rendering was horrid</a>.</p>\n<p>When the announcement of WinRT became public, I wondered why Microsoft did not leverage its Windows Phone OS, instead of starting from scratch with Windows 8. A tablet with Windows Phone would have been far better than a tablet with the fail that is WinRT/Windows 8.</p>\n<div class=\"footnotes\">\n<hr>\n<ol>\n<li id=\"fn-1\">\n<p>To be fair, however, even then I thought that iOS was a superior OS. But I like to try a new OS to discover what works and not, and to make my own opinion.<br><br>Windows Phone lacked some polish but was rock solid, especially when compared to Android. At least, the Lumia was a supercharged feature phone with a browser and a decent keyboard.</p>\n<a href=\"#fnref-1\" class=\"footnote-backref\">↩</a>\n</li>\n</ol>\n</div>",
+      "author": {
+        "name": "Matthieu Oger",
+        "url": "https://matthieuoger.com"
+      },
+      "date_published": "2013-08-05T00:00:00.000Z"
+    },
+    {
+      "id": "https://matthieuoger.com/2013/08/quote-changing-the-world/",
+      "url": "https://matthieuoger.com/2013/08/quote-changing-the-world/",
+      "title": "Changing the World…?",
+      "content_html": "<blockquote>\n<p>Could \"changing the world\" be a contender the most trite, overused expression of 2013? Recent grads seem to have adopted it en masse as their personal tagline. It's a nice sentiment, but it hard not to roll your eyes when every 23 year old applies it to his mobile phone app with no users that he threw together in a couple weeks.</p>\n<p>[…]</p>\n<p>Besides, I'm not even sure it's a healthy sentiment for most people. If your focus is as broad as \"changing the world,\" you're probably setting yourself up to feel like a failure.</p>\n<p>— <a href=\"https://news.ycombinator.com/item?id=6108967\">Freyr, Hacker News</a></p>\n</blockquote>\n<p>(via <a href=\"http://wolfslittlestore.be/2013/08/changing-the-world/\">Wolf's Little Store</a>)</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com"
@@ -899,10 +899,10 @@
       "date_published": "2013-08-02T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/quote-changing-the-world/",
-      "url": "https://matthieuoger.com/2013/08/quote-changing-the-world/",
-      "title": "Changing the World…?",
-      "content_html": "<blockquote>\n<p>Could \"changing the world\" be a contender the most trite, overused expression of 2013? Recent grads seem to have adopted it en masse as their personal tagline. It's a nice sentiment, but it hard not to roll your eyes when every 23 year old applies it to his mobile phone app with no users that he threw together in a couple weeks.</p>\n<p>[…]</p>\n<p>Besides, I'm not even sure it's a healthy sentiment for most people. If your focus is as broad as \"changing the world,\" you're probably setting yourself up to feel like a failure.</p>\n<p>— <a href=\"https://news.ycombinator.com/item?id=6108967\">Freyr, Hacker News</a></p>\n</blockquote>\n<p>(via <a href=\"http://wolfslittlestore.be/2013/08/changing-the-world/\">Wolf's Little Store</a>)</p>",
+      "id": "https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/",
+      "url": "https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/",
+      "title": "Life Is Too Short To Stare at Ugly Graphs — and Yes, You Should Feel Bad",
+      "content_html": "<blockquote>\n<p>It was done in-house. We really care about how our graphs look, because graphs represent information. It's like typography. Humans learned how to write 5000 years ago, and it took us a very long while until we mastered the art of transmitting information like that. Once we mastered it, however, we started caring about the way we present that information. For no specific reason, but we developed unique typefaces that look beautiful, different, yet transmit the same information.</p>\n<p>Likewise, we've spent a ton of valuable time graphing and mining data from all over our stack; it's only natural that after that, we care about how we present that data. Like typography, it's hard because it's an arduous hunt for the aesthetics hidden behind information. But this hunt is what makes us human.</p>\n<p>That's why we design beautiful graphs, just like we'd design a beautiful typeface. Not because we are GitHubbers, nor because we are designers, but because we are humans.</p>\n<p><strong>Life is too short to stare at ugly graphs. And yes, you should feel bad.</strong></p>\n<p>PS: we have no project managers at GitHub.</p>\n<p>— <a href=\"https://news.ycombinator.com/item?id=4480876\">Tanoku, Hacker News</a></p>\n</blockquote>\n<p>An oldie, but I'm still loving it (emphasis mine).</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com"
@@ -954,10 +954,10 @@
       "date_published": "2013-07-22T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/07/ios7-david-cole/",
-      "url": "https://matthieuoger.com/2013/07/ios7-david-cole/",
-      "title": "Is the New Apple iOS 7 Look an Improvement?",
-      "content_html": "<p><a href=\"http://www.quora.com/iOS-7/Is-the-new-Apple-iOS-7-look-an-improvement/answer/David-Cole\">David Cole on Quora</a>:</p>\n<blockquote>\n<p>I have a different perspective than most of the other answerers here. I don't think the interesting components of iOS 7 are found in the icons or the color or the type — those are relatively self-contained and thus easy to change and evolve. I think the most interesting changes, and the best changes, run much deeper than that, and yet they're intrinsically linked to the \"look\" of it.</p>\n</blockquote>\n<p>One of the best analysis that I've read about iOS 7.</p>",
+      "id": "https://matthieuoger.com/2013/07/unsplash/",
+      "url": "https://matthieuoger.com/2013/07/unsplash/",
+      "title": "Unsplash",
+      "content_html": "<p> Wonderful resource for high quality photos.</p>\n<p> → <a href=\"http://unsplash.com/\">See here</a>.</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com"
@@ -965,10 +965,10 @@
       "date_published": "2013-07-04T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/07/unsplash/",
-      "url": "https://matthieuoger.com/2013/07/unsplash/",
-      "title": "Unsplash",
-      "content_html": "<p> Wonderful resource for high quality photos.</p>\n<p> → <a href=\"http://unsplash.com/\">See here</a>.</p>",
+      "id": "https://matthieuoger.com/2013/07/ios7-david-cole/",
+      "url": "https://matthieuoger.com/2013/07/ios7-david-cole/",
+      "title": "Is the New Apple iOS 7 Look an Improvement?",
+      "content_html": "<p><a href=\"http://www.quora.com/iOS-7/Is-the-new-Apple-iOS-7-look-an-improvement/answer/David-Cole\">David Cole on Quora</a>:</p>\n<blockquote>\n<p>I have a different perspective than most of the other answerers here. I don't think the interesting components of iOS 7 are found in the icons or the color or the type — those are relatively self-contained and thus easy to change and evolve. I think the most interesting changes, and the best changes, run much deeper than that, and yet they're intrinsically linked to the \"look\" of it.</p>\n</blockquote>\n<p>One of the best analysis that I've read about iOS 7.</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com"
