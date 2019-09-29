@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://matthieuoger.com</id>
-  <updated>2019-09-23T21:50:23.323Z</updated>
+  <updated>2019-09-29T09:37:59.924Z</updated>
   <title>Matthieu Oger</title>
   <icon>https://matthieuoger.com/feed.png</icon>
   <link href="https://matthieuoger.com/atom.xml" rel="self"/>
@@ -9,6 +9,62 @@
     <name>Matthieu Oger</name>
     <uri>https://matthieuoger.com</uri>
   </author>
+  <entry>
+    <id>https://matthieuoger.com/2019/09/software-disenchantment/</id>
+    <updated>2019-09-29T00:00:00.000Z</updated>
+    <title>Software Disenchantment</title>
+    <link href="https://matthieuoger.com/2019/09/software-disenchantment/"/>
+    <content type="html"><![CDATA[<p>Nikita in “<a href="https://tonsky.me/blog/disenchantment/">Software disenchantment</a>”:</p>
+<blockquote>
+<p>So everything is just a pile of barely working code added on top of previously written barely working code. It keeps growing in size and complexity, diminishing any chance for a change.</p>
+<p>To have a healthy ecosystem you <em>need</em> to go back and revisit. You <em>need</em> to occasionally throw stuff away and replace it with better stuff.</p>
+</blockquote>
+<p><small>See also: “<a href="https://matthieuoger.com/2015/10/sad-state-web-deployment/">The Sad State Of Web App Deployment</a>” and “<a href="https://matthieuoger.com/2015/01/something-slightly-less-terrible/">Something Slightly Less Terrible</a>”.</small></p>
+<hr>
+<p>I think the article is a bit short-sighted, and even wrong on some points: there's a difference between today's software and the one from 10 or 15 years ago — we <strong>do</strong> have progress. <em>But the overall sentiment is fundamentally correct.</em></p>
+<p>Something is broken, and that's probably because we are <a href="https://matthieuoger.com/2019/09/what-will-happen-to-code/">still using code to build software</a>.</p>
+<p>There's also a slight contradiction when he says we need to delete code, but still need to be able to run things from twenty years ago. If we were more thoughtful with what we build, it could be possible, but to keep a sane and manageable codebase in our current world, we need to accept that we will lose compatibility and devices over time.<sup id="fnref-1"><a href="#fn-1" class="footnote-ref">1</a></sup></p>
+<hr>
+<blockquote>
+<p>That is not engineering. That’s just lazy programming. Engineering is understanding performance, structure, limits of what you build, deeply. Combining poorly written stuff with more poorly written stuff goes strictly against that. To progress, we need to understand what and why are we doing.</p>
+</blockquote>
+<p>I'm also guilty of that. Look, this website uses <a href="https://www.gatsbyjs.org">Gatsby</a> to generate a few static pages, and this requires 242M of dependencies to build it (not run it, hopefully).</p>
+<p>However, the result is extremely fast and satisfying for the user, and the developer experience is top-notch, at the expense of an increase in size of the exported bundle on initial (and uncached) load. Is this a reasonable tradeoff?</p>
+<hr>
+<p>At the end:</p>
+<blockquote>
+<p>Business won’t care. Neither will users. They are only learned to expect what we can provide. We (engineers) say every Android app takes 350 MB? Ok, they’ll live with that. We say we can’t give them smooth scrolling? Ok, they’ll live with a phone that stutter. We say “if it doesn’t work, reboot”? They’ll reboot. After all, they have no choice.</p>
+<p>There’s no competition either. Everybody is building the same slow, bloated, unreliable products. Occasional jump forward in quality does bring competitive advantage (iPhone/iOS vs other smartphones, Chrome vs other browsers) and forces everybody to regroup, but not for long.</p>
+<p>So it’s our mission as engineers to show the world what’s possible with today’s computers in terms of performance, reliability, quality, usability. If we care, people will learn. And there’s nobody but us to show them that it’s very much possible. If only we care.</p>
+</blockquote>
+<p>On this, I don't completely agree. Yes, in general, people are mostly stuck with what we provide, but users are way too forgiving, and most of the time, don't even see the quality problem<sup id="fnref-2"><a href="#fn-2" class="footnote-ref">2</a></sup> — only a fraction perceives it.<sup id="fnref-3"><a href="#fn-3" class="footnote-ref">3</a></sup> Even engineers working on products don't necessarily see that something's wrong. How many engineers don't care about design, visual consistency, coherence, and speed, for example?<sup id="fnref-4"><a href="#fn-4" class="footnote-ref">4</a></sup> How many don't see that their users are struggling?</p>
+<p>But there's a choice to be made by users: choose carefully, invest and learn, accept to spend a bit more on something better and more durable, change less often, and don't restrict yourself to the most ugly and cheap solution all the time, just because that was the first and easy choice.</p>
+<div class="footnotes">
+<hr>
+<ol>
+<li id="fn-1">
+<p>That's a shame and such a waste, though. I don't know if we can do better with our current tools.</p>
+<a href="#fnref-1" class="footnote-backref">↩</a>
+</li>
+<li id="fn-2">
+<p>Case in point: Windows is still a complete mess — the average bar of software quality on this platform is abysmal, and most people are completely okay with that — they don't even care. The only thing that raised the bar on Windows is Electron apps, and these came with their own set of tradeoffs, and are almost universally considered as subpar and second-tier citizens on other OSes. <em>It's a vicious cycle: if the platform owner doesn't care, the developers won't care, thus the users too.</em></p>
+<a href="#fnref-2" class="footnote-backref">↩</a>
+</li>
+<li id="fn-3">
+<p>This, though, poses another question: should we care about high quality if it doesn't matter for 80% of the users? I do think we should and I'm happy we still have craftsmanship in this world, but maybe it's only us, designers and nerds, that spend too much time pondering about that.</p>
+<a href="#fnref-3" class="footnote-backref">↩</a>
+</li>
+<li id="fn-4">
+<p>And it's a bit easy to say this without knowing the business constraints. Our society pushes for fast at the expense of doing things right and correctly — by <em>taking the time</em>. This gives us progress at an incredible and ruthless pace, but also a ton of waste.</p>
+<a href="#fnref-4" class="footnote-backref">↩</a>
+</li>
+</ol>
+</div>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
   <entry>
     <id>https://matthieuoger.com/2019/09/passing-of-time-in-a-photo/</id>
     <updated>2019-09-23T00:00:00.000Z</updated>
@@ -1681,26 +1737,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/ios7-user-tracking/</id>
-    <updated>2013-08-26T00:00:00.000Z</updated>
-    <title>iOS 7 User Tracking</title>
-    <link href="https://matthieuoger.com/2013/08/ios7-user-tracking/"/>
-    <content type="html"><![CDATA[<p><a href="http://iosdevweekly.com/issues/108/">iOS Dev Weekly, issue 108</a>:</p>
-<blockquote>
-<p>If your solution to having uniqueIdentifier deprecated was to use the MAC address of the device in some way then you're going to have a bad time in iOS 7. […]</p>
-<p>The message here is very clear, Apple are not afraid to remove any API that makes tracking users across apps by different vendors possible.</p>
-</blockquote>
-<p><a href="https://developer.apple.com/news/index.php?id=8222013a">Apple</a>:</p>
-<blockquote>
-<p>If your apps use the MAC address to identify an iOS device, the system will return the same static value for all devices running iOS 7.</p>
-</blockquote>
-<p>It is a bad week for advertisers (see: <a href="https://matthieuoger.com/2013/08/google-play-new-policies/">Google Play new policies</a>).</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://matthieuoger.com/2013/08/google-play-new-policies/</id>
     <updated>2013-08-26T00:00:00.000Z</updated>
     <title>Google Play New Policies</title>
@@ -1721,6 +1757,26 @@
 <blockquote>
 <p>I think it’s kind of amusing how quickly the narrative has changed from “Yay, open!” to “I, for one, welcome our closed overlords.”</p>
 </blockquote>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://matthieuoger.com/2013/08/ios7-user-tracking/</id>
+    <updated>2013-08-26T00:00:00.000Z</updated>
+    <title>iOS 7 User Tracking</title>
+    <link href="https://matthieuoger.com/2013/08/ios7-user-tracking/"/>
+    <content type="html"><![CDATA[<p><a href="http://iosdevweekly.com/issues/108/">iOS Dev Weekly, issue 108</a>:</p>
+<blockquote>
+<p>If your solution to having uniqueIdentifier deprecated was to use the MAC address of the device in some way then you're going to have a bad time in iOS 7. […]</p>
+<p>The message here is very clear, Apple are not afraid to remove any API that makes tracking users across apps by different vendors possible.</p>
+</blockquote>
+<p><a href="https://developer.apple.com/news/index.php?id=8222013a">Apple</a>:</p>
+<blockquote>
+<p>If your apps use the MAC address to identify an iOS device, the system will return the same static value for all devices running iOS 7.</p>
+</blockquote>
+<p>It is a bad week for advertisers (see: <a href="https://matthieuoger.com/2013/08/google-play-new-policies/">Google Play new policies</a>).</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
@@ -1823,6 +1879,22 @@
     </author>
   </entry>
   <entry>
+    <id>https://matthieuoger.com/2013/08/ios7/</id>
+    <updated>2013-08-15T00:00:00.000Z</updated>
+    <title>iOS 7</title>
+    <link href="https://matthieuoger.com/2013/08/ios7/"/>
+    <content type="html"><![CDATA[<p><a href="http://www.imore.com/wheres-bigger-iphone">Rene Ritchie</a>:</p>
+<blockquote>
+<p>When a company like Apple goes to all the trouble of building a <strong>physics</strong> and <strong>particle engine</strong> to support their interface, when they <strong>objectify</strong> it and <strong>gamify</strong> it and <strong>make it a dynamic, living thing</strong>, it opens up a lot of potential. When you add <strong>Text Kit</strong> to mix, and the <strong>design language</strong> in general, and when you see what it all looks and feels like on an iPad mini, then the possibilities for a bigger iPhone next year become infinitely more exciting.</p>
+</blockquote>
+<p>Good recap of the real changes brought by iOS 7.</p>
+<p>(Emphasis mine)</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
+  <entry>
     <id>https://matthieuoger.com/2013/08/app-store/</id>
     <updated>2013-08-15T00:00:00.000Z</updated>
     <title>App Store</title>
@@ -1842,22 +1914,6 @@
 August 14, 2013
 </a></p>
 </blockquote>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2013/08/ios7/</id>
-    <updated>2013-08-15T00:00:00.000Z</updated>
-    <title>iOS 7</title>
-    <link href="https://matthieuoger.com/2013/08/ios7/"/>
-    <content type="html"><![CDATA[<p><a href="http://www.imore.com/wheres-bigger-iphone">Rene Ritchie</a>:</p>
-<blockquote>
-<p>When a company like Apple goes to all the trouble of building a <strong>physics</strong> and <strong>particle engine</strong> to support their interface, when they <strong>objectify</strong> it and <strong>gamify</strong> it and <strong>make it a dynamic, living thing</strong>, it opens up a lot of potential. When you add <strong>Text Kit</strong> to mix, and the <strong>design language</strong> in general, and when you see what it all looks and feels like on an iPad mini, then the possibilities for a bigger iPhone next year become infinitely more exciting.</p>
-</blockquote>
-<p>Good recap of the real changes brought by iOS 7.</p>
-<p>(Emphasis mine)</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
@@ -1957,20 +2013,6 @@ August 14, 2013
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/quote-marco-arment/</id>
-    <updated>2013-08-05T00:00:00.000Z</updated>
-    <title>Marco Arment</title>
-    <link href="https://matthieuoger.com/2013/08/quote-marco-arment/"/>
-    <content type="html"><![CDATA[<blockquote>
-<p>I offered to give my Nexus 7 and Kindle Fire to Betaworks in the Instapaper acquisition, but they had so many of both sitting around already that they declined. Tech companies with mobile apps can practically tile walls with outdated Android devices. They’re the new AOL CDs.</p>
-<p>— <a href="http://www.marco.org/2013/07/25/nexus-72">Marco Arment</a></p>
-</blockquote>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://matthieuoger.com/2013/08/os-wp-winrt/</id>
     <updated>2013-08-05T00:00:00.000Z</updated>
     <title>Windows Phone and WinRT</title>
@@ -1998,19 +2040,14 @@ August 14, 2013
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/</id>
-    <updated>2013-08-02T00:00:00.000Z</updated>
-    <title>Life Is Too Short To Stare at Ugly Graphs — and Yes, You Should Feel Bad</title>
-    <link href="https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/"/>
+    <id>https://matthieuoger.com/2013/08/quote-marco-arment/</id>
+    <updated>2013-08-05T00:00:00.000Z</updated>
+    <title>Marco Arment</title>
+    <link href="https://matthieuoger.com/2013/08/quote-marco-arment/"/>
     <content type="html"><![CDATA[<blockquote>
-<p>It was done in-house. We really care about how our graphs look, because graphs represent information. It's like typography. Humans learned how to write 5000 years ago, and it took us a very long while until we mastered the art of transmitting information like that. Once we mastered it, however, we started caring about the way we present that information. For no specific reason, but we developed unique typefaces that look beautiful, different, yet transmit the same information.</p>
-<p>Likewise, we've spent a ton of valuable time graphing and mining data from all over our stack; it's only natural that after that, we care about how we present that data. Like typography, it's hard because it's an arduous hunt for the aesthetics hidden behind information. But this hunt is what makes us human.</p>
-<p>That's why we design beautiful graphs, just like we'd design a beautiful typeface. Not because we are GitHubbers, nor because we are designers, but because we are humans.</p>
-<p><strong>Life is too short to stare at ugly graphs. And yes, you should feel bad.</strong></p>
-<p>PS: we have no project managers at GitHub.</p>
-<p>— <a href="https://news.ycombinator.com/item?id=4480876">Tanoku, Hacker News</a></p>
-</blockquote>
-<p>An oldie, but I'm still loving it (emphasis mine).</p>]]></content>
+<p>I offered to give my Nexus 7 and Kindle Fire to Betaworks in the Instapaper acquisition, but they had so many of both sitting around already that they declined. Tech companies with mobile apps can practically tile walls with outdated Android devices. They’re the new AOL CDs.</p>
+<p>— <a href="http://www.marco.org/2013/07/25/nexus-72">Marco Arment</a></p>
+</blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
@@ -2028,6 +2065,25 @@ August 14, 2013
 <p>— <a href="https://news.ycombinator.com/item?id=6108967">Freyr, Hacker News</a></p>
 </blockquote>
 <p>(via <a href="http://wolfslittlestore.be/2013/08/changing-the-world/">Wolf's Little Store</a>)</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/</id>
+    <updated>2013-08-02T00:00:00.000Z</updated>
+    <title>Life Is Too Short To Stare at Ugly Graphs — and Yes, You Should Feel Bad</title>
+    <link href="https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/"/>
+    <content type="html"><![CDATA[<blockquote>
+<p>It was done in-house. We really care about how our graphs look, because graphs represent information. It's like typography. Humans learned how to write 5000 years ago, and it took us a very long while until we mastered the art of transmitting information like that. Once we mastered it, however, we started caring about the way we present that information. For no specific reason, but we developed unique typefaces that look beautiful, different, yet transmit the same information.</p>
+<p>Likewise, we've spent a ton of valuable time graphing and mining data from all over our stack; it's only natural that after that, we care about how we present that data. Like typography, it's hard because it's an arduous hunt for the aesthetics hidden behind information. But this hunt is what makes us human.</p>
+<p>That's why we design beautiful graphs, just like we'd design a beautiful typeface. Not because we are GitHubbers, nor because we are designers, but because we are humans.</p>
+<p><strong>Life is too short to stare at ugly graphs. And yes, you should feel bad.</strong></p>
+<p>PS: we have no project managers at GitHub.</p>
+<p>— <a href="https://news.ycombinator.com/item?id=4480876">Tanoku, Hacker News</a></p>
+</blockquote>
+<p>An oldie, but I'm still loving it (emphasis mine).</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
