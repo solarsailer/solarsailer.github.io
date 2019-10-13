@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://matthieuoger.com</id>
-  <updated>2019-09-29T09:37:59.924Z</updated>
+  <updated>2019-10-13T09:55:36.386Z</updated>
   <title>Matthieu Oger</title>
   <icon>https://matthieuoger.com/feed.png</icon>
   <link href="https://matthieuoger.com/atom.xml" rel="self"/>
@@ -9,6 +9,24 @@
     <name>Matthieu Oger</name>
     <uri>https://matthieuoger.com</uri>
   </author>
+  <entry>
+    <id>https://matthieuoger.com/2019/10/nice-clear-and-secure/</id>
+    <updated>2019-10-13T00:00:00.000Z</updated>
+    <title>Nice, Clear and… Secure</title>
+    <link href="https://matthieuoger.com/2019/10/nice-clear-and-secure/"/>
+    <content type="html"><![CDATA[<p><a href="https://www.relay.fm/connected/264/">Federico Viticci</a>:</p>
+<blockquote>
+<p>So security, obviously, and authentication, these are complicated topics, and they are complicated to engineer, they are complicated to explain. But I think, for security to be effective, and maybe this sounds a little too simplistic but bear with me.</p>
+<p><strong>For security to be effective, it needs to be used, and for good security practices to be used, they need to be nice, they need to be elegant, they need to be clear.</strong></p>
+<p>[…]</p>
+<p>If you are a security engineer, you are gonna say "who cares about being nice, it needs to be secure", yes! <em>It also needs to be nice!</em> […] You need to understand that being nice is just as important as being secure, because if it's not a nice experience, people are just not gonna care and they are not gonna use it, and they are just gonna click "OK" and they are not gonna know what it means. So, is it really more secure… if it's not nice?</p>
+</blockquote>
+<p><small>(Transcript)</small></p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
   <entry>
     <id>https://matthieuoger.com/2019/09/software-disenchantment/</id>
     <updated>2019-09-29T00:00:00.000Z</updated>
@@ -1607,18 +1625,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/09/myosis/</id>
-    <updated>2013-09-04T00:00:00.000Z</updated>
-    <title>Myosis</title>
-    <link href="https://matthieuoger.com/2013/09/myosis/"/>
-    <content type="html"><![CDATA[<p>A gorgeous short film.</p>
-<p>→ <a href="https://vimeo.com/73617382">Watch here</a>.</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://matthieuoger.com/2013/09/sketch-23/</id>
     <updated>2013-09-04T00:00:00.000Z</updated>
     <title>Sketch 2.3</title>
@@ -1633,6 +1639,18 @@
 </ul>
 <p>The only downside of this release is when I work with text. It doesn't feel smooth.</p>
 <p>Such an awesome piece of software.</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://matthieuoger.com/2013/09/myosis/</id>
+    <updated>2013-09-04T00:00:00.000Z</updated>
+    <title>Myosis</title>
+    <link href="https://matthieuoger.com/2013/09/myosis/"/>
+    <content type="html"><![CDATA[<p>A gorgeous short film.</p>
+<p>→ <a href="https://vimeo.com/73617382">Watch here</a>.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
@@ -1879,22 +1897,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/ios7/</id>
-    <updated>2013-08-15T00:00:00.000Z</updated>
-    <title>iOS 7</title>
-    <link href="https://matthieuoger.com/2013/08/ios7/"/>
-    <content type="html"><![CDATA[<p><a href="http://www.imore.com/wheres-bigger-iphone">Rene Ritchie</a>:</p>
-<blockquote>
-<p>When a company like Apple goes to all the trouble of building a <strong>physics</strong> and <strong>particle engine</strong> to support their interface, when they <strong>objectify</strong> it and <strong>gamify</strong> it and <strong>make it a dynamic, living thing</strong>, it opens up a lot of potential. When you add <strong>Text Kit</strong> to mix, and the <strong>design language</strong> in general, and when you see what it all looks and feels like on an iPad mini, then the possibilities for a bigger iPhone next year become infinitely more exciting.</p>
-</blockquote>
-<p>Good recap of the real changes brought by iOS 7.</p>
-<p>(Emphasis mine)</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://matthieuoger.com/2013/08/app-store/</id>
     <updated>2013-08-15T00:00:00.000Z</updated>
     <title>App Store</title>
@@ -1914,6 +1916,22 @@
 August 14, 2013
 </a></p>
 </blockquote>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://matthieuoger.com/2013/08/ios7/</id>
+    <updated>2013-08-15T00:00:00.000Z</updated>
+    <title>iOS 7</title>
+    <link href="https://matthieuoger.com/2013/08/ios7/"/>
+    <content type="html"><![CDATA[<p><a href="http://www.imore.com/wheres-bigger-iphone">Rene Ritchie</a>:</p>
+<blockquote>
+<p>When a company like Apple goes to all the trouble of building a <strong>physics</strong> and <strong>particle engine</strong> to support their interface, when they <strong>objectify</strong> it and <strong>gamify</strong> it and <strong>make it a dynamic, living thing</strong>, it opens up a lot of potential. When you add <strong>Text Kit</strong> to mix, and the <strong>design language</strong> in general, and when you see what it all looks and feels like on an iPad mini, then the possibilities for a bigger iPhone next year become infinitely more exciting.</p>
+</blockquote>
+<p>Good recap of the real changes brought by iOS 7.</p>
+<p>(Emphasis mine)</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
@@ -2013,6 +2031,20 @@ August 14, 2013
     </author>
   </entry>
   <entry>
+    <id>https://matthieuoger.com/2013/08/quote-marco-arment/</id>
+    <updated>2013-08-05T00:00:00.000Z</updated>
+    <title>Marco Arment</title>
+    <link href="https://matthieuoger.com/2013/08/quote-marco-arment/"/>
+    <content type="html"><![CDATA[<blockquote>
+<p>I offered to give my Nexus 7 and Kindle Fire to Betaworks in the Instapaper acquisition, but they had so many of both sitting around already that they declined. Tech companies with mobile apps can practically tile walls with outdated Android devices. They’re the new AOL CDs.</p>
+<p>— <a href="http://www.marco.org/2013/07/25/nexus-72">Marco Arment</a></p>
+</blockquote>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
+  <entry>
     <id>https://matthieuoger.com/2013/08/os-wp-winrt/</id>
     <updated>2013-08-05T00:00:00.000Z</updated>
     <title>Windows Phone and WinRT</title>
@@ -2040,14 +2072,19 @@ August 14, 2013
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/quote-marco-arment/</id>
-    <updated>2013-08-05T00:00:00.000Z</updated>
-    <title>Marco Arment</title>
-    <link href="https://matthieuoger.com/2013/08/quote-marco-arment/"/>
+    <id>https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/</id>
+    <updated>2013-08-02T00:00:00.000Z</updated>
+    <title>Life Is Too Short To Stare at Ugly Graphs — and Yes, You Should Feel Bad</title>
+    <link href="https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/"/>
     <content type="html"><![CDATA[<blockquote>
-<p>I offered to give my Nexus 7 and Kindle Fire to Betaworks in the Instapaper acquisition, but they had so many of both sitting around already that they declined. Tech companies with mobile apps can practically tile walls with outdated Android devices. They’re the new AOL CDs.</p>
-<p>— <a href="http://www.marco.org/2013/07/25/nexus-72">Marco Arment</a></p>
-</blockquote>]]></content>
+<p>It was done in-house. We really care about how our graphs look, because graphs represent information. It's like typography. Humans learned how to write 5000 years ago, and it took us a very long while until we mastered the art of transmitting information like that. Once we mastered it, however, we started caring about the way we present that information. For no specific reason, but we developed unique typefaces that look beautiful, different, yet transmit the same information.</p>
+<p>Likewise, we've spent a ton of valuable time graphing and mining data from all over our stack; it's only natural that after that, we care about how we present that data. Like typography, it's hard because it's an arduous hunt for the aesthetics hidden behind information. But this hunt is what makes us human.</p>
+<p>That's why we design beautiful graphs, just like we'd design a beautiful typeface. Not because we are GitHubbers, nor because we are designers, but because we are humans.</p>
+<p><strong>Life is too short to stare at ugly graphs. And yes, you should feel bad.</strong></p>
+<p>PS: we have no project managers at GitHub.</p>
+<p>— <a href="https://news.ycombinator.com/item?id=4480876">Tanoku, Hacker News</a></p>
+</blockquote>
+<p>An oldie, but I'm still loving it (emphasis mine).</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
@@ -2065,25 +2102,6 @@ August 14, 2013
 <p>— <a href="https://news.ycombinator.com/item?id=6108967">Freyr, Hacker News</a></p>
 </blockquote>
 <p>(via <a href="http://wolfslittlestore.be/2013/08/changing-the-world/">Wolf's Little Store</a>)</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/</id>
-    <updated>2013-08-02T00:00:00.000Z</updated>
-    <title>Life Is Too Short To Stare at Ugly Graphs — and Yes, You Should Feel Bad</title>
-    <link href="https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/"/>
-    <content type="html"><![CDATA[<blockquote>
-<p>It was done in-house. We really care about how our graphs look, because graphs represent information. It's like typography. Humans learned how to write 5000 years ago, and it took us a very long while until we mastered the art of transmitting information like that. Once we mastered it, however, we started caring about the way we present that information. For no specific reason, but we developed unique typefaces that look beautiful, different, yet transmit the same information.</p>
-<p>Likewise, we've spent a ton of valuable time graphing and mining data from all over our stack; it's only natural that after that, we care about how we present that data. Like typography, it's hard because it's an arduous hunt for the aesthetics hidden behind information. But this hunt is what makes us human.</p>
-<p>That's why we design beautiful graphs, just like we'd design a beautiful typeface. Not because we are GitHubbers, nor because we are designers, but because we are humans.</p>
-<p><strong>Life is too short to stare at ugly graphs. And yes, you should feel bad.</strong></p>
-<p>PS: we have no project managers at GitHub.</p>
-<p>— <a href="https://news.ycombinator.com/item?id=4480876">Tanoku, Hacker News</a></p>
-</blockquote>
-<p>An oldie, but I'm still loving it (emphasis mine).</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>

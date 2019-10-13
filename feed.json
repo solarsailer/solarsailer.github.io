@@ -8,6 +8,17 @@
   "feed_url": "https://matthieuoger.com/feed.json",
   "items": [
     {
+      "id": "https://matthieuoger.com/2019/10/nice-clear-and-secure/",
+      "url": "https://matthieuoger.com/2019/10/nice-clear-and-secure/",
+      "title": "Nice, Clear and… Secure",
+      "content_html": "<p><a href=\"https://www.relay.fm/connected/264/\">Federico Viticci</a>:</p>\n<blockquote>\n<p>So security, obviously, and authentication, these are complicated topics, and they are complicated to engineer, they are complicated to explain. But I think, for security to be effective, and maybe this sounds a little too simplistic but bear with me.</p>\n<p><strong>For security to be effective, it needs to be used, and for good security practices to be used, they need to be nice, they need to be elegant, they need to be clear.</strong></p>\n<p>[…]</p>\n<p>If you are a security engineer, you are gonna say \"who cares about being nice, it needs to be secure\", yes! <em>It also needs to be nice!</em> […] You need to understand that being nice is just as important as being secure, because if it's not a nice experience, people are just not gonna care and they are not gonna use it, and they are just gonna click \"OK\" and they are not gonna know what it means. So, is it really more secure… if it's not nice?</p>\n</blockquote>\n<p><small>(Transcript)</small></p>",
+      "author": {
+        "name": "Matthieu Oger",
+        "url": "https://matthieuoger.com"
+      },
+      "date_published": "2019-10-13T00:00:00.000Z"
+    },
+    {
       "id": "https://matthieuoger.com/2019/09/software-disenchantment/",
       "url": "https://matthieuoger.com/2019/09/software-disenchantment/",
       "title": "Software Disenchantment",
@@ -635,10 +646,10 @@
       "date_published": "2013-09-05T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/09/myosis/",
-      "url": "https://matthieuoger.com/2013/09/myosis/",
-      "title": "Myosis",
-      "content_html": "<p>A gorgeous short film.</p>\n<p>→ <a href=\"https://vimeo.com/73617382\">Watch here</a>.</p>",
+      "id": "https://matthieuoger.com/2013/09/sketch-23/",
+      "url": "https://matthieuoger.com/2013/09/sketch-23/",
+      "title": "Sketch 2.3",
+      "content_html": "<p>The biggest new yesterday was not that Microsoft bought Nokia. In fact, it was written on the wall for more than 2 years. And others have blogged <a href=\"http://stratechery.com/2013/the-deal-that-makes-no-sense/\">better</a> <a href=\"http://ben-evans.com/benedictevans/2013/9/3/microsoft-and-nokia\">things</a> than I could.</p>\n<p>No, <a href=\"http://bohemiancoding.tumblr.com/post/60070936484/sketch-2-3\">it was the release of Sketch 2.3</a>.</p>\n<p>There's a lot of things that I like in this new version:</p>\n<ul>\n<li>Speed. <strong>It is incomparable</strong>.</li>\n<li>PDF import. I was looking for that for a long time.</li>\n<li>Sketch Mirror.</li>\n</ul>\n<p>The only downside of this release is when I work with text. It doesn't feel smooth.</p>\n<p>Such an awesome piece of software.</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com"
@@ -646,10 +657,10 @@
       "date_published": "2013-09-04T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/09/sketch-23/",
-      "url": "https://matthieuoger.com/2013/09/sketch-23/",
-      "title": "Sketch 2.3",
-      "content_html": "<p>The biggest new yesterday was not that Microsoft bought Nokia. In fact, it was written on the wall for more than 2 years. And others have blogged <a href=\"http://stratechery.com/2013/the-deal-that-makes-no-sense/\">better</a> <a href=\"http://ben-evans.com/benedictevans/2013/9/3/microsoft-and-nokia\">things</a> than I could.</p>\n<p>No, <a href=\"http://bohemiancoding.tumblr.com/post/60070936484/sketch-2-3\">it was the release of Sketch 2.3</a>.</p>\n<p>There's a lot of things that I like in this new version:</p>\n<ul>\n<li>Speed. <strong>It is incomparable</strong>.</li>\n<li>PDF import. I was looking for that for a long time.</li>\n<li>Sketch Mirror.</li>\n</ul>\n<p>The only downside of this release is when I work with text. It doesn't feel smooth.</p>\n<p>Such an awesome piece of software.</p>",
+      "id": "https://matthieuoger.com/2013/09/myosis/",
+      "url": "https://matthieuoger.com/2013/09/myosis/",
+      "title": "Myosis",
+      "content_html": "<p>A gorgeous short film.</p>\n<p>→ <a href=\"https://vimeo.com/73617382\">Watch here</a>.</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com"
@@ -800,10 +811,10 @@
       "date_published": "2013-08-16T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/ios7/",
-      "url": "https://matthieuoger.com/2013/08/ios7/",
-      "title": "iOS 7",
-      "content_html": "<p><a href=\"http://www.imore.com/wheres-bigger-iphone\">Rene Ritchie</a>:</p>\n<blockquote>\n<p>When a company like Apple goes to all the trouble of building a <strong>physics</strong> and <strong>particle engine</strong> to support their interface, when they <strong>objectify</strong> it and <strong>gamify</strong> it and <strong>make it a dynamic, living thing</strong>, it opens up a lot of potential. When you add <strong>Text Kit</strong> to mix, and the <strong>design language</strong> in general, and when you see what it all looks and feels like on an iPad mini, then the possibilities for a bigger iPhone next year become infinitely more exciting.</p>\n</blockquote>\n<p>Good recap of the real changes brought by iOS 7.</p>\n<p>(Emphasis mine)</p>",
+      "id": "https://matthieuoger.com/2013/08/app-store/",
+      "url": "https://matthieuoger.com/2013/08/app-store/",
+      "title": "App Store",
+      "content_html": "<p>Truth:</p>\n<blockquote class=\"twitter-tweet\">\n<p>\n\tPossess:\n\t<br>&#10;1. ~1M captive audience of developers,\n\t<br>&#10;2. ~1M apps,\n\t<br>&#10;3. ~$150B in cash, and\n\t<br>&#10;4. fail to (re)design an App Store.\n\t<br>&#10;Nuts.\n</p>\n<p>— Kontra (@counternotions)\n<a href=\"https://twitter.com/counternotions/statuses/367619924929568768\">\nAugust 14, 2013\n</a></p>\n</blockquote>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com"
@@ -811,10 +822,10 @@
       "date_published": "2013-08-15T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/app-store/",
-      "url": "https://matthieuoger.com/2013/08/app-store/",
-      "title": "App Store",
-      "content_html": "<p>Truth:</p>\n<blockquote class=\"twitter-tweet\">\n<p>\n\tPossess:\n\t<br>&#10;1. ~1M captive audience of developers,\n\t<br>&#10;2. ~1M apps,\n\t<br>&#10;3. ~$150B in cash, and\n\t<br>&#10;4. fail to (re)design an App Store.\n\t<br>&#10;Nuts.\n</p>\n<p>— Kontra (@counternotions)\n<a href=\"https://twitter.com/counternotions/statuses/367619924929568768\">\nAugust 14, 2013\n</a></p>\n</blockquote>",
+      "id": "https://matthieuoger.com/2013/08/ios7/",
+      "url": "https://matthieuoger.com/2013/08/ios7/",
+      "title": "iOS 7",
+      "content_html": "<p><a href=\"http://www.imore.com/wheres-bigger-iphone\">Rene Ritchie</a>:</p>\n<blockquote>\n<p>When a company like Apple goes to all the trouble of building a <strong>physics</strong> and <strong>particle engine</strong> to support their interface, when they <strong>objectify</strong> it and <strong>gamify</strong> it and <strong>make it a dynamic, living thing</strong>, it opens up a lot of potential. When you add <strong>Text Kit</strong> to mix, and the <strong>design language</strong> in general, and when you see what it all looks and feels like on an iPad mini, then the possibilities for a bigger iPhone next year become infinitely more exciting.</p>\n</blockquote>\n<p>Good recap of the real changes brought by iOS 7.</p>\n<p>(Emphasis mine)</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com"
@@ -877,17 +888,6 @@
       "date_published": "2013-08-06T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/os-wp-winrt/",
-      "url": "https://matthieuoger.com/2013/08/os-wp-winrt/",
-      "title": "Windows Phone and WinRT",
-      "content_html": "<p>From <a href=\"http://winsupersite.com/windows-phone/windows-phone-or-windows-rt\">Windows Phone or Windows RT?</a>:</p>\n<blockquote>\n<p>Microsoft already has a mobile platform with a thriving ecosystem. It’s called Windows Phone, and I think it makes a far better choice for general purpose tablets than does Windows RT.</p>\n</blockquote>\n<p>I used to have a Nokia Windows Phone, that I loved. The experience was pretty good, except for the lack of apps.<sup id=\"fnref-1\"><a href=\"#fn-1\" class=\"footnote-ref\">1</a></sup></p>\n<p>I created some Windows Phone 7 applications (notably <a href=\"https://dmayance.com/culturez-vous/\">Culturez-Vous</a> with Damien Mayance). I also developed a WinRT library for my daily work then — before Pixelnest.</p>\n<p>I had a Windows 8 and a WinRT device (Surface) at my workplace these days, and it was horrible. The experience was bad — the OS was a schizophrenic beast, always switching between the classic desktop and the Metro environment, with no apps. It was slow, unrefined, confusing. <a href=\"http://cl.ly/image/102N3O3C0k3z1c0g0u3g\">The font rendering was horrid</a>.</p>\n<p>When the announcement of WinRT became public, I wondered why Microsoft did not leverage its Windows Phone OS, instead of starting from scratch with Windows 8. A tablet with Windows Phone would have been far better than a tablet with the fail that is WinRT/Windows 8.</p>\n<div class=\"footnotes\">\n<hr>\n<ol>\n<li id=\"fn-1\">\n<p>To be fair, however, even then I thought that iOS was a superior OS. But I like to try a new OS to discover what works and not, and to make my own opinion.<br><br>Windows Phone lacked some polish but was rock solid, especially when compared to Android. At least, the Lumia was a supercharged feature phone with a browser and a decent keyboard.</p>\n<a href=\"#fnref-1\" class=\"footnote-backref\">↩</a>\n</li>\n</ol>\n</div>",
-      "author": {
-        "name": "Matthieu Oger",
-        "url": "https://matthieuoger.com"
-      },
-      "date_published": "2013-08-05T00:00:00.000Z"
-    },
-    {
       "id": "https://matthieuoger.com/2013/08/quote-marco-arment/",
       "url": "https://matthieuoger.com/2013/08/quote-marco-arment/",
       "title": "Marco Arment",
@@ -899,10 +899,21 @@
       "date_published": "2013-08-05T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/quote-changing-the-world/",
-      "url": "https://matthieuoger.com/2013/08/quote-changing-the-world/",
-      "title": "Changing the World…?",
-      "content_html": "<blockquote>\n<p>Could \"changing the world\" be a contender the most trite, overused expression of 2013? Recent grads seem to have adopted it en masse as their personal tagline. It's a nice sentiment, but it hard not to roll your eyes when every 23 year old applies it to his mobile phone app with no users that he threw together in a couple weeks.</p>\n<p>[…]</p>\n<p>Besides, I'm not even sure it's a healthy sentiment for most people. If your focus is as broad as \"changing the world,\" you're probably setting yourself up to feel like a failure.</p>\n<p>— <a href=\"https://news.ycombinator.com/item?id=6108967\">Freyr, Hacker News</a></p>\n</blockquote>\n<p>(via <a href=\"http://wolfslittlestore.be/2013/08/changing-the-world/\">Wolf's Little Store</a>)</p>",
+      "id": "https://matthieuoger.com/2013/08/os-wp-winrt/",
+      "url": "https://matthieuoger.com/2013/08/os-wp-winrt/",
+      "title": "Windows Phone and WinRT",
+      "content_html": "<p>From <a href=\"http://winsupersite.com/windows-phone/windows-phone-or-windows-rt\">Windows Phone or Windows RT?</a>:</p>\n<blockquote>\n<p>Microsoft already has a mobile platform with a thriving ecosystem. It’s called Windows Phone, and I think it makes a far better choice for general purpose tablets than does Windows RT.</p>\n</blockquote>\n<p>I used to have a Nokia Windows Phone, that I loved. The experience was pretty good, except for the lack of apps.<sup id=\"fnref-1\"><a href=\"#fn-1\" class=\"footnote-ref\">1</a></sup></p>\n<p>I created some Windows Phone 7 applications (notably <a href=\"https://dmayance.com/culturez-vous/\">Culturez-Vous</a> with Damien Mayance). I also developed a WinRT library for my daily work then — before Pixelnest.</p>\n<p>I had a Windows 8 and a WinRT device (Surface) at my workplace these days, and it was horrible. The experience was bad — the OS was a schizophrenic beast, always switching between the classic desktop and the Metro environment, with no apps. It was slow, unrefined, confusing. <a href=\"http://cl.ly/image/102N3O3C0k3z1c0g0u3g\">The font rendering was horrid</a>.</p>\n<p>When the announcement of WinRT became public, I wondered why Microsoft did not leverage its Windows Phone OS, instead of starting from scratch with Windows 8. A tablet with Windows Phone would have been far better than a tablet with the fail that is WinRT/Windows 8.</p>\n<div class=\"footnotes\">\n<hr>\n<ol>\n<li id=\"fn-1\">\n<p>To be fair, however, even then I thought that iOS was a superior OS. But I like to try a new OS to discover what works and not, and to make my own opinion.<br><br>Windows Phone lacked some polish but was rock solid, especially when compared to Android. At least, the Lumia was a supercharged feature phone with a browser and a decent keyboard.</p>\n<a href=\"#fnref-1\" class=\"footnote-backref\">↩</a>\n</li>\n</ol>\n</div>",
+      "author": {
+        "name": "Matthieu Oger",
+        "url": "https://matthieuoger.com"
+      },
+      "date_published": "2013-08-05T00:00:00.000Z"
+    },
+    {
+      "id": "https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/",
+      "url": "https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/",
+      "title": "Life Is Too Short To Stare at Ugly Graphs — and Yes, You Should Feel Bad",
+      "content_html": "<blockquote>\n<p>It was done in-house. We really care about how our graphs look, because graphs represent information. It's like typography. Humans learned how to write 5000 years ago, and it took us a very long while until we mastered the art of transmitting information like that. Once we mastered it, however, we started caring about the way we present that information. For no specific reason, but we developed unique typefaces that look beautiful, different, yet transmit the same information.</p>\n<p>Likewise, we've spent a ton of valuable time graphing and mining data from all over our stack; it's only natural that after that, we care about how we present that data. Like typography, it's hard because it's an arduous hunt for the aesthetics hidden behind information. But this hunt is what makes us human.</p>\n<p>That's why we design beautiful graphs, just like we'd design a beautiful typeface. Not because we are GitHubbers, nor because we are designers, but because we are humans.</p>\n<p><strong>Life is too short to stare at ugly graphs. And yes, you should feel bad.</strong></p>\n<p>PS: we have no project managers at GitHub.</p>\n<p>— <a href=\"https://news.ycombinator.com/item?id=4480876\">Tanoku, Hacker News</a></p>\n</blockquote>\n<p>An oldie, but I'm still loving it (emphasis mine).</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com"
@@ -910,10 +921,10 @@
       "date_published": "2013-08-02T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/",
-      "url": "https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/",
-      "title": "Life Is Too Short To Stare at Ugly Graphs — and Yes, You Should Feel Bad",
-      "content_html": "<blockquote>\n<p>It was done in-house. We really care about how our graphs look, because graphs represent information. It's like typography. Humans learned how to write 5000 years ago, and it took us a very long while until we mastered the art of transmitting information like that. Once we mastered it, however, we started caring about the way we present that information. For no specific reason, but we developed unique typefaces that look beautiful, different, yet transmit the same information.</p>\n<p>Likewise, we've spent a ton of valuable time graphing and mining data from all over our stack; it's only natural that after that, we care about how we present that data. Like typography, it's hard because it's an arduous hunt for the aesthetics hidden behind information. But this hunt is what makes us human.</p>\n<p>That's why we design beautiful graphs, just like we'd design a beautiful typeface. Not because we are GitHubbers, nor because we are designers, but because we are humans.</p>\n<p><strong>Life is too short to stare at ugly graphs. And yes, you should feel bad.</strong></p>\n<p>PS: we have no project managers at GitHub.</p>\n<p>— <a href=\"https://news.ycombinator.com/item?id=4480876\">Tanoku, Hacker News</a></p>\n</blockquote>\n<p>An oldie, but I'm still loving it (emphasis mine).</p>",
+      "id": "https://matthieuoger.com/2013/08/quote-changing-the-world/",
+      "url": "https://matthieuoger.com/2013/08/quote-changing-the-world/",
+      "title": "Changing the World…?",
+      "content_html": "<blockquote>\n<p>Could \"changing the world\" be a contender the most trite, overused expression of 2013? Recent grads seem to have adopted it en masse as their personal tagline. It's a nice sentiment, but it hard not to roll your eyes when every 23 year old applies it to his mobile phone app with no users that he threw together in a couple weeks.</p>\n<p>[…]</p>\n<p>Besides, I'm not even sure it's a healthy sentiment for most people. If your focus is as broad as \"changing the world,\" you're probably setting yourself up to feel like a failure.</p>\n<p>— <a href=\"https://news.ycombinator.com/item?id=6108967\">Freyr, Hacker News</a></p>\n</blockquote>\n<p>(via <a href=\"http://wolfslittlestore.be/2013/08/changing-the-world/\">Wolf's Little Store</a>)</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com"
