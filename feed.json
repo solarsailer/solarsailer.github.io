@@ -910,10 +910,10 @@
       "date_published": "2013-08-05T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/quote-changing-the-world/",
-      "url": "https://matthieuoger.com/2013/08/quote-changing-the-world/",
-      "title": "Changing the World…?",
-      "content_html": "<p><a href=\"https://news.ycombinator.com/item?id=6108967\">Freyr</a>:</p>\n<blockquote>\n<p>Could \"changing the world\" be a contender the most trite, overused expression of 2013? Recent grads seem to have adopted it en masse as their personal tagline. It's a nice sentiment, but it hard not to roll your eyes when every 23 year old applies it to his mobile phone app with no users that he threw together in a couple weeks.</p>\n<p>[…]</p>\n<p>Besides, I'm not even sure it's a healthy sentiment for most people. If your focus is as broad as \"changing the world,\" you're probably setting yourself up to feel like a failure.</p>\n</blockquote>\n<p>(via <a href=\"http://wolfslittlestore.be/2013/08/changing-the-world/\">Wolf's Little Store</a>)</p>",
+      "id": "https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/",
+      "url": "https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/",
+      "title": "Life Is Too Short To Stare at Ugly Graphs — and Yes, You Should Feel Bad",
+      "content_html": "<p><a href=\"https://news.ycombinator.com/item?id=4480876\">Tanoku</a>:</p>\n<blockquote>\n<p>It was done in-house. We really care about how our graphs look, because graphs represent information. It's like typography. Humans learned how to write 5000 years ago, and it took us a very long while until we mastered the art of transmitting information like that. Once we mastered it, however, we started caring about the way we present that information. For no specific reason, but we developed unique typefaces that look beautiful, different, yet transmit the same information.</p>\n<p>Likewise, we've spent a ton of valuable time graphing and mining data from all over our stack; it's only natural that after that, we care about how we present that data. Like typography, it's hard because it's an arduous hunt for the aesthetics hidden behind information. But this hunt is what makes us human.</p>\n<p>That's why we design beautiful graphs, just like we'd design a beautiful typeface. Not because we are GitHubbers, nor because we are designers, but because we are humans.</p>\n<p><strong>Life is too short to stare at ugly graphs. And yes, you should feel bad.</strong></p>\n</blockquote>\n<p><small>(Emphasis mine)</small></p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com"
@@ -921,10 +921,10 @@
       "date_published": "2013-08-02T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/",
-      "url": "https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/",
-      "title": "Life Is Too Short To Stare at Ugly Graphs — and Yes, You Should Feel Bad",
-      "content_html": "<p><a href=\"https://news.ycombinator.com/item?id=4480876\">Tanoku</a>:</p>\n<blockquote>\n<p>It was done in-house. We really care about how our graphs look, because graphs represent information. It's like typography. Humans learned how to write 5000 years ago, and it took us a very long while until we mastered the art of transmitting information like that. Once we mastered it, however, we started caring about the way we present that information. For no specific reason, but we developed unique typefaces that look beautiful, different, yet transmit the same information.</p>\n<p>Likewise, we've spent a ton of valuable time graphing and mining data from all over our stack; it's only natural that after that, we care about how we present that data. Like typography, it's hard because it's an arduous hunt for the aesthetics hidden behind information. But this hunt is what makes us human.</p>\n<p>That's why we design beautiful graphs, just like we'd design a beautiful typeface. Not because we are GitHubbers, nor because we are designers, but because we are humans.</p>\n<p><strong>Life is too short to stare at ugly graphs. And yes, you should feel bad.</strong></p>\n</blockquote>\n<p><small>(Emphasis mine)</small></p>",
+      "id": "https://matthieuoger.com/2013/08/quote-changing-the-world/",
+      "url": "https://matthieuoger.com/2013/08/quote-changing-the-world/",
+      "title": "Changing the World…?",
+      "content_html": "<p><a href=\"https://news.ycombinator.com/item?id=6108967\">Freyr</a>:</p>\n<blockquote>\n<p>Could \"changing the world\" be a contender the most trite, overused expression of 2013? Recent grads seem to have adopted it en masse as their personal tagline. It's a nice sentiment, but it hard not to roll your eyes when every 23 year old applies it to his mobile phone app with no users that he threw together in a couple weeks.</p>\n<p>[…]</p>\n<p>Besides, I'm not even sure it's a healthy sentiment for most people. If your focus is as broad as \"changing the world,\" you're probably setting yourself up to feel like a failure.</p>\n</blockquote>\n<p>(via <a href=\"http://wolfslittlestore.be/2013/08/changing-the-world/\">Wolf's Little Store</a>)</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com"
@@ -1000,7 +1000,7 @@
     {
       "id": "https://matthieuoger.com/2013/07/quote-brent-simmons/",
       "url": "https://matthieuoger.com/2013/07/quote-brent-simmons/",
-      "title": "Brent Simmons",
+      "title": "Efficiency Is Superior UX",
       "content_html": "<p><a href=\"http://inessential.com/2013/07/01/netnewswire_and_syncing_speculation\">Brent Simmons</a>:</p>\n<blockquote>\n<p>Efficiency is more important than cloning Google Reader’s (undocumented and un-lovely) API and more important than adhering strictly to REST. (<strong>Because efficiency makes for a better user experience, and that’s more important than anything else.</strong>)</p>\n</blockquote>\n<p><small>(Emphasis mine)</small></p>",
       "author": {
         "name": "Matthieu Oger",

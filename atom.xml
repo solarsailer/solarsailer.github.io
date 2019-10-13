@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://matthieuoger.com</id>
-  <updated>2019-10-13T21:15:29.243Z</updated>
+  <updated>2019-10-13T21:23:56.387Z</updated>
   <title>Matthieu Oger</title>
   <icon>https://matthieuoger.com/feed.png</icon>
   <link href="https://matthieuoger.com/atom.xml" rel="self"/>
@@ -2072,23 +2072,6 @@ August 14, 2013
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/quote-changing-the-world/</id>
-    <updated>2013-08-02T00:00:00.000Z</updated>
-    <title>Changing the World…?</title>
-    <link href="https://matthieuoger.com/2013/08/quote-changing-the-world/"/>
-    <content type="html"><![CDATA[<p><a href="https://news.ycombinator.com/item?id=6108967">Freyr</a>:</p>
-<blockquote>
-<p>Could "changing the world" be a contender the most trite, overused expression of 2013? Recent grads seem to have adopted it en masse as their personal tagline. It's a nice sentiment, but it hard not to roll your eyes when every 23 year old applies it to his mobile phone app with no users that he threw together in a couple weeks.</p>
-<p>[…]</p>
-<p>Besides, I'm not even sure it's a healthy sentiment for most people. If your focus is as broad as "changing the world," you're probably setting yourself up to feel like a failure.</p>
-</blockquote>
-<p>(via <a href="http://wolfslittlestore.be/2013/08/changing-the-world/">Wolf's Little Store</a>)</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/</id>
     <updated>2013-08-02T00:00:00.000Z</updated>
     <title>Life Is Too Short To Stare at Ugly Graphs — and Yes, You Should Feel Bad</title>
@@ -2101,6 +2084,23 @@ August 14, 2013
 <p><strong>Life is too short to stare at ugly graphs. And yes, you should feel bad.</strong></p>
 </blockquote>
 <p><small>(Emphasis mine)</small></p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://matthieuoger.com/2013/08/quote-changing-the-world/</id>
+    <updated>2013-08-02T00:00:00.000Z</updated>
+    <title>Changing the World…?</title>
+    <link href="https://matthieuoger.com/2013/08/quote-changing-the-world/"/>
+    <content type="html"><![CDATA[<p><a href="https://news.ycombinator.com/item?id=6108967">Freyr</a>:</p>
+<blockquote>
+<p>Could "changing the world" be a contender the most trite, overused expression of 2013? Recent grads seem to have adopted it en masse as their personal tagline. It's a nice sentiment, but it hard not to roll your eyes when every 23 year old applies it to his mobile phone app with no users that he threw together in a couple weeks.</p>
+<p>[…]</p>
+<p>Besides, I'm not even sure it's a healthy sentiment for most people. If your focus is as broad as "changing the world," you're probably setting yourself up to feel like a failure.</p>
+</blockquote>
+<p>(via <a href="http://wolfslittlestore.be/2013/08/changing-the-world/">Wolf's Little Store</a>)</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
@@ -2195,7 +2195,7 @@ August 14, 2013
   <entry>
     <id>https://matthieuoger.com/2013/07/quote-brent-simmons/</id>
     <updated>2013-07-02T00:00:00.000Z</updated>
-    <title>Brent Simmons</title>
+    <title>Efficiency Is Superior UX</title>
     <link href="https://matthieuoger.com/2013/07/quote-brent-simmons/"/>
     <content type="html"><![CDATA[<p><a href="http://inessential.com/2013/07/01/netnewswire_and_syncing_speculation">Brent Simmons</a>:</p>
 <blockquote>
