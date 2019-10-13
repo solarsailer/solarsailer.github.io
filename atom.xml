@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://matthieuoger.com</id>
-  <updated>2019-10-13T20:23:25.684Z</updated>
+  <updated>2019-10-13T21:15:29.243Z</updated>
   <title>Matthieu Oger</title>
   <icon>https://matthieuoger.com/feed.png</icon>
   <link href="https://matthieuoger.com/atom.xml" rel="self"/>
@@ -15,12 +15,12 @@
     <title>Nice, Clear and… Secure</title>
     <link href="https://matthieuoger.com/2019/10/nice-clear-and-secure/"/>
     <content type="html"><![CDATA[<p><a href="https://www.relay.fm/connected/264/">Federico Viticci</a>:</p>
-<div class="transcript"><blockquote>
+<blockquote class="transcript">
 <p>So security, obviously, and authentication, these are complicated topics, and they are complicated to engineer, they are complicated to explain. But I think, for security to be effective, and maybe this sounds a little too simplistic but bear with me.</p>
 <p><strong>For security to be effective, it needs to be used, and for good security practices to be used, they need to be nice, they need to be elegant, they need to be clear.</strong></p>
 <p>[…]</p>
 <p>If you are a security engineer, you are gonna say "who cares about being nice, it needs to be secure", yes! <em>It also needs to be nice!</em> […] You need to understand that being nice is just as important as being secure, because if it's not a nice experience, people are just not gonna care and they are not gonna use it, and they are just gonna click "OK" and they are not gonna know what it means. So, is it really more secure… if it's not nice?</p>
-</blockquote></div>]]></content>
+</blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
@@ -88,7 +88,7 @@
     <title>The Passing of Time, Caught in a Single Photo</title>
     <link href="https://matthieuoger.com/2019/09/passing-of-time-in-a-photo/"/>
     <content type="html"><![CDATA[<p>Stephen Wilkes in “<a href="https://youtu.be/afev0ZjAhUA">The Passing of Time, Caught in a Single Photo</a>”:</p>
-<blockquote>
+<blockquote class="transcript">
 <p>Einstein described time as a fabric. Think of the surface of a trampoline: it warps and stretches with gravity.</p>
 <p>I see time as a fabric as well, except I take that fabric and flatten it, compress it into a single plane. One of the unique aspects of this work is also, if you look at all my pictures, the time vector changes: sometimes I'll go left to right, sometimes front to back, up or down, even diagonally. I am exploring the space-time continuum within a two-dimensional still photograph.</p>
 <p>[…] I build a photograph based on time. […]</p>
@@ -97,11 +97,11 @@
 <p><strong>I realised that Day to Night is really a new way of seeing.</strong></p>
 </blockquote>
 <hr>
-<blockquote>
+<blockquote class="transcript">
 <p>I watched over 15 hours all these people not even look at Sacré-Coeur. They were more interested in using it as a backdrop. They would walk up, take a picture, and then walk away. And I found this to be an absolutely extraordinary example, a powerful disconnect between what we think the human experience is versus what the human experience is evolving into. <em>The act of sharing has suddenly become more important than the experience itself.</em></p>
 </blockquote>
 <hr>
-<blockquote>
+<blockquote class="transcript">
 <p>[Near a watering hole in the Serengeti National Park in Tanzania] What I witnessed was unimaginable. Frankly, it was biblical. We saw, for 26 hours, all these competitive species share a single resource called water. The same resource that humanity is supposed to have wars over during the next 50 years. The animals never even grunted at each other. <em>They seem to understand something that we humans don't.</em> That this precious resource called water is something we all have <strong>to share</strong>.</p>
 </blockquote>]]></content>
     <author>
@@ -179,7 +179,7 @@
 <hr>
 <h2>Update <span class="more">28 August 2019</span></h2>
 <p>Related to this topic, <a href="https://overcast.fm/+R7DVyEUt0/1:37:42">John Siracusa</a> in <a href="https://atp.fm/episodes/337">episode #337 of ATP</a>:</p>
-<blockquote>
+<blockquote class="transcript">
 <p>That's what I want. I don't want to be waiting for the computer for things that I shouldn't have to be waiting for the computer for. For small interactive things. That involves, like, it's not saying "oh yes, eliminate animations because it takes too long". I just want everything to be interactive… all the time.</p>
 <p>I want it to be responsive to my input.</p>
 </blockquote>
@@ -233,11 +233,11 @@
     <title>Withhold the Fun</title>
     <link href="https://matthieuoger.com/2019/07/withhold-the-fun/"/>
     <content type="html"><![CDATA[<p><a href="https://atp.fm/episodes/335">John Siracusa</a>, in episode 335 of <a href="https://atp.fm">ATP</a>:</p>
-<blockquote>
+<blockquote class="transcript">
 <p>"We are trying to win on quality". And if you try to win on quality in the enterprise, that is not a winning strategy, because, we established before the definition of enterprise software, <strong>the people who pay for the software and select it are not the people who use it so your software being more desirable for users means almost nothing in the enterprise.</strong></p>
 <p>All that matters is: does it do the thing that I needed to do, does it check all the checkboxes for compliance and <em>blablabla</em> and how much does it cost?</p>
 </blockquote>
-<p>(Emphasis mine)</p>]]></content>
+<p><small>(Emphasis mine)</small></p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
@@ -261,7 +261,7 @@
 <p>I would argue that’s how you know that you’ve made something well.</p>
 <p><strong>When you come across an article set in a superb typeface for reading, some excellent airport signage or a well designed door handle, you don’t think about it or even notice it. If anything you might just notice being happier, or simply not frustrated. That’s how you know a design is great: it <em>disappears</em>.</strong></p>
 </blockquote>
-<p>(Emphasis mine)</p>]]></content>
+<p><small>(Emphasis mine)</small></p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
@@ -299,7 +299,7 @@
 <p>If you can take fifty shots on goal, and you're a pretty shitty hockey player, and I can only take three shots on goal and I'm Wayne Gretzky, you're probably going to do better.</p>
 <p><strong>That's what tool are. It's how fast can you iterate</strong>, how stable are they, how robust are they, how easy it is as a nontechnical artist to move a thing.</p>
 </blockquote>
-<p>(Emphasis mine)</p>]]></content>
+<p><small>(Emphasis mine)</small></p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
@@ -350,11 +350,11 @@
     <updated>2018-10-31T00:00:00.000Z</updated>
     <title>“Give It Five Minutes”</title>
     <link href="https://matthieuoger.com/2018/10/give-it-five-minutes/"/>
-    <content type="html"><![CDATA[<blockquote>
+    <content type="html"><![CDATA[<p><a href="https://signalvnoise.com/posts/3124-give-it-five-minutes">Jason Fried</a>:</p>
+<blockquote>
 <p>[Richard Saul Wurman] said “Man, give it five minutes.” I asked him what he meant by that? He said, it’s fine to disagree, it’s fine to push back, it’s great to have strong opinions and beliefs, but give my ideas some time to set in before you’re sure you want to argue against them. “Five minutes” represented “think”, not react. He was totally right.</p>
 <p>[…]</p>
 <p>[He] has spent his career thinking about these problems. He’s given it 30 years. And I gave it just a few minutes. Now, certainly he can be wrong and I could be right, but it’s better to think deeply about something first before being so certain you’re right.</p>
-<p>— <a href="https://signalvnoise.com/posts/3124-give-it-five-minutes">Jason Fried</a></p>
 </blockquote>
 <hr>
 <p>This comes to my mind every time I face new ideas, laws, structures, products, redesigns, or just a change in my life.</p>
@@ -371,8 +371,8 @@
     <title>Unity and iPhone X&apos;s Home Indicator</title>
     <link href="https://matthieuoger.com/2018/10/unity-iphone-x-home-indicator/"/>
     <content type="html"><![CDATA[<blockquote class="tldr">
-  <p>Check the <code>Bottom</code> option for "Defer system gestures on edges" in the <code>Edit → Project Settings → Player</code> menu of Unity to make the iPhone X's home indicator less visible and obtrusive in your project.</p>
-  <p>Don't use "Hide home button on iPhone X". This is not what you want for a game.</p>
+<p>Check the <code class="language-text">Bottom</code> option for "Defer system gestures on edges" in the <code class="language-text">Edit → Project Settings → Player</code> menu of Unity to make the iPhone X's home indicator less visible and obtrusive in your project.</p>
+<p>Don't use "Hide home button on iPhone X". This is not what you want for a game.</p>
 </blockquote>
 <hr>
 <p>We are porting <a href="http://steredenn.pixelnest.io/">Steredenn: Binary Stars</a> to iOS right now, and with the port comes the support for the iPhone X new form factor (yes, it's a bit late, I know…).</p>
@@ -914,16 +914,16 @@
     <updated>2015-09-09T00:00:00.000Z</updated>
     <title>The Rule of Two</title>
     <link href="https://matthieuoger.com/2015/09/rule-of-two/"/>
-    <content type="html"><![CDATA[<blockquote>
+    <content type="html"><![CDATA[<p><a href="http://www.relay.fm/cortex/12">CGP Grey</a>:</p>
+<blockquote class="transcript">
 <p>The rule of two is that <strong>two is one — and one is none.</strong> This is applicable to so many things in your life. As a starting point, I often like to think of the rule of two with things that you have around the house. So, for example, if you have one roll of toilet paper, you really don't have any toilet paper. Because when that one runs out, you're in trouble. So you really need two rolls of toilet paper at all time. It's a redundancy rule, basically. It's where this comes from. […]</p>
 <p>This is one of my little pieces of advice for trying to run a life very smoothly. It's that, everything that you can possibly have two of, you should have it. Two shampoo bottles, two bottles of vitamins, two boxes of cereal, two cartons of eggs. You want duplicates of everything. And then, when you're down to one of those things, that's the sign that you need to buy the next one. In this way, you are never out, you're never out of anything. […]</p>
 <p>It's applicable to everything in your whole life, everything that's important.</p>
-<p>— <a href="http://www.relay.fm/cortex/12">CGP Grey</a></p>
 </blockquote>
-<p>(Emphasis mine)</p>
+<p><small>(Emphasis mine)</small></p>
 <p>This is so spot on. I try to function like that, but I never put words onto this behavior. Here it is.</p>
 <p>Grey continues:</p>
-<blockquote>
+<blockquote class="transcript">
 <p>Think this way with computer files: you have only one copy of that file, guess what? You have no copy of this file. I even think it's applicable to work. If you have one source of income, in many ways, it's like you have no source of income. Because if something happens with your main job, you are in lots and lots of trouble. One source of income, no source of income.</p>
 </blockquote>]]></content>
     <author>
@@ -936,10 +936,10 @@
     <updated>2015-09-03T00:00:00.000Z</updated>
     <title>The New Rumored Apple TV — a Gaming Console?</title>
     <link href="https://matthieuoger.com/2015/09/quote-myke-hurley-atv-console/"/>
-    <content type="html"><![CDATA[<blockquote>
+    <content type="html"><![CDATA[<p><a href="https://overcast.fm/+CHZ-L5Yhc/1:04:59">Myke Hurley</a>:</p>
+<blockquote class="transcript">
 <p>If [Apple] do not show a first party gaming focused controller [for the new rumored Apple TV], I think that they are not as committed to games as they might think. […]</p>
 <p>And it needs to be a controller with buttons on it.</p>
-<p>— <a href="https://overcast.fm/+CHZ-L5Yhc/1:04:59">Myke Hurley</a></p>
 </blockquote>
 <p>Exactly my thought.</p>
 <p><a href="http://steredenn.pixelnest.io">Steredenn</a> would be cool on the alleged Apple TV… but without a dedicated controller, it's a no go.</p>]]></content>
@@ -980,11 +980,10 @@
 <p>You know what? I don't find ads particularly irritating from now on. Why? Because I find and read honest websites that respect me by not throwing huge walls of ads to my face. I avoid those ad-filled websites, because most of the time, they are simply bad. And for YouTube? I patiently wait because the great contents made there that I want to see deserve to be paid.<sup id="fnref-1"><a href="#fn-1" class="footnote-ref">1</a></sup></p>
 <p>The solution is not ad-blocking. The solution is to find well-made contents which focus on the readership, not the publisher.<sup id="fnref-2"><a href="#fn-2" class="footnote-ref">2</a></sup></p>
 <hr>
-<p>Let me finish with this:</p>
+<p>Let me finish with <a href="https://news.ycombinator.com/item?id=9695552">this</a>:</p>
 <blockquote>
 <p>There is a huge irony in that fact that AdBlock's function of keeping ads away from our content will eventually do the opposite. The alternative to ads alongside my content is ads inside my content.</p>
 <p>Let's face it: paywalls don't work. The alternative on the horizon is native advertising. Buzzfeed is now famously refusing to host ads. Instead they sustain themselves by publishing content that subtly supports the agenda of any company with deep enough pockets to pay for it. A viewer's ability to distinguish between native ads and regular articles is small and quickly vanishing. If separate ads stop reaching people, the path to monetization remaining is to change your content to reflect someone else's agenda.</p>
-<p>— <a href="https://news.ycombinator.com/item?id=9695552">unholiness on Hacker News</a>.</p>
 </blockquote>
 <p>Because you cannot distinguish an ad from an article, it's even more insidious and dishonest. And this time, you won't be able to block it.</p>
 <hr>
@@ -1110,10 +1109,9 @@
 <a href="#fnref-1" class="footnote-backref">↩</a>
 </li>
 <li id="fn-2">
-<p>And that's even the case in developing countries:</p>
+<p>Benedict Evans in “<a href="http://ben-evans.com/benedictevans/2014/11/20/time-for-new-questions-in-mobile">New Questions In Mobile</a>”:</p>
 <blockquote>
 <p>Across all of this, and far more important, we are now well on our way to having some 3.5bn to 4bn people on earth with a smartphone. […] For the first time ever, the tech industry is selling not just to big corporations or middle-class families but to four fifths of all the adults on earth - <strong>it is selling to people who don’t have mains electricity or running water and substitute spending on cigarettes for mobile</strong>.</p>
-<p>— "New questions in mobile" by <a href="http://ben-evans.com/benedictevans/2014/11/20/time-for-new-questions-in-mobile">Benedict Evans</a></p>
 </blockquote>
 <a href="#fnref-2" class="footnote-backref">↩</a>
 </li>
@@ -1360,13 +1358,14 @@
     <updated>2014-01-07T00:00:00.000Z</updated>
     <title>How Netflix Reverse Engineered Hollywood</title>
     <link href="https://matthieuoger.com/2014/01/how-netflix-reverse-engineered-hollywood/"/>
-    <content type="html"><![CDATA[<p><a href="http://www.theatlantic.com/technology/archive/2014/01/how-netflix-reverse-engineered-hollywood/282679/">Alexis Madrigal on Netflix classification</a> (emphasis mine):</p>
+    <content type="html"><![CDATA[<p><a href="http://www.theatlantic.com/technology/archive/2014/01/how-netflix-reverse-engineered-hollywood/282679/">Alexis Madrigal on Netflix classification</a>:</p>
 <blockquote>
 <p>[…], we discovered that Netflix possesses not several hundred genres, or even several thousand, <strong>but 76,897 unique ways to describe types of movies</strong>. […]</p>
 <p>Using large teams of people specially trained to watch movies, Netflix deconstructed Hollywood. They paid people to watch films and tag them with all kinds of metadata. This process is so sophisticated and precise that taggers receive a 36-page training document that teaches them how to rate movies on their sexually suggestive content, goriness, romance levels, and even narrative elements like plot conclusiveness. […]</p>
 <p>The Netflix Quantum Theory doc spelled out ways of tagging movie endings, the "social acceptability" of lead characters, and dozens of other facets of a movie. Many values are "scalar," that is to say, they go from 1 to 5. So, every movie gets a romance rating, not just the ones labeled "romantic" in the personalized genres. Every movie's ending is rated from happy to sad, passing through ambiguous. Every plot is tagged. Lead characters' jobs are tagged. Movie locations are tagged. Everything. Everyone.</p>
 <p>That's the data at the base of the pyramid. It is the basis for creating all the altgenres that I scraped. Netflix's engineers took the microtags and created a syntax for the genres, much of which we were able to reproduce in our generator.</p>
 </blockquote>
+<p><small>(Emphasis mine)</small></p>
 <p>This article completely blew my mind. Great journalism.</p>
 <p>The idea to tag any movie that much and create ultra-specific subgenres is so clever. Hell of a work too.</p>
 <hr>
@@ -1423,9 +1422,8 @@
 <p>Sometimes, it might just be a dumb design that put you in an embarrassing situation. If you are a man, just remember the last time you have used a flat and too-high urinal. :)</p>
 <p>When I talk about that with some of my friends, they think that I'm excessively demanding and that the problem is me. Perhaps.</p>
 <p>I will conclude with a quote from the talk:</p>
-<blockquote>
+<blockquote class="transcript">
 <p>There are professions more harmful than (industrial) design, <strong>but only a very few of them.</strong></p>
-<p>— Victor Papanek <em>(modified by Mike Monteiro)</em></p>
 </blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
@@ -1452,11 +1450,12 @@
     <updated>2013-10-02T00:00:00.000Z</updated>
     <title>M7</title>
     <link href="https://matthieuoger.com/2013/10/m7/"/>
-    <content type="html"><![CDATA[<p><a href="http://9to5mac.com/2013/09/29/more-m7-details-data-storage-battery-life-android-motion-coprocessor-adoption/">9to5Mac</a> (emphasis mine):</p>
+    <content type="html"><![CDATA[<p><a href="http://9to5mac.com/2013/09/29/more-m7-details-data-storage-battery-life-android-motion-coprocessor-adoption/">9to5Mac</a>:</p>
 <blockquote>
 <p>For pre-iPhone 5s devices, ARGUS usually drains about 20-30% of battery life per day while running in the background. The app continually checks for motion and calculates the distance and number of steps using the accelerometer and GPS. With the M7, however, the app does not need to be running in order to keep track of the number of steps – all of that data is tracked by the M7. <strong>As such, ARGUS no longer takes up any battery power while running in the background and the stated battery life from Apple – 10 hours 3G talk time, 250 hours of standby – will stay exactly the same</strong>. […]</p>
 <p>The M7 APIs allow developers to query information about the user’s current transportation status (whether they’re in a car, walking, not moving, etc.).</p>
 </blockquote>
+<p><small>(Emphasis mine)</small></p>
 <p>If this is true, it's impressive.</p>
 <p>I hope that the use of the M7 will expand outside of the fitness and health apps.</p>]]></content>
     <author>
@@ -1516,10 +1515,11 @@
     <updated>2013-09-16T00:00:00.000Z</updated>
     <title>Apple Is Future Proof</title>
     <link href="https://matthieuoger.com/2013/09/apple-is-future-proof/"/>
-    <content type="html"><![CDATA[<p><a href="http://cannyvision.com/2013/09/12/the-most-forward-thinking-apple-yet.html">The Most Forward Thinking Apple Yet</a> (emphasis mine):</p>
+    <content type="html"><![CDATA[<p>“<a href="http://cannyvision.com/2013/09/12/the-most-forward-thinking-apple-yet.html">The Most Forward Thinking Apple Yet</a>”:</p>
 <blockquote>
 <p>In many ways, WWDC, and more so, the iPhone 5C and 5S represent (and had to represent) Apple's reply to the naysayers. <strong>However, I think there was more to the announcements than what met the eye.</strong></p>
 </blockquote>
+<p><small>(Emphasis mine)</small></p>
 <p>Read the whole thing.</p>
 <p>Everything that Apple announced last week has no real purpose currently — or only a fraction of what will be possible with one day.</p>
 <p>For example, the fingerprint sensor is a really neat idea, but <a href="https://medium.com/mobile-world/b16ba37c433a">we will be able to do a lot more with it in the future</a>. The use of the M7 motion co-processor or the 64-bits iOS are even less tangible. Unless you are Apple and you know what will be released next.</p>
@@ -1718,7 +1718,7 @@
 <blockquote>
 <p>If Amazon were to make a big change, like for example do some actual visual design so everything didn’t have the same visual weight, the mere shock of the change would probably send their revenue downward, at least initially. People dislike change because change is work. They have to figure out what changed, adapt to it, relearn the UI, and still try to get their job done (they one they used to know how to do). <strong>So the next time you hear “People hate change” think to yourself “People don’t hate change. They hate the work of change”.</strong></p>
 </blockquote>
-<p>(Emphasis mine)</p>]]></content>
+<p><small>(Emphasis mine)</small></p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
@@ -1727,11 +1727,11 @@
   <entry>
     <id>https://matthieuoger.com/2013/08/quote-trent-reznor/</id>
     <updated>2013-08-28T00:00:00.000Z</updated>
-    <title>Trent Reznor</title>
+    <title>Paying for Things</title>
     <link href="https://matthieuoger.com/2013/08/quote-trent-reznor/"/>
-    <content type="html"><![CDATA[<blockquote>
+    <content type="html"><![CDATA[<p><a href="http://www.spin.com/featured/trent-reznor-upward-spiral-nine-inch-nails-spin-cover-september-2013/">Trent Reznor</a>:</p>
+<blockquote>
 <p>I'm not saying offering things for free or pay-what-you-can is wrong. I'm saying my personal feeling is that my album's not a dime. It's not a buck. I made it as well as I could, and it costs 10 bucks, or go fuck yourself.</p>
-<p>— <a href="http://www.spin.com/featured/trent-reznor-upward-spiral-nine-inch-nails-spin-cover-september-2013/">Trent Reznor</a></p>
 </blockquote>
 <p>(via <a href="http://parislemon.com/post/59507355135/i-know-that-what-were-doing-flies-in-the-face-of">ParisLemon</a>)</p>]]></content>
     <author>
@@ -1742,11 +1742,11 @@
   <entry>
     <id>https://matthieuoger.com/2013/08/quote-jonathan-blow/</id>
     <updated>2013-08-27T00:00:00.000Z</updated>
-    <title>Jonathan Blow</title>
+    <title>Ads Influence</title>
     <link href="https://matthieuoger.com/2013/08/quote-jonathan-blow/"/>
-    <content type="html"><![CDATA[<blockquote>
+    <content type="html"><![CDATA[<blockquote class="twitter-tweet">
 <p>Advertising is effective <em>only</em> because so many people think “Ads don't influence me” and “Ads give me what I want for free”.</p>
-<p>— <a href="https://twitter.com/Jonathan_Blow/status/372077731531350017">Jonathan Blow</a></p>
+<p>— Jonathan Blow (<a href="https://twitter.com/Jonathan_Blow/status/372077731531350017">@Jonathan_Blow</a>)</p>
 </blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
@@ -1929,8 +1929,8 @@ August 14, 2013
 <blockquote>
 <p>When a company like Apple goes to all the trouble of building a <strong>physics</strong> and <strong>particle engine</strong> to support their interface, when they <strong>objectify</strong> it and <strong>gamify</strong> it and <strong>make it a dynamic, living thing</strong>, it opens up a lot of potential. When you add <strong>Text Kit</strong> to mix, and the <strong>design language</strong> in general, and when you see what it all looks and feels like on an iPad mini, then the possibilities for a bigger iPhone next year become infinitely more exciting.</p>
 </blockquote>
-<p>Good recap of the real changes brought by iOS 7.</p>
-<p>(Emphasis mine)</p>]]></content>
+<p><small>(Emphasis mine)</small></p>
+<p>Good recap of the real changes brought by iOS 7.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
@@ -1972,14 +1972,15 @@ August 14, 2013
     <updated>2013-08-13T00:00:00.000Z</updated>
     <title>Marketers</title>
     <link href="https://matthieuoger.com/2013/08/marketers/"/>
-    <content type="html"><![CDATA[<p><a href="http://www.elezea.com/2013/07/hey-marketers/">Hey Marketers, making a website is not about you</a> (emphasis mine):</p>
+    <content type="html"><![CDATA[<p>“<a href="http://www.elezea.com/2013/07/hey-marketers/">Hey Marketers, making a website is not about you</a>”:</p>
 <blockquote>
 <p>The problem with many Marketers today is that they too often make it all about the company, and not about user needs. I’m sorry, but it’s not about changing people, and it’s not about making them do stuff. That’s old school thinking from a time when brands could steamroll their way into the consciousness and wallets of people through clever advertising and sleight of hand. Those days are over. Now our job is not to make it about how awesome we are, <strong>but how well we help people accomplish their goals</strong>.</p>
 </blockquote>
+<p><small>(Emphasis mine)</small></p>
 <p>Further readings related to this subject:</p>
 <ul>
-<li><a href="http://www.90percentofeverything.com/2013/07/23/the-slippery-slope/">The slippery slope</a></li>
-<li><a href="http://seriouspony.com/blog/2013/7/24/your-app-makes-me-fat">Your app makes me fat</a></li>
+<li><a href="http://www.90percentofeverything.com/2013/07/23/the-slippery-slope/">The Slippery Slope</a></li>
+<li><a href="http://seriouspony.com/blog/2013/7/24/your-app-makes-me-fat">Your App Makes Me Fat</a></li>
 </ul>]]></content>
     <author>
       <name>Matthieu Oger</name>
@@ -2059,31 +2060,12 @@ August 14, 2013
   <entry>
     <id>https://matthieuoger.com/2013/08/quote-marco-arment/</id>
     <updated>2013-08-05T00:00:00.000Z</updated>
-    <title>Marco Arment</title>
+    <title>New AOL CDs</title>
     <link href="https://matthieuoger.com/2013/08/quote-marco-arment/"/>
-    <content type="html"><![CDATA[<blockquote>
+    <content type="html"><![CDATA[<p><a href="http://www.marco.org/2013/07/25/nexus-72">Marco Arment</a>:</p>
+<blockquote>
 <p>I offered to give my Nexus 7 and Kindle Fire to Betaworks in the Instapaper acquisition, but they had so many of both sitting around already that they declined. Tech companies with mobile apps can practically tile walls with outdated Android devices. They’re the new AOL CDs.</p>
-<p>— <a href="http://www.marco.org/2013/07/25/nexus-72">Marco Arment</a></p>
 </blockquote>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/</id>
-    <updated>2013-08-02T00:00:00.000Z</updated>
-    <title>Life Is Too Short To Stare at Ugly Graphs — and Yes, You Should Feel Bad</title>
-    <link href="https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/"/>
-    <content type="html"><![CDATA[<blockquote>
-<p>It was done in-house. We really care about how our graphs look, because graphs represent information. It's like typography. Humans learned how to write 5000 years ago, and it took us a very long while until we mastered the art of transmitting information like that. Once we mastered it, however, we started caring about the way we present that information. For no specific reason, but we developed unique typefaces that look beautiful, different, yet transmit the same information.</p>
-<p>Likewise, we've spent a ton of valuable time graphing and mining data from all over our stack; it's only natural that after that, we care about how we present that data. Like typography, it's hard because it's an arduous hunt for the aesthetics hidden behind information. But this hunt is what makes us human.</p>
-<p>That's why we design beautiful graphs, just like we'd design a beautiful typeface. Not because we are GitHubbers, nor because we are designers, but because we are humans.</p>
-<p><strong>Life is too short to stare at ugly graphs. And yes, you should feel bad.</strong></p>
-<p>PS: we have no project managers at GitHub.</p>
-<p>— <a href="https://news.ycombinator.com/item?id=4480876">Tanoku, Hacker News</a></p>
-</blockquote>
-<p>An oldie, but I'm still loving it (emphasis mine).</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
@@ -2094,13 +2076,31 @@ August 14, 2013
     <updated>2013-08-02T00:00:00.000Z</updated>
     <title>Changing the World…?</title>
     <link href="https://matthieuoger.com/2013/08/quote-changing-the-world/"/>
-    <content type="html"><![CDATA[<blockquote>
+    <content type="html"><![CDATA[<p><a href="https://news.ycombinator.com/item?id=6108967">Freyr</a>:</p>
+<blockquote>
 <p>Could "changing the world" be a contender the most trite, overused expression of 2013? Recent grads seem to have adopted it en masse as their personal tagline. It's a nice sentiment, but it hard not to roll your eyes when every 23 year old applies it to his mobile phone app with no users that he threw together in a couple weeks.</p>
 <p>[…]</p>
 <p>Besides, I'm not even sure it's a healthy sentiment for most people. If your focus is as broad as "changing the world," you're probably setting yourself up to feel like a failure.</p>
-<p>— <a href="https://news.ycombinator.com/item?id=6108967">Freyr, Hacker News</a></p>
 </blockquote>
 <p>(via <a href="http://wolfslittlestore.be/2013/08/changing-the-world/">Wolf's Little Store</a>)</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/</id>
+    <updated>2013-08-02T00:00:00.000Z</updated>
+    <title>Life Is Too Short To Stare at Ugly Graphs — and Yes, You Should Feel Bad</title>
+    <link href="https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/"/>
+    <content type="html"><![CDATA[<p><a href="https://news.ycombinator.com/item?id=4480876">Tanoku</a>:</p>
+<blockquote>
+<p>It was done in-house. We really care about how our graphs look, because graphs represent information. It's like typography. Humans learned how to write 5000 years ago, and it took us a very long while until we mastered the art of transmitting information like that. Once we mastered it, however, we started caring about the way we present that information. For no specific reason, but we developed unique typefaces that look beautiful, different, yet transmit the same information.</p>
+<p>Likewise, we've spent a ton of valuable time graphing and mining data from all over our stack; it's only natural that after that, we care about how we present that data. Like typography, it's hard because it's an arduous hunt for the aesthetics hidden behind information. But this hunt is what makes us human.</p>
+<p>That's why we design beautiful graphs, just like we'd design a beautiful typeface. Not because we are GitHubbers, nor because we are designers, but because we are humans.</p>
+<p><strong>Life is too short to stare at ugly graphs. And yes, you should feel bad.</strong></p>
+</blockquote>
+<p><small>(Emphasis mine)</small></p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
@@ -2197,11 +2197,11 @@ August 14, 2013
     <updated>2013-07-02T00:00:00.000Z</updated>
     <title>Brent Simmons</title>
     <link href="https://matthieuoger.com/2013/07/quote-brent-simmons/"/>
-    <content type="html"><![CDATA[<blockquote>
+    <content type="html"><![CDATA[<p><a href="http://inessential.com/2013/07/01/netnewswire_and_syncing_speculation">Brent Simmons</a>:</p>
+<blockquote>
 <p>Efficiency is more important than cloning Google Reader’s (undocumented and un-lovely) API and more important than adhering strictly to REST. (<strong>Because efficiency makes for a better user experience, and that’s more important than anything else.</strong>)</p>
-<p>— <a href="http://inessential.com/2013/07/01/netnewswire_and_syncing_speculation">Brent Simmons</a></p>
 </blockquote>
-<p>(Emphasis mine)</p>]]></content>
+<p><small>(Emphasis mine)</small></p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
