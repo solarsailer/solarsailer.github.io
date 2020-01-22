@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://matthieuoger.com</id>
-  <updated>2019-11-15T22:45:19.690Z</updated>
+  <updated>2020-01-22T10:40:16.036Z</updated>
   <title>Matthieu Oger</title>
   <icon>https://matthieuoger.com/feed.png</icon>
   <link href="https://matthieuoger.com/atom.xml" rel="self"/>
@@ -9,6 +9,28 @@
     <name>Matthieu Oger</name>
     <uri>https://matthieuoger.com</uri>
   </author>
+  <entry>
+    <id>https://matthieuoger.com/2020/01/japanese-pizza/</id>
+    <updated>2020-01-22T00:00:00.000Z</updated>
+    <title>Japan Pizza Culture</title>
+    <link href="https://matthieuoger.com/2020/01/japanese-pizza/"/>
+    <content type="html"><![CDATA[<p>Matt Goulding in “<a href="https://medium.com/airbnbmag/slice-of-tokyo-how-japan-became-a-pizza-hotspot-f734d834168">Slice of Tokyo: How Japan Became a Pizza Hotspot</a>”:</p>
+<blockquote>
+<p>After passing my final exam before a panel of Naples’ old guard of pizzamakers, I asked the judges who else, besides the Italians, were making good pizzas. Most just smirked and ignored the question, as if it had no reasonable answer. But one of the older gentlemen waited until the conversation moved on before waving me in close: </p>
+<p>“Don’t tell anyone I told you this, but the Japanese are making better pizzas than we are.”</p>
+</blockquote>
+<p>I had, indeed, a wonderful Margherita at Seirinkan while I was in Tokyo three years ago. </p>
+<hr>
+<p>Related:</p>
+<ul>
+<li>“<a href="https://www.eater.com/2017/2/21/14670944/best-pizza-tokyo-guide">Tokyo Neapolitan: The New Wave of Japanese Pizza</a>”, by Craig Mod</li>
+<li>“<a href="https://www.eater.com/2019/12/16/21003452/japan-kissaten-traditional-cafes-pizza-toast-travel">I Walked 600 Miles Across Japan for Pizza Toast</a>”, also by Craig Mod</li>
+</ul>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
   <entry>
     <id>https://matthieuoger.com/2019/11/speaking-interface/</id>
     <updated>2019-11-15T00:00:00.000Z</updated>
