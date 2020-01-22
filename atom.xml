@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://matthieuoger.com</id>
-  <updated>2020-01-22T10:47:18.898Z</updated>
+  <updated>2020-01-22T10:49:33.332Z</updated>
   <title>Matthieu Oger</title>
   <icon>https://matthieuoger.com/feed.png</icon>
   <link href="https://matthieuoger.com/atom.xml" rel="self"/>
@@ -10,10 +10,10 @@
     <uri>https://matthieuoger.com</uri>
   </author>
   <entry>
-    <id>https://matthieuoger.com/2020/01/japanese-pizza/</id>
+    <id>https://matthieuoger.com/2020/01/japan-pizza-culture/</id>
     <updated>2020-01-22T00:00:00.000Z</updated>
     <title>Japan Pizza Culture</title>
-    <link href="https://matthieuoger.com/2020/01/japanese-pizza/"/>
+    <link href="https://matthieuoger.com/2020/01/japan-pizza-culture/"/>
     <content type="html"><![CDATA[<p>Matt Goulding in “<a href="https://medium.com/airbnbmag/slice-of-tokyo-how-japan-became-a-pizza-hotspot-f734d834168">Slice of Tokyo: How Japan Became a Pizza Hotspot</a>”:</p>
 <blockquote>
 <p>After passing my final exam before a panel of Naples’ old guard of pizzamakers, I asked the judges who else, besides the Italians, were making good pizzas. Most just smirked and ignored the question, as if it had no reasonable answer. But one of the older gentlemen waited until the conversation moved on before waving me in close: </p>
@@ -1791,6 +1791,24 @@
     </author>
   </entry>
   <entry>
+    <id>https://matthieuoger.com/2013/08/quote-modern-journalism/</id>
+    <updated>2013-08-29T00:00:00.000Z</updated>
+    <title>Modern Journalism</title>
+    <link href="https://matthieuoger.com/2013/08/quote-modern-journalism/"/>
+    <content type="html"><![CDATA[<p>This tweet could not better describe my feeling:</p>
+<blockquote class="twitter-tweet">
+  <p>
+    Modern journalism is 90% reporting what people are saying on Twitter.
+  </p>
+<p>  — God (@TheTweetOfGod)
+<a href="https://twitter.com/TheTweetOfGod/statuses/359441152522469376">July 22, 2013</a></p>
+</blockquote>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
+  <entry>
     <id>https://matthieuoger.com/2013/08/the-gif-video-format/</id>
     <updated>2013-08-29T00:00:00.000Z</updated>
     <title>The Gif “Video Format”</title>
@@ -1805,24 +1823,6 @@
 <hr>
 <h2>Update <span class="more">08 June 2018</span></h2>
 <p>There's <a href="https://calendar.perfplanet.com/2017/animated-gif-without-the-gif/">hope</a>. In a near future, and in other browsers than Safari, we will be able to use a video as an image to <em>simulate a gif</em> (ie., silence and autoplay). With perks of a video instead of an awful low-quality and heavy gif.</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2013/08/quote-modern-journalism/</id>
-    <updated>2013-08-29T00:00:00.000Z</updated>
-    <title>Modern Journalism</title>
-    <link href="https://matthieuoger.com/2013/08/quote-modern-journalism/"/>
-    <content type="html"><![CDATA[<p>This tweet could not better describe my feeling:</p>
-<blockquote class="twitter-tweet">
-  <p>
-    Modern journalism is 90% reporting what people are saying on Twitter.
-  </p>
-<p>  — God (@TheTweetOfGod)
-<a href="https://twitter.com/TheTweetOfGod/statuses/359441152522469376">July 22, 2013</a></p>
-</blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
@@ -2015,22 +2015,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/ios7/</id>
-    <updated>2013-08-15T00:00:00.000Z</updated>
-    <title>iOS 7</title>
-    <link href="https://matthieuoger.com/2013/08/ios7/"/>
-    <content type="html"><![CDATA[<p><a href="http://www.imore.com/wheres-bigger-iphone">Rene Ritchie</a>:</p>
-<blockquote>
-<p>When a company like Apple goes to all the trouble of building a <strong>physics</strong> and <strong>particle engine</strong> to support their interface, when they <strong>objectify</strong> it and <strong>gamify</strong> it and <strong>make it a dynamic, living thing</strong>, it opens up a lot of potential. When you add <strong>Text Kit</strong> to mix, and the <strong>design language</strong> in general, and when you see what it all looks and feels like on an iPad mini, then the possibilities for a bigger iPhone next year become infinitely more exciting.</p>
-</blockquote>
-<p><small>(Emphasis mine)</small></p>
-<p>Good recap of the real changes brought by iOS 7.</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://matthieuoger.com/2013/08/app-store/</id>
     <updated>2013-08-15T00:00:00.000Z</updated>
     <title>App Store</title>
@@ -2050,6 +2034,22 @@
 August 14, 2013
 </a></p>
 </blockquote>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://matthieuoger.com/2013/08/ios7/</id>
+    <updated>2013-08-15T00:00:00.000Z</updated>
+    <title>iOS 7</title>
+    <link href="https://matthieuoger.com/2013/08/ios7/"/>
+    <content type="html"><![CDATA[<p><a href="http://www.imore.com/wheres-bigger-iphone">Rene Ritchie</a>:</p>
+<blockquote>
+<p>When a company like Apple goes to all the trouble of building a <strong>physics</strong> and <strong>particle engine</strong> to support their interface, when they <strong>objectify</strong> it and <strong>gamify</strong> it and <strong>make it a dynamic, living thing</strong>, it opens up a lot of potential. When you add <strong>Text Kit</strong> to mix, and the <strong>design language</strong> in general, and when you see what it all looks and feels like on an iPad mini, then the possibilities for a bigger iPhone next year become infinitely more exciting.</p>
+</blockquote>
+<p><small>(Emphasis mine)</small></p>
+<p>Good recap of the real changes brought by iOS 7.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>

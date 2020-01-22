@@ -8,8 +8,8 @@
   "feed_url": "https://matthieuoger.com/feed.json",
   "items": [
     {
-      "id": "https://matthieuoger.com/2020/01/japanese-pizza/",
-      "url": "https://matthieuoger.com/2020/01/japanese-pizza/",
+      "id": "https://matthieuoger.com/2020/01/japan-pizza-culture/",
+      "url": "https://matthieuoger.com/2020/01/japan-pizza-culture/",
       "title": "Japan Pizza Culture",
       "content_html": "<p>Matt Goulding in “<a href=\"https://medium.com/airbnbmag/slice-of-tokyo-how-japan-became-a-pizza-hotspot-f734d834168\">Slice of Tokyo: How Japan Became a Pizza Hotspot</a>”:</p>\n<blockquote>\n<p>After passing my final exam before a panel of Naples’ old guard of pizzamakers, I asked the judges who else, besides the Italians, were making good pizzas. Most just smirked and ignored the question, as if it had no reasonable answer. But one of the older gentlemen waited until the conversation moved on before waving me in close: </p>\n<p>“Don’t tell anyone I told you this, but the Japanese are making better pizzas than we are.”</p>\n</blockquote>\n<p>I had, indeed, a wonderful Margherita at Seirinkan while I was in Tokyo three years ago. </p>\n<hr>\n<p>Related, from one of my favorite essays by Craig Mod on the same subject, “<a href=\"https://www.eater.com/2017/2/21/14670944/best-pizza-tokyo-guide\">Tokyo Neapolitan: The New Wave of Japanese Pizza</a>”:</p>\n<blockquote>\n<p>“Pizza shops are not quite like bakeries, not quite like restaurants — everything comes together in a single moment; 60 seconds determine the success or failure of a meal.”</p>\n<p>[…]</p>\n<p>It turns out the decision to pre-cut a pizza comes with its own philosophical underpinnings</p>\n<p>Inoue believes that because a pizza is not perfectly symmetrical in terms of ingredient distribution, each slice is inevitably a little different; there's no way to cut a pizza in a way that  perfectly captures its entire essence in a single slice. His ideal is for one person to eat an entire pie on their own, ensuring they experience the full spectrum of flavors. </p>\n</blockquote>\n<hr>\n<p>And also slightly related, a more recent one by the same Craig Mod: “<a href=\"https://www.eater.com/2019/12/16/21003452/japan-kissaten-traditional-cafes-pizza-toast-travel\">I Walked 600 Miles Across Japan for Pizza Toast</a>”.</p>",
       "author": {
@@ -712,10 +712,10 @@
       "date_published": "2013-08-30T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/the-gif-video-format/",
-      "url": "https://matthieuoger.com/2013/08/the-gif-video-format/",
-      "title": "The Gif “Video Format”",
-      "content_html": "<p><a href=\"http://pornel.net/beat-gif-manifesto\">HTML video still can't beat GIF</a>:</p>\n<blockquote>\n<p>Animated GIF, despite having awful compression and terrible quality, is still more useful on the web than any other video format.</p>\n<p>In 2013 people still routinely convert YouTube clips to GIF (producing postage-stamp-sized dithered-to-death desaturated blobs that use more bandwidth than a full HD video), because there's still no better way to share a short movie clip on the web.</p>\n</blockquote>\n<p>Gifs are an abomination: they are heavy and the quality is, most of the time, terrible. However, their convenience is too good that people use them nonetheless.</p>\n<p>The electrical cost of gifs must be gigantic.</p>\n<hr>\n<h2>Update <span class=\"more\">08 June 2018</span></h2>\n<p>There's <a href=\"https://calendar.perfplanet.com/2017/animated-gif-without-the-gif/\">hope</a>. In a near future, and in other browsers than Safari, we will be able to use a video as an image to <em>simulate a gif</em> (ie., silence and autoplay). With perks of a video instead of an awful low-quality and heavy gif.</p>",
+      "id": "https://matthieuoger.com/2013/08/quote-modern-journalism/",
+      "url": "https://matthieuoger.com/2013/08/quote-modern-journalism/",
+      "title": "Modern Journalism",
+      "content_html": "<p>This tweet could not better describe my feeling:</p>\n<blockquote class=\"twitter-tweet\">\n  <p>\n    Modern journalism is 90% reporting what people are saying on Twitter.\n  </p>\n<p>  — God (@TheTweetOfGod)\n<a href=\"https://twitter.com/TheTweetOfGod/statuses/359441152522469376\">July 22, 2013</a></p>\n</blockquote>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com"
@@ -723,10 +723,10 @@
       "date_published": "2013-08-29T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/quote-modern-journalism/",
-      "url": "https://matthieuoger.com/2013/08/quote-modern-journalism/",
-      "title": "Modern Journalism",
-      "content_html": "<p>This tweet could not better describe my feeling:</p>\n<blockquote class=\"twitter-tweet\">\n  <p>\n    Modern journalism is 90% reporting what people are saying on Twitter.\n  </p>\n<p>  — God (@TheTweetOfGod)\n<a href=\"https://twitter.com/TheTweetOfGod/statuses/359441152522469376\">July 22, 2013</a></p>\n</blockquote>",
+      "id": "https://matthieuoger.com/2013/08/the-gif-video-format/",
+      "url": "https://matthieuoger.com/2013/08/the-gif-video-format/",
+      "title": "The Gif “Video Format”",
+      "content_html": "<p><a href=\"http://pornel.net/beat-gif-manifesto\">HTML video still can't beat GIF</a>:</p>\n<blockquote>\n<p>Animated GIF, despite having awful compression and terrible quality, is still more useful on the web than any other video format.</p>\n<p>In 2013 people still routinely convert YouTube clips to GIF (producing postage-stamp-sized dithered-to-death desaturated blobs that use more bandwidth than a full HD video), because there's still no better way to share a short movie clip on the web.</p>\n</blockquote>\n<p>Gifs are an abomination: they are heavy and the quality is, most of the time, terrible. However, their convenience is too good that people use them nonetheless.</p>\n<p>The electrical cost of gifs must be gigantic.</p>\n<hr>\n<h2>Update <span class=\"more\">08 June 2018</span></h2>\n<p>There's <a href=\"https://calendar.perfplanet.com/2017/animated-gif-without-the-gif/\">hope</a>. In a near future, and in other browsers than Safari, we will be able to use a video as an image to <em>simulate a gif</em> (ie., silence and autoplay). With perks of a video instead of an awful low-quality and heavy gif.</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com"
@@ -844,10 +844,10 @@
       "date_published": "2013-08-16T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/ios7/",
-      "url": "https://matthieuoger.com/2013/08/ios7/",
-      "title": "iOS 7",
-      "content_html": "<p><a href=\"http://www.imore.com/wheres-bigger-iphone\">Rene Ritchie</a>:</p>\n<blockquote>\n<p>When a company like Apple goes to all the trouble of building a <strong>physics</strong> and <strong>particle engine</strong> to support their interface, when they <strong>objectify</strong> it and <strong>gamify</strong> it and <strong>make it a dynamic, living thing</strong>, it opens up a lot of potential. When you add <strong>Text Kit</strong> to mix, and the <strong>design language</strong> in general, and when you see what it all looks and feels like on an iPad mini, then the possibilities for a bigger iPhone next year become infinitely more exciting.</p>\n</blockquote>\n<p><small>(Emphasis mine)</small></p>\n<p>Good recap of the real changes brought by iOS 7.</p>",
+      "id": "https://matthieuoger.com/2013/08/app-store/",
+      "url": "https://matthieuoger.com/2013/08/app-store/",
+      "title": "App Store",
+      "content_html": "<p>Truth:</p>\n<blockquote class=\"twitter-tweet\">\n<p>\n\tPossess:\n\t<br>&#10;1. ~1M captive audience of developers,\n\t<br>&#10;2. ~1M apps,\n\t<br>&#10;3. ~$150B in cash, and\n\t<br>&#10;4. fail to (re)design an App Store.\n\t<br>&#10;Nuts.\n</p>\n<p>— Kontra (@counternotions)\n<a href=\"https://twitter.com/counternotions/statuses/367619924929568768\">\nAugust 14, 2013\n</a></p>\n</blockquote>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com"
@@ -855,10 +855,10 @@
       "date_published": "2013-08-15T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/app-store/",
-      "url": "https://matthieuoger.com/2013/08/app-store/",
-      "title": "App Store",
-      "content_html": "<p>Truth:</p>\n<blockquote class=\"twitter-tweet\">\n<p>\n\tPossess:\n\t<br>&#10;1. ~1M captive audience of developers,\n\t<br>&#10;2. ~1M apps,\n\t<br>&#10;3. ~$150B in cash, and\n\t<br>&#10;4. fail to (re)design an App Store.\n\t<br>&#10;Nuts.\n</p>\n<p>— Kontra (@counternotions)\n<a href=\"https://twitter.com/counternotions/statuses/367619924929568768\">\nAugust 14, 2013\n</a></p>\n</blockquote>",
+      "id": "https://matthieuoger.com/2013/08/ios7/",
+      "url": "https://matthieuoger.com/2013/08/ios7/",
+      "title": "iOS 7",
+      "content_html": "<p><a href=\"http://www.imore.com/wheres-bigger-iphone\">Rene Ritchie</a>:</p>\n<blockquote>\n<p>When a company like Apple goes to all the trouble of building a <strong>physics</strong> and <strong>particle engine</strong> to support their interface, when they <strong>objectify</strong> it and <strong>gamify</strong> it and <strong>make it a dynamic, living thing</strong>, it opens up a lot of potential. When you add <strong>Text Kit</strong> to mix, and the <strong>design language</strong> in general, and when you see what it all looks and feels like on an iPad mini, then the possibilities for a bigger iPhone next year become infinitely more exciting.</p>\n</blockquote>\n<p><small>(Emphasis mine)</small></p>\n<p>Good recap of the real changes brought by iOS 7.</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com"
