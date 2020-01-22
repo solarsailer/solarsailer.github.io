@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://matthieuoger.com</id>
-  <updated>2020-01-22T10:40:16.036Z</updated>
+  <updated>2020-01-22T10:47:18.898Z</updated>
   <title>Matthieu Oger</title>
   <icon>https://matthieuoger.com/feed.png</icon>
   <link href="https://matthieuoger.com/atom.xml" rel="self"/>
@@ -21,11 +21,15 @@
 </blockquote>
 <p>I had, indeed, a wonderful Margherita at Seirinkan while I was in Tokyo three years ago. </p>
 <hr>
-<p>Related:</p>
-<ul>
-<li>“<a href="https://www.eater.com/2017/2/21/14670944/best-pizza-tokyo-guide">Tokyo Neapolitan: The New Wave of Japanese Pizza</a>”, by Craig Mod</li>
-<li>“<a href="https://www.eater.com/2019/12/16/21003452/japan-kissaten-traditional-cafes-pizza-toast-travel">I Walked 600 Miles Across Japan for Pizza Toast</a>”, also by Craig Mod</li>
-</ul>]]></content>
+<p>Related, from one of my favorite essays by Craig Mod on the same subject, “<a href="https://www.eater.com/2017/2/21/14670944/best-pizza-tokyo-guide">Tokyo Neapolitan: The New Wave of Japanese Pizza</a>”:</p>
+<blockquote>
+<p>“Pizza shops are not quite like bakeries, not quite like restaurants — everything comes together in a single moment; 60 seconds determine the success or failure of a meal.”</p>
+<p>[…]</p>
+<p>It turns out the decision to pre-cut a pizza comes with its own philosophical underpinnings</p>
+<p>Inoue believes that because a pizza is not perfectly symmetrical in terms of ingredient distribution, each slice is inevitably a little different; there's no way to cut a pizza in a way that  perfectly captures its entire essence in a single slice. His ideal is for one person to eat an entire pie on their own, ensuring they experience the full spectrum of flavors. </p>
+</blockquote>
+<hr>
+<p>And also slightly related, a more recent one by the same Craig Mod: “<a href="https://www.eater.com/2019/12/16/21003452/japan-kissaten-traditional-cafes-pizza-toast-travel">I Walked 600 Miles Across Japan for Pizza Toast</a>”.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
@@ -1787,24 +1791,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/quote-modern-journalism/</id>
-    <updated>2013-08-29T00:00:00.000Z</updated>
-    <title>Modern Journalism</title>
-    <link href="https://matthieuoger.com/2013/08/quote-modern-journalism/"/>
-    <content type="html"><![CDATA[<p>This tweet could not better describe my feeling:</p>
-<blockquote class="twitter-tweet">
-  <p>
-    Modern journalism is 90% reporting what people are saying on Twitter.
-  </p>
-<p>  — God (@TheTweetOfGod)
-<a href="https://twitter.com/TheTweetOfGod/statuses/359441152522469376">July 22, 2013</a></p>
-</blockquote>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://matthieuoger.com/2013/08/the-gif-video-format/</id>
     <updated>2013-08-29T00:00:00.000Z</updated>
     <title>The Gif “Video Format”</title>
@@ -1819,6 +1805,24 @@
 <hr>
 <h2>Update <span class="more">08 June 2018</span></h2>
 <p>There's <a href="https://calendar.perfplanet.com/2017/animated-gif-without-the-gif/">hope</a>. In a near future, and in other browsers than Safari, we will be able to use a video as an image to <em>simulate a gif</em> (ie., silence and autoplay). With perks of a video instead of an awful low-quality and heavy gif.</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://matthieuoger.com/2013/08/quote-modern-journalism/</id>
+    <updated>2013-08-29T00:00:00.000Z</updated>
+    <title>Modern Journalism</title>
+    <link href="https://matthieuoger.com/2013/08/quote-modern-journalism/"/>
+    <content type="html"><![CDATA[<p>This tweet could not better describe my feeling:</p>
+<blockquote class="twitter-tweet">
+  <p>
+    Modern journalism is 90% reporting what people are saying on Twitter.
+  </p>
+<p>  — God (@TheTweetOfGod)
+<a href="https://twitter.com/TheTweetOfGod/statuses/359441152522469376">July 22, 2013</a></p>
+</blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
@@ -2011,6 +2015,22 @@
     </author>
   </entry>
   <entry>
+    <id>https://matthieuoger.com/2013/08/ios7/</id>
+    <updated>2013-08-15T00:00:00.000Z</updated>
+    <title>iOS 7</title>
+    <link href="https://matthieuoger.com/2013/08/ios7/"/>
+    <content type="html"><![CDATA[<p><a href="http://www.imore.com/wheres-bigger-iphone">Rene Ritchie</a>:</p>
+<blockquote>
+<p>When a company like Apple goes to all the trouble of building a <strong>physics</strong> and <strong>particle engine</strong> to support their interface, when they <strong>objectify</strong> it and <strong>gamify</strong> it and <strong>make it a dynamic, living thing</strong>, it opens up a lot of potential. When you add <strong>Text Kit</strong> to mix, and the <strong>design language</strong> in general, and when you see what it all looks and feels like on an iPad mini, then the possibilities for a bigger iPhone next year become infinitely more exciting.</p>
+</blockquote>
+<p><small>(Emphasis mine)</small></p>
+<p>Good recap of the real changes brought by iOS 7.</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
+  <entry>
     <id>https://matthieuoger.com/2013/08/app-store/</id>
     <updated>2013-08-15T00:00:00.000Z</updated>
     <title>App Store</title>
@@ -2030,22 +2050,6 @@
 August 14, 2013
 </a></p>
 </blockquote>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2013/08/ios7/</id>
-    <updated>2013-08-15T00:00:00.000Z</updated>
-    <title>iOS 7</title>
-    <link href="https://matthieuoger.com/2013/08/ios7/"/>
-    <content type="html"><![CDATA[<p><a href="http://www.imore.com/wheres-bigger-iphone">Rene Ritchie</a>:</p>
-<blockquote>
-<p>When a company like Apple goes to all the trouble of building a <strong>physics</strong> and <strong>particle engine</strong> to support their interface, when they <strong>objectify</strong> it and <strong>gamify</strong> it and <strong>make it a dynamic, living thing</strong>, it opens up a lot of potential. When you add <strong>Text Kit</strong> to mix, and the <strong>design language</strong> in general, and when you see what it all looks and feels like on an iPad mini, then the possibilities for a bigger iPhone next year become infinitely more exciting.</p>
-</blockquote>
-<p><small>(Emphasis mine)</small></p>
-<p>Good recap of the real changes brought by iOS 7.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
