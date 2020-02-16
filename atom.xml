@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://matthieuoger.com</id>
-  <updated>2020-02-09T17:32:50.487Z</updated>
+  <updated>2020-02-16T13:24:43.263Z</updated>
   <title>Matthieu Oger</title>
   <icon>https://matthieuoger.com/feed.png</icon>
   <link href="https://matthieuoger.com/atom.xml" rel="self"/>
@@ -9,6 +9,45 @@
     <name>Matthieu Oger</name>
     <uri>https://matthieuoger.com</uri>
   </author>
+  <entry>
+    <id>https://matthieuoger.com/2020/02/tools-as-superpowers/</id>
+    <updated>2020-02-16T00:00:00.000Z</updated>
+    <title>Tools as Superpowers</title>
+    <link href="https://matthieuoger.com/2020/02/tools-as-superpowers/"/>
+    <content type="html"><![CDATA[<p><a href="https://medium.com/@djo/service-client-et-outils-de-productivit%C3%A9-lalignement-des-passions-a4a59216d6a7">Jonathan Lefèvre</a> (loosely translated from French<sup id="fnref-1"><a href="#fn-1" class="footnote-ref">1</a></sup>):</p>
+<blockquote class="transcript">
+<p>The topic of <em>scale</em> is as inevitable as it is hard, and seems so at odds with the human customer service idea, difficult to automate just by its own definition. Even the enterprises for which customer service is not a priority can find themselves confronted to the exact same problem. All of them must think about the best organization possible to handle efficiently the endless influx of requests and questions.</p>
+<p>[…] But this has mostly allowed me to realize what was truly making the strength of the customer service at Capitaine Train: its operational efficiency. In the end, if we could manage 2 millions of customers with a small team of 15 people, it was because we were extremely well equipped.</p>
+<p>Nothing was left to chance in the hunt for the lesser and useless click. And if this constant quest for the optimization of the processes is a topic that interests many entrepreneurs, I think that it manifests itself in an even more glaring way when you do customer service management of a start-up in hyper growth. […] When you spend days fighting the steamroller of client requests, you inevitably finish to devote a cult to any tool able to make you gain the smallest second of productivity.</p>
+<p>[…] So, I imagined naively that any customer service in the world would use the best tools in the market to work more efficiently. I was far from the mark. Numerous were those that didn't have a good system to manage notes and documentation, the basic and elementary reflexes to minimize interruptions, or just a sane way of handling emails.</p>
+</blockquote>
+<p>In general, adding <em>more</em> people and asking them to work <em>more</em> is not the right way to solve a problem — I would even say it will create the opposite effect in the long-run.</p>
+<p>I really like this article because it shares perfectly my vision for productivity and tooling. <a href="/2018/12/tools/">Tools are humans' superpowers</a>. We need to harness them — and give tedious jobs to machines. Humans are good at creativity and thinking, but particularly bad at doing constant and repetitive tasks.</p>
+<p>Though, and <a href="https://jonathanlefevre.com/outils/mot-productivite/">like the author</a>, when I say "productivity", it's not as a synonym for pushing people to always work more and to exhaust themselves (which is unsustainable and <em>not right</em>), but the contrary: doing more things, with less <strong>effort and time</strong>. The end-goal is to work less (or not all), enjoy the present, improve quality of life for everyone, while still being able to deliver great services and products for an healthier society. In that sense, computers are the great enabler of this vision.<sup id="fnref-2"><a href="#fn-2" class="footnote-ref">2</a></sup></p>
+<div class="footnotes">
+<hr>
+<ol>
+<li id="fn-1">
+<p>Original version:</p>
+<blockquote>
+<p>Le sujet du <em>scale</em> est aussi inéluctable que difficile, tant il semble peu compatible avec la notion même de service client humain, compliqué à automatiser par définition. Même les entreprises pour qui le service client n’est pas une priorité se retrouvent forcément confrontées à ce problème. Toutes doivent réfléchir à la meilleure organisation possible pour gérer efficacement ce flux incessant de demandes.</p>
+<p>[…] Mais elle m’a surtout permis de prendre conscience de ce qui faisait véritablement la force du service client de Capitaine Train : son efficacité opérationnelle. Au fond, si nous arrivions à gérer 2 millions de clients avec une petite équipe de 15 personnes, c’est parce que nous étions très bien outillés.</p>
+<p>Rien n’était laissé au hasard dans la chasse au moindre clic inutile. Et si cette constante quête d’optimisation des processus est un sujet qui intéresse beaucoup d’entrepreneurs, je crois qu’elle se manifeste d’une manière encore plus criante lorsqu’on fait du service client dans une start-up en pleine croissance. […] Quand on passe ses journées à affronter le rouleau compresseur des tickets clients, on finit par vouer un culte à chaque outil capable de nous faire gagner la moindre seconde de productivité.</p>
+<p>[…] Du coup, j’imaginais naïvement que tous les services clients du monde utilisaient les meilleurs outils du marché pour travailler plus efficacement. J’étais pourtant loin du compte. Nombreux sont ceux qui n’ont pas encore un bon système de prise de notes, les réflexes élémentaires pour minimiser les interruptions, ou encore une gestion saine de leurs e-mails.</p>
+</blockquote>
+<a href="#fnref-1" class="footnote-backref">↩</a>
+</li>
+<li id="fn-2">
+<p>It's probably utopian, I know.</p>
+<a href="#fnref-2" class="footnote-backref">↩</a>
+</li>
+</ol>
+</div>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
   <entry>
     <id>https://matthieuoger.com/2020/02/choices/</id>
     <updated>2020-02-09T00:00:00.000Z</updated>
@@ -2175,20 +2214,6 @@ August 14, 2013
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/quote-marco-arment/</id>
-    <updated>2013-08-05T00:00:00.000Z</updated>
-    <title>New AOL CDs</title>
-    <link href="https://matthieuoger.com/2013/08/quote-marco-arment/"/>
-    <content type="html"><![CDATA[<p><a href="http://www.marco.org/2013/07/25/nexus-72">Marco Arment</a>:</p>
-<blockquote>
-<p>I offered to give my Nexus 7 and Kindle Fire to Betaworks in the Instapaper acquisition, but they had so many of both sitting around already that they declined. Tech companies with mobile apps can practically tile walls with outdated Android devices. They’re the new AOL CDs.</p>
-</blockquote>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://matthieuoger.com/2013/08/os-wp-winrt/</id>
     <updated>2013-08-05T00:00:00.000Z</updated>
     <title>Windows Phone and WinRT</title>
@@ -2210,6 +2235,20 @@ August 14, 2013
 </li>
 </ol>
 </div>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://matthieuoger.com/2013/08/quote-marco-arment/</id>
+    <updated>2013-08-05T00:00:00.000Z</updated>
+    <title>New AOL CDs</title>
+    <link href="https://matthieuoger.com/2013/08/quote-marco-arment/"/>
+    <content type="html"><![CDATA[<p><a href="http://www.marco.org/2013/07/25/nexus-72">Marco Arment</a>:</p>
+<blockquote>
+<p>I offered to give my Nexus 7 and Kindle Fire to Betaworks in the Instapaper acquisition, but they had so many of both sitting around already that they declined. Tech companies with mobile apps can practically tile walls with outdated Android devices. They’re the new AOL CDs.</p>
+</blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
