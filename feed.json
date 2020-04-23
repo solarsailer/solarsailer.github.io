@@ -8,6 +8,17 @@
   "feed_url": "https://matthieuoger.com/feed.json",
   "items": [
     {
+      "id": "https://matthieuoger.com/2020/04/tech-waste/",
+      "url": "https://matthieuoger.com/2020/04/tech-waste/",
+      "title": "Tech Waste",
+      "content_html": "<p>Marty Cagan in “<a href=\"https://svpg.com/epic-waste/\">Epic Waste</a>”:</p>\n<blockquote>\n<p>[…] What I believe is the largest source of waste in technology, and that’s waste in large companies. I’m not talking about large technology companies like Apple and Amazon and Google [but] about the thousands of large banks, insurance companies, airlines, auto manufacturers, telcos, retailers, health care providers, and entertainment companies, that spend shocking amounts of money on technology every year for such paltry results.</p>\n<p>[Visited multiple companies] from each of these industries and with precious few exceptions, I find these large “IT” organizations, usually run by CIO’s or CFO’s, and operating with horribly inefficient and ineffective methods. They are typically using stakeholder-driven roadmaps, project-based funding and staffing, heavy use of contractors and outsourcing, waterfall processes (even when they claim they’re Agile), no effective product role, and minimal if any UX design. […]</p>\n<p>The amount of waste at these companies is staggering. The irony is that they often believe they’re actually saving money. […] They don’t understand that their model is requiring much larger teams, and more importantly, they are not able to operate at the speed of innovation […] Because these leaders don’t understand technology, they make short-sighted decisions and then struggle to connect the dots between their choices and the poor results.</p>\n</blockquote>",
+      "author": {
+        "name": "Matthieu Oger",
+        "url": "https://matthieuoger.com"
+      },
+      "date_published": "2020-04-23T00:00:00.000Z"
+    },
+    {
       "id": "https://matthieuoger.com/2020/02/tools-as-superpowers/",
       "url": "https://matthieuoger.com/2020/02/tools-as-superpowers/",
       "title": "Tools as Superpowers",
@@ -789,10 +800,10 @@
       "date_published": "2013-08-27T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/google-play-new-policies/",
-      "url": "https://matthieuoger.com/2013/08/google-play-new-policies/",
-      "title": "Google Play New Policies",
-      "content_html": "<p><a href=\"http://blog.inner-active.com/2013/08/googles-new-policies-good-for-users-great-for-android-developers-and-the-ecosystem/\">Google’s New Policies: Good for Users, Great for Android Developers and the Ecosystem</a>:</p>\n<blockquote>\n<p>So what does all this mean? It means that Google understands that while open is great, at the end of the day, users would rather have a superior experience both in terms of Google Play as a whole, and apps behavior in particular.</p>\n</blockquote>\n<p>I am really thrilled by the changes, but I can't help smiling. Android might be \"open\", Google is definitely not.</p>\n<p>This makes me wonder…</p>\n<ul>\n<li>Android was the alternative to iOS because of the lack of policies (at least, by the developers). Google Play is now a lot more similar to the App Store. It is not as strict though.</li>\n<li>Will Google remove the abusive apps retroactively?</li>\n<li>China? Google was already out, but this will make the situation worse.</li>\n</ul>\n<p>Anyways, the chasm between Play (Google's Android) and Android is getting wider every day.</p>\n<p><strong>Update</strong>: I couldn't agree more with <a href=\"http://verynicewebsite.net/2013/08/open-always-loses/\">John Moltz</a>...</p>\n<blockquote>\n<p>I think it’s kind of amusing how quickly the narrative has changed from “Yay, open!” to “I, for one, welcome our closed overlords.”</p>\n</blockquote>",
+      "id": "https://matthieuoger.com/2013/08/ios7-user-tracking/",
+      "url": "https://matthieuoger.com/2013/08/ios7-user-tracking/",
+      "title": "iOS 7 User Tracking",
+      "content_html": "<p><a href=\"http://iosdevweekly.com/issues/108/\">iOS Dev Weekly, issue 108</a>:</p>\n<blockquote>\n<p>If your solution to having uniqueIdentifier deprecated was to use the MAC address of the device in some way then you're going to have a bad time in iOS 7. […]</p>\n<p>The message here is very clear, Apple are not afraid to remove any API that makes tracking users across apps by different vendors possible.</p>\n</blockquote>\n<p><a href=\"https://developer.apple.com/news/index.php?id=8222013a\">Apple</a>:</p>\n<blockquote>\n<p>If your apps use the MAC address to identify an iOS device, the system will return the same static value for all devices running iOS 7.</p>\n</blockquote>\n<p>It is a bad week for advertisers (see: <a href=\"https://matthieuoger.com/2013/08/google-play-new-policies/\">Google Play new policies</a>).</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com"
@@ -800,10 +811,10 @@
       "date_published": "2013-08-26T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/ios7-user-tracking/",
-      "url": "https://matthieuoger.com/2013/08/ios7-user-tracking/",
-      "title": "iOS 7 User Tracking",
-      "content_html": "<p><a href=\"http://iosdevweekly.com/issues/108/\">iOS Dev Weekly, issue 108</a>:</p>\n<blockquote>\n<p>If your solution to having uniqueIdentifier deprecated was to use the MAC address of the device in some way then you're going to have a bad time in iOS 7. […]</p>\n<p>The message here is very clear, Apple are not afraid to remove any API that makes tracking users across apps by different vendors possible.</p>\n</blockquote>\n<p><a href=\"https://developer.apple.com/news/index.php?id=8222013a\">Apple</a>:</p>\n<blockquote>\n<p>If your apps use the MAC address to identify an iOS device, the system will return the same static value for all devices running iOS 7.</p>\n</blockquote>\n<p>It is a bad week for advertisers (see: <a href=\"https://matthieuoger.com/2013/08/google-play-new-policies/\">Google Play new policies</a>).</p>",
+      "id": "https://matthieuoger.com/2013/08/google-play-new-policies/",
+      "url": "https://matthieuoger.com/2013/08/google-play-new-policies/",
+      "title": "Google Play New Policies",
+      "content_html": "<p><a href=\"http://blog.inner-active.com/2013/08/googles-new-policies-good-for-users-great-for-android-developers-and-the-ecosystem/\">Google’s New Policies: Good for Users, Great for Android Developers and the Ecosystem</a>:</p>\n<blockquote>\n<p>So what does all this mean? It means that Google understands that while open is great, at the end of the day, users would rather have a superior experience both in terms of Google Play as a whole, and apps behavior in particular.</p>\n</blockquote>\n<p>I am really thrilled by the changes, but I can't help smiling. Android might be \"open\", Google is definitely not.</p>\n<p>This makes me wonder…</p>\n<ul>\n<li>Android was the alternative to iOS because of the lack of policies (at least, by the developers). Google Play is now a lot more similar to the App Store. It is not as strict though.</li>\n<li>Will Google remove the abusive apps retroactively?</li>\n<li>China? Google was already out, but this will make the situation worse.</li>\n</ul>\n<p>Anyways, the chasm between Play (Google's Android) and Android is getting wider every day.</p>\n<p><strong>Update</strong>: I couldn't agree more with <a href=\"http://verynicewebsite.net/2013/08/open-always-loses/\">John Moltz</a>...</p>\n<blockquote>\n<p>I think it’s kind of amusing how quickly the narrative has changed from “Yay, open!” to “I, for one, welcome our closed overlords.”</p>\n</blockquote>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com"
