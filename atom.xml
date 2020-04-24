@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://matthieuoger.com</id>
-  <updated>2020-04-23T18:14:51.039Z</updated>
+  <updated>2020-04-24T09:20:47.323Z</updated>
   <title>Matthieu Oger</title>
   <icon>https://matthieuoger.com/feed.png</icon>
   <link href="https://matthieuoger.com/atom.xml" rel="self"/>
@@ -67,7 +67,7 @@
   <entry>
     <id>https://matthieuoger.com/2020/02/choices/</id>
     <updated>2020-02-09T00:00:00.000Z</updated>
-    <title>Easy choices, hard life — Hard choices, easy life</title>
+    <title>Easy Choices, Hard Life — Hard Choices, Easy Life</title>
     <link href="https://matthieuoger.com/2020/02/choices/"/>
     <content type="html"><![CDATA[<p>We were waiting in a rented car while being in a small town in the East of France. A town without charm. We had to stay here for one more hour before going to the wedding we were attending.</p>
 <p>Bored, with nothing special to do now that we had visited the city, I browsed a bit on YouTube. I fell on a <a href="https://www.ted.com/talks/tim_ferriss_why_you_should_define_your_fears_instead_of_your_goals/transcript?language=en">video by Tim Ferriss which looked kinda okay</a> — I didn't know the guy that much, except that he was the host of a famous podcast which never interested me particularly.</p>
@@ -96,17 +96,17 @@
     <link href="https://matthieuoger.com/2020/01/japan-pizza-culture/"/>
     <content type="html"><![CDATA[<p>Matt Goulding in “<a href="https://medium.com/airbnbmag/slice-of-tokyo-how-japan-became-a-pizza-hotspot-f734d834168">Slice of Tokyo: How Japan Became a Pizza Hotspot</a>”:</p>
 <blockquote>
-<p>After passing my final exam before a panel of Naples’ old guard of pizzamakers, I asked the judges who else, besides the Italians, were making good pizzas. Most just smirked and ignored the question, as if it had no reasonable answer. But one of the older gentlemen waited until the conversation moved on before waving me in close: </p>
+<p>After passing my final exam before a panel of Naples’ old guard of pizzamakers, I asked the judges who else, besides the Italians, were making good pizzas. Most just smirked and ignored the question, as if it had no reasonable answer. But one of the older gentlemen waited until the conversation moved on before waving me in close:</p>
 <p>“Don’t tell anyone I told you this, but the Japanese are making better pizzas than we are.”</p>
 </blockquote>
-<p>I had, indeed, a wonderful Margherita at Seirinkan while I was in Tokyo three years ago. </p>
+<p>I had, indeed, a wonderful Margherita at Seirinkan while I was in Tokyo three years ago.</p>
 <hr>
 <p>Related, from one of my favorite essays by Craig Mod on the same subject, “<a href="https://www.eater.com/2017/2/21/14670944/best-pizza-tokyo-guide">Tokyo Neapolitan: The New Wave of Japanese Pizza</a>”:</p>
 <blockquote>
 <p>“Pizza shops are not quite like bakeries, not quite like restaurants — everything comes together in a single moment; 60 seconds determine the success or failure of a meal.”</p>
 <p>[…]</p>
 <p>It turns out the decision to pre-cut a pizza comes with its own philosophical underpinnings</p>
-<p>Inoue believes that because a pizza is not perfectly symmetrical in terms of ingredient distribution, each slice is inevitably a little different; there's no way to cut a pizza in a way that  perfectly captures its entire essence in a single slice. His ideal is for one person to eat an entire pie on their own, ensuring they experience the full spectrum of flavors. </p>
+<p>Inoue believes that because a pizza is not perfectly symmetrical in terms of ingredient distribution, each slice is inevitably a little different; there's no way to cut a pizza in a way that  perfectly captures its entire essence in a single slice. His ideal is for one person to eat an entire pie on their own, ensuring they experience the full spectrum of flavors.</p>
 </blockquote>
 <hr>
 <p>And also slightly related, a more recent one by the same Craig Mod: “<a href="https://www.eater.com/2019/12/16/21003452/japan-kissaten-traditional-cafes-pizza-toast-travel">I Walked 600 Miles Across Japan for Pizza Toast</a>”.</p>]]></content>
@@ -1778,22 +1778,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/09/inventing-the-favicon/</id>
-    <updated>2013-09-05T00:00:00.000Z</updated>
-    <title>Inventing the Favicon</title>
-    <link href="https://matthieuoger.com/2013/09/inventing-the-favicon/"/>
-    <content type="html"><![CDATA[<p><a href="http://ruthlessray.wordpress.com/2013/09/02/inventing-favicon-ico/">Inventing Favicon.ico</a>:</p>
-<blockquote>
-<p>Bharat said, “this is good, right? Check it in?” And I said, “yeah, sure, how does it work?” […]</p>
-<p>So there you go, the story of the invention of favicon.ico.</p>
-</blockquote>
-<p>The story of a small and useful feature that was almost cancelled for no good reason.</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://matthieuoger.com/2013/09/samsung-and-watches/</id>
     <updated>2013-09-05T00:00:00.000Z</updated>
     <title>Samsung and Watches</title>
@@ -1817,6 +1801,22 @@
 <blockquote class="twitter-tweet">
 <p>My watch is gold too. Thieves: grab that instead. You can buy a good few iPhones with the proceeds.</p>&mdash; Matt Gemmell (@mattgemmell) <a href="https://twitter.com/mattgemmell/statuses/385121349712490497">October 1, 2013</a>
 </blockquote>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://matthieuoger.com/2013/09/inventing-the-favicon/</id>
+    <updated>2013-09-05T00:00:00.000Z</updated>
+    <title>Inventing the Favicon</title>
+    <link href="https://matthieuoger.com/2013/09/inventing-the-favicon/"/>
+    <content type="html"><![CDATA[<p><a href="http://ruthlessray.wordpress.com/2013/09/02/inventing-favicon-ico/">Inventing Favicon.ico</a>:</p>
+<blockquote>
+<p>Bharat said, “this is good, right? Check it in?” And I said, “yeah, sure, how does it work?” […]</p>
+<p>So there you go, the story of the invention of favicon.ico.</p>
+</blockquote>
+<p>The story of a small and useful feature that was almost cancelled for no good reason.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
@@ -1953,26 +1953,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/ios7-user-tracking/</id>
-    <updated>2013-08-26T00:00:00.000Z</updated>
-    <title>iOS 7 User Tracking</title>
-    <link href="https://matthieuoger.com/2013/08/ios7-user-tracking/"/>
-    <content type="html"><![CDATA[<p><a href="http://iosdevweekly.com/issues/108/">iOS Dev Weekly, issue 108</a>:</p>
-<blockquote>
-<p>If your solution to having uniqueIdentifier deprecated was to use the MAC address of the device in some way then you're going to have a bad time in iOS 7. […]</p>
-<p>The message here is very clear, Apple are not afraid to remove any API that makes tracking users across apps by different vendors possible.</p>
-</blockquote>
-<p><a href="https://developer.apple.com/news/index.php?id=8222013a">Apple</a>:</p>
-<blockquote>
-<p>If your apps use the MAC address to identify an iOS device, the system will return the same static value for all devices running iOS 7.</p>
-</blockquote>
-<p>It is a bad week for advertisers (see: <a href="https://matthieuoger.com/2013/08/google-play-new-policies/">Google Play new policies</a>).</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://matthieuoger.com/2013/08/google-play-new-policies/</id>
     <updated>2013-08-26T00:00:00.000Z</updated>
     <title>Google Play New Policies</title>
@@ -1993,6 +1973,26 @@
 <blockquote>
 <p>I think it’s kind of amusing how quickly the narrative has changed from “Yay, open!” to “I, for one, welcome our closed overlords.”</p>
 </blockquote>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://matthieuoger.com/2013/08/ios7-user-tracking/</id>
+    <updated>2013-08-26T00:00:00.000Z</updated>
+    <title>iOS 7 User Tracking</title>
+    <link href="https://matthieuoger.com/2013/08/ios7-user-tracking/"/>
+    <content type="html"><![CDATA[<p><a href="http://iosdevweekly.com/issues/108/">iOS Dev Weekly, issue 108</a>:</p>
+<blockquote>
+<p>If your solution to having uniqueIdentifier deprecated was to use the MAC address of the device in some way then you're going to have a bad time in iOS 7. […]</p>
+<p>The message here is very clear, Apple are not afraid to remove any API that makes tracking users across apps by different vendors possible.</p>
+</blockquote>
+<p><a href="https://developer.apple.com/news/index.php?id=8222013a">Apple</a>:</p>
+<blockquote>
+<p>If your apps use the MAC address to identify an iOS device, the system will return the same static value for all devices running iOS 7.</p>
+</blockquote>
+<p>It is a bad week for advertisers (see: <a href="https://matthieuoger.com/2013/08/google-play-new-policies/">Google Play new policies</a>).</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
@@ -2271,6 +2271,23 @@ August 14, 2013
     </author>
   </entry>
   <entry>
+    <id>https://matthieuoger.com/2013/08/quote-changing-the-world/</id>
+    <updated>2013-08-02T00:00:00.000Z</updated>
+    <title>Changing the World…?</title>
+    <link href="https://matthieuoger.com/2013/08/quote-changing-the-world/"/>
+    <content type="html"><![CDATA[<p><a href="https://news.ycombinator.com/item?id=6108967">Freyr</a>:</p>
+<blockquote>
+<p>Could "changing the world" be a contender the most trite, overused expression of 2013? Recent grads seem to have adopted it en masse as their personal tagline. It's a nice sentiment, but it hard not to roll your eyes when every 23 year old applies it to his mobile phone app with no users that he threw together in a couple weeks.</p>
+<p>[…]</p>
+<p>Besides, I'm not even sure it's a healthy sentiment for most people. If your focus is as broad as "changing the world," you're probably setting yourself up to feel like a failure.</p>
+</blockquote>
+<p>(via <a href="http://wolfslittlestore.be/2013/08/changing-the-world/">Wolf's Little Store</a>)</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
+  <entry>
     <id>https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/</id>
     <updated>2013-08-02T00:00:00.000Z</updated>
     <title>Life Is Too Short To Stare at Ugly Graphs — and Yes, You Should Feel Bad</title>
@@ -2283,23 +2300,6 @@ August 14, 2013
 <p><strong>Life is too short to stare at ugly graphs. And yes, you should feel bad.</strong></p>
 </blockquote>
 <p><small>(Emphasis mine)</small></p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2013/08/quote-changing-the-world/</id>
-    <updated>2013-08-02T00:00:00.000Z</updated>
-    <title>Changing the World…?</title>
-    <link href="https://matthieuoger.com/2013/08/quote-changing-the-world/"/>
-    <content type="html"><![CDATA[<p><a href="https://news.ycombinator.com/item?id=6108967">Freyr</a>:</p>
-<blockquote>
-<p>Could "changing the world" be a contender the most trite, overused expression of 2013? Recent grads seem to have adopted it en masse as their personal tagline. It's a nice sentiment, but it hard not to roll your eyes when every 23 year old applies it to his mobile phone app with no users that he threw together in a couple weeks.</p>
-<p>[…]</p>
-<p>Besides, I'm not even sure it's a healthy sentiment for most people. If your focus is as broad as "changing the world," you're probably setting yourself up to feel like a failure.</p>
-</blockquote>
-<p>(via <a href="http://wolfslittlestore.be/2013/08/changing-the-world/">Wolf's Little Store</a>)</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
