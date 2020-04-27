@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://matthieuoger.com</id>
-  <updated>2020-04-27T17:36:55.477Z</updated>
+  <updated>2020-04-27T17:41:51.344Z</updated>
   <title>Matthieu Oger</title>
   <icon>https://matthieuoger.com/feed.png</icon>
   <link href="https://matthieuoger.com/atom.xml" rel="self"/>
@@ -63,7 +63,7 @@
 <a href="#fnref-3" class="footnote-backref">↩</a>
 </li>
 <li id="fn-4">
-<p>That can be a script, a documentation, or a process. That's why, when I find an important information, I store it ASAP in my Dropbox so I can come back to it later. That's also why I'm blogging: to keep the relevant articles I found right at my fingertips. That's, finally, why I love scripting: I don't want to memorize how I need to execute an action — it's more mistakes later, and less predictability. It's also a source of examples for future-me.</p>
+<p>That can be a script, a documentation, or a process. That's why, when I find an important information, I store it ASAP in my Dropbox so I can come back to it later. That's also why I'm blogging: to keep the relevant articles I found right at my fingertips. That's, finally, why I love scripting: I don't want to memorize how I need to execute an action — without scripts, it's more mistakes later, and less predictability. There's also a nice side-effect: it's an additional (and versioned) source of examples.</p>
 <a href="#fnref-4" class="footnote-backref">↩</a>
 </li>
 <li id="fn-5">
