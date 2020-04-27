@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://matthieuoger.com</id>
-  <updated>2020-04-27T17:52:08.763Z</updated>
+  <updated>2020-04-27T17:57:08.704Z</updated>
   <title>Matthieu Oger</title>
   <icon>https://matthieuoger.com/feed.png</icon>
   <link href="https://matthieuoger.com/atom.xml" rel="self"/>
@@ -21,7 +21,6 @@
 <p>When I automate something (anything), I’m defining the steps that need to be included to complete the task. I’m no longer relying on my memory to ensure that every step is complete or the specific ways in which a step should be completed. This is especially useful if it’s something I don’t do very often […] if it helps me do the exact same thing one time a year later, that’s often worth as much as any amount of total time saved in my life.</p>
 </blockquote>
 <p><strong>Exactly!</strong> Avoiding mistakes is much more important than any time-saving<sup id="fnref-1"><a href="#fn-1" class="footnote-ref">1</a></sup>. Automation removes the need to remember what you need to do, and simplify the sharing of knowledge. It's basically a <em>self-fulfilling <a href="http://atulgawande.com/book/the-checklist-manifesto/">checklist</a></em> that can be triggered by anybody.</p>
-<p>Let me digress a bit with a few examples and principles. I'm by no mean perfect, but this is how I'm trying to improve.</p>
 <hr>
 <p>When I was developing a new website for <a href="https://pixelnest.io/">Pixelnest Studio</a>, the first step was setuping the project, and automating the deployment, so that I could come back 6 months later and still be able to deploy easily without reading the README or the code.</p>
 <p>For <a href="http://steredenn.pixelnest.io">Steredenn</a>, I created a lot of scripts to automate the release pipeline (building the game, packaging it, creating the different changelogs for the multiple platforms, etc.). This took me a non-negligible amount of time, but when I needed to do a new release after a long hiatus, it was a breeze and such a relief. Bonus: my associate could also do it in case I was not here, without having to dive in the code or knowing the full process.<sup id="fnref-2"><a href="#fn-2" class="footnote-ref">2</a></sup> In the game itself, <a href="https://dmayance.com/">Damien</a> spent time creating little tools and helpers to go to a specific part of the game easily, so we could test different configurations and situations at will. <em>The result? A better, more stable game. Less mistakes. More time.</em></p>
@@ -37,7 +36,7 @@
 <p>That's also a reason why I love checklists so much. <strong>Checklists are the manual version of automation</strong>: you write it, you duplicate it, you cross it, and you forget it.</p>
 <p>Checklists are <em>also cheap and easy-to-write documentation</em> — for you, your family, your friends, your coworkers.<sup id="fnref-3"><a href="#fn-3" class="footnote-ref">3</a></sup></p>
 <hr>
-<p>In computing (and life in general), there are a few principles that I consider extremely important:</p>
+<p>In computing (and life in general), there are a few principles that I consider extremely important and I'm trying to apply as much as possible:</p>
 <ul>
 <li><strong>Repeatability</strong>: repeat a task in a predictable manner and efficiently without dreading it;</li>
 <li><strong>Robustness</strong>: ensure you are doing the right steps and actions all the time, constantly. Backup. Use version control and history systematically;</li>
