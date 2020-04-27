@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://matthieuoger.com</id>
-  <updated>2020-04-27T17:17:30.224Z</updated>
+  <updated>2020-04-27T17:27:09.596Z</updated>
   <title>Matthieu Oger</title>
   <icon>https://matthieuoger.com/feed.png</icon>
   <link href="https://matthieuoger.com/atom.xml" rel="self"/>
@@ -27,7 +27,7 @@
 <p>For <a href="http://steredenn.pixelnest.io">Steredenn</a>, I created a lot of scripts to automate the release pipeline (building the game, packaging it, creating the different changelogs for the multiple platforms, etc.). This took me a non-negligible amount of time, but when I needed to do a new release after a long hiatus, it was a breeze and such a relief. Bonus: my associate could also do it in case I was not here, without having to dive in the code or knowing the full process.<sup id="fnref-2"><a href="#fn-2" class="footnote-ref">2</a></sup> In the game itself, <a href="https://dmayance.com/">Damien</a> spent time creating little tools and helpers to go to a specific part of the game easily, so we could test different configurations and situations at will. <em>The result? A better, more stable game. Less mistakes. More time.</em></p>
 <p>I maintain a personal repository with <a href="https://github.com/solarsailer/dotfiles/">most of my non-app scripts</a> on GitHub, and one of my most treasured part is a procedure to boostrap a new macOS installation in a semi-automated fashion. I don't do that often, but I know that I can confidently reproduce a new environment (in case of loss or theft) without a lot of struggle.</p>
 <p>I tried to put most of the settings of my apps (Alfred, iTerm2, Dash, etc.) on a cloud provider, so that I can share them between computers and have a backup (it's actually one of my selection criteria when I try a new tool — "can I sync the settings easily?"). The tools are tailored to my use, and I don't have to customize them again.</p>
-<p>I automated our servers installation so that I could nuke and reinstantiate them easily. I had a doubt about something I did? No worry, let's just start from the beginning.</p>
+<p>I automated and documented our servers installation so that I could nuke and reinstantiate them easily. I'm not an experienced sysadmin at all, so having this ability to restart from scratch was a godsend to me.</p>
 <p>It's not pure automation, but it falls in the same ballpark for me. <strong>It's emptying your brain so that you can focus on what you care.</strong> <em>And, bonus, it's fun to do!</em></p>
 <hr>
 <p>As a different example: I scan and store all my documents online (pro or perso). When I'm asked for something (passport? last phone bill?), I take my phone, get the document and send it or print it directly.</p>
