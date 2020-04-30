@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://matthieuoger.com</id>
-  <updated>2020-04-27T17:57:08.704Z</updated>
+  <updated>2020-04-30T17:37:49.695Z</updated>
   <title>Matthieu Oger</title>
   <icon>https://matthieuoger.com/feed.png</icon>
   <link href="https://matthieuoger.com/atom.xml" rel="self"/>
@@ -9,6 +9,41 @@
     <name>Matthieu Oger</name>
     <uri>https://matthieuoger.com</uri>
   </author>
+  <entry>
+    <id>https://matthieuoger.com/2020/04/outcome-successful-strategy/</id>
+    <updated>2020-04-30T00:00:00.000Z</updated>
+    <title>The Outcome of a Successful Strategy</title>
+    <link href="https://matthieuoger.com/2020/04/outcome-successful-strategy/"/>
+    <content type="html"><![CDATA[<p>Vjeux in “<a href="https://blog.vjeux.com/2020/analysis/make-the-game-easy.html">Make the game easy</a>”:</p>
+<blockquote>
+<p>[About building software] When I see people <strong>doing very visible and consequential actions</strong>, I find myself thinking that they are doing a “hero shot” and it must mean that they <strong>got “out of position” for the past few shots</strong> and now the <strong>only option that they have left is unsatisfying</strong> but there’s no other choice.</p>
+<p>On the other hand, I see people appearing to somehow <strong>always be in easy projects</strong> where everything just works out fine and they deliver a lot of impact. I used to think that they were lucky, now I think that they are pro players and are able to plan multiple shots in advance and <strong>able to execute on their strategy</strong>.</p>
+</blockquote>
+<p>It's like the "sysadmin paradox".<sup id="fnref-1"><a href="#fn-1" class="footnote-ref">1</a></sup></p>
+<p>A great sysadmin is someone who seems to do almost nothing: the stack is functioning as expected, there's no outage (or really short ones), the software is updated, developers are autonomous, and all the processes and deployements are automated and painless<sup id="fnref-2"><a href="#fn-2" class="footnote-ref">2</a></sup>. This sysadmin is never too busy, answers quickly and acts fast. There's nothing extraordinary happening: it just… works. Almost too easy?</p>
+<p>A bad sysadmin will always be on the rush. Though… they do <em>look</em> busy.<sup id="fnref-3"><a href="#fn-3" class="footnote-ref">3</a></sup></p>
+<div class="footnotes">
+<hr>
+<ol>
+<li id="fn-1">
+<p>Actually, this applies to many jobs, but I find it egregiously visible on support ones.</p>
+<a href="#fnref-1" class="footnote-backref">↩</a>
+</li>
+<li id="fn-2">
+<p><a href="https://matthieuoger.com/2020/02/tools-as-superpowers/">Tools</a>, <a href="https://matthieuoger.com/2018/12/tools/">tools</a>, and <a href="https://matthieuoger.com/2020/04/systemic-actions-automation/">tools</a>!</p>
+<a href="#fnref-2" class="footnote-backref">↩</a>
+</li>
+<li id="fn-3">
+<p>Don't get me wrong — they are some times and/or jobs where you have no other choice than working a lot. <em>It's the attitude that matters.</em></p>
+<a href="#fnref-3" class="footnote-backref">↩</a>
+</li>
+</ol>
+</div>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
   <entry>
     <id>https://matthieuoger.com/2020/04/systemic-actions-automation/</id>
     <updated>2020-04-27T00:00:00.000Z</updated>
