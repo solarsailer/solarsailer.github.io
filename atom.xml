@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://matthieuoger.com</id>
-  <updated>2020-05-05T15:39:53.128Z</updated>
+  <updated>2020-05-05T15:42:30.830Z</updated>
   <title>Matthieu Oger</title>
   <icon>https://matthieuoger.com/feed.png</icon>
   <link href="https://matthieuoger.com/atom.xml" rel="self"/>
@@ -14,7 +14,7 @@
     <updated>2020-05-05T00:00:00.000Z</updated>
     <title>In Search of (Software) Magic</title>
     <link href="https://matthieuoger.com/2020/05/in-search-of-software-magic/"/>
-    <content type="html"><![CDATA[<p>From Linear's README in “<a href="https://linear.app/readme">In Search of Magic</a>”:</p>
+    <content type="html"><![CDATA[<p>From Linear's README, “<a href="https://linear.app/readme">In Search of Magic</a>”:</p>
 <blockquote>
 <p><strong>Software used to be magical. We were excited about the new possibilities it opened up.</strong></p>
 <p>As the decades went by, software became more common. It became a larger part of our lives and an important part of how the world operates.</p>
@@ -2150,22 +2150,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/team-of-one/</id>
-    <updated>2013-08-19T00:00:00.000Z</updated>
-    <title>Team of One</title>
-    <link href="https://matthieuoger.com/2013/08/team-of-one/"/>
-    <content type="html"><![CDATA[<p><a href="https://myles.io/thoughts/theres-no-io-in-team">There's no "I/O" in "Team"</a>:</p>
-<blockquote>
-<p>When you're a team of one, your I/O bandwidth is almost infinite. It's all in your brain, so you don't have to explain anything, write anything down, have meetings, draw on whiteboards, etc. Your available time to work collapses down to solving specific business problems with every line of code or web page update. Imagine a case where you never have to compromise, argue, make brain dead concessions or spend resources on proving your position. Assuming you are right, and have a good head for business, marketing and writing half-way decent code, you can solve a small problem very efficiently.</p>
-</blockquote>
-<p>Hard but hyper-efficient.</p>
-<p>We work <em>a bit</em> like that at <a href="https://pixelnest.io">Pixelnest</a>. <a href="https://dmayance.com">Damien</a> and me have a slightly different skill set, thus we can split the work almost equally. The advantage is that we can discuss together to avoid finishing in a dead end.</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://matthieuoger.com/2013/08/lego-architects/</id>
     <updated>2013-08-19T00:00:00.000Z</updated>
     <title>Lego Architects</title>
@@ -2176,6 +2160,22 @@
 </blockquote>
 <p>It's a wonderful idea.</p>
 <p>(via <a href="https://twitter.com/molleindustria/status/369161957988765696">@molleindustria</a>)</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://matthieuoger.com/2013/08/team-of-one/</id>
+    <updated>2013-08-19T00:00:00.000Z</updated>
+    <title>Team of One</title>
+    <link href="https://matthieuoger.com/2013/08/team-of-one/"/>
+    <content type="html"><![CDATA[<p><a href="https://myles.io/thoughts/theres-no-io-in-team">There's no "I/O" in "Team"</a>:</p>
+<blockquote>
+<p>When you're a team of one, your I/O bandwidth is almost infinite. It's all in your brain, so you don't have to explain anything, write anything down, have meetings, draw on whiteboards, etc. Your available time to work collapses down to solving specific business problems with every line of code or web page update. Imagine a case where you never have to compromise, argue, make brain dead concessions or spend resources on proving your position. Assuming you are right, and have a good head for business, marketing and writing half-way decent code, you can solve a small problem very efficiently.</p>
+</blockquote>
+<p>Hard but hyper-efficient.</p>
+<p>We work <em>a bit</em> like that at <a href="https://pixelnest.io">Pixelnest</a>. <a href="https://dmayance.com">Damien</a> and me have a slightly different skill set, thus we can split the work almost equally. The advantage is that we can discuss together to avoid finishing in a dead end.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
