@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://matthieuoger.com</id>
-  <updated>2020-04-30T17:37:49.695Z</updated>
+  <updated>2020-05-05T15:39:53.128Z</updated>
   <title>Matthieu Oger</title>
   <icon>https://matthieuoger.com/feed.png</icon>
   <link href="https://matthieuoger.com/atom.xml" rel="self"/>
@@ -9,6 +9,36 @@
     <name>Matthieu Oger</name>
     <uri>https://matthieuoger.com</uri>
   </author>
+  <entry>
+    <id>https://matthieuoger.com/2020/05/in-search-of-software-magic/</id>
+    <updated>2020-05-05T00:00:00.000Z</updated>
+    <title>In Search of (Software) Magic</title>
+    <link href="https://matthieuoger.com/2020/05/in-search-of-software-magic/"/>
+    <content type="html"><![CDATA[<p>From Linear's README in “<a href="https://linear.app/readme">In Search of Magic</a>”:</p>
+<blockquote>
+<p><strong>Software used to be magical. We were excited about the new possibilities it opened up.</strong></p>
+<p>As the decades went by, software became more common. It became a larger part of our lives and an important part of how the world operates.</p>
+<p>Today software is everywhere, but it’s become increasingly rare to encounter truly great software. Computers are faster but apps work slower. Corners are cut with each release. Product decisions are driven by A/B tests.</p>
+<p>We’ve lost the magic along the way. And the result is software that’s frustrating and boring to use.</p>
+<p>We want to bring that magic back.</p>
+</blockquote>
+<p>Then:</p>
+<blockquote>
+<p><strong>Linear was born out of our own frustrations in building software projects in successful high-growth companies. We saw the effects of subpar tools and practices in our teams, so we decided to build something better.</strong></p>
+<p>[…] We’re creating software for teams who want to create impact. We think the software you use every day to work should be of the highest quality. It should feel exciting and enticing. It should be fast. And you should feel empowered when using it. Professional tools should have professional quality.</p>
+<p>We truly believe that the tools teams use directly impact the outcome of their work. Bad tools encourage bad habits. Good tools encourage good habits.</p>
+<p>The tools we use should make us more powerful and help us to accomplish our goals. […]</p>
+</blockquote>
+<p>Finally:</p>
+<blockquote>
+<p><strong>We believe that the quality of software is driven both by the talent of its creators and how they feel while they’re crafting it. Teams that are excited, engaged and proud of their work build better software.</strong></p>
+</blockquote>
+<p>I've rarely read a company's vision <em>this</em> good and exciting. And, damn, their website looks <em>so nice</em>.</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
   <entry>
     <id>https://matthieuoger.com/2020/04/outcome-successful-strategy/</id>
     <updated>2020-04-30T00:00:00.000Z</updated>
@@ -2120,22 +2150,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/lego-architects/</id>
-    <updated>2013-08-19T00:00:00.000Z</updated>
-    <title>Lego Architects</title>
-    <link href="https://matthieuoger.com/2013/08/lego-architects/"/>
-    <content type="html"><![CDATA[<p><a href="http://www.wired.com/design/2013/08/a-lego-set-with-no-instructions-for-budding-architects/">Wired</a>:</p>
-<blockquote>
-<p>Architecture Studio, a new set from Lego, comes with 1,210 white and translucent bricks. More notable is what it lacks: namely, instructions for any single thing you’re supposed to build with it. Instead, the kit is accompanied by a thick, 277-page guidebook filled with architectural concepts and building techniques alongside real world insights from prominent architecture studios from around the globe.</p>
-</blockquote>
-<p>It's a wonderful idea.</p>
-<p>(via <a href="https://twitter.com/molleindustria/status/369161957988765696">@molleindustria</a>)</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://matthieuoger.com/2013/08/team-of-one/</id>
     <updated>2013-08-19T00:00:00.000Z</updated>
     <title>Team of One</title>
@@ -2146,6 +2160,22 @@
 </blockquote>
 <p>Hard but hyper-efficient.</p>
 <p>We work <em>a bit</em> like that at <a href="https://pixelnest.io">Pixelnest</a>. <a href="https://dmayance.com">Damien</a> and me have a slightly different skill set, thus we can split the work almost equally. The advantage is that we can discuss together to avoid finishing in a dead end.</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://matthieuoger.com/2013/08/lego-architects/</id>
+    <updated>2013-08-19T00:00:00.000Z</updated>
+    <title>Lego Architects</title>
+    <link href="https://matthieuoger.com/2013/08/lego-architects/"/>
+    <content type="html"><![CDATA[<p><a href="http://www.wired.com/design/2013/08/a-lego-set-with-no-instructions-for-budding-architects/">Wired</a>:</p>
+<blockquote>
+<p>Architecture Studio, a new set from Lego, comes with 1,210 white and translucent bricks. More notable is what it lacks: namely, instructions for any single thing you’re supposed to build with it. Instead, the kit is accompanied by a thick, 277-page guidebook filled with architectural concepts and building techniques alongside real world insights from prominent architecture studios from around the globe.</p>
+</blockquote>
+<p>It's a wonderful idea.</p>
+<p>(via <a href="https://twitter.com/molleindustria/status/369161957988765696">@molleindustria</a>)</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>

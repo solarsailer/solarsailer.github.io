@@ -8,6 +8,17 @@
   "feed_url": "https://matthieuoger.com/feed.json",
   "items": [
     {
+      "id": "https://matthieuoger.com/2020/05/in-search-of-software-magic/",
+      "url": "https://matthieuoger.com/2020/05/in-search-of-software-magic/",
+      "title": "In Search of (Software) Magic",
+      "content_html": "<p>From Linear's README in “<a href=\"https://linear.app/readme\">In Search of Magic</a>”:</p>\n<blockquote>\n<p><strong>Software used to be magical. We were excited about the new possibilities it opened up.</strong></p>\n<p>As the decades went by, software became more common. It became a larger part of our lives and an important part of how the world operates.</p>\n<p>Today software is everywhere, but it’s become increasingly rare to encounter truly great software. Computers are faster but apps work slower. Corners are cut with each release. Product decisions are driven by A/B tests.</p>\n<p>We’ve lost the magic along the way. And the result is software that’s frustrating and boring to use.</p>\n<p>We want to bring that magic back.</p>\n</blockquote>\n<p>Then:</p>\n<blockquote>\n<p><strong>Linear was born out of our own frustrations in building software projects in successful high-growth companies. We saw the effects of subpar tools and practices in our teams, so we decided to build something better.</strong></p>\n<p>[…] We’re creating software for teams who want to create impact. We think the software you use every day to work should be of the highest quality. It should feel exciting and enticing. It should be fast. And you should feel empowered when using it. Professional tools should have professional quality.</p>\n<p>We truly believe that the tools teams use directly impact the outcome of their work. Bad tools encourage bad habits. Good tools encourage good habits.</p>\n<p>The tools we use should make us more powerful and help us to accomplish our goals. […]</p>\n</blockquote>\n<p>Finally:</p>\n<blockquote>\n<p><strong>We believe that the quality of software is driven both by the talent of its creators and how they feel while they’re crafting it. Teams that are excited, engaged and proud of their work build better software.</strong></p>\n</blockquote>\n<p>I've rarely read a company's vision <em>this</em> good and exciting. And, damn, their website looks <em>so nice</em>.</p>",
+      "author": {
+        "name": "Matthieu Oger",
+        "url": "https://matthieuoger.com"
+      },
+      "date_published": "2020-05-05T00:00:00.000Z"
+    },
+    {
       "id": "https://matthieuoger.com/2020/04/outcome-successful-strategy/",
       "url": "https://matthieuoger.com/2020/04/outcome-successful-strategy/",
       "title": "The Outcome of a Successful Strategy",
@@ -844,10 +855,10 @@
       "date_published": "2013-08-26T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/lego-architects/",
-      "url": "https://matthieuoger.com/2013/08/lego-architects/",
-      "title": "Lego Architects",
-      "content_html": "<p><a href=\"http://www.wired.com/design/2013/08/a-lego-set-with-no-instructions-for-budding-architects/\">Wired</a>:</p>\n<blockquote>\n<p>Architecture Studio, a new set from Lego, comes with 1,210 white and translucent bricks. More notable is what it lacks: namely, instructions for any single thing you’re supposed to build with it. Instead, the kit is accompanied by a thick, 277-page guidebook filled with architectural concepts and building techniques alongside real world insights from prominent architecture studios from around the globe.</p>\n</blockquote>\n<p>It's a wonderful idea.</p>\n<p>(via <a href=\"https://twitter.com/molleindustria/status/369161957988765696\">@molleindustria</a>)</p>",
+      "id": "https://matthieuoger.com/2013/08/team-of-one/",
+      "url": "https://matthieuoger.com/2013/08/team-of-one/",
+      "title": "Team of One",
+      "content_html": "<p><a href=\"https://myles.io/thoughts/theres-no-io-in-team\">There's no \"I/O\" in \"Team\"</a>:</p>\n<blockquote>\n<p>When you're a team of one, your I/O bandwidth is almost infinite. It's all in your brain, so you don't have to explain anything, write anything down, have meetings, draw on whiteboards, etc. Your available time to work collapses down to solving specific business problems with every line of code or web page update. Imagine a case where you never have to compromise, argue, make brain dead concessions or spend resources on proving your position. Assuming you are right, and have a good head for business, marketing and writing half-way decent code, you can solve a small problem very efficiently.</p>\n</blockquote>\n<p>Hard but hyper-efficient.</p>\n<p>We work <em>a bit</em> like that at <a href=\"https://pixelnest.io\">Pixelnest</a>. <a href=\"https://dmayance.com\">Damien</a> and me have a slightly different skill set, thus we can split the work almost equally. The advantage is that we can discuss together to avoid finishing in a dead end.</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com"
@@ -855,10 +866,10 @@
       "date_published": "2013-08-19T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/team-of-one/",
-      "url": "https://matthieuoger.com/2013/08/team-of-one/",
-      "title": "Team of One",
-      "content_html": "<p><a href=\"https://myles.io/thoughts/theres-no-io-in-team\">There's no \"I/O\" in \"Team\"</a>:</p>\n<blockquote>\n<p>When you're a team of one, your I/O bandwidth is almost infinite. It's all in your brain, so you don't have to explain anything, write anything down, have meetings, draw on whiteboards, etc. Your available time to work collapses down to solving specific business problems with every line of code or web page update. Imagine a case where you never have to compromise, argue, make brain dead concessions or spend resources on proving your position. Assuming you are right, and have a good head for business, marketing and writing half-way decent code, you can solve a small problem very efficiently.</p>\n</blockquote>\n<p>Hard but hyper-efficient.</p>\n<p>We work <em>a bit</em> like that at <a href=\"https://pixelnest.io\">Pixelnest</a>. <a href=\"https://dmayance.com\">Damien</a> and me have a slightly different skill set, thus we can split the work almost equally. The advantage is that we can discuss together to avoid finishing in a dead end.</p>",
+      "id": "https://matthieuoger.com/2013/08/lego-architects/",
+      "url": "https://matthieuoger.com/2013/08/lego-architects/",
+      "title": "Lego Architects",
+      "content_html": "<p><a href=\"http://www.wired.com/design/2013/08/a-lego-set-with-no-instructions-for-budding-architects/\">Wired</a>:</p>\n<blockquote>\n<p>Architecture Studio, a new set from Lego, comes with 1,210 white and translucent bricks. More notable is what it lacks: namely, instructions for any single thing you’re supposed to build with it. Instead, the kit is accompanied by a thick, 277-page guidebook filled with architectural concepts and building techniques alongside real world insights from prominent architecture studios from around the globe.</p>\n</blockquote>\n<p>It's a wonderful idea.</p>\n<p>(via <a href=\"https://twitter.com/molleindustria/status/369161957988765696\">@molleindustria</a>)</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com"
