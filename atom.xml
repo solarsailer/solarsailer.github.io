@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://matthieuoger.com</id>
-  <updated>2020-05-05T15:42:30.830Z</updated>
+  <updated>2020-05-06T13:08:09.066Z</updated>
   <title>Matthieu Oger</title>
   <icon>https://matthieuoger.com/feed.png</icon>
   <link href="https://matthieuoger.com/atom.xml" rel="self"/>
@@ -9,6 +9,22 @@
     <name>Matthieu Oger</name>
     <uri>https://matthieuoger.com</uri>
   </author>
+  <entry>
+    <id>https://matthieuoger.com/2020/05/the-100ms-rule/</id>
+    <updated>2020-05-06T00:00:00.000Z</updated>
+    <title>The 100ms Rule</title>
+    <link href="https://matthieuoger.com/2020/05/the-100ms-rule/"/>
+    <content type="html"><![CDATA[<p>Superhuman in “<a href="https://superhuman.com">Blazingly Fast, The 100ms Rule</a>”:</p>
+<blockquote>
+<p>The creator of Gmail, Paul Buchheit, had a rule: every interaction should be faster than 100ms.</p>
+<p>Why? <strong>Because 100ms is the threshold where interactions feel instantaneous.</strong></p>
+</blockquote>
+<p><small>(Emphasis mine)</small></p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
   <entry>
     <id>https://matthieuoger.com/2020/05/in-search-of-software-magic/</id>
     <updated>2020-05-05T00:00:00.000Z</updated>
