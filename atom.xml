@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://matthieuoger.com</id>
-  <updated>2020-05-11T21:37:17.210Z</updated>
+  <updated>2020-05-11T21:37:32.890Z</updated>
   <title>Matthieu Oger</title>
   <icon>https://matthieuoger.com/feed.png</icon>
   <link href="https://matthieuoger.com/atom.xml" rel="self"/>
@@ -66,7 +66,7 @@
 </li>
 <li id="fn-3">
 <p>Just imagining having to write BEM classes, put everything in big files, or repeat so much HTML would feel like going back ten years ago.</p>
-<p>  I actually did that recently, and it was not horrible. But it becomes a mess much more quickly, especially if you are working with more junior developers. You need even more discipline and rigor. It's possible for a one-man website, but it can break quickly as you add more people on a project if the experience level differs a lot.</p>
+<p>  I actually did that recently, and it was <strong>not</strong> horrible. But it becomes a mess much more quickly, especially if you are working with more junior developers. You need even more discipline and rigor. It's possible for a one-man website, but it can break quickly as you add more people on a project if the experience level differs a lot.</p>
 <a href="#fnref-3" class="footnote-backref">↩</a>
 </li>
 </ol>
@@ -2464,20 +2464,6 @@ August 14, 2013
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/quote-marco-arment/</id>
-    <updated>2013-08-05T00:00:00.000Z</updated>
-    <title>New AOL CDs</title>
-    <link href="https://matthieuoger.com/2013/08/quote-marco-arment/"/>
-    <content type="html"><![CDATA[<p><a href="http://www.marco.org/2013/07/25/nexus-72">Marco Arment</a>:</p>
-<blockquote>
-<p>I offered to give my Nexus 7 and Kindle Fire to Betaworks in the Instapaper acquisition, but they had so many of both sitting around already that they declined. Tech companies with mobile apps can practically tile walls with outdated Android devices. They’re the new AOL CDs.</p>
-</blockquote>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://matthieuoger.com/2013/08/os-wp-winrt/</id>
     <updated>2013-08-05T00:00:00.000Z</updated>
     <title>Windows Phone and WinRT</title>
@@ -2499,6 +2485,20 @@ August 14, 2013
 </li>
 </ol>
 </div>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://matthieuoger.com/2013/08/quote-marco-arment/</id>
+    <updated>2013-08-05T00:00:00.000Z</updated>
+    <title>New AOL CDs</title>
+    <link href="https://matthieuoger.com/2013/08/quote-marco-arment/"/>
+    <content type="html"><![CDATA[<p><a href="http://www.marco.org/2013/07/25/nexus-72">Marco Arment</a>:</p>
+<blockquote>
+<p>I offered to give my Nexus 7 and Kindle Fire to Betaworks in the Instapaper acquisition, but they had so many of both sitting around already that they declined. Tech companies with mobile apps can practically tile walls with outdated Android devices. They’re the new AOL CDs.</p>
+</blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
