@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://matthieuoger.com</id>
-  <updated>2020-05-11T21:37:32.890Z</updated>
+  <updated>2020-05-11T21:44:55.529Z</updated>
   <title>Matthieu Oger</title>
   <icon>https://matthieuoger.com/feed.png</icon>
   <link href="https://matthieuoger.com/atom.xml" rel="self"/>
@@ -24,7 +24,7 @@
 </blockquote>
 <p>I really love small, hyper-optimized websites with just the necessary bits (<a href="https://macwright.org/2016/05/03/the-featherweight-website.html">I really enjoy reading people</a> <a href="https://paulstamatiou.com/about-this-website/">writing about this topic</a>). I did that for years. This is how I taugh students.</p>
 <p>But using React made me reevaluate my tradeoffs slightly<sup id="fnref-1"><a href="#fn-1" class="footnote-ref">1</a></sup>.</p>
-<p><strong>Components</strong> and <a href="https://en.wikipedia.org/wiki/Declarative_programming"><strong>declarative coding</strong></a> are such a better <em>programming model</em>. React is far from perfect, and some stuffs are way too complicated, but the basis is <em>right</em>. The foundations are <em>correct</em>.</p>
+<p><strong>Components</strong> and <a href="https://en.wikipedia.org/wiki/Declarative_programming"><strong>declarative coding</strong></a> are such a better <em>programming model</em>. React <em>nailed that</em>. It's far from perfect, and some stuffs are way too complicated, but the basis is <em>right</em>. The foundations are <em>correct</em>.</p>
 <hr>
 <p>Tom MacWright in “<a href="https://macwright.org/2020/05/10/spa-fatigue.html">Second-guessing the modern web</a>”:</p>
 <blockquote>
@@ -46,7 +46,7 @@
 <blockquote>
 <p>I can, for example, guarantee that this blog is faster than any Gatsby blog (and much love to the Gatsby team) because there is nothing that a React static site can do that will make it faster than a non-React static site.</p>
 </blockquote>
-<p>This is true. But perceptually, it's not necessarily the case nor that simple.<sup id="fnref-2"><a href="#fn-2" class="footnote-ref">2</a></sup></p>
+<p>This is undeniable. But perceptually, it's not necessarily the case nor that simple.<sup id="fnref-2"><a href="#fn-2" class="footnote-ref">2</a></sup></p>
 <p><br />Finally:</p>
 <blockquote>
 <p>I don’t think that everyone’s using the SPA pattern for no reason. For large corporations, it allows teams to work independently: the “frontend engineers” can “consume” “APIs” from teams that probably work in a different language and can only communicate through the hierarchy. For heavily interactive applications, it has real benefits in modularity, performance, and structure.</p>
