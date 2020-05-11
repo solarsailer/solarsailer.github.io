@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://matthieuoger.com</id>
-  <updated>2020-05-06T13:08:09.066Z</updated>
+  <updated>2020-05-11T21:37:17.210Z</updated>
   <title>Matthieu Oger</title>
   <icon>https://matthieuoger.com/feed.png</icon>
   <link href="https://matthieuoger.com/atom.xml" rel="self"/>
@@ -9,6 +9,73 @@
     <name>Matthieu Oger</name>
     <uri>https://matthieuoger.com</uri>
   </author>
+  <entry>
+    <id>https://matthieuoger.com/2020/05/the-component/</id>
+    <updated>2020-05-11T00:00:00.000Z</updated>
+    <title>The Component</title>
+    <link href="https://matthieuoger.com/2020/05/the-component/"/>
+    <content type="html"><![CDATA[<p>Guillermo Rauch in the “<a href="https://rauchg.com/2020/vercel">Vercel</a>” announcement (previously <em>Zeit</em>):</p>
+<blockquote>
+<p>Today the most interesting new opportunities for modernization have shifted to the frontend. […]</p>
+<p><strong>Components Are the Right Primitive for the Frontend</strong></p>
+<p>As the demand for richer frontend experiences has grown, the pressure is for teams to deliver component and design systems - coherent frontend experiences across every platform. […]</p>
+<p>Not too long ago, people weren’t talking about components, they were talking about selector engines and the DOM. Then React […] introduced this primitive of the component. Other frameworks allow you to define components, but the movement that really pioneered this trend was React.</p>
+<p>Years ago, [we] created Next.js because of our belief that React was so powerful it could become the full engine for the frontend. We started Next.js to provide some critical new functionality to make React consumable for everyone who wanted to do <strong>everything</strong> with React, instead of just one specific component. We saw a demand for the component-based React approach to drive the full frontend experience.</p>
+</blockquote>
+<p>I really love small, hyper-optimized websites with just the necessary bits (<a href="https://macwright.org/2016/05/03/the-featherweight-website.html">I really enjoy reading people</a> <a href="https://paulstamatiou.com/about-this-website/">writing about this topic</a>). I did that for years. This is how I taugh students.</p>
+<p>But using React made me reevaluate my tradeoffs slightly<sup id="fnref-1"><a href="#fn-1" class="footnote-ref">1</a></sup>.</p>
+<p><strong>Components</strong> and <a href="https://en.wikipedia.org/wiki/Declarative_programming"><strong>declarative coding</strong></a> are such a better <em>programming model</em>. React is far from perfect, and some stuffs are way too complicated, but the basis is <em>right</em>. The foundations are <em>correct</em>.</p>
+<hr>
+<p>Tom MacWright in “<a href="https://macwright.org/2020/05/10/spa-fatigue.html">Second-guessing the modern web</a>”:</p>
+<blockquote>
+<p>The emerging norm for web development is to build a React single-page application, with server rendering. The two key elements of this architecture are something like:</p>
+<ol>
+<li>The main UI is built &#x26; updated in JavaScript using React or something similar.</li>
+<li>The backend is an API that that application makes requests against.</li>
+</ol>
+<p>[…] There is a sweet spot of React: in moderately interactive interfaces. […] The high performance parts aren’t React. […] The low performance parts don’t need to be React. […]</p>
+</blockquote>
+<p><br />Later:</p>
+<blockquote>
+<p>Don’t read this as anti-React. I still think React is pretty great, and for a particular scope of use cases it’s the best tool you can find. […]</p>
+<p>But I’m at the point where you look at where the field is and what the alternatives are – taking a second look at unloved, unpopular, uncool things […] – and think <em>what the heck is happening</em>. We’re layering optimizations upon optimizations in order to get the SPA-like pattern to fit every use case, and I’m not sure that it is, well, worth it. […]</p>
+<p>Frameworks should lure people into the <a href="https://blog.codinghorror.com/falling-into-the-pit-of-success/">pit of success</a>, where following the normal rules and using normal techniques is the winning approach. […] I don’t think that React, in this context, really is that pit of success. A naïvely implemented React SPA isn’t stable, or efficient, and it doesn’t naturally scale to significant complexity.</p>
+</blockquote>
+<p>Very true, unfortunately.</p>
+<p><br />After:</p>
+<blockquote>
+<p>I can, for example, guarantee that this blog is faster than any Gatsby blog (and much love to the Gatsby team) because there is nothing that a React static site can do that will make it faster than a non-React static site.</p>
+</blockquote>
+<p>This is true. But perceptually, it's not necessarily the case nor that simple.<sup id="fnref-2"><a href="#fn-2" class="footnote-ref">2</a></sup></p>
+<p><br />Finally:</p>
+<blockquote>
+<p>I don’t think that everyone’s using the SPA pattern for no reason. For large corporations, it allows teams to work independently: the “frontend engineers” can “consume” “APIs” from teams that probably work in a different language and can only communicate through the hierarchy. For heavily interactive applications, it has real benefits in modularity, performance, and structure.</p>
+</blockquote>
+<p>If I chose to build my new websites with Next.js or Gatsby, it's because working with styled-components and React is so much better, fun and faster. And the result can be great for the users too, <em>if done well</em>.<sup id="fnref-3"><a href="#fn-3" class="footnote-ref">3</a></sup></p>
+<p>In the end, there's no good answer here. There are just many tradeoffs (accessibility, customer experience, speed, team collaboration, developer experience, bandwith, performances, etc.). And, as always in computing, there's no <em>“ideal solution”</em>.</p>
+<div class="footnotes">
+<hr>
+<ol>
+<li id="fn-1">
+<p>Not coding in my day-to-day job also changes my priorities. Creating websites is a hobby now (and was not the main focus of Pixelnest anyways), so I value my time and enjoyment much more.</p>
+<a href="#fnref-1" class="footnote-backref">↩</a>
+</li>
+<li id="fn-2">
+<p>For example, this website is heavier, but feels faster than <a href="https://pixelnest.io/">Pixelnest</a>'s. It's slower on first and initial uncached load, but after, it becomes faster — almost instant.</p>
+<a href="#fnref-2" class="footnote-backref">↩</a>
+</li>
+<li id="fn-3">
+<p>Just imagining having to write BEM classes, put everything in big files, or repeat so much HTML would feel like going back ten years ago.</p>
+<p>  I actually did that recently, and it was not horrible. But it becomes a mess much more quickly, especially if you are working with more junior developers. You need even more discipline and rigor. It's possible for a one-man website, but it can break quickly as you add more people on a project if the experience level differs a lot.</p>
+<a href="#fnref-3" class="footnote-backref">↩</a>
+</li>
+</ol>
+</div>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
   <entry>
     <id>https://matthieuoger.com/2020/05/the-100ms-rule/</id>
     <updated>2020-05-06T00:00:00.000Z</updated>
@@ -2397,6 +2464,20 @@ August 14, 2013
     </author>
   </entry>
   <entry>
+    <id>https://matthieuoger.com/2013/08/quote-marco-arment/</id>
+    <updated>2013-08-05T00:00:00.000Z</updated>
+    <title>New AOL CDs</title>
+    <link href="https://matthieuoger.com/2013/08/quote-marco-arment/"/>
+    <content type="html"><![CDATA[<p><a href="http://www.marco.org/2013/07/25/nexus-72">Marco Arment</a>:</p>
+<blockquote>
+<p>I offered to give my Nexus 7 and Kindle Fire to Betaworks in the Instapaper acquisition, but they had so many of both sitting around already that they declined. Tech companies with mobile apps can practically tile walls with outdated Android devices. They’re the new AOL CDs.</p>
+</blockquote>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
+  <entry>
     <id>https://matthieuoger.com/2013/08/os-wp-winrt/</id>
     <updated>2013-08-05T00:00:00.000Z</updated>
     <title>Windows Phone and WinRT</title>
@@ -2418,20 +2499,6 @@ August 14, 2013
 </li>
 </ol>
 </div>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2013/08/quote-marco-arment/</id>
-    <updated>2013-08-05T00:00:00.000Z</updated>
-    <title>New AOL CDs</title>
-    <link href="https://matthieuoger.com/2013/08/quote-marco-arment/"/>
-    <content type="html"><![CDATA[<p><a href="http://www.marco.org/2013/07/25/nexus-72">Marco Arment</a>:</p>
-<blockquote>
-<p>I offered to give my Nexus 7 and Kindle Fire to Betaworks in the Instapaper acquisition, but they had so many of both sitting around already that they declined. Tech companies with mobile apps can practically tile walls with outdated Android devices. They’re the new AOL CDs.</p>
-</blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
