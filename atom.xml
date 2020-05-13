@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://matthieuoger.com</id>
-  <updated>2020-05-11T21:44:55.529Z</updated>
+  <updated>2020-05-13T16:01:00.329Z</updated>
   <title>Matthieu Oger</title>
   <icon>https://matthieuoger.com/feed.png</icon>
   <link href="https://matthieuoger.com/atom.xml" rel="self"/>
@@ -61,7 +61,7 @@
 <a href="#fnref-1" class="footnote-backref">↩</a>
 </li>
 <li id="fn-2">
-<p>For example, this website is heavier, but feels faster than <a href="https://pixelnest.io/">Pixelnest</a>'s. It's slower on first and initial uncached load, but after, it becomes faster — almost instant.</p>
+<p>For example, this website (Gatbsy, React, SPA) is heavier, but feels faster than <a href="https://pixelnest.io/">Pixelnest</a>'s (Jekyll, no-JS). It's slower on first and initial uncached load, but after, it becomes faster — almost instant.</p>
 <a href="#fnref-2" class="footnote-backref">↩</a>
 </li>
 <li id="fn-3">
