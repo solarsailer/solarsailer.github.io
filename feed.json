@@ -8,6 +8,17 @@
   "feed_url": "https://matthieuoger.com/feed.json",
   "items": [
     {
+      "id": "https://matthieuoger.com/2020/08/the-experience/",
+      "url": "https://matthieuoger.com/2020/08/the-experience/",
+      "title": "It's the Experience",
+      "content_html": "<p><a href=\"https://builtformars.co.uk/how-signing-up-to-notion-works/\">Peter Ramsey</a>:</p>\n<blockquote>\n<p>I see stuff like this every day. Companies 'trust the analytics'.</p>\n<p><em>\"99% of users complete the page, so it's not a problem\".</em></p>\n<p>But the issue isn't the completion rate, it's the <em>experience</em>.</p>\n<p>This example might only be a small confusion, that most people would overcome on their own, but it makes the experience less enjoyable.</p>\n<p>The more enjoyable an experience, the more we want our friends to do it.</p>\n</blockquote>\n<p>It's a problem I see in many products and videogames. A videogame can have a fantastic retention score, but it does not make it <em>fun</em>.</p>\n<p>I'm not against analytics (quite the contrary, if done respectfully), but it should not be your main driver. It should be a source of advices and confirmation to qualitative analysis, insights and/or gut feelings. <strong>It should be secondary to the experience itself.</strong></p>\n<p>Sometimes, you should do something because it makes your product <a href=\"http://localhost:8000/2016/03/delight/\">better and more pleasant</a>, not because it checks another item on an imaginary features checklist or because it pleases one specific client.</p>",
+      "author": {
+        "name": "Matthieu Oger",
+        "url": "https://matthieuoger.com"
+      },
+      "date_published": "2020-08-31T00:00:00.000Z"
+    },
+    {
       "id": "https://matthieuoger.com/2020/05/abstract-digital-product-design/",
       "url": "https://matthieuoger.com/2020/05/abstract-digital-product-design/",
       "title": "Digital Product Design",
@@ -1108,10 +1119,10 @@
       "date_published": "2013-07-22T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/07/unsplash/",
-      "url": "https://matthieuoger.com/2013/07/unsplash/",
-      "title": "Unsplash",
-      "content_html": "<p> Wonderful resource for high quality photos.</p>\n<p> → <a href=\"http://unsplash.com/\">See here</a>.</p>",
+      "id": "https://matthieuoger.com/2013/07/ios7-david-cole/",
+      "url": "https://matthieuoger.com/2013/07/ios7-david-cole/",
+      "title": "Is the New Apple iOS 7 Look an Improvement?",
+      "content_html": "<p><a href=\"http://www.quora.com/iOS-7/Is-the-new-Apple-iOS-7-look-an-improvement/answer/David-Cole\">David Cole on Quora</a>:</p>\n<blockquote>\n<p>I have a different perspective than most of the other answerers here. I don't think the interesting components of iOS 7 are found in the icons or the color or the type — those are relatively self-contained and thus easy to change and evolve. I think the most interesting changes, and the best changes, run much deeper than that, and yet they're intrinsically linked to the \"look\" of it.</p>\n</blockquote>\n<p>One of the best analysis that I've read about iOS 7.</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com"
@@ -1119,10 +1130,10 @@
       "date_published": "2013-07-04T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/07/ios7-david-cole/",
-      "url": "https://matthieuoger.com/2013/07/ios7-david-cole/",
-      "title": "Is the New Apple iOS 7 Look an Improvement?",
-      "content_html": "<p><a href=\"http://www.quora.com/iOS-7/Is-the-new-Apple-iOS-7-look-an-improvement/answer/David-Cole\">David Cole on Quora</a>:</p>\n<blockquote>\n<p>I have a different perspective than most of the other answerers here. I don't think the interesting components of iOS 7 are found in the icons or the color or the type — those are relatively self-contained and thus easy to change and evolve. I think the most interesting changes, and the best changes, run much deeper than that, and yet they're intrinsically linked to the \"look\" of it.</p>\n</blockquote>\n<p>One of the best analysis that I've read about iOS 7.</p>",
+      "id": "https://matthieuoger.com/2013/07/unsplash/",
+      "url": "https://matthieuoger.com/2013/07/unsplash/",
+      "title": "Unsplash",
+      "content_html": "<p> Wonderful resource for high quality photos.</p>\n<p> → <a href=\"http://unsplash.com/\">See here</a>.</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com"
