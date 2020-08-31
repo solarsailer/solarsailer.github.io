@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://matthieuoger.com</id>
-  <updated>2020-08-31T17:42:11.272Z</updated>
+  <updated>2020-08-31T20:14:10.018Z</updated>
   <title>Matthieu Oger</title>
   <icon>https://matthieuoger.com/feed.png</icon>
   <link href="https://matthieuoger.com/atom.xml" rel="self"/>
@@ -1091,33 +1091,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2016/03/java/</id>
-    <updated>2016-03-17T00:00:00.000Z</updated>
-    <title>Why Do Many Software Engineers Hate Java?</title>
-    <link href="https://matthieuoger.com/2016/03/java/"/>
-    <content type="html"><![CDATA[<p><a href="https://www.quora.com/Why-do-many-software-engineers-not-like-Java/answer/Michael-O-Church">Michael O. Church</a>:</p>
-<blockquote>
-<p>First, let's cover the technical issues. It's verbose, combines the worst of both worlds between static and dynamic typing by having a hobbled but extremely clunky type system, and mandates running on a virtual machine (VM) that has a macroscopic startup time (not an issue for long-running servers, but painful for command-line applications). […]</p>
-<p>The VM itself has a lot to recommend it. It offers concurrency and garbage collection at a level of quality that, until recently, wasn't found anywhere else. […] Much important software in the early 2000s was written in Java because, at the time, it was the best choice, even taking the mediocrity of the language itself into account. It had Unicode (albeit, UTF-16) from the start and a strong concurrency story, and it was a notch above C++ in terms of user experience. […]</p>
-<p>If you put Java on a technical trial, it doesn't do so bad. The <em>language</em> sucks, the platform is pretty good for most purposes. I do hate the dominant interpretation of "object-oriented programming" with a passion, because it objectively sucks. […]</p>
-<p>So let's talk about the political and cultural issues. First, the dominant Java culture is one of mediocrity and bad taste, with MetaModelVibratorVisitorFactory classes dominating. I've heard a number of experts on "the Java issue" argue that Java's biggest problem is the community, and that comes directly from the fact that good programmers don't want to deal with the bastardization of OOP that has entrenched itself in mainstream corporate development. You have a lot of people who trained up as "Java programmers", haven't seen a command line ever, and have no clue how the computer actually works. Most of them have never actually written a program; they just write classes and some Senior Chief Architect (who makes $246,001 per year and hasn't written a line of code since the 1990s) figures out how to stitch them together, and then tells some other clueless junior how to implement the glue in the gutshot hope that one will actually have the talent to make an actual working program out of the mess.</p>
-<p>This isn't inherent to the JVM, because Clojure (currently hosted on the JVM, although its endgame seems to be language-agnosticism) has a radically different (and better) community. Scala's community is more mixed, but the top Scala engineers (the ones making tools like Spark and Kestrel) are really fucking good.</p>
-<p>[…]</p>
-<p>So, the short answer is: it's mostly not about the underlying platform (which is generally of high quality) and its only partly about the language (which is mediocre but can't be blamed directly for community problems). It goes a lot deeper than that, and not all of it is Java's fault. However, Java takes its share of the blame for its clear favoritism toward large programs (technically, established by its long startup time) and by its support of a very ugly (and counterproductive) variety of object-oriented programming.</p>
-</blockquote>
-<p><a href="https://www.quora.com/Why-do-many-software-engineers-not-like-Java/answer/Stanley-Idesis">Stanley Idesis</a>:</p>
-<blockquote>
-<p>I’ve read the popular answers and will claim no contest to a majority of the complaints I found. […] However, here’s why I <em>love</em> it. […]</p>
-<p>In the Android world, developers use Java because they <em>have</em> to. However, much creativity has sprung from that limitation. People have written many excellent OS libraries in Java for Android. The platform continues to be a hotbed of Java activity which developers contribute to from all over the world. […]</p>
-<p>Android’s open nature, wide distribution, and powerful support from Google are almost enough to make Java hip again. […] Sure, some may argue that other runtimes and languages can enable the same capabilities of the device, but for whatever reason, Android chose Java.</p>
-<p>Until Google changes its mind, Java will remain relevant and the source of fascinating developments in the software community as long as Android remains popular.</p>
-</blockquote>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://matthieuoger.com/2016/03/virtual-reality/</id>
     <updated>2016-03-17T00:00:00.000Z</updated>
     <title>VR Is Not The Future</title>
@@ -1169,6 +1142,33 @@
 </li>
 </ol>
 </div>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://matthieuoger.com/2016/03/java/</id>
+    <updated>2016-03-17T00:00:00.000Z</updated>
+    <title>Why Do Many Software Engineers Hate Java?</title>
+    <link href="https://matthieuoger.com/2016/03/java/"/>
+    <content type="html"><![CDATA[<p><a href="https://www.quora.com/Why-do-many-software-engineers-not-like-Java/answer/Michael-O-Church">Michael O. Church</a>:</p>
+<blockquote>
+<p>First, let's cover the technical issues. It's verbose, combines the worst of both worlds between static and dynamic typing by having a hobbled but extremely clunky type system, and mandates running on a virtual machine (VM) that has a macroscopic startup time (not an issue for long-running servers, but painful for command-line applications). […]</p>
+<p>The VM itself has a lot to recommend it. It offers concurrency and garbage collection at a level of quality that, until recently, wasn't found anywhere else. […] Much important software in the early 2000s was written in Java because, at the time, it was the best choice, even taking the mediocrity of the language itself into account. It had Unicode (albeit, UTF-16) from the start and a strong concurrency story, and it was a notch above C++ in terms of user experience. […]</p>
+<p>If you put Java on a technical trial, it doesn't do so bad. The <em>language</em> sucks, the platform is pretty good for most purposes. I do hate the dominant interpretation of "object-oriented programming" with a passion, because it objectively sucks. […]</p>
+<p>So let's talk about the political and cultural issues. First, the dominant Java culture is one of mediocrity and bad taste, with MetaModelVibratorVisitorFactory classes dominating. I've heard a number of experts on "the Java issue" argue that Java's biggest problem is the community, and that comes directly from the fact that good programmers don't want to deal with the bastardization of OOP that has entrenched itself in mainstream corporate development. You have a lot of people who trained up as "Java programmers", haven't seen a command line ever, and have no clue how the computer actually works. Most of them have never actually written a program; they just write classes and some Senior Chief Architect (who makes $246,001 per year and hasn't written a line of code since the 1990s) figures out how to stitch them together, and then tells some other clueless junior how to implement the glue in the gutshot hope that one will actually have the talent to make an actual working program out of the mess.</p>
+<p>This isn't inherent to the JVM, because Clojure (currently hosted on the JVM, although its endgame seems to be language-agnosticism) has a radically different (and better) community. Scala's community is more mixed, but the top Scala engineers (the ones making tools like Spark and Kestrel) are really fucking good.</p>
+<p>[…]</p>
+<p>So, the short answer is: it's mostly not about the underlying platform (which is generally of high quality) and its only partly about the language (which is mediocre but can't be blamed directly for community problems). It goes a lot deeper than that, and not all of it is Java's fault. However, Java takes its share of the blame for its clear favoritism toward large programs (technically, established by its long startup time) and by its support of a very ugly (and counterproductive) variety of object-oriented programming.</p>
+</blockquote>
+<p><a href="https://www.quora.com/Why-do-many-software-engineers-not-like-Java/answer/Stanley-Idesis">Stanley Idesis</a>:</p>
+<blockquote>
+<p>I’ve read the popular answers and will claim no contest to a majority of the complaints I found. […] However, here’s why I <em>love</em> it. […]</p>
+<p>In the Android world, developers use Java because they <em>have</em> to. However, much creativity has sprung from that limitation. People have written many excellent OS libraries in Java for Android. The platform continues to be a hotbed of Java activity which developers contribute to from all over the world. […]</p>
+<p>Android’s open nature, wide distribution, and powerful support from Google are almost enough to make Java hip again. […] Sure, some may argue that other runtimes and languages can enable the same capabilities of the device, but for whatever reason, Android chose Java.</p>
+<p>Until Google changes its mind, Java will remain relevant and the source of fascinating developments in the software community as long as Android remains popular.</p>
+</blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
@@ -1438,23 +1438,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2015/09/quote-myke-hurley-atv-console/</id>
-    <updated>2015-09-03T00:00:00.000Z</updated>
-    <title>The New Rumored Apple TV — a Gaming Console?</title>
-    <link href="https://matthieuoger.com/2015/09/quote-myke-hurley-atv-console/"/>
-    <content type="html"><![CDATA[<p><a href="https://overcast.fm/+CHZ-L5Yhc/1:04:59">Myke Hurley</a>:</p>
-<blockquote class="transcript">
-<p>If [Apple] do not show a first party gaming focused controller [for the new rumored Apple TV], I think that they are not as committed to games as they might think. […]</p>
-<p>And it needs to be a controller with buttons on it.</p>
-</blockquote>
-<p>Exactly my thought.</p>
-<p><a href="http://steredenn.pixelnest.io">Steredenn</a> would be cool on the alleged Apple TV… but without a dedicated controller, it's a no go.</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://matthieuoger.com/2015/08/dead-or-finished-libraries/</id>
     <updated>2015-08-21T00:00:00.000Z</updated>
     <title>Dead or Finished Libraries?</title>
@@ -1638,39 +1621,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2015/02/origami-2/</id>
-    <updated>2015-02-25T00:00:00.000Z</updated>
-    <title>Origami 2.0</title>
-    <link href="https://matthieuoger.com/2015/02/origami-2/"/>
-    <content type="html"><![CDATA[<p>Facebook released <a href="https://code.facebook.com/posts/883904991672650/introducing-origami-live/">Origami 2.0</a> yesterday… and wow, that's a huge update.</p>
-<p><a href="https://matthieuoger.com/2014/02/origami-quartz-composer/">I've already spoken about Origami one year ago</a>. I didn't have the chance to use this software that much since, but I'm still keeping an eye on it. And I'm really impressed by the 2.0 version.</p>
-<p><a href="https://medium.com/@bwalkin/introducing-origami-live-and-origami-2-0-a68116294e65">Brandon Walkin on Medium</a>:</p>
-<blockquote>
-<p>Today, we’re excited to release Origami Live for iOS along with a major new version of Origami for Mac. Origami Live is a new app that lets you use your Origami prototypes on your iPhone or iPad. Alongside it, we’re releasing Origami 2.0, which has a ton of new features, including code exporting, powerful gesture support, Sketch integration, presentation mode, and more.</p>
-</blockquote>
-<p>I've watched the new video tutorials on the site and tested <a href="https://itunes.apple.com/app/id942636206">Origami Live</a> (a companion app that displays your prototype right on your phone). It worked flawlessly and the results were impressive. The app is smooth and perfectly synchronized with the desktop viewer.</p>
-<p>I didn't try the Sketch integration, but if it works as advertised, that's a big win for my workflow.</p>
-<p>They have also added a ton of new shortcuts to speed-up the app. Like if you press <code class="language-text">t</code> between two nodes (when hovering on the output or input of a node), Origami will automatically insert a <code class="language-text">transition</code> node between them:</p>
-<p><img src="/images/posts/2015-02-25-origami-shortcut.gif" alt="Origami new shortcuts"></p>
-<p>There's a lot more that you can learn by <a href="http://facebook.github.io/origami/tutorials/">watching the videos</a> or <a href="http://facebook.github.io/origami/documentation/concepts/KeyboardShortcuts.html">reading the full list of shortcuts</a>. The documentation is much more complete than when I tried Origami last year. At the time, it was really difficult to get into it. It looks way easier now.<sup id="fnref-1"><a href="#fn-1" class="footnote-ref">1</a></sup></p>
-<p>You can <a href="http://facebook.github.io/origami/">download Origami here</a> (it requires Quartz Composer).</p>
-<hr>
-<p>If you are interested in Quartz Composer &#x26; Origami, there's also a plugin named <a href="https://labs.ideo.com/2014/05/27/avocado/">"Avocado"</a> that enhances Origami. It has been updated for the 2.0 release, but I didn't use it with the latest version.</p>
-<div class="footnotes">
-<hr>
-<ol>
-<li id="fn-1">
-<p>I might be wrong, but I also have the impression that they removed the need for the patch inspector. It looks like you can do everything directly on the canvas now. But this may be the case since the previous versions.</p>
-<a href="#fnref-1" class="footnote-backref">↩</a>
-</li>
-</ol>
-</div>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://matthieuoger.com/2015/01/something-slightly-less-terrible/</id>
     <updated>2015-01-15T00:00:00.000Z</updated>
     <title>Something Slightly Less Terrible</title>
@@ -1680,36 +1630,6 @@
 <p>The more I learn, the more terrible I think programming is. I’d love to rip everything up and start over. But you can only swim against the tide so far, so it’s sometimes satisfying to sift through the garbage and repurpose terrible technologies to make something that is slightly less terrible. […]</p>
 <p>It’s not like a boat with a couple of holes that we can patch; it’s more like trying to sail across an ocean on a pile of accrued garbage. Sure, some of the stuff floats, and it keeps some other stuff from sinking. A better question might be: which parts are good? And you can only answer that if you look at a thing in isolation.</p>
 </blockquote>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2014/12/aaron-draplin-logo-design/</id>
-    <updated>2014-12-22T00:00:00.000Z</updated>
-    <title>Aaron Draplin Takes On A Logo Design Challenge</title>
-    <link href="https://matthieuoger.com/2014/12/aaron-draplin-logo-design/"/>
-    <content type="html"><![CDATA[<iframe width="800" height="404" src="https://www.youtube.com/embed/zOPA0NaeTBk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<p>(/via <a href="http://ignorethecode.net/blog/2014/12/11/watch_aaron_draplin_design_a_logo/">ignore the code</a>)</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2014/12/get-info-redesign/</id>
-    <updated>2014-12-21T00:00:00.000Z</updated>
-    <title>&quot;Get Info&quot; redesign</title>
-    <link href="https://matthieuoger.com/2014/12/get-info-redesign/"/>
-    <content type="html"><![CDATA[<p><a href="https://www.behance.net/gallery/19050689/MacOS-Get-Info-Design">"Get Info" redesign on Behance:</a></p>
-<p><img src="/images/posts/2014-12-21-get-info-redesign.png" alt="OSX Get Info Design"></p>
-<blockquote>
-<p>Everyone who has ever worked on MacOS has felt this pain at least once.</p>
-<p>You select a couple of files, right click, open the menu, and tap Get Info…</p>
-</blockquote>
-<p>Nice.</p>
-<p>(/via <a href="http://www.subtraction.com/2014/12/17/get-info-redesigned/">Subtraction</a>)</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
@@ -1748,30 +1668,6 @@
 <p>Because I will forget to stand up as soon as I'm working, <a href="https://gist.github.com/solarsailer/6328415616b485ff7bef">I've made a little "app" for OSX</a>. In fact, it's just a simple automator app that will trigger a notification for three minutes. Follow the gist above to know how to use it. It's dead simple, but <strong>it works</strong>.</p>
 <hr>
 <p>NB: this advice is especially true for self-employed people (because you can't take a break with your coworkers), but anybody working at a desk for several hours should do it. It costs nothing, and your body will love it.</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2014/07/material-design/</id>
-    <updated>2014-07-01T00:00:00.000Z</updated>
-    <title>Material Design</title>
-    <link href="https://matthieuoger.com/2014/07/material-design/"/>
-    <content type="html"><![CDATA[<p>I've finally watched the Material Design segment of the Google I/O 2014 keynote.</p>
-<p><img src="/images/posts/2014-07-01-material-design.png" alt="Material Design"></p>
-<p><strong>Material Design</strong> is the new Google's design language. It looks promising and great. There are some nice ideas, akin to iOS 7, like depth (automatically integrated by a z-axis with live shadows rendering for developers) or transitions and animations as first-class citizens.</p>
-<p>Bonus? A <a href="http://www.google.com/design/">comprehensive set of guidelines</a> with a lot of examples.</p>
-<p>Unfortunately, there is some bullshit lines lurking inside the documentation…</p>
-<blockquote>
-<p>Create a visual language that synthesizes classic principles of good design with the innovation and possibility of technology and science. […]</p>
-<p>A material metaphor is the unifying theory of a rationalized space and a system of motion. The material is grounded in tactile reality, inspired by the study of paper and ink, yet technologically advanced and open to imagination and magic.</p>
-</blockquote>
-<p>Please, oh please, don't let marketing people write technical papers.</p>
-<hr>
-<p>I'm really eager to see how it will be implemented in Android &#x26; the Google web apps (if I understood well, the current Android L preview is not completely converted to Material Design yet).</p>
-<p>There's still a lot of things that I don't like about Android and there's still a lot of rough edges (the awful black navigation bar, the heavy use of small typography, weird transitions &#x26; cie), but it's a great step forward for the platform. <em>And there's even a decent status bar now!</em></p>
-<p>The real problem for Google is to force developers to adapt to the new style. It's the fourth Android redesign (if I recount well) and the majority of the Android apps are still looking bad. I hope that this time, developers will rejoice and follow Google's lead.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
@@ -1824,42 +1720,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2014/04/monument-valley/</id>
-    <updated>2014-04-04T00:00:00.000Z</updated>
-    <title>Monument Valley</title>
-    <link href="https://matthieuoger.com/2014/04/monument-valley/"/>
-    <content type="html"><![CDATA[<p><img src="/images/posts/2014-04-04-monument-valley.png" alt="Monument Valley"></p>
-<p>A wonderful new game (available on iOS and soon on Android). It reminds me of <a href="http://fezgame.com/">Fez</a>, <a href="http://thatgamecompany.com/games/journey/">Journey</a> and <a href="http://www.swordandsworcery.com/">Sworcery</a>, but still with its own unique atmosphere and mechanics.</p>
-<p>The game is short, reasonably priced (4$) and stunning. Sounds are just perfect.</p>
-<p>I'm pretty sure that this game is going to generalize <a href="http://imgur.com/a/knj1I#8">low-poly graphics</a> in indie games.</p>
-<p>→ <a href="http://monumentvalleygame.com/">More info here</a>.</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2014/02/origami-quartz-composer/</id>
-    <updated>2014-02-05T00:00:00.000Z</updated>
-    <title>Interaction Prototyping with Origami</title>
-    <link href="https://matthieuoger.com/2014/02/origami-quartz-composer/"/>
-    <content type="html"><![CDATA[<p><a href="http://facebook.github.io/origami/">Origami</a> is a plugin for <a href="http://en.wikipedia.org/wiki/Quartz_Composer">Quartz Composer</a>, developed by Facebook.</p>
-<p><img src="/images/posts/2014-02-05-origami.jpg" alt="Origami"></p>
-<p>Initially, Quartz Composer is a “visual programming” environment to create animated scenes.</p>
-<p>But recently, <a href="https://medium.com/the-year-of-the-looking-glass/af182add5a2f">some designers</a> have started to use it to mockup animations and interactions.</p>
-<p>Because the primary goal of Quartz Composer is to create motion graphics, it makes sense to use it for interaction prototyping. The problem is that there isn't a lot of patches (a patch is like an instance of a class in a classic object-oriented programming language) dedicated to user interface in Quartz Composer.</p>
-<p>That's where Origami steps in:</p>
-<blockquote>
-<p>Origami provides a set of tools for Quartz Composer that make interaction prototyping a lot easier.</p>
-<p>Animations, transitions, buttons, layers, phones, etc.</p>
-</blockquote>
-<p>I recommend to watch <a href="https://vimeo.com/85578380">this video</a> to get a brief overview of what is possible with Origami. It's intriguing, it looks promising and it motivates me to learn Quartz Composer more seriously.</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://matthieuoger.com/2014/01/how-netflix-reverse-engineered-hollywood/</id>
     <updated>2014-01-07T00:00:00.000Z</updated>
     <title>How Netflix Reverse Engineered Hollywood</title>
@@ -1901,19 +1761,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/10/below/</id>
-    <updated>2013-10-23T00:00:00.000Z</updated>
-    <title>Below</title>
-    <link href="https://matthieuoger.com/2013/10/below/"/>
-    <content type="html"><![CDATA[<p><img src="/images/posts/2013-10-23-below.jpg" alt="Below"></p>
-<p>It looks (and sounds) gorgeous. And it's made by Capy, which is arguably one of the best video game studios out there.</p>
-<p>→ <a href="http://whatliesbelow.com/">What Lies Below</a>.</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://matthieuoger.com/2013/10/how-designers-destroyed-the-world/</id>
     <updated>2013-10-22T00:00:00.000Z</updated>
     <title>How Designers Destroyed the World</title>
@@ -1946,24 +1793,6 @@
 <p>I am not proposing a code-like-hell methodology. I am merely observing that, in my experience, <strong>coding without planning is just as futile as coding with too much planning</strong>. Software development is <a href="http://www.codinghorror.com/blog/archives/000071.html">a wicked problem</a>; you should never make planning decisions without some kind of code prototype to ensure that you're making informed decisions. If you plan too far ahead of the code, I guarantee you are doing work that will be thrown away or altered until it is unrecognizable.</p>
 <p>The most destructive symptom of over-planning is the wrongheaded idea that being a Software Architect™ means drawing a lot of UML diagrams and handing them off to a group of developers in Bangalore. <strong>UML is great if you don't want to do any work; you just draw pictures of what it would look like if work was actually done</strong>. This is not only borderline laziness, it's also a recipe for disaster. You can't architect a real world application on a whiteboard. You must prototype it in code to gather data on the performance and design implications of the choices you are making.</p>
 </blockquote>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2013/10/m7/</id>
-    <updated>2013-10-02T00:00:00.000Z</updated>
-    <title>M7</title>
-    <link href="https://matthieuoger.com/2013/10/m7/"/>
-    <content type="html"><![CDATA[<p><a href="http://9to5mac.com/2013/09/29/more-m7-details-data-storage-battery-life-android-motion-coprocessor-adoption/">9to5Mac</a>:</p>
-<blockquote>
-<p>For pre-iPhone 5s devices, ARGUS usually drains about 20-30% of battery life per day while running in the background. The app continually checks for motion and calculates the distance and number of steps using the accelerometer and GPS. With the M7, however, the app does not need to be running in order to keep track of the number of steps – all of that data is tracked by the M7. <strong>As such, ARGUS no longer takes up any battery power while running in the background and the stated battery life from Apple – 10 hours 3G talk time, 250 hours of standby – will stay exactly the same</strong>. […]</p>
-<p>The M7 APIs allow developers to query information about the user’s current transportation status (whether they’re in a car, walking, not moving, etc.).</p>
-</blockquote>
-<p><small>(Emphasis mine)</small></p>
-<p>If this is true, it's impressive.</p>
-<p>I hope that the use of the M7 will expand outside of the fitness and health apps.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
@@ -2017,38 +1846,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/09/apple-is-future-proof/</id>
-    <updated>2013-09-16T00:00:00.000Z</updated>
-    <title>Apple Is Future Proof</title>
-    <link href="https://matthieuoger.com/2013/09/apple-is-future-proof/"/>
-    <content type="html"><![CDATA[<p>“<a href="http://cannyvision.com/2013/09/12/the-most-forward-thinking-apple-yet.html">The Most Forward Thinking Apple Yet</a>”:</p>
-<blockquote>
-<p>In many ways, WWDC, and more so, the iPhone 5C and 5S represent (and had to represent) Apple's reply to the naysayers. <strong>However, I think there was more to the announcements than what met the eye.</strong></p>
-</blockquote>
-<p><small>(Emphasis mine)</small></p>
-<p>Read the whole thing.</p>
-<p>Everything that Apple announced last week has no real purpose currently — or only a fraction of what will be possible with one day.</p>
-<p>For example, the fingerprint sensor is a really neat idea, but <a href="https://medium.com/mobile-world/b16ba37c433a">we will be able to do a lot more with it in the future</a>. The use of the M7 motion co-processor or the 64-bits iOS are even less tangible. Unless you are Apple and you know what will be released next.</p>
-<p>They are calmly preparing the ground for the shape of things to come. <em>It's thrilling.</em></p>
-<p><br>N.B.: The Bluetooth LE technology that was embedded a few years ago was exactly that: at that time, it was useless, but in the context of a wearable Apple watch, it makes a <strong>lot</strong> of sense.</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2013/09/reeder-2/</id>
-    <updated>2013-09-12T00:00:00.000Z</updated>
-    <title>Reeder 2</title>
-    <link href="https://matthieuoger.com/2013/09/reeder-2/"/>
-    <content type="html"><![CDATA[<p>Hell, it's about time.</p>
-<p>→ <a href="https://itunes.apple.com/nz/app/reeder-2/id697846300?ls=1&#x26;mt=8">Get here</a>.</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://matthieuoger.com/2013/09/brand-and-logo/</id>
     <updated>2013-09-11T00:00:00.000Z</updated>
     <title>Brand and Logo</title>
@@ -2085,83 +1882,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/09/inventing-the-favicon/</id>
-    <updated>2013-09-05T00:00:00.000Z</updated>
-    <title>Inventing the Favicon</title>
-    <link href="https://matthieuoger.com/2013/09/inventing-the-favicon/"/>
-    <content type="html"><![CDATA[<p><a href="http://ruthlessray.wordpress.com/2013/09/02/inventing-favicon-ico/">Inventing Favicon.ico</a>:</p>
-<blockquote>
-<p>Bharat said, “this is good, right? Check it in?” And I said, “yeah, sure, how does it work?” […]</p>
-<p>So there you go, the story of the invention of favicon.ico.</p>
-</blockquote>
-<p>The story of a small and useful feature that was almost cancelled for no good reason.</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2013/09/samsung-and-watches/</id>
-    <updated>2013-09-05T00:00:00.000Z</updated>
-    <title>Samsung and Watches</title>
-    <link href="https://matthieuoger.com/2013/09/samsung-and-watches/"/>
-    <content type="html"><![CDATA[<p><a href="http://stratechery.com/2013/shameless-samsung/">Ben Thompson nails it in “Shameless Samsung“</a>:</p>
-<blockquote>
-<p>I jumped on the leaked prototype, with the same general sentiment: Samsung’s watch will undoubtedly change drastically whenever Apple’s wearable is released. And, to be certain, we will mock them for copying. […]</p>
-<p>We, especially in the West, have a powerful sense of justice and fairness when it comes to product features and being first. Business, though, is not fair, even if it is more just than we care to admit.</p>
-</blockquote>
-<p>The Samsung Galaxy Gear is horrid. I was tempted to write an article about watches and Samsung last week, but Ben Thompson did it way better today.</p>
-<ul>
-<li>Samsung rushes to create a ridiculous watch in order to be the first.</li>
-<li>Someone else (probably Apple) will release a great watch.</li>
-<li>Samsung will copy it.</li>
-</ul>
-<p>But hey, it's business, so it does not really matter if it's fair.</p>
-<p>N.B.: The only thing that is against Samsung in this case is that watches are fashion accessories.</p>
-<p>The only hardware maker that has a sense of fashion is Apple (the iPhone is almost a “jewel” in its form after all). A watch needs to be elegant and refined. Samsung is probably incapable of doing that given its history of tasteless products.</p>
-<p>N.B. 2: The fun fact with watches is that ordinary, they are quite expensive. $300-400 for a “smart” watch that looks like a quality watch won't be that much for the targeted market.</p>
-<p><strong>Update on N.B. 2</strong>:</p>
-<blockquote class="twitter-tweet">
-<p>My watch is gold too. Thieves: grab that instead. You can buy a good few iPhones with the proceeds.</p>&mdash; Matt Gemmell (@mattgemmell) <a href="https://twitter.com/mattgemmell/statuses/385121349712490497">October 1, 2013</a>
-</blockquote>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2013/09/myosis/</id>
-    <updated>2013-09-04T00:00:00.000Z</updated>
-    <title>Myosis</title>
-    <link href="https://matthieuoger.com/2013/09/myosis/"/>
-    <content type="html"><![CDATA[<p>A gorgeous short film.</p>
-<p>→ <a href="https://vimeo.com/73617382">Watch here</a>.</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2013/09/sketch-23/</id>
-    <updated>2013-09-04T00:00:00.000Z</updated>
-    <title>Sketch 2.3</title>
-    <link href="https://matthieuoger.com/2013/09/sketch-23/"/>
-    <content type="html"><![CDATA[<p>The biggest new yesterday was not that Microsoft bought Nokia. In fact, it was written on the wall for more than 2 years. And others have blogged <a href="http://stratechery.com/2013/the-deal-that-makes-no-sense/">better</a> <a href="http://ben-evans.com/benedictevans/2013/9/3/microsoft-and-nokia">things</a> than I could.</p>
-<p>No, <a href="http://bohemiancoding.tumblr.com/post/60070936484/sketch-2-3">it was the release of Sketch 2.3</a>.</p>
-<p>There's a lot of things that I like in this new version:</p>
-<ul>
-<li>Speed. <strong>It is incomparable</strong>.</li>
-<li>PDF import. I was looking for that for a long time.</li>
-<li>Sketch Mirror.</li>
-</ul>
-<p>The only downside of this release is when I work with text. It doesn't feel smooth.</p>
-<p>Such an awesome piece of software.</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://matthieuoger.com/2013/08/nintendo-2ds/</id>
     <updated>2013-08-30T00:00:00.000Z</updated>
     <title>Nintendo 2DS</title>
@@ -2172,24 +1892,6 @@
 <p>And this, finally, brings all of this back to the topic of design. If you want to design a successful product, don’t design a product that’s only good for people like you, because most people aren’t like you.</p>
 </blockquote>
 <p>Do not miss the footnotes either.</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2013/08/quote-modern-journalism/</id>
-    <updated>2013-08-29T00:00:00.000Z</updated>
-    <title>Modern Journalism</title>
-    <link href="https://matthieuoger.com/2013/08/quote-modern-journalism/"/>
-    <content type="html"><![CDATA[<p>This tweet could not better describe my feeling:</p>
-<blockquote class="twitter-tweet">
-  <p>
-    Modern journalism is 90% reporting what people are saying on Twitter.
-  </p>
-<p>  — God (@TheTweetOfGod)
-<a href="https://twitter.com/TheTweetOfGod/statuses/359441152522469376">July 22, 2013</a></p>
-</blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
@@ -2216,21 +1918,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/amazon-new-product-page/</id>
-    <updated>2013-08-28T00:00:00.000Z</updated>
-    <title>Amazon&apos;s New Product Page</title>
-    <link href="https://matthieuoger.com/2013/08/amazon-new-product-page/"/>
-    <content type="html"><![CDATA[<p><a href="http://bokardo.com/archives/a-thought-on-amazons-new-product-page-design/">Interesting article on Bokardo</a> about Amazon's "new" product page:</p>
-<blockquote>
-<p>If Amazon were to make a big change, like for example do some actual visual design so everything didn’t have the same visual weight, the mere shock of the change would probably send their revenue downward, at least initially. People dislike change because change is work. They have to figure out what changed, adapt to it, relearn the UI, and still try to get their job done (they one they used to know how to do). <strong>So the next time you hear “People hate change” think to yourself “People don’t hate change. They hate the work of change”.</strong></p>
-</blockquote>
-<p><small>(Emphasis mine)</small></p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://matthieuoger.com/2013/08/quote-trent-reznor/</id>
     <updated>2013-08-28T00:00:00.000Z</updated>
     <title>Paying for Things</title>
@@ -2240,6 +1927,21 @@
 <p>I'm not saying offering things for free or pay-what-you-can is wrong. I'm saying my personal feeling is that my album's not a dime. It's not a buck. I made it as well as I could, and it costs 10 bucks, or go fuck yourself.</p>
 </blockquote>
 <p>(via <a href="http://parislemon.com/post/59507355135/i-know-that-what-were-doing-flies-in-the-face-of">ParisLemon</a>)</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://matthieuoger.com/2013/08/amazon-new-product-page/</id>
+    <updated>2013-08-28T00:00:00.000Z</updated>
+    <title>Amazon&apos;s New Product Page</title>
+    <link href="https://matthieuoger.com/2013/08/amazon-new-product-page/"/>
+    <content type="html"><![CDATA[<p><a href="http://bokardo.com/archives/a-thought-on-amazons-new-product-page-design/">Interesting article on Bokardo</a> about Amazon's "new" product page:</p>
+<blockquote>
+<p>If Amazon were to make a big change, like for example do some actual visual design so everything didn’t have the same visual weight, the mere shock of the change would probably send their revenue downward, at least initially. People dislike change because change is work. They have to figure out what changed, adapt to it, relearn the UI, and still try to get their job done (they one they used to know how to do). <strong>So the next time you hear “People hate change” think to yourself “People don’t hate change. They hate the work of change”.</strong></p>
+</blockquote>
+<p><small>(Emphasis mine)</small></p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
@@ -2260,68 +1962,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/google-play-new-policies/</id>
-    <updated>2013-08-26T00:00:00.000Z</updated>
-    <title>Google Play New Policies</title>
-    <link href="https://matthieuoger.com/2013/08/google-play-new-policies/"/>
-    <content type="html"><![CDATA[<p><a href="http://blog.inner-active.com/2013/08/googles-new-policies-good-for-users-great-for-android-developers-and-the-ecosystem/">Google’s New Policies: Good for Users, Great for Android Developers and the Ecosystem</a>:</p>
-<blockquote>
-<p>So what does all this mean? It means that Google understands that while open is great, at the end of the day, users would rather have a superior experience both in terms of Google Play as a whole, and apps behavior in particular.</p>
-</blockquote>
-<p>I am really thrilled by the changes, but I can't help smiling. Android might be "open", Google is definitely not.</p>
-<p>This makes me wonder…</p>
-<ul>
-<li>Android was the alternative to iOS because of the lack of policies (at least, by the developers). Google Play is now a lot more similar to the App Store. It is not as strict though.</li>
-<li>Will Google remove the abusive apps retroactively?</li>
-<li>China? Google was already out, but this will make the situation worse.</li>
-</ul>
-<p>Anyways, the chasm between Play (Google's Android) and Android is getting wider every day.</p>
-<p><strong>Update</strong>: I couldn't agree more with <a href="http://verynicewebsite.net/2013/08/open-always-loses/">John Moltz</a>...</p>
-<blockquote>
-<p>I think it’s kind of amusing how quickly the narrative has changed from “Yay, open!” to “I, for one, welcome our closed overlords.”</p>
-</blockquote>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2013/08/ios7-user-tracking/</id>
-    <updated>2013-08-26T00:00:00.000Z</updated>
-    <title>iOS 7 User Tracking</title>
-    <link href="https://matthieuoger.com/2013/08/ios7-user-tracking/"/>
-    <content type="html"><![CDATA[<p><a href="http://iosdevweekly.com/issues/108/">iOS Dev Weekly, issue 108</a>:</p>
-<blockquote>
-<p>If your solution to having uniqueIdentifier deprecated was to use the MAC address of the device in some way then you're going to have a bad time in iOS 7. […]</p>
-<p>The message here is very clear, Apple are not afraid to remove any API that makes tracking users across apps by different vendors possible.</p>
-</blockquote>
-<p><a href="https://developer.apple.com/news/index.php?id=8222013a">Apple</a>:</p>
-<blockquote>
-<p>If your apps use the MAC address to identify an iOS device, the system will return the same static value for all devices running iOS 7.</p>
-</blockquote>
-<p>It is a bad week for advertisers (see: <a href="https://matthieuoger.com/2013/08/google-play-new-policies/">Google Play new policies</a>).</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2013/08/lego-architects/</id>
-    <updated>2013-08-19T00:00:00.000Z</updated>
-    <title>Lego Architects</title>
-    <link href="https://matthieuoger.com/2013/08/lego-architects/"/>
-    <content type="html"><![CDATA[<p><a href="http://www.wired.com/design/2013/08/a-lego-set-with-no-instructions-for-budding-architects/">Wired</a>:</p>
-<blockquote>
-<p>Architecture Studio, a new set from Lego, comes with 1,210 white and translucent bricks. More notable is what it lacks: namely, instructions for any single thing you’re supposed to build with it. Instead, the kit is accompanied by a thick, 277-page guidebook filled with architectural concepts and building techniques alongside real world insights from prominent architecture studios from around the globe.</p>
-</blockquote>
-<p>It's a wonderful idea.</p>
-<p>(via <a href="https://twitter.com/molleindustria/status/369161957988765696">@molleindustria</a>)</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://matthieuoger.com/2013/08/team-of-one/</id>
     <updated>2013-08-19T00:00:00.000Z</updated>
     <title>Team of One</title>
@@ -2332,124 +1972,6 @@
 </blockquote>
 <p>Hard but hyper-efficient.</p>
 <p>We work <em>a bit</em> like that at <a href="https://pixelnest.io">Pixelnest</a>. <a href="https://dmayance.com">Damien</a> and me have a slightly different skill set, thus we can split the work almost equally. The advantage is that we can discuss together to avoid finishing in a dead end.</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2013/08/google/</id>
-    <updated>2013-08-18T00:00:00.000Z</updated>
-    <title>Google</title>
-    <link href="https://matthieuoger.com/2013/08/google/"/>
-    <content type="html"><![CDATA[<p><a href="https://engineering.gosquared.com/googles-downtime-40-drop-in-traffic">Google’s downtime caused a 40% drop in global traffic</a>:</p>
-<blockquote>
-<p>That’s huge. As internet users, our reliance on google.com being up is huge.</p>
-</blockquote>
-<p>This <em>is</em> way more dangerous than any proprietary software. At least, you can still use your software even if it is discontinued.</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2013/08/tweaks/</id>
-    <updated>2013-08-18T00:00:00.000Z</updated>
-    <title>Little Tweaks</title>
-    <link href="https://matthieuoger.com/2013/08/tweaks/"/>
-    <content type="html"><![CDATA[<p>I just made some modifications to the blog. A bigger font, a <em>whiter</em> background and un-italicized quotations. I also reduced the size of the page by 300px. I've always felt that the page was way too large.</p>
-<p>I think that these little tweaks will make the reading experience more enjoyable.</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2013/08/the-lineup-of-5/</id>
-    <updated>2013-08-16T00:00:00.000Z</updated>
-    <title>The Lineup of 5</title>
-    <link href="https://matthieuoger.com/2013/08/the-lineup-of-5/"/>
-    <content type="html"><![CDATA[<p>Apple is rumored to announce not one but two new iPhones on september 10. One of them will be the new premium iPhone (5S). The other will be the "<em>cheap</em>" one (5C).<sup id="fnref-1"><a href="#fn-1" class="footnote-ref">1</a></sup></p>
-<p>It will be a big change in the current manufacturing strategy of Apple. Nowadays, there is three iPhones available: the flagship — the iPhone 5 —, and the older and (slightly) cheaper iPhone 4S and 4.</p>
-<p>By releasing the 5C, Apple can get rid of the iPhone 4 and 4S once and for all. It means that there will be only the iPhone 5C, the iPhone 5 and the iPhone 5S. Doing that was probably not possible for Apple before, without compromising the quality of the cheapest model and at the scale at which Apple operates.</p>
-<p>We can infer (if the rumors are true) that Apple has now the production lines to release two new iPhones at the same time.</p>
-<p>This has a big impact: In the fall, all the iPhones sold are going to be capable of using <strong>every</strong> features of the last OS. It's huge. For example, iOS 7 AirDrop only works on one current model: the iPhone 5.<sup id="fnref-2"><a href="#fn-2" class="footnote-ref">2</a></sup></p>
-<ul>
-<li>It can put the iPhone way ahead of its competitors that struggle with OSes versions and hardware disparities.</li>
-<li>It will also unify the lineup around the new lightning connector and the 4 inches screen.</li>
-<li>It implies that the hardware and the software are going to evolve at the same pace.</li>
-</ul>
-<p>The story is the same with the iPads. I am almost certain that the iPad 2 will disappear this year, leaving only the new Mini and classic iPads available.</p>
-<p>The next year eventual iPhone five inches will fit perfectly in this new strategy: selling only renewed devices with state of the art hardware and software.</p>
-<p><strong>Update</strong>: Related, "<a href="http://furbo.org/2013/08/15/its-the-production-line-stupid/">It’s the Production Line, Stupid</a>".</p>
-<p><strong>Update 09/12/2013</strong>: Guess I was wrong. The new lineup is made of an iPhone 5C, 5S and the old 4S.</p>
-<div class="footnotes">
-<hr>
-<ol>
-<li id="fn-1">
-<p>Cheap <strong>does not necessarily mean low quality</strong>.</p>
-<a href="#fnref-1" class="footnote-backref">↩</a>
-</li>
-<li id="fn-2">
-<p>I take AirDrop as an example because I think that this technology is going to be a decisive advantage for Apple. The fact that it is currently not available on every model is a pain. Hopefully, the new lineup will mitigate the problem a lot.</p>
-<a href="#fnref-2" class="footnote-backref">↩</a>
-</li>
-</ol>
-</div>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2013/08/app-store/</id>
-    <updated>2013-08-15T00:00:00.000Z</updated>
-    <title>App Store</title>
-    <link href="https://matthieuoger.com/2013/08/app-store/"/>
-    <content type="html"><![CDATA[<p>Truth:</p>
-<blockquote class="twitter-tweet">
-<p>
-	Possess:
-	<br>&#10;1. ~1M captive audience of developers,
-	<br>&#10;2. ~1M apps,
-	<br>&#10;3. ~$150B in cash, and
-	<br>&#10;4. fail to (re)design an App Store.
-	<br>&#10;Nuts.
-</p>
-<p>— Kontra (@counternotions)
-<a href="https://twitter.com/counternotions/statuses/367619924929568768">
-August 14, 2013
-</a></p>
-</blockquote>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2013/08/ios7/</id>
-    <updated>2013-08-15T00:00:00.000Z</updated>
-    <title>iOS 7</title>
-    <link href="https://matthieuoger.com/2013/08/ios7/"/>
-    <content type="html"><![CDATA[<p><a href="http://www.imore.com/wheres-bigger-iphone">Rene Ritchie</a>:</p>
-<blockquote>
-<p>When a company like Apple goes to all the trouble of building a <strong>physics</strong> and <strong>particle engine</strong> to support their interface, when they <strong>objectify</strong> it and <strong>gamify</strong> it and <strong>make it a dynamic, living thing</strong>, it opens up a lot of potential. When you add <strong>Text Kit</strong> to mix, and the <strong>design language</strong> in general, and when you see what it all looks and feels like on an iPad mini, then the possibilities for a bigger iPhone next year become infinitely more exciting.</p>
-</blockquote>
-<p><small>(Emphasis mine)</small></p>
-<p>Good recap of the real changes brought by iOS 7.</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2013/08/old-times/</id>
-    <updated>2013-08-14T00:00:00.000Z</updated>
-    <title>Old Times</title>
-    <link href="https://matthieuoger.com/2013/08/old-times/"/>
-    <content type="html"><![CDATA[<p>I didn't find enough time to create this blog over the last years. However, during this timespan, I read <strong>a lot</strong> of great articles.</p>
-<p>I'm going to link some of them from time to time. After all, I also created this blog to be a sort of personal archive of what I liked, with my impressions.</p>
-<p>I already did that once, with this article: <a href="https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/">Quote — "Life is too short to stare at ugly graphs. And yes, you should feel bad."</a>.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
@@ -2656,49 +2178,6 @@ August 14, 2013
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/07/towerfall-interview/</id>
-    <updated>2013-07-22T00:00:00.000Z</updated>
-    <title>Towerfall, Ouya, Game Design and Pricing</title>
-    <link href="https://matthieuoger.com/2013/07/towerfall-interview/"/>
-    <content type="html"><![CDATA[<p>This <a href="http://www.polygon.com/2013/7/19/4535012/towerfall-ouya-matt-thorson-multiplayer-competitive-fighting-games">interview of Matt Thorson</a> is really great:</p>
-<blockquote>
-<p>"I personally don't think the Ouya's audience is big enough to support mobile pricing," he added. "All the arguments towards pricing lower were to cater to people's expectations, and I believe TowerFall is worth $15 if you have people to play with." […]</p>
-<p>"On an iPhone, you can charge a dollar and potentially make it back because the audience is gigantic. But there aren't enough Ouyas out there yet."</p>
-</blockquote>
-<p>However, I must confess that I'm a bit surprised that only 2.000 copies have been sold. Even at $15 each.</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2013/07/ios7-david-cole/</id>
-    <updated>2013-07-04T00:00:00.000Z</updated>
-    <title>Is the New Apple iOS 7 Look an Improvement?</title>
-    <link href="https://matthieuoger.com/2013/07/ios7-david-cole/"/>
-    <content type="html"><![CDATA[<p><a href="http://www.quora.com/iOS-7/Is-the-new-Apple-iOS-7-look-an-improvement/answer/David-Cole">David Cole on Quora</a>:</p>
-<blockquote>
-<p>I have a different perspective than most of the other answerers here. I don't think the interesting components of iOS 7 are found in the icons or the color or the type — those are relatively self-contained and thus easy to change and evolve. I think the most interesting changes, and the best changes, run much deeper than that, and yet they're intrinsically linked to the "look" of it.</p>
-</blockquote>
-<p>One of the best analysis that I've read about iOS 7.</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2013/07/unsplash/</id>
-    <updated>2013-07-04T00:00:00.000Z</updated>
-    <title>Unsplash</title>
-    <link href="https://matthieuoger.com/2013/07/unsplash/"/>
-    <content type="html"><![CDATA[<p> Wonderful resource for high quality photos.</p>
-<p> → <a href="http://unsplash.com/">See here</a>.</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://matthieuoger.com/2013/07/quote-brent-simmons/</id>
     <updated>2013-07-02T00:00:00.000Z</updated>
     <title>Efficiency Is Superior UX</title>
@@ -2732,24 +2211,6 @@ August 14, 2013
 <blockquote class="twitter-tweet"><p>When I hear people say how great Firefox OS is, they talk about operators, OEMs, litigation... and sometimes remember to mention users</p>&mdash; Benedict Evans (@BenedictEvans) <a href="https://twitter.com/BenedictEvans/statuses/351646258856857600">July 1, 2013</a></blockquote>
 <p>And:</p>
 <blockquote class="twitter-tweet"><p>Everyone agrees that the web is the future and apps are a dead end. The only people who disagree are the actual, you know, users.</p>&mdash; Benedict Evans (@BenedictEvans) <a href="https://twitter.com/BenedictEvans/statuses/351646755818975232">July 1, 2013</a></blockquote>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2013/06/google-reader-alternative/</id>
-    <updated>2013-06-28T00:00:00.000Z</updated>
-    <title>The Search for a Google Reader Alternative</title>
-    <link href="https://matthieuoger.com/2013/06/google-reader-alternative/"/>
-    <content type="html"><![CDATA[<p><a href="http://www.elezea.com/2013/06/google-reader-replacement/">Rian Van Der Merwe, my Google Reader replacement setup</a>:</p>
-<blockquote>
-<p>But I do feel like I now know way too much about the RSS reader landscape than I every wanted to. Thanks, Google.</p>
-</blockquote>
-<p>Exactly my feeling.</p>
-<p>I used to read my feeds in one <strong>beautiful</strong> app, whatever the device I was using (Reeder - iPhone, iPad, Mac). Bonus: the sync service (Google Reader) was almost flawless.</p>
-<p>Now, we have a myriad of alternatives, and I can't find one that seems as good as Google Reader was — <em>and</em> working with each version of Reeder.</p>
-<p>The worst thing in this mess is that a fair amount of the old Google Reader users would have gladly paid for it - the adoption of Feedbin or FeedWrangler clearly demonstrates that.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
