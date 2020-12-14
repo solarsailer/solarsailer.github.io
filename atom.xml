@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://matthieuoger.com</id>
-  <updated>2020-08-31T20:23:41.684Z</updated>
+  <updated>2020-12-14T13:00:37.942Z</updated>
   <title>Matthieu Oger</title>
   <icon>https://matthieuoger.com/feed.png</icon>
   <link href="https://matthieuoger.com/atom.xml" rel="self"/>
@@ -9,6 +9,21 @@
     <name>Matthieu Oger</name>
     <uri>https://matthieuoger.com</uri>
   </author>
+  <entry>
+    <id>https://matthieuoger.com/2020/12/do-this-once/</id>
+    <updated>2020-12-14T00:00:00.000Z</updated>
+    <title>I Only Have To Do This Once</title>
+    <link href="https://matthieuoger.com/2020/12/do-this-once/"/>
+    <content type="html"><![CDATA[<p><a href="https://www.oreilly.com/library/view/the-art-of/9781492045687/">Michael Lopp</a>:</p>
+<blockquote>
+<p>I’ve heard my favorite engineers claim the reason they are productive is because they are lazy. It’s a humblebrag. These humans don’t have a lazy bone in their bodies. What they appreciate is efficiency. <em>I want to design this system so I only have to do this once.</em></p>
+<p>Setting up the initial conditions and letting the work just happen.</p>
+</blockquote>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
   <entry>
     <id>https://matthieuoger.com/2020/08/the-experience/</id>
     <updated>2020-08-31T00:00:00.000Z</updated>
@@ -24,7 +39,7 @@
 </blockquote>
 <p>It's a problem I see in many products and videogames. A videogame can have a fantastic retention score, but it does not make it <em>fun</em>.</p>
 <p>I'm not against analytics (quite the contrary, if done respectfully), but it should not be your main driver. It should be a source of advices and confirmation to qualitative analysis, insights and/or gut feelings. <strong>It should be secondary to the experience itself.</strong></p>
-<p>Sometimes, you should do something because it makes your product <a href="http://localhost:8000/2016/03/delight/">better and more pleasant</a>, not because it checks another item on an imaginary features checklist or because it pleases one specific client.</p>]]></content>
+<p>Sometimes, you should do something because it makes your product <a href="https://matthieuoger.com/2016/03/delight/">better and more pleasant</a>, not because it checks another item on an imaginary features checklist or because it pleases one specific client.</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
