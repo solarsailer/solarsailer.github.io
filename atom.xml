@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://matthieuoger.com</id>
-  <updated>2020-12-14T13:00:37.942Z</updated>
+  <updated>2020-12-14T13:29:06.442Z</updated>
   <title>Matthieu Oger</title>
   <icon>https://matthieuoger.com/feed.png</icon>
   <link href="https://matthieuoger.com/atom.xml" rel="self"/>
@@ -1931,21 +1931,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/amazon-new-product-page/</id>
-    <updated>2013-08-28T00:00:00.000Z</updated>
-    <title>The Work of Change</title>
-    <link href="https://matthieuoger.com/2013/08/amazon-new-product-page/"/>
-    <content type="html"><![CDATA[<p><a href="http://bokardo.com/archives/a-thought-on-amazons-new-product-page-design/">Interesting article on Bokardo</a> about Amazon's "new" product page:</p>
-<blockquote>
-<p>If Amazon were to make a big change, like for example do some actual visual design so everything didn’t have the same visual weight, the mere shock of the change would probably send their revenue downward, at least initially. People dislike change because change is work. They have to figure out what changed, adapt to it, relearn the UI, and still try to get their job done (they one they used to know how to do). <strong>So the next time you hear “People hate change” think to yourself “People don’t hate change. They hate the work of change”.</strong></p>
-</blockquote>
-<p><small>(Emphasis mine)</small></p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://matthieuoger.com/2013/08/quote-trent-reznor/</id>
     <updated>2013-08-28T00:00:00.000Z</updated>
     <title>Paying for Things</title>
@@ -1955,6 +1940,21 @@
 <p>I'm not saying offering things for free or pay-what-you-can is wrong. I'm saying my personal feeling is that my album's not a dime. It's not a buck. I made it as well as I could, and it costs 10 bucks, or go fuck yourself.</p>
 </blockquote>
 <p>(via <a href="http://parislemon.com/post/59507355135/i-know-that-what-were-doing-flies-in-the-face-of">ParisLemon</a>)</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://matthieuoger.com/2013/08/amazon-new-product-page/</id>
+    <updated>2013-08-28T00:00:00.000Z</updated>
+    <title>The Work of Change</title>
+    <link href="https://matthieuoger.com/2013/08/amazon-new-product-page/"/>
+    <content type="html"><![CDATA[<p><a href="http://bokardo.com/archives/a-thought-on-amazons-new-product-page-design/">Interesting article on Bokardo</a> about Amazon's "new" product page:</p>
+<blockquote>
+<p>If Amazon were to make a big change, like for example do some actual visual design so everything didn’t have the same visual weight, the mere shock of the change would probably send their revenue downward, at least initially. People dislike change because change is work. They have to figure out what changed, adapt to it, relearn the UI, and still try to get their job done (they one they used to know how to do). <strong>So the next time you hear “People hate change” think to yourself “People don’t hate change. They hate the work of change”.</strong></p>
+</blockquote>
+<p><small>(Emphasis mine)</small></p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
@@ -2072,6 +2072,20 @@
     </author>
   </entry>
   <entry>
+    <id>https://matthieuoger.com/2013/08/quote-marco-arment/</id>
+    <updated>2013-08-05T00:00:00.000Z</updated>
+    <title>New AOL CDs</title>
+    <link href="https://matthieuoger.com/2013/08/quote-marco-arment/"/>
+    <content type="html"><![CDATA[<p><a href="http://www.marco.org/2013/07/25/nexus-72">Marco Arment</a>:</p>
+<blockquote>
+<p>I offered to give my Nexus 7 and Kindle Fire to Betaworks in the Instapaper acquisition, but they had so many of both sitting around already that they declined. Tech companies with mobile apps can practically tile walls with outdated Android devices. They’re the new AOL CDs.</p>
+</blockquote>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
+  <entry>
     <id>https://matthieuoger.com/2013/08/os-wp-winrt/</id>
     <updated>2013-08-05T00:00:00.000Z</updated>
     <title>Windows Phone and WinRT</title>
@@ -2093,20 +2107,6 @@
 </li>
 </ol>
 </div>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2013/08/quote-marco-arment/</id>
-    <updated>2013-08-05T00:00:00.000Z</updated>
-    <title>New AOL CDs</title>
-    <link href="https://matthieuoger.com/2013/08/quote-marco-arment/"/>
-    <content type="html"><![CDATA[<p><a href="http://www.marco.org/2013/07/25/nexus-72">Marco Arment</a>:</p>
-<blockquote>
-<p>I offered to give my Nexus 7 and Kindle Fire to Betaworks in the Instapaper acquisition, but they had so many of both sitting around already that they declined. Tech companies with mobile apps can practically tile walls with outdated Android devices. They’re the new AOL CDs.</p>
-</blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
