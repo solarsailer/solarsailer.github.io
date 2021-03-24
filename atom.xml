@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://matthieuoger.com</id>
-  <updated>2020-12-14T13:29:06.442Z</updated>
+  <updated>2021-03-24T16:19:55.484Z</updated>
   <title>Matthieu Oger</title>
   <icon>https://matthieuoger.com/feed.png</icon>
   <link href="https://matthieuoger.com/atom.xml" rel="self"/>
@@ -9,6 +9,77 @@
     <name>Matthieu Oger</name>
     <uri>https://matthieuoger.com</uri>
   </author>
+  <entry>
+    <id>https://matthieuoger.com/2021/03/evernote-development/</id>
+    <updated>2021-03-24T00:00:00.000Z</updated>
+    <title>Notes from Evernote Early-Development</title>
+    <link href="https://matthieuoger.com/2021/03/evernote-development/"/>
+    <content type="html"><![CDATA[<p>I was recently listening to <a href="https://www.inc.com/christine-lagorio/phil-libin-evernote-what-i-know-podcast.html">an interview of Phil Libin</a>, co-founder of Evernote. <a href="https://tonsky.me/blog/phil-libin/">Tonsky wrote a recap</a> covering the best parts (notably about the startup model, culture and diversity issues), that I recommend.</p>
+<p>In addition, focusing on the product management side of the interview, I wanted to highlight a few paragraphs.<sup id="fnref-1"><a href="#fn-1" class="footnote-ref">1</a></sup></p>
+<h2>Iterations</h2>
+<blockquote class="transcript">
+<p>We kind of figured out what really felt like a cheat code. […]</p>
+<p>Let's say it takes 10.000 iterations to make a product great. You have to keep polishing, to keep refining and it takes around 10.000 iterations. <strong>The whole point is: how fast can you do each iteration?</strong></p>
+<p>At my previous company [dealing with security software, bank, government, etc.] <em>it would literally take a year and a half to do an iteration</em>. [You were making] some software, [sell it to an entity], deploy it, [deal with pilots], have a formal feedback. If it's gonna take a year and a half to make improvements to the product and you need to make 10.000 iterations, it's <strong>fifteen thousand years</strong> to make a great product. You just don't have this kind of time.</p>
+<p>At Evernote […] an iteration was twenty minutes, because we would just make something — and then, if we were honest with ourselves —, we could say "does this feel better or worse than it did twenty minutes ago?". And so, by having this really fast, really tight iteration loops […] we could just move really really quickly. <strong>We could make a product pretty good faster than I ever thought possible before.</strong></p>
+</blockquote>
+<p>And, as a consequence, the time to make a product <em>great</em> (not just "pretty good") is also reduced.</p>
+<p>One note though: we need to be careful not to confuse "speed of iteration" with "velocity".</p>
+<p>"Iteration" is your ability to experiment and refine a feature. You can iterate a lot but just release a very few impactful features (which is good). To the contrary, you can iterate slowly and output a lof of very low value, unpolished and mediocre features.<sup id="fnref-2"><a href="#fn-2" class="footnote-ref">2</a></sup></p>
+<p>Speed of iteration is important.<sup id="fnref-3"><a href="#fn-3" class="footnote-ref">3</a></sup> Meaningless velocity is not. It's more debt, it's harder to maintain, and it results in more complex products for users.</p>
+<p>See “<a href="https://itamargilad.com/velocity-vs-impact/">Stop Obsessing Over Development Velocity, Focus on This Instead</a>” for a good "factual" overview.</p>
+<h2>User feedback</h2>
+<blockquote class="transcript">
+<p>It isn't so much that we didn't listen to our users. We listened to our users very carefully but in a very specific way. We listened to how they were reacting to what we were putting in front of them. We <strong>weren't</strong> asking them about what they wanted. […]</p>
+<p>If you ask users what they want, they are not gonna tell you what they want because they don't know. <strong>Very few people can articulate and have the power of imagination to envision what they actually want.</strong></p>
+<p>If you ask customers or prospective customers what they want, they'll tell you the stuff that they expect… and <em>very rarely will that actually be what they want</em>. [Then, he quotes Henry Ford famous line: “If I had asked people what they wanted, they would have said faster horses.”]. We don't ask customers what they want, we ask customers to respond to what we are giving them. Because then, it's much more useful: you can tell when people are confused, when they are happy, when they are satisfied and then we can decide who to ignore, which opinion to take seriously, etc.</p>
+</blockquote>
+<p>This is one of the topics I'm coming back to frequently in my job.</p>
+<p>How can you gather as much feedback as possible, while not becoming crushed by its weight or clients' expectations?</p>
+<p>Moreover, collecting the feedback is only one side of the coin (and the easy one). The second side is <em>how to digest it properly</em>. There, you discover that the product manager's toolkit is, unfortunately, very empty.<sup id="fnref-4"><a href="#fn-4" class="footnote-ref">4</a></sup></p>
+<p>Users feedback are <em>critically important insights</em>, but it should be seen as an additional knowledge base for future decisions and hypotheses. Not as something you must respond to — or worse, act on — constantly.<sup id="fnref-5"><a href="#fn-5" class="footnote-ref">5</a></sup></p>
+<p>See also “<a href="https://linear.app/method/build-with-users">Build with users</a>” from the Linear method.</p>
+<h2>Building the right set of functionalities</h2>
+<blockquote class="transcript">
+<p>[About Evernote] I think we just did too much stuff. There's always this balance of “what's the right amount of focus?”.</p>
+<p>It's hard to know in the moment… you can only do that in hindsight — if you succeed, you had the right amount of focus. If you don't, then you are either doing too much stuff, and you didn't have that focus, or not enough stuff, and you weren't thinking big enough or whatever.</p>
+<p>We always struggle with that balance. What is too much to build and what is just the right amount? How do we know? […] In hindsight, I would have worked for longer on some specific things before moving on to introduce [new features].</p>
+</blockquote>
+<p>This reminds me of a comment made by a candidate during an interview: <em>“One crucial part of a product manager's job is not about which features should be included, but which one should be removed or ignored”</em> (paraphrasing).</p>
+<div class="footnotes">
+<hr>
+<ol>
+<li id="fn-1">
+<p>I slightly edited Phil Libin's speech to make it more readable in a written form. Emphasis is also mine.</p>
+<a href="#fnref-1" class="footnote-backref">↩</a>
+</li>
+<li id="fn-2">
+<p>Unfortunately, most agile teams using Scrum are optimised toward extreme-velocity instead of their ability to experiment and iterate quickly. Which is not what agile was about initially. I blame consulting firms.</p>
+<a href="#fnref-2" class="footnote-backref">↩</a>
+</li>
+<li id="fn-3">
+<p>It's why we need to be able to deploy often, quickly, automatically, and confidently. It's also why the <a href="https://www.youtube.com/watch?v=PUv66718DII"><em>development pipeline loop</em></a> should be as short as possible, between typing the code and observing the results.</p>
+<a href="#fnref-3" class="footnote-backref">↩</a>
+</li>
+<li id="fn-4">
+<p>I've searched for many, <em>many</em> tools to handle feedback. I didn't find one that was 100% satisfying. At this point, I'm considering there is no "right" solution to this problem.</p>
+<p>  The most adequate tool is probably a generic data-visualisation or log processing platform like Kibana or Datadog. Tools that were not conceived for this problem specifically, but instead to digest, process, present and search raw data in quantity. Which is what user feedback is: information logs, but provided by users instead of machines.</p>
+<p>  See it similarly to an analytics tool: you would consult the platform everyday to have an overview of your users, how they feel about your product, and what they expect. Use that as additional data for experiments and ideas. When you look at analytics, you don't act immediately, and you cannot answer questions there. You use this trove of data to refine your hypotheses. Feedback should be seen the same way.</p>
+<p>  Using this approach would also remove the emotion from the equation. It would allow the product manager to take a step back and look at all this knowledge objectively… like analytics.</p>
+<p>  And for qualitative measures? Just run some real-life user tests and sessions.</p>
+<a href="#fnref-4" class="footnote-backref">↩</a>
+</li>
+<li id="fn-5">
+<p>I think there's something profoundly wrong in the B2B (less so in B2C) world, where clients expect to have answers to everything they ask or want.</p>
+<a href="#fnref-5" class="footnote-backref">↩</a>
+</li>
+</ol>
+</div>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
   <entry>
     <id>https://matthieuoger.com/2020/12/do-this-once/</id>
     <updated>2020-12-14T00:00:00.000Z</updated>
@@ -1106,33 +1177,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2016/03/java/</id>
-    <updated>2016-03-17T00:00:00.000Z</updated>
-    <title>Why Do Many Software Engineers Hate Java?</title>
-    <link href="https://matthieuoger.com/2016/03/java/"/>
-    <content type="html"><![CDATA[<p><a href="https://www.quora.com/Why-do-many-software-engineers-not-like-Java/answer/Michael-O-Church">Michael O. Church</a>:</p>
-<blockquote>
-<p>First, let's cover the technical issues. It's verbose, combines the worst of both worlds between static and dynamic typing by having a hobbled but extremely clunky type system, and mandates running on a virtual machine (VM) that has a macroscopic startup time (not an issue for long-running servers, but painful for command-line applications). […]</p>
-<p>The VM itself has a lot to recommend it. It offers concurrency and garbage collection at a level of quality that, until recently, wasn't found anywhere else. […] Much important software in the early 2000s was written in Java because, at the time, it was the best choice, even taking the mediocrity of the language itself into account. It had Unicode (albeit, UTF-16) from the start and a strong concurrency story, and it was a notch above C++ in terms of user experience. […]</p>
-<p>If you put Java on a technical trial, it doesn't do so bad. The <em>language</em> sucks, the platform is pretty good for most purposes. I do hate the dominant interpretation of "object-oriented programming" with a passion, because it objectively sucks. […]</p>
-<p>So let's talk about the political and cultural issues. First, the dominant Java culture is one of mediocrity and bad taste, with MetaModelVibratorVisitorFactory classes dominating. I've heard a number of experts on "the Java issue" argue that Java's biggest problem is the community, and that comes directly from the fact that good programmers don't want to deal with the bastardization of OOP that has entrenched itself in mainstream corporate development. You have a lot of people who trained up as "Java programmers", haven't seen a command line ever, and have no clue how the computer actually works. Most of them have never actually written a program; they just write classes and some Senior Chief Architect (who makes $246,001 per year and hasn't written a line of code since the 1990s) figures out how to stitch them together, and then tells some other clueless junior how to implement the glue in the gutshot hope that one will actually have the talent to make an actual working program out of the mess.</p>
-<p>This isn't inherent to the JVM, because Clojure (currently hosted on the JVM, although its endgame seems to be language-agnosticism) has a radically different (and better) community. Scala's community is more mixed, but the top Scala engineers (the ones making tools like Spark and Kestrel) are really fucking good.</p>
-<p>[…]</p>
-<p>So, the short answer is: it's mostly not about the underlying platform (which is generally of high quality) and its only partly about the language (which is mediocre but can't be blamed directly for community problems). It goes a lot deeper than that, and not all of it is Java's fault. However, Java takes its share of the blame for its clear favoritism toward large programs (technically, established by its long startup time) and by its support of a very ugly (and counterproductive) variety of object-oriented programming.</p>
-</blockquote>
-<p><a href="https://www.quora.com/Why-do-many-software-engineers-not-like-Java/answer/Stanley-Idesis">Stanley Idesis</a>:</p>
-<blockquote>
-<p>I’ve read the popular answers and will claim no contest to a majority of the complaints I found. […] However, here’s why I <em>love</em> it. […]</p>
-<p>In the Android world, developers use Java because they <em>have</em> to. However, much creativity has sprung from that limitation. People have written many excellent OS libraries in Java for Android. The platform continues to be a hotbed of Java activity which developers contribute to from all over the world. […]</p>
-<p>Android’s open nature, wide distribution, and powerful support from Google are almost enough to make Java hip again. […] Sure, some may argue that other runtimes and languages can enable the same capabilities of the device, but for whatever reason, Android chose Java.</p>
-<p>Until Google changes its mind, Java will remain relevant and the source of fascinating developments in the software community as long as Android remains popular.</p>
-</blockquote>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://matthieuoger.com/2016/03/virtual-reality/</id>
     <updated>2016-03-17T00:00:00.000Z</updated>
     <title>VR Is Not The Future</title>
@@ -1184,6 +1228,33 @@
 </li>
 </ol>
 </div>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://matthieuoger.com/2016/03/java/</id>
+    <updated>2016-03-17T00:00:00.000Z</updated>
+    <title>Why Do Many Software Engineers Hate Java?</title>
+    <link href="https://matthieuoger.com/2016/03/java/"/>
+    <content type="html"><![CDATA[<p><a href="https://www.quora.com/Why-do-many-software-engineers-not-like-Java/answer/Michael-O-Church">Michael O. Church</a>:</p>
+<blockquote>
+<p>First, let's cover the technical issues. It's verbose, combines the worst of both worlds between static and dynamic typing by having a hobbled but extremely clunky type system, and mandates running on a virtual machine (VM) that has a macroscopic startup time (not an issue for long-running servers, but painful for command-line applications). […]</p>
+<p>The VM itself has a lot to recommend it. It offers concurrency and garbage collection at a level of quality that, until recently, wasn't found anywhere else. […] Much important software in the early 2000s was written in Java because, at the time, it was the best choice, even taking the mediocrity of the language itself into account. It had Unicode (albeit, UTF-16) from the start and a strong concurrency story, and it was a notch above C++ in terms of user experience. […]</p>
+<p>If you put Java on a technical trial, it doesn't do so bad. The <em>language</em> sucks, the platform is pretty good for most purposes. I do hate the dominant interpretation of "object-oriented programming" with a passion, because it objectively sucks. […]</p>
+<p>So let's talk about the political and cultural issues. First, the dominant Java culture is one of mediocrity and bad taste, with MetaModelVibratorVisitorFactory classes dominating. I've heard a number of experts on "the Java issue" argue that Java's biggest problem is the community, and that comes directly from the fact that good programmers don't want to deal with the bastardization of OOP that has entrenched itself in mainstream corporate development. You have a lot of people who trained up as "Java programmers", haven't seen a command line ever, and have no clue how the computer actually works. Most of them have never actually written a program; they just write classes and some Senior Chief Architect (who makes $246,001 per year and hasn't written a line of code since the 1990s) figures out how to stitch them together, and then tells some other clueless junior how to implement the glue in the gutshot hope that one will actually have the talent to make an actual working program out of the mess.</p>
+<p>This isn't inherent to the JVM, because Clojure (currently hosted on the JVM, although its endgame seems to be language-agnosticism) has a radically different (and better) community. Scala's community is more mixed, but the top Scala engineers (the ones making tools like Spark and Kestrel) are really fucking good.</p>
+<p>[…]</p>
+<p>So, the short answer is: it's mostly not about the underlying platform (which is generally of high quality) and its only partly about the language (which is mediocre but can't be blamed directly for community problems). It goes a lot deeper than that, and not all of it is Java's fault. However, Java takes its share of the blame for its clear favoritism toward large programs (technically, established by its long startup time) and by its support of a very ugly (and counterproductive) variety of object-oriented programming.</p>
+</blockquote>
+<p><a href="https://www.quora.com/Why-do-many-software-engineers-not-like-Java/answer/Stanley-Idesis">Stanley Idesis</a>:</p>
+<blockquote>
+<p>I’ve read the popular answers and will claim no contest to a majority of the complaints I found. […] However, here’s why I <em>love</em> it. […]</p>
+<p>In the Android world, developers use Java because they <em>have</em> to. However, much creativity has sprung from that limitation. People have written many excellent OS libraries in Java for Android. The platform continues to be a hotbed of Java activity which developers contribute to from all over the world. […]</p>
+<p>Android’s open nature, wide distribution, and powerful support from Google are almost enough to make Java hip again. […] Sure, some may argue that other runtimes and languages can enable the same capabilities of the device, but for whatever reason, Android chose Java.</p>
+<p>Until Google changes its mind, Java will remain relevant and the source of fascinating developments in the software community as long as Android remains popular.</p>
+</blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
@@ -1931,21 +2002,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/quote-trent-reznor/</id>
-    <updated>2013-08-28T00:00:00.000Z</updated>
-    <title>Paying for Things</title>
-    <link href="https://matthieuoger.com/2013/08/quote-trent-reznor/"/>
-    <content type="html"><![CDATA[<p><a href="http://www.spin.com/featured/trent-reznor-upward-spiral-nine-inch-nails-spin-cover-september-2013/">Trent Reznor</a>:</p>
-<blockquote>
-<p>I'm not saying offering things for free or pay-what-you-can is wrong. I'm saying my personal feeling is that my album's not a dime. It's not a buck. I made it as well as I could, and it costs 10 bucks, or go fuck yourself.</p>
-</blockquote>
-<p>(via <a href="http://parislemon.com/post/59507355135/i-know-that-what-were-doing-flies-in-the-face-of">ParisLemon</a>)</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://matthieuoger.com/2013/08/amazon-new-product-page/</id>
     <updated>2013-08-28T00:00:00.000Z</updated>
     <title>The Work of Change</title>
@@ -1955,6 +2011,21 @@
 <p>If Amazon were to make a big change, like for example do some actual visual design so everything didn’t have the same visual weight, the mere shock of the change would probably send their revenue downward, at least initially. People dislike change because change is work. They have to figure out what changed, adapt to it, relearn the UI, and still try to get their job done (they one they used to know how to do). <strong>So the next time you hear “People hate change” think to yourself “People don’t hate change. They hate the work of change”.</strong></p>
 </blockquote>
 <p><small>(Emphasis mine)</small></p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://matthieuoger.com/2013/08/quote-trent-reznor/</id>
+    <updated>2013-08-28T00:00:00.000Z</updated>
+    <title>Paying for Things</title>
+    <link href="https://matthieuoger.com/2013/08/quote-trent-reznor/"/>
+    <content type="html"><![CDATA[<p><a href="http://www.spin.com/featured/trent-reznor-upward-spiral-nine-inch-nails-spin-cover-september-2013/">Trent Reznor</a>:</p>
+<blockquote>
+<p>I'm not saying offering things for free or pay-what-you-can is wrong. I'm saying my personal feeling is that my album's not a dime. It's not a buck. I made it as well as I could, and it costs 10 bucks, or go fuck yourself.</p>
+</blockquote>
+<p>(via <a href="http://parislemon.com/post/59507355135/i-know-that-what-were-doing-flies-in-the-face-of">ParisLemon</a>)</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
@@ -2072,20 +2143,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/quote-marco-arment/</id>
-    <updated>2013-08-05T00:00:00.000Z</updated>
-    <title>New AOL CDs</title>
-    <link href="https://matthieuoger.com/2013/08/quote-marco-arment/"/>
-    <content type="html"><![CDATA[<p><a href="http://www.marco.org/2013/07/25/nexus-72">Marco Arment</a>:</p>
-<blockquote>
-<p>I offered to give my Nexus 7 and Kindle Fire to Betaworks in the Instapaper acquisition, but they had so many of both sitting around already that they declined. Tech companies with mobile apps can practically tile walls with outdated Android devices. They’re the new AOL CDs.</p>
-</blockquote>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://matthieuoger.com/2013/08/os-wp-winrt/</id>
     <updated>2013-08-05T00:00:00.000Z</updated>
     <title>Windows Phone and WinRT</title>
@@ -2107,6 +2164,20 @@
 </li>
 </ol>
 </div>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://matthieuoger.com/2013/08/quote-marco-arment/</id>
+    <updated>2013-08-05T00:00:00.000Z</updated>
+    <title>New AOL CDs</title>
+    <link href="https://matthieuoger.com/2013/08/quote-marco-arment/"/>
+    <content type="html"><![CDATA[<p><a href="http://www.marco.org/2013/07/25/nexus-72">Marco Arment</a>:</p>
+<blockquote>
+<p>I offered to give my Nexus 7 and Kindle Fire to Betaworks in the Instapaper acquisition, but they had so many of both sitting around already that they declined. Tech companies with mobile apps can practically tile walls with outdated Android devices. They’re the new AOL CDs.</p>
+</blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
