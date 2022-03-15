@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://matthieuoger.com</id>
-  <updated>2021-06-06T09:58:50.468Z</updated>
+  <updated>2022-03-15T21:47:26.231Z</updated>
   <title>Matthieu Oger</title>
   <icon>https://matthieuoger.com/feed.png</icon>
   <link href="https://matthieuoger.com/atom.xml" rel="self"/>
@@ -9,6 +9,60 @@
     <name>Matthieu Oger</name>
     <uri>https://matthieuoger.com</uri>
   </author>
+  <entry>
+    <id>https://matthieuoger.com/2022/03/rotation-videos/</id>
+    <updated>2022-03-15T00:00:00.000Z</updated>
+    <title>Pseudo-intelligent rotation lock for videos on iOS</title>
+    <link href="https://matthieuoger.com/2022/03/rotation-videos/"/>
+    <content type="html"><![CDATA[<p>iOS is missing one major, albeit a very small one in size, feature.</p>
+<p>You can use a rotation lock for your device, which restricts its ability to change orientation. By default, an iPhone senses when it is in landscape or portrait. This was one of the key features during the iPhone introduction (using an accelerometer). It looks very cool, but in reality, it's almost useless on a phone.</p>
+<p>Most users are just using the portrait mode all the time, and the landscape orientation is often toggled by accident while in bed or couch.</p>
+<p>That's why many users are activating the rotation lock permanently (I'm in this category). This is how it looks like:</p>
+<p><img src="/images/posts/2022-03-15-lock.jpg" style="max-width: 300px;" title="Rotation lock" alt="Rotation lock" /></p>
+<p>When it's active (like in the screenshot above), your device will never rotate automagically. You can stay in portrait orientation forever.</p>
+<p><strong>This is perfect, except for one thing: videos</strong>. Videos are the only thing you want to see in landscape, not portrait.<sup id="fnref-1"><a href="#fn-1" class="footnote-ref">1</a></sup></p>
+<p>Since most videos are consumed through YouTube, the problem is particularly egregious there. Fortunately, YouTube added a way to switch a video to landscape, even when in portrait orientation (by using the fullscreen button).</p>
+<p>It's not as practical as <em>physically</em> rotating the phone though.</p>
+<hr>
+<p>A few years ago, iOS' built-in <a href="https://apps.apple.com/us/app/shortcuts/id915249334">Shortcuts</a><sup id="fnref-2"><a href="#fn-2" class="footnote-ref">2</a></sup> app added "Automation" triggers.</p>
+<p>With this, you can program an action when something happens on your phone. For example, if you open a certain app, you can automatically trigger something… <strong>like enabling or disabling the orientation lock!</strong> You can see where we are going…</p>
+<ol>
+<li>Open <a href="shortcuts://">Shortcuts</a> <small>(it should be installed by default now)</small></li>
+<li>Go to the Automation tab</li>
+<li>
+<p>Create 2 automations:</p>
+<ol>
+<li>The first one is for when some apps are opened (<strong>disabling</strong> the rotation lock)</li>
+<li>The second app does the reverse, when the same apps are closed (<strong>enabling</strong> the rotation lock again)</li>
+</ol>
+</li>
+<li>Obviously, set it to YouTube (and any other app necessary)</li>
+</ol>
+<p>You should have this by the end:</p>
+<p><img src="/images/posts/2022-03-15-automation.jpg" style="max-width: 600px;" title="Automations" alt="Automations" /></p>
+<p>Thanks to this automation, I keep the rotation lock activated all the time, but still physically rotate my device to play videos in landscape.</p>
+<p><em>This trick is not new at all.</em> It was feasible since iOS 13 or 14, so why am I talking about this? Until now, everytime the trigger would activate, iOS would throw an annoying notification:</p>
+<p><img src="/images/posts/2022-03-15-notification.jpg" style="max-width: 300px;" title="Notification" alt="Notification" /></p>
+<p>Because of that, I could never recommend this tip to anyone. However, today <a href="https://www.macstories.net/stories/ios-and-ipados-15-4-hands-on-with-universal-control-face-id-with-a-mask-and-more/">Apple released iOS 15.4</a>, which finally <strong>allows an automation to hide its notification</strong> (deactivate the "Notify when run" toggle).</p>
+<p><br />Now, let's hope for <a href="https://twitter.com/laughingquoll/status/1107930149645742080">a real "Lock orientation except for videos" setting</a>.</p>
+<div class="footnotes">
+<hr>
+<ol>
+<li id="fn-1">
+<p>Well, portrait videos are becoming a thing thanks to TikTok and modern social networks, but that's another matter.</p>
+<a href="#fnref-1" class="footnote-backref">↩</a>
+</li>
+<li id="fn-2">
+<p>Shortcuts, previously Workflow, was bought by Apple and integrated into the system as its native automation app for power users. It's great.</p>
+<a href="#fnref-2" class="footnote-backref">↩</a>
+</li>
+</ol>
+</div>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
   <entry>
     <id>https://matthieuoger.com/2021/03/build-right-swiftly/</id>
     <updated>2021-03-24T00:00:00.000Z</updated>
@@ -2143,6 +2197,20 @@
     </author>
   </entry>
   <entry>
+    <id>https://matthieuoger.com/2013/08/quote-marco-arment/</id>
+    <updated>2013-08-05T00:00:00.000Z</updated>
+    <title>New AOL CDs</title>
+    <link href="https://matthieuoger.com/2013/08/quote-marco-arment/"/>
+    <content type="html"><![CDATA[<p><a href="http://www.marco.org/2013/07/25/nexus-72">Marco Arment</a>:</p>
+<blockquote>
+<p>I offered to give my Nexus 7 and Kindle Fire to Betaworks in the Instapaper acquisition, but they had so many of both sitting around already that they declined. Tech companies with mobile apps can practically tile walls with outdated Android devices. They’re the new AOL CDs.</p>
+</blockquote>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
+  <entry>
     <id>https://matthieuoger.com/2013/08/os-wp-winrt/</id>
     <updated>2013-08-05T00:00:00.000Z</updated>
     <title>Windows Phone and WinRT</title>
@@ -2164,20 +2232,6 @@
 </li>
 </ol>
 </div>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2013/08/quote-marco-arment/</id>
-    <updated>2013-08-05T00:00:00.000Z</updated>
-    <title>New AOL CDs</title>
-    <link href="https://matthieuoger.com/2013/08/quote-marco-arment/"/>
-    <content type="html"><![CDATA[<p><a href="http://www.marco.org/2013/07/25/nexus-72">Marco Arment</a>:</p>
-<blockquote>
-<p>I offered to give my Nexus 7 and Kindle Fire to Betaworks in the Instapaper acquisition, but they had so many of both sitting around already that they declined. Tech companies with mobile apps can practically tile walls with outdated Android devices. They’re the new AOL CDs.</p>
-</blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
