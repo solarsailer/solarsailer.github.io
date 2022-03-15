@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://matthieuoger.com</id>
-  <updated>2022-03-15T21:47:26.231Z</updated>
+  <updated>2022-03-15T21:55:42.431Z</updated>
   <title>Matthieu Oger</title>
   <icon>https://matthieuoger.com/feed.png</icon>
   <link href="https://matthieuoger.com/atom.xml" rel="self"/>
@@ -21,7 +21,7 @@
 <p><img src="/images/posts/2022-03-15-lock.jpg" style="max-width: 300px;" title="Rotation lock" alt="Rotation lock" /></p>
 <p>When it's active (like in the screenshot above), your device will never rotate automagically. You can stay in portrait orientation forever.</p>
 <p><strong>This is perfect, except for one thing: videos</strong>. Videos are the only thing you want to see in landscape, not portrait.<sup id="fnref-1"><a href="#fn-1" class="footnote-ref">1</a></sup></p>
-<p>Since most videos are consumed through YouTube, the problem is particularly egregious there. Fortunately, YouTube added a way to switch a video to landscape, even when in portrait orientation (by using the fullscreen button).</p>
+<p>Since tons of videos are consumed through YouTube, the problem is particularly egregious there. Fortunately, YouTube added a way to switch a video to landscape, even when in portrait orientation (by using the fullscreen button), locked or not.</p>
 <p>It's not as practical as <em>physically</em> rotating the phone though.</p>
 <hr>
 <p>A few years ago, iOS' built-in <a href="https://apps.apple.com/us/app/shortcuts/id915249334">Shortcuts</a><sup id="fnref-2"><a href="#fn-2" class="footnote-ref">2</a></sup> app added "Automation" triggers.</p>
@@ -33,7 +33,7 @@
 <p>Create 2 automations:</p>
 <ol>
 <li>The first one is for when some apps are opened (<strong>disabling</strong> the rotation lock)</li>
-<li>The second app does the reverse, when the same apps are closed (<strong>enabling</strong> the rotation lock again)</li>
+<li>The second does the reverse, when the same apps are closed (<strong>enabling</strong> the rotation lock again)</li>
 </ol>
 </li>
 <li>Obviously, set it to YouTube (and any other app necessary)</li>
@@ -43,8 +43,8 @@
 <p>Thanks to this automation, I keep the rotation lock activated all the time, but still physically rotate my device to play videos in landscape.</p>
 <p><em>This trick is not new at all.</em> It was feasible since iOS 13 or 14, so why am I talking about this? Until now, everytime the trigger would activate, iOS would throw an annoying notification:</p>
 <p><img src="/images/posts/2022-03-15-notification.jpg" style="max-width: 300px;" title="Notification" alt="Notification" /></p>
-<p>Because of that, I could never recommend this tip to anyone. However, today <a href="https://www.macstories.net/stories/ios-and-ipados-15-4-hands-on-with-universal-control-face-id-with-a-mask-and-more/">Apple released iOS 15.4</a>, which finally <strong>allows an automation to hide its notification</strong> (deactivate the "Notify when run" toggle).</p>
-<p><br />Now, let's hope for <a href="https://twitter.com/laughingquoll/status/1107930149645742080">a real "Lock orientation except for videos" setting</a>.</p>
+<p>Because of that, I could never recommend this tip to anyone. However, today <a href="https://www.macstories.net/stories/ios-and-ipados-15-4-hands-on-with-universal-control-face-id-with-a-mask-and-more/">Apple released iOS 15.4</a>, which finally <strong>allows an automation to hide its notification</strong>.</p>
+<p><br />Now, let's hope for a real “<a href="https://twitter.com/laughingquoll/status/1107930149645742080">Lock orientation except when playing videos</a>” setting.</p>
 <div class="footnotes">
 <hr>
 <ol>
