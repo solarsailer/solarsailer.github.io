@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://matthieuoger.com</id>
-  <updated>2022-03-15T22:15:58.666Z</updated>
+  <updated>2022-04-27T12:04:51.949Z</updated>
   <title>Matthieu Oger</title>
   <icon>https://matthieuoger.com/feed.png</icon>
   <link href="https://matthieuoger.com/atom.xml" rel="self"/>
@@ -9,6 +9,31 @@
     <name>Matthieu Oger</name>
     <uri>https://matthieuoger.com</uri>
   </author>
+  <entry>
+    <id>https://matthieuoger.com/2022/04/iterative-loop/</id>
+    <updated>2022-04-27T00:00:00.000Z</updated>
+    <title>Iterative Loop</title>
+    <link href="https://matthieuoger.com/2022/04/iterative-loop/"/>
+    <content type="html"><![CDATA[<p><a href="https://woodlandwarmachine.podbean.com/e/episode-21-root-past-present-and-future-featuring-cole-wehrle/">Cole Wehrle</a>:</p>
+<blockquote class="transcript">
+<p>To make games, <strong>you have to walk through something called the iterative loop.</strong></p>
+<ol>
+<li>You have to have an idea,</li>
+<li>And you have to figure out <strong>how to build it into something testable</strong></li>
+<li>And then you have to test it,</li>
+<li>And then you have to reflect upon it,</li>
+<li>And then you have to adjust your idea.</li>
+</ol>
+<p>Then you complete the iterative loop, <em>and you do it again.</em></p>
+<p>Any designer will have to run around this iterative loop thousand of times before a game is completed.</p>
+<p>[…] <strong>Figure out ways to move, to make that loop smaller.</strong> And to run though it more efficiently. Or you'll burn yourself out.</p>
+</blockquote>
+<p><small>(Slightly edited for readability)</small></p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
   <entry>
     <id>https://matthieuoger.com/2022/03/rotation-videos/</id>
     <updated>2022-03-15T00:00:00.000Z</updated>
