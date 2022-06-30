@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://matthieuoger.com</id>
-  <updated>2022-06-30T08:21:59.180Z</updated>
+  <updated>2022-06-30T08:24:14.971Z</updated>
   <title>Matthieu Oger</title>
   <icon>https://matthieuoger.com/feed.png</icon>
   <link href="https://matthieuoger.com/atom.xml" rel="self"/>
@@ -14,7 +14,7 @@
     <updated>2022-06-30T00:00:00.000Z</updated>
     <title>The Blockchain, a Decade Later</title>
     <link href="https://matthieuoger.com/2022/06/crypto-fire/"/>
-    <content type="html"><![CDATA[<p>Excellent interview of Nicholas Weaver by Nathan J. Robinson. The article is called “<a href="https://www.currentaffairs.org/2022/05/why-this-computer-scientist-says-all-cryptocurrency-should-die-in-a-fire/">Why This Computer Scientist Says All Cryptocurrency Should “Die in a Fire”</a>”, and, as you can guess, is not really gentle with cryptocurrencies.</p>
+    <content type="html"><![CDATA[<p>Amidst the current crypto-crisis/downfall, I found this excellent interview of Nicholas Weaver by Nathan J. Robinson. The article is called “<a href="https://www.currentaffairs.org/2022/05/why-this-computer-scientist-says-all-cryptocurrency-should-die-in-a-fire/">Why This Computer Scientist Says All Cryptocurrency Should “Die in a Fire”</a>”, and, as you can guess, is not really gentle with cryptocurrencies and the blockchain in general.</p>
 <p>The interview talks about many topics and is really interesting. Here's a few passages I enjoyed.</p>
 <hr>
 <p>Starting with Nicholas Weaver, in 2018:</p>
