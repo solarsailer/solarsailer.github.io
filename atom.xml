@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://matthieuoger.com</id>
-  <updated>2023-02-07T18:19:59.926Z</updated>
+  <updated>2023-02-17T09:35:07.572Z</updated>
   <title>Matthieu Oger</title>
   <icon>https://matthieuoger.com/feed.png</icon>
   <link href="https://matthieuoger.com/atom.xml" rel="self"/>
@@ -9,6 +9,24 @@
     <name>Matthieu Oger</name>
     <uri>https://matthieuoger.com</uri>
   </author>
+  <entry>
+    <id>https://matthieuoger.com/2023/02/social-start/</id>
+    <updated>2023-02-17T00:00:00.000Z</updated>
+    <title>On Instagram&apos;s Start</title>
+    <link href="https://matthieuoger.com/2023/02/social-start/"/>
+    <content type="html"><![CDATA[<p><a href="https://www.nytimes.com/2023/02/03/podcasts/hard-fork-tiktok-openai-artifact.html?showTranscript=1">Kevin Systrom</a>:</p>
+<blockquote class="transcript">
+<p>[…] I want to point out that when we launched Instagram, it was a filter app first for everyone. Most people didn’t even know that there was a network behind it. It was a filter app. <em>My intention was always for it to be a social app, and I was bummed when everyone talked about it as a filter app.</em></p>
+<p>But <strong>what I realized in there is that the best networks are first to utility, and then they piggyback on that utility, and they become a network</strong>. I think Facebook’s actually a great example of this. It may not be so clear, but <em>it was clearly just a directory at the beginning</em>. It was about finding people, communicating with them. And then it became the social network that it became once they added the news feed and all this other stuff.</p>
+<p>So Instagram and Facebook are actually not that different in their evolution. [We decided] when we talked about launch, that <em>we were just going to focus on the utility part of it first</em> and be really good at that <strong>because starting a social network from scratch, I think, is the wrong order.</strong></p>
+<p>You see a lot of people launching things today that are social networks first and then utility is questionable. And it’s because <strong>the utility in the social network only makes sense when you’re at scale</strong>, when you have <em>a lot of people</em>. And it’s very hard to bootstrap that.</p>
+</blockquote>
+<p><small>(Emphasis mine)</small></p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
   <entry>
     <id>https://matthieuoger.com/2023/02/alpha-value-css-color-properties/</id>
     <updated>2023-02-07T00:00:00.000Z</updated>
@@ -2388,6 +2406,23 @@
     </author>
   </entry>
   <entry>
+    <id>https://matthieuoger.com/2013/08/quote-changing-the-world/</id>
+    <updated>2013-08-02T00:00:00.000Z</updated>
+    <title>Changing the World…?</title>
+    <link href="https://matthieuoger.com/2013/08/quote-changing-the-world/"/>
+    <content type="html"><![CDATA[<p><a href="https://news.ycombinator.com/item?id=6108967">Freyr</a>:</p>
+<blockquote>
+<p>Could "changing the world" be a contender the most trite, overused expression of 2013? Recent grads seem to have adopted it en masse as their personal tagline. It's a nice sentiment, but it hard not to roll your eyes when every 23 year old applies it to his mobile phone app with no users that he threw together in a couple weeks.</p>
+<p>[…]</p>
+<p>Besides, I'm not even sure it's a healthy sentiment for most people. If your focus is as broad as "changing the world," you're probably setting yourself up to feel like a failure.</p>
+</blockquote>
+<p>(via <a href="http://wolfslittlestore.be/2013/08/changing-the-world/">Wolf's Little Store</a>)</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
+  <entry>
     <id>https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/</id>
     <updated>2013-08-02T00:00:00.000Z</updated>
     <title>Life Is Too Short To Stare at Ugly Graphs — and Yes, You Should Feel Bad</title>
@@ -2400,23 +2435,6 @@
 <p><strong>Life is too short to stare at ugly graphs. And yes, you should feel bad.</strong></p>
 </blockquote>
 <p><small>(Emphasis mine)</small></p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2013/08/quote-changing-the-world/</id>
-    <updated>2013-08-02T00:00:00.000Z</updated>
-    <title>Changing the World…?</title>
-    <link href="https://matthieuoger.com/2013/08/quote-changing-the-world/"/>
-    <content type="html"><![CDATA[<p><a href="https://news.ycombinator.com/item?id=6108967">Freyr</a>:</p>
-<blockquote>
-<p>Could "changing the world" be a contender the most trite, overused expression of 2013? Recent grads seem to have adopted it en masse as their personal tagline. It's a nice sentiment, but it hard not to roll your eyes when every 23 year old applies it to his mobile phone app with no users that he threw together in a couple weeks.</p>
-<p>[…]</p>
-<p>Besides, I'm not even sure it's a healthy sentiment for most people. If your focus is as broad as "changing the world," you're probably setting yourself up to feel like a failure.</p>
-</blockquote>
-<p>(via <a href="http://wolfslittlestore.be/2013/08/changing-the-world/">Wolf's Little Store</a>)</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>

@@ -8,6 +8,17 @@
   "feed_url": "https://matthieuoger.com/feed.json",
   "items": [
     {
+      "id": "https://matthieuoger.com/2023/02/social-start/",
+      "url": "https://matthieuoger.com/2023/02/social-start/",
+      "title": "On Instagram's Start",
+      "content_html": "<p><a href=\"https://www.nytimes.com/2023/02/03/podcasts/hard-fork-tiktok-openai-artifact.html?showTranscript=1\">Kevin Systrom</a>:</p>\n<blockquote class=\"transcript\">\n<p>[…] I want to point out that when we launched Instagram, it was a filter app first for everyone. Most people didn’t even know that there was a network behind it. It was a filter app. <em>My intention was always for it to be a social app, and I was bummed when everyone talked about it as a filter app.</em></p>\n<p>But <strong>what I realized in there is that the best networks are first to utility, and then they piggyback on that utility, and they become a network</strong>. I think Facebook’s actually a great example of this. It may not be so clear, but <em>it was clearly just a directory at the beginning</em>. It was about finding people, communicating with them. And then it became the social network that it became once they added the news feed and all this other stuff.</p>\n<p>So Instagram and Facebook are actually not that different in their evolution. [We decided] when we talked about launch, that <em>we were just going to focus on the utility part of it first</em> and be really good at that <strong>because starting a social network from scratch, I think, is the wrong order.</strong></p>\n<p>You see a lot of people launching things today that are social networks first and then utility is questionable. And it’s because <strong>the utility in the social network only makes sense when you’re at scale</strong>, when you have <em>a lot of people</em>. And it’s very hard to bootstrap that.</p>\n</blockquote>\n<p><small>(Emphasis mine)</small></p>",
+      "author": {
+        "name": "Matthieu Oger",
+        "url": "https://matthieuoger.com"
+      },
+      "date_published": "2023-02-17T00:00:00.000Z"
+    },
+    {
       "id": "https://matthieuoger.com/2023/02/alpha-value-css-color-properties/",
       "url": "https://matthieuoger.com/2023/02/alpha-value-css-color-properties/",
       "title": "Alpha Value in CSS Color Properties",
@@ -855,10 +866,10 @@
       "date_published": "2013-08-05T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/",
-      "url": "https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/",
-      "title": "Life Is Too Short To Stare at Ugly Graphs — and Yes, You Should Feel Bad",
-      "content_html": "<p><a href=\"https://news.ycombinator.com/item?id=4480876\">Tanoku</a>:</p>\n<blockquote>\n<p>It was done in-house. We really care about how our graphs look, because graphs represent information. It's like typography. Humans learned how to write 5000 years ago, and it took us a very long while until we mastered the art of transmitting information like that. Once we mastered it, however, we started caring about the way we present that information. For no specific reason, but we developed unique typefaces that look beautiful, different, yet transmit the same information.</p>\n<p>Likewise, we've spent a ton of valuable time graphing and mining data from all over our stack; it's only natural that after that, we care about how we present that data. Like typography, it's hard because it's an arduous hunt for the aesthetics hidden behind information. But this hunt is what makes us human.</p>\n<p>That's why we design beautiful graphs, just like we'd design a beautiful typeface. Not because we are GitHubbers, nor because we are designers, but because we are humans.</p>\n<p><strong>Life is too short to stare at ugly graphs. And yes, you should feel bad.</strong></p>\n</blockquote>\n<p><small>(Emphasis mine)</small></p>",
+      "id": "https://matthieuoger.com/2013/08/quote-changing-the-world/",
+      "url": "https://matthieuoger.com/2013/08/quote-changing-the-world/",
+      "title": "Changing the World…?",
+      "content_html": "<p><a href=\"https://news.ycombinator.com/item?id=6108967\">Freyr</a>:</p>\n<blockquote>\n<p>Could \"changing the world\" be a contender the most trite, overused expression of 2013? Recent grads seem to have adopted it en masse as their personal tagline. It's a nice sentiment, but it hard not to roll your eyes when every 23 year old applies it to his mobile phone app with no users that he threw together in a couple weeks.</p>\n<p>[…]</p>\n<p>Besides, I'm not even sure it's a healthy sentiment for most people. If your focus is as broad as \"changing the world,\" you're probably setting yourself up to feel like a failure.</p>\n</blockquote>\n<p>(via <a href=\"http://wolfslittlestore.be/2013/08/changing-the-world/\">Wolf's Little Store</a>)</p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com"
@@ -866,10 +877,10 @@
       "date_published": "2013-08-02T00:00:00.000Z"
     },
     {
-      "id": "https://matthieuoger.com/2013/08/quote-changing-the-world/",
-      "url": "https://matthieuoger.com/2013/08/quote-changing-the-world/",
-      "title": "Changing the World…?",
-      "content_html": "<p><a href=\"https://news.ycombinator.com/item?id=6108967\">Freyr</a>:</p>\n<blockquote>\n<p>Could \"changing the world\" be a contender the most trite, overused expression of 2013? Recent grads seem to have adopted it en masse as their personal tagline. It's a nice sentiment, but it hard not to roll your eyes when every 23 year old applies it to his mobile phone app with no users that he threw together in a couple weeks.</p>\n<p>[…]</p>\n<p>Besides, I'm not even sure it's a healthy sentiment for most people. If your focus is as broad as \"changing the world,\" you're probably setting yourself up to feel like a failure.</p>\n</blockquote>\n<p>(via <a href=\"http://wolfslittlestore.be/2013/08/changing-the-world/\">Wolf's Little Store</a>)</p>",
+      "id": "https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/",
+      "url": "https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/",
+      "title": "Life Is Too Short To Stare at Ugly Graphs — and Yes, You Should Feel Bad",
+      "content_html": "<p><a href=\"https://news.ycombinator.com/item?id=4480876\">Tanoku</a>:</p>\n<blockquote>\n<p>It was done in-house. We really care about how our graphs look, because graphs represent information. It's like typography. Humans learned how to write 5000 years ago, and it took us a very long while until we mastered the art of transmitting information like that. Once we mastered it, however, we started caring about the way we present that information. For no specific reason, but we developed unique typefaces that look beautiful, different, yet transmit the same information.</p>\n<p>Likewise, we've spent a ton of valuable time graphing and mining data from all over our stack; it's only natural that after that, we care about how we present that data. Like typography, it's hard because it's an arduous hunt for the aesthetics hidden behind information. But this hunt is what makes us human.</p>\n<p>That's why we design beautiful graphs, just like we'd design a beautiful typeface. Not because we are GitHubbers, nor because we are designers, but because we are humans.</p>\n<p><strong>Life is too short to stare at ugly graphs. And yes, you should feel bad.</strong></p>\n</blockquote>\n<p><small>(Emphasis mine)</small></p>",
       "author": {
         "name": "Matthieu Oger",
         "url": "https://matthieuoger.com"

@@ -10,6 +10,7 @@
 <url> <loc>https://matthieuoger.com/articles/8</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://matthieuoger.com/articles/9</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://matthieuoger.com/articles/10</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://matthieuoger.com/2023/02/social-start/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://matthieuoger.com/2023/02/alpha-value-css-color-properties/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://matthieuoger.com/2022/08/playbooks/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://matthieuoger.com/2022/06/crypto-fire/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -87,8 +88,8 @@
 <url> <loc>https://matthieuoger.com/2013/08/future-programming/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://matthieuoger.com/2013/08/quote-marco-arment/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://matthieuoger.com/2013/08/os-wp-winrt/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://matthieuoger.com/2013/08/quote-changing-the-world/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://matthieuoger.com/2013/07/designer-decision/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://matthieuoger.com/2013/07/rule-three/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://matthieuoger.com/2013/07/current-days-science-fiction/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
