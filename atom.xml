@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://matthieuoger.com</id>
-  <updated>2023-02-17T09:35:07.572Z</updated>
+  <updated>2023-02-17T10:10:25.616Z</updated>
   <title>Matthieu Oger</title>
   <icon>https://matthieuoger.com/feed.png</icon>
   <link href="https://matthieuoger.com/atom.xml" rel="self"/>
@@ -465,9 +465,8 @@
     <content type="html"><![CDATA[<p>Superhuman in “<a href="https://superhuman.com">Blazingly Fast, The 100ms Rule</a>”:</p>
 <blockquote>
 <p>The creator of Gmail, Paul Buchheit, had a rule: every interaction should be faster than 100ms.</p>
-<p>Why? <strong>Because 100ms is the threshold where interactions feel instantaneous.</strong></p>
-</blockquote>
-<p><small>(Emphasis mine)</small></p>]]></content>
+<p>Why? <mark>Because 100ms is the threshold where interactions feel instantaneous.</mark></p>
+</blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
@@ -1048,10 +1047,9 @@
     <link href="https://matthieuoger.com/2019/07/withhold-the-fun/"/>
     <content type="html"><![CDATA[<p><a href="https://atp.fm/episodes/335">John Siracusa</a>, in episode 335 of <a href="https://atp.fm">ATP</a>:</p>
 <blockquote class="transcript">
-<p>"We are trying to win on quality". And if you try to win on quality in the enterprise, that is not a winning strategy, because, we established before the definition of enterprise software, <strong>the people who pay for the software and select it are not the people who use it so your software being more desirable for users means almost nothing in the enterprise.</strong></p>
+<p>"We are trying to win on quality". And if you try to win on quality in the enterprise, that is not a winning strategy, because, we established before the definition of enterprise software, <mark>the people who pay for the software and select it are not the people who use it so your software being more desirable for users means almost nothing in the enterprise.</mark></p>
 <p>All that matters is: does it do the thing that I needed to do, does it check all the checkboxes for compliance and <em>blablabla</em> and how much does it cost?</p>
-</blockquote>
-<p><small>(Emphasis mine)</small></p>]]></content>
+</blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
@@ -1073,9 +1071,8 @@
 <blockquote>
 <p>This is probably my favorite part of the interface. Everything about it feels and looks perfect; Ben’s custom spring physics, my visual design iterations, and Jelmar’s completely custom typeface we use for the numerals. Three people worked hard on this little doodad — and most users probably wouldn’t even notice the work we put into it!</p>
 <p>I would argue that’s how you know that you’ve made something well.</p>
-<p><strong>When you come across an article set in a superb typeface for reading, some excellent airport signage or a well designed door handle, you don’t think about it or even notice it. If anything you might just notice being happier, or simply not frustrated. That’s how you know a design is great: it <em>disappears</em>.</strong></p>
-</blockquote>
-<p><small>(Emphasis mine)</small></p>]]></content>
+<p><mark>When you come across an article set in a superb typeface for reading, some excellent airport signage or a well designed door handle, you don’t think about it or even notice it. If anything you might just notice being happier, or simply not frustrated. That’s how you know a design is great: it <em>disappears</em>.</mark></p>
+</blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
@@ -1108,12 +1105,11 @@
     <link href="https://matthieuoger.com/2018/12/tools/"/>
     <content type="html"><![CDATA[<p>From “<a href="https://www.goodreads.com/book/show/34376766-blood-sweat-and-pixels">Blood, Sweat and Pixels</a>” (written by <a href="https://twitter.com/jasonschreier">Jason Schreier</a>):</p>
 <blockquote>
-<p>The biggest differentiator between a studio that creates a really high-quality <em>[product]</em> and a studio that doesn't isn't the quality of the team.</p>
-<p><strong>It's their dev tools.</strong></p>
+<p>The biggest differentiator between a studio that creates a really high-quality [product] and a studio that doesn't isn't the quality of the team.</p>
+<p><mark>It's their dev tools.</mark></p>
 <p>If you can take fifty shots on goal, and you're a pretty shitty hockey player, and I can only take three shots on goal and I'm Wayne Gretzky, you're probably going to do better.</p>
-<p><strong>That's what tool are. It's how fast can you iterate</strong>, how stable are they, how robust are they, how easy it is as a nontechnical artist to move a thing.</p>
-</blockquote>
-<p><small>(Emphasis mine)</small></p>]]></content>
+<p><mark>That's what tool are. It's how fast can you iterate</mark>, how stable are they, how robust are they, how easy it is as a nontechnical artist to move a thing.</p>
+</blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
@@ -1730,11 +1726,10 @@
     <link href="https://matthieuoger.com/2015/09/rule-of-two/"/>
     <content type="html"><![CDATA[<p><a href="http://www.relay.fm/cortex/12">CGP Grey</a>:</p>
 <blockquote class="transcript">
-<p>The rule of two is that <strong>two is one — and one is none.</strong> This is applicable to so many things in your life. As a starting point, I often like to think of the rule of two with things that you have around the house. So, for example, if you have one roll of toilet paper, you really don't have any toilet paper. Because when that one runs out, you're in trouble. So you really need two rolls of toilet paper at all time. It's a redundancy rule, basically. It's where this comes from. […]</p>
+<p>The rule of two is that <mark>two is one — and one is none.</mark> This is applicable to so many things in your life. As a starting point, I often like to think of the rule of two with things that you have around the house. So, for example, if you have one roll of toilet paper, you really don't have any toilet paper. Because when that one runs out, you're in trouble. So you really need two rolls of toilet paper at all time. It's a redundancy rule, basically. It's where this comes from. […]</p>
 <p>This is one of my little pieces of advice for trying to run a life very smoothly. It's that, everything that you can possibly have two of, you should have it. Two shampoo bottles, two bottles of vitamins, two boxes of cereal, two cartons of eggs. You want duplicates of everything. And then, when you're down to one of those things, that's the sign that you need to buy the next one. In this way, you are never out, you're never out of anything. […]</p>
 <p>It's applicable to everything in your whole life, everything that's important.</p>
 </blockquote>
-<p><small>(Emphasis mine)</small></p>
 <p>This is so spot on. I try to function like that, but I never put words onto this behavior. Here it is.</p>
 <p>Grey continues:</p>
 <blockquote class="transcript">
@@ -2034,12 +2029,11 @@
     <link href="https://matthieuoger.com/2014/01/how-netflix-reverse-engineered-hollywood/"/>
     <content type="html"><![CDATA[<p><a href="http://www.theatlantic.com/technology/archive/2014/01/how-netflix-reverse-engineered-hollywood/282679/">Alexis Madrigal on Netflix classification</a>:</p>
 <blockquote>
-<p>[…], we discovered that Netflix possesses not several hundred genres, or even several thousand, <strong>but 76,897 unique ways to describe types of movies</strong>. […]</p>
+<p>[…], we discovered that Netflix possesses not several hundred genres, or even several thousand, <mark>but 76,897 unique ways to describe types of movies</mark>. […]</p>
 <p>Using large teams of people specially trained to watch movies, Netflix deconstructed Hollywood. They paid people to watch films and tag them with all kinds of metadata. This process is so sophisticated and precise that taggers receive a 36-page training document that teaches them how to rate movies on their sexually suggestive content, goriness, romance levels, and even narrative elements like plot conclusiveness. […]</p>
 <p>The Netflix Quantum Theory doc spelled out ways of tagging movie endings, the "social acceptability" of lead characters, and dozens of other facets of a movie. Many values are "scalar," that is to say, they go from 1 to 5. So, every movie gets a romance rating, not just the ones labeled "romantic" in the personalized genres. Every movie's ending is rated from happy to sad, passing through ambiguous. Every plot is tagged. Lead characters' jobs are tagged. Movie locations are tagged. Everything. Everyone.</p>
 <p>That's the data at the base of the pyramid. It is the basis for creating all the altgenres that I scraped. Netflix's engineers took the microtags and created a syntax for the genres, much of which we were able to reproduce in our generator.</p>
 </blockquote>
-<p><small>(Emphasis mine)</small></p>
 <p>This article completely blew my mind. Great journalism.</p>
 <p>The idea to tag any movie that much and create ultra-specific subgenres is so clever. Hell of a work too.</p>
 <hr>
@@ -2224,21 +2218,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/amazon-new-product-page/</id>
-    <updated>2013-08-28T00:00:00.000Z</updated>
-    <title>The Work of Change</title>
-    <link href="https://matthieuoger.com/2013/08/amazon-new-product-page/"/>
-    <content type="html"><![CDATA[<p><a href="http://bokardo.com/archives/a-thought-on-amazons-new-product-page-design/">Interesting article on Bokardo</a> about Amazon's "new" product page:</p>
-<blockquote>
-<p>If Amazon were to make a big change, like for example do some actual visual design so everything didn’t have the same visual weight, the mere shock of the change would probably send their revenue downward, at least initially. People dislike change because change is work. They have to figure out what changed, adapt to it, relearn the UI, and still try to get their job done (they one they used to know how to do). <strong>So the next time you hear “People hate change” think to yourself “People don’t hate change. They hate the work of change”.</strong></p>
-</blockquote>
-<p><small>(Emphasis mine)</small></p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://matthieuoger.com/2013/08/quote-trent-reznor/</id>
     <updated>2013-08-28T00:00:00.000Z</updated>
     <title>Paying for Things</title>
@@ -2248,6 +2227,20 @@
 <p>I'm not saying offering things for free or pay-what-you-can is wrong. I'm saying my personal feeling is that my album's not a dime. It's not a buck. I made it as well as I could, and it costs 10 bucks, or go fuck yourself.</p>
 </blockquote>
 <p>(via <a href="http://parislemon.com/post/59507355135/i-know-that-what-were-doing-flies-in-the-face-of">ParisLemon</a>)</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://matthieuoger.com/2013/08/amazon-new-product-page/</id>
+    <updated>2013-08-28T00:00:00.000Z</updated>
+    <title>The Work of Change</title>
+    <link href="https://matthieuoger.com/2013/08/amazon-new-product-page/"/>
+    <content type="html"><![CDATA[<p><a href="http://bokardo.com/archives/a-thought-on-amazons-new-product-page-design/">Interesting article on Bokardo</a> about Amazon's "new" product page:</p>
+<blockquote>
+<p>If Amazon were to make a big change, like for example do some actual visual design so everything didn’t have the same visual weight, the mere shock of the change would probably send their revenue downward, at least initially. People dislike change because change is work. They have to figure out what changed, adapt to it, relearn the UI, and still try to get their job done (they one they used to know how to do). <mark>So the next time you hear “People hate change” think to yourself “People don’t hate change. They hate the work of change”.</mark></p>
+</blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
@@ -2308,9 +2301,8 @@
     <link href="https://matthieuoger.com/2013/08/marketers/"/>
     <content type="html"><![CDATA[<p>“<a href="http://www.elezea.com/2013/07/hey-marketers/">Hey Marketers, making a website is not about you</a>”:</p>
 <blockquote>
-<p>The problem with many Marketers today is that they too often make it all about the company, and not about user needs. I’m sorry, but it’s not about changing people, and it’s not about making them do stuff. That’s old school thinking from a time when brands could steamroll their way into the consciousness and wallets of people through clever advertising and sleight of hand. Those days are over. Now our job is not to make it about how awesome we are, <strong>but how well we help people accomplish their goals</strong>.</p>
+<p>The problem with many Marketers today is that they too often make it all about the company, and not about user needs. I’m sorry, but it’s not about changing people, and it’s not about making them do stuff. That’s old school thinking from a time when brands could steamroll their way into the consciousness and wallets of people through clever advertising and sleight of hand. Those days are over. Now our job is not to make it about how awesome we are, <mark>but how well we help people accomplish their goals</mark>.</p>
 </blockquote>
-<p><small>(Emphasis mine)</small></p>
 <p>Further readings related to this subject:</p>
 <ul>
 <li><a href="http://www.90percentofeverything.com/2013/07/23/the-slippery-slope/">The Slippery Slope</a></li>
@@ -2432,9 +2424,8 @@
 <p>It was done in-house. We really care about how our graphs look, because graphs represent information. It's like typography. Humans learned how to write 5000 years ago, and it took us a very long while until we mastered the art of transmitting information like that. Once we mastered it, however, we started caring about the way we present that information. For no specific reason, but we developed unique typefaces that look beautiful, different, yet transmit the same information.</p>
 <p>Likewise, we've spent a ton of valuable time graphing and mining data from all over our stack; it's only natural that after that, we care about how we present that data. Like typography, it's hard because it's an arduous hunt for the aesthetics hidden behind information. But this hunt is what makes us human.</p>
 <p>That's why we design beautiful graphs, just like we'd design a beautiful typeface. Not because we are GitHubbers, nor because we are designers, but because we are humans.</p>
-<p><strong>Life is too short to stare at ugly graphs. And yes, you should feel bad.</strong></p>
-</blockquote>
-<p><small>(Emphasis mine)</small></p>]]></content>
+<p><mark>Life is too short to stare at ugly graphs. And yes, you should feel bad.</mark></p>
+</blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
@@ -2490,9 +2481,8 @@
     <link href="https://matthieuoger.com/2013/07/quote-brent-simmons/"/>
     <content type="html"><![CDATA[<p><a href="http://inessential.com/2013/07/01/netnewswire_and_syncing_speculation">Brent Simmons</a>:</p>
 <blockquote>
-<p>Efficiency is more important than cloning Google Reader’s (undocumented and un-lovely) API and more important than adhering strictly to REST. (<strong>Because efficiency makes for a better user experience, and that’s more important than anything else.</strong>)</p>
-</blockquote>
-<p><small>(Emphasis mine)</small></p>]]></content>
+<p>Efficiency is more important than cloning Google Reader’s (undocumented and un-lovely) API and more important than adhering strictly to REST. (<mark>Because efficiency makes for a better user experience, and that’s more important than anything else.</mark>)</p>
+</blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
