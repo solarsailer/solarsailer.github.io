@@ -98,5 +98,6 @@
 <url> <loc>https://matthieuoger.com/2013/06/a-start/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://matthieuoger.com/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://matthieuoger.com/archive/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://matthieuoger.com/expo/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://matthieuoger.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
