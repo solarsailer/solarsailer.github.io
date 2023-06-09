@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://matthieuoger.com</id>
-  <updated>2023-04-29T08:26:24.646Z</updated>
+  <updated>2023-06-09T13:18:17.690Z</updated>
   <title>Matthieu Oger</title>
   <icon>https://matthieuoger.com/feed.png</icon>
   <link href="https://matthieuoger.com/atom.xml" rel="self"/>
@@ -9,6 +9,81 @@
     <name>Matthieu Oger</name>
     <uri>https://matthieuoger.com</uri>
   </author>
+  <entry>
+    <id>https://matthieuoger.com/2023/06/date-formats/</id>
+    <updated>2023-06-09T00:00:00.000Z</updated>
+    <title>Formatting Dates, the Correct Way</title>
+    <link href="https://matthieuoger.com/2023/06/date-formats/"/>
+    <content type="html"><![CDATA[<p><em><small>I'm French and I don't have a lot of experience translating an app in Chinese or Arabic, for example, so take the following tips with a grain of salt in this kind of context. Feel free to contact me if necessary!</small></em><br /><br /></p>
+<p>Displaying a date is extremely common in digital products, but using a <em>clear format</em> requires a few more considerations.</p>
+<p>Here are just a few examples of what is possible:</p>
+<ul>
+<li>
+<p><code class="language-text">DD-MM-YYYY</code> → "06-04-2022"</p>
+<ul>
+<li>Format commonly used in European countries (or its variant <code class="language-text">DD/MM/YYYY</code>)</li>
+</ul>
+</li>
+<li>
+<p><code class="language-text">MM-DD-YYYY</code> → "04-06-2022"</p>
+<ul>
+<li>Format used by the US, which puts the month first, while the European version puts it second 😵‍💫</li>
+</ul>
+</li>
+<li>
+<p><code class="language-text">YYYY-MM-DD</code> → "2022-04-06"</p>
+<ul>
+<li>As defined in the <a href="https://en.wikipedia.org/wiki/ISO_8601">ISO 8601</a> standard</li>
+</ul>
+</li>
+<li>
+<p><code class="language-text">DD Month YYYY</code> → "06 April 2022"</p>
+<ul>
+<li>Display the month in text</li>
+</ul>
+</li>
+<li>
+<p><code class="language-text">DD Mon YYYY</code> → "06 Apr 2022"</p>
+<ul>
+<li>Shorter variant of the previous example</li>
+</ul>
+</li>
+<li><a href="https://docs.oracle.com/cd/E41183_01/DR/Date_Format_Types.html">And many, many, many more…</a></li>
+</ul>
+<p>Almost any programming language has a <a href="https://date-fns.org/v2.29.3/docs/format">powerful API</a> to format a date however its developer wants.</p>
+<p>Thus, it's easy to use a dozen different formats in a single app if you don't set strict standards and conventions. Moreover, some formats work for some countries but not in others.</p>
+<p><strong>To simplify and clarify things, I highly recommend to only use two formats in the applications I work on.</strong></p>
+<h1>Data-first: YYYY-MM-DD</h1>
+<p>For technical, compact and/or dense data, I use the ISO 8601 version: <code class="language-text">YYYY-MM-DD</code> → "2022-04-06".</p>
+<p>Why?</p>
+<ul>
+<li>This is the only format that can be sorted alphabetically, which is handy for file explorers or data tables</li>
+<li>
+<p>There is <strong>only one way</strong> to read it: the year first, then the month and finally the day</p>
+<ul>
+<li>When using the most common alternatives <code class="language-text">DD-MM-YYYY</code> or <code class="language-text">MM-DD-YYYY</code>, you cannot tell if the month or the day is first, except by looking at the current language of the app (and you can still be wrong if you cannot distinguish if it's British or American English)</li>
+</ul>
+</li>
+<li>The <code class="language-text">-</code> symbol works everywhere, while <code class="language-text">/</code> can be refused by some (old) filesystems</li>
+</ul>
+<p><strong>Note:</strong> I always advise to prefix single-digit months and days by <code class="language-text">0</code> so the format keeps an equivalent visual weight and is easier to parse: <code class="language-text">2022-01-01</code> instead of <code class="language-text">2022-1-1</code></p>
+<h1>Human-first: DD Month YYYY</h1>
+<p>For dates supposed to be quickly read by humans (in an article or a blog for example), I prefer to use <code class="language-text">DD Month YYYY</code> → "06 April 2022" (with the full name of the month and not a shorter form).</p>
+<p>Why?</p>
+<ul>
+<li>There is <strong>no confusion</strong> with this format (the day is two numbers, the month is written in plain text, <em>et voilà</em>)</li>
+<li>It's extremely clear and quick to read: you don't have to convert the month number to its actual month name</li>
+<li>It works in all countries</li>
+<li>It's easily translatable</li>
+</ul>
+<hr>
+<p>Finally, if you only want to display a month (in a dropdown for example), I recommend to always show both the month number <strong>AND</strong> the month name: <code class="language-text">01 - January</code> instead of <code class="language-text">January</code> or <code class="language-text">01</code>.</p>
+<p>That way, you can visually search for or type the month name or number, and match any input you have at hand (eg. a credit card's expiration date).</p>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
   <entry>
     <id>https://matthieuoger.com/2023/02/social-start/</id>
     <updated>2023-02-17T00:00:00.000Z</updated>
