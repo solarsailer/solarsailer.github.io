@@ -1,6 +1,6 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://matthieuoger.com</id>
-  <updated>2023-06-09T13:18:17.690Z</updated>
+  <updated>2024-01-23T21:46:33.510Z</updated>
   <title>Matthieu Oger</title>
   <icon>https://matthieuoger.com/feed.png</icon>
   <link href="https://matthieuoger.com/atom.xml" rel="self"/>
@@ -2293,6 +2293,20 @@
     </author>
   </entry>
   <entry>
+    <id>https://matthieuoger.com/2013/08/amazon-new-product-page/</id>
+    <updated>2013-08-28T00:00:00.000Z</updated>
+    <title>The Work of Change</title>
+    <link href="https://matthieuoger.com/2013/08/amazon-new-product-page/"/>
+    <content type="html"><![CDATA[<p><a href="http://bokardo.com/archives/a-thought-on-amazons-new-product-page-design/">Interesting article on Bokardo</a> about Amazon's "new" product page:</p>
+<blockquote>
+<p>If Amazon were to make a big change, like for example do some actual visual design so everything didn’t have the same visual weight, the mere shock of the change would probably send their revenue downward, at least initially. People dislike change because change is work. They have to figure out what changed, adapt to it, relearn the UI, and still try to get their job done (they one they used to know how to do). <mark>So the next time you hear “People hate change” think to yourself “People don’t hate change. They hate the work of change”.</mark></p>
+</blockquote>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
+  <entry>
     <id>https://matthieuoger.com/2013/08/quote-trent-reznor/</id>
     <updated>2013-08-28T00:00:00.000Z</updated>
     <title>Paying for Things</title>
@@ -2302,20 +2316,6 @@
 <p>I'm not saying offering things for free or pay-what-you-can is wrong. I'm saying my personal feeling is that my album's not a dime. It's not a buck. I made it as well as I could, and it costs 10 bucks, or go fuck yourself.</p>
 </blockquote>
 <p>(via <a href="http://parislemon.com/post/59507355135/i-know-that-what-were-doing-flies-in-the-face-of">ParisLemon</a>)</p>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
-    <id>https://matthieuoger.com/2013/08/amazon-new-product-page/</id>
-    <updated>2013-08-28T00:00:00.000Z</updated>
-    <title>The Work of Change</title>
-    <link href="https://matthieuoger.com/2013/08/amazon-new-product-page/"/>
-    <content type="html"><![CDATA[<p><a href="http://bokardo.com/archives/a-thought-on-amazons-new-product-page-design/">Interesting article on Bokardo</a> about Amazon's "new" product page:</p>
-<blockquote>
-<p>If Amazon were to make a big change, like for example do some actual visual design so everything didn’t have the same visual weight, the mere shock of the change would probably send their revenue downward, at least initially. People dislike change because change is work. They have to figure out what changed, adapt to it, relearn the UI, and still try to get their job done (they one they used to know how to do). <mark>So the next time you hear “People hate change” think to yourself “People don’t hate change. They hate the work of change”.</mark></p>
-</blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
@@ -2432,20 +2432,6 @@
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/quote-marco-arment/</id>
-    <updated>2013-08-05T00:00:00.000Z</updated>
-    <title>New AOL CDs</title>
-    <link href="https://matthieuoger.com/2013/08/quote-marco-arment/"/>
-    <content type="html"><![CDATA[<p><a href="http://www.marco.org/2013/07/25/nexus-72">Marco Arment</a>:</p>
-<blockquote>
-<p>I offered to give my Nexus 7 and Kindle Fire to Betaworks in the Instapaper acquisition, but they had so many of both sitting around already that they declined. Tech companies with mobile apps can practically tile walls with outdated Android devices. They’re the new AOL CDs.</p>
-</blockquote>]]></content>
-    <author>
-      <name>Matthieu Oger</name>
-      <uri>https://matthieuoger.com</uri>
-    </author>
-  </entry>
-  <entry>
     <id>https://matthieuoger.com/2013/08/os-wp-winrt/</id>
     <updated>2013-08-05T00:00:00.000Z</updated>
     <title>Windows Phone and WinRT</title>
@@ -2473,17 +2459,14 @@
     </author>
   </entry>
   <entry>
-    <id>https://matthieuoger.com/2013/08/quote-changing-the-world/</id>
-    <updated>2013-08-02T00:00:00.000Z</updated>
-    <title>Changing the World…?</title>
-    <link href="https://matthieuoger.com/2013/08/quote-changing-the-world/"/>
-    <content type="html"><![CDATA[<p><a href="https://news.ycombinator.com/item?id=6108967">Freyr</a>:</p>
+    <id>https://matthieuoger.com/2013/08/quote-marco-arment/</id>
+    <updated>2013-08-05T00:00:00.000Z</updated>
+    <title>New AOL CDs</title>
+    <link href="https://matthieuoger.com/2013/08/quote-marco-arment/"/>
+    <content type="html"><![CDATA[<p><a href="http://www.marco.org/2013/07/25/nexus-72">Marco Arment</a>:</p>
 <blockquote>
-<p>Could "changing the world" be a contender the most trite, overused expression of 2013? Recent grads seem to have adopted it en masse as their personal tagline. It's a nice sentiment, but it hard not to roll your eyes when every 23 year old applies it to his mobile phone app with no users that he threw together in a couple weeks.</p>
-<p>[…]</p>
-<p>Besides, I'm not even sure it's a healthy sentiment for most people. If your focus is as broad as "changing the world," you're probably setting yourself up to feel like a failure.</p>
-</blockquote>
-<p>(via <a href="http://wolfslittlestore.be/2013/08/changing-the-world/">Wolf's Little Store</a>)</p>]]></content>
+<p>I offered to give my Nexus 7 and Kindle Fire to Betaworks in the Instapaper acquisition, but they had so many of both sitting around already that they declined. Tech companies with mobile apps can practically tile walls with outdated Android devices. They’re the new AOL CDs.</p>
+</blockquote>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
@@ -2501,6 +2484,23 @@
 <p>That's why we design beautiful graphs, just like we'd design a beautiful typeface. Not because we are GitHubbers, nor because we are designers, but because we are humans.</p>
 <p><mark>Life is too short to stare at ugly graphs. And yes, you should feel bad.</mark></p>
 </blockquote>]]></content>
+    <author>
+      <name>Matthieu Oger</name>
+      <uri>https://matthieuoger.com</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>https://matthieuoger.com/2013/08/quote-changing-the-world/</id>
+    <updated>2013-08-02T00:00:00.000Z</updated>
+    <title>Changing the World…?</title>
+    <link href="https://matthieuoger.com/2013/08/quote-changing-the-world/"/>
+    <content type="html"><![CDATA[<p><a href="https://news.ycombinator.com/item?id=6108967">Freyr</a>:</p>
+<blockquote>
+<p>Could "changing the world" be a contender the most trite, overused expression of 2013? Recent grads seem to have adopted it en masse as their personal tagline. It's a nice sentiment, but it hard not to roll your eyes when every 23 year old applies it to his mobile phone app with no users that he threw together in a couple weeks.</p>
+<p>[…]</p>
+<p>Besides, I'm not even sure it's a healthy sentiment for most people. If your focus is as broad as "changing the world," you're probably setting yourself up to feel like a failure.</p>
+</blockquote>
+<p>(via <a href="http://wolfslittlestore.be/2013/08/changing-the-world/">Wolf's Little Store</a>)</p>]]></content>
     <author>
       <name>Matthieu Oger</name>
       <uri>https://matthieuoger.com</uri>
