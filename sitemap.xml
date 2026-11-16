@@ -1,104 +1,277 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://matthieuoger.com/articles</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/articles/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/articles/3</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/articles/4</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/articles/5</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/articles/6</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/articles/7</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/articles/8</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/articles/9</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/articles/10</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2023/06/date-formats/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2023/02/social-start/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2023/02/alpha-value-css-color-properties/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2022/08/playbooks/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2022/06/crypto-fire/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2022/04/iterative-loop/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2022/03/rotation-videos/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2021/03/build-right-swiftly/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2020/12/do-this-once/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2020/08/the-experience/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2020/05/abstract-digital-product-design/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2020/05/the-component/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2020/05/the-100ms-rule/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2020/05/in-search-of-software-magic/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2020/04/outcome-successful-strategy/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2020/04/systemic-actions-automation/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2020/04/tech-waste/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2020/02/tools-as-superpowers/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2020/02/choices/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2020/01/japan-pizza-culture/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2019/11/speaking-interface/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2019/11/singapore/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2019/10/nice-clear-and-secure/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2019/09/software-disenchantment/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2019/09/passing-of-time-in-a-photo/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2019/09/what-will-happen-to-code/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2019/08/art-of-lists/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2019/08/fast/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2019/07/book-basecamp/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2019/07/withhold-the-fun/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2019/04/a-real-dial/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2018/12/better-meetups-conferences/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2018/12/tools/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2018/11/flank-it/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2018/11/bad-design/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2018/10/give-it-five-minutes/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2018/10/unity-iphone-x-home-indicator/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2018/09/glory-to-rome/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2018/07/reboot/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2016/04/dwarf-fortress-systems/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2016/03/delight/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2016/03/java/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2016/03/virtual-reality/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2016/03/doing-a-ted-talk/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2016/02/invention-center/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2015/10/sad-state-web-deployment/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2015/09/semicolon-comma-programming/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2015/09/what-makes-indie-hit/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2015/09/quantum-post-mortem/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2015/09/rule-of-two/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2015/08/dead-or-finished-libraries/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2015/06/ads/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2015/06/force-touch/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2015/04/space-odyssey/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2015/04/wearables/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2015/01/something-slightly-less-terrible/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2014/12/a-tiny-game-that-you-can-play-forever/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2014/08/taking-a-break/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2014/06/design-detail-ios8-messages/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2014/01/how-netflix-reverse-engineered-hollywood/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2013/11/unity-2d-tutorial/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2013/10/how-designers-destroyed-the-world/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2013/10/you-must-prototype-it-in-code/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2013/09/paying-for-softwares/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2013/09/patent-trolls/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2013/09/brand-and-logo/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2013/09/microsoft-out/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2013/08/nintendo-2ds/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2013/08/the-gif-video-format/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2013/08/amazon-new-product-page/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2013/08/quote-trent-reznor/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2013/08/quote-jonathan-blow/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2013/08/team-of-one/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2013/08/transitional-interfaces/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2013/08/marketers/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2013/08/zero/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2013/08/future-programming/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2013/08/os-wp-winrt/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2013/08/quote-marco-arment/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2013/08/quote-changing-the-world/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2013/07/designer-decision/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2013/07/rule-three/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2013/07/current-days-science-fiction/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2013/07/quote-brent-simmons/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2013/07/firefox-os/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/2013/06/a-start/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/archive/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/expo/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://matthieuoger.com/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://matthieuoger.com/articles/</loc>
+    <lastmod>2023-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2023/06/date-formats/</loc>
+    <lastmod>2023-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/</loc>
+    <lastmod>2023-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2023/02/social-start/</loc>
+    <lastmod>2023-02-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2023/02/alpha-value-css-color-properties/</loc>
+    <lastmod>2023-02-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2022/08/playbooks/</loc>
+    <lastmod>2022-08-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2022/06/crypto-fire/</loc>
+    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2022/04/iterative-loop/</loc>
+    <lastmod>2022-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2022/03/rotation-videos/</loc>
+    <lastmod>2022-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2021/03/build-right-swiftly/</loc>
+    <lastmod>2021-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2020/12/do-this-once/</loc>
+    <lastmod>2020-12-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2020/08/the-experience/</loc>
+    <lastmod>2020-08-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2020/05/abstract-digital-product-design/</loc>
+    <lastmod>2020-05-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2020/05/the-component/</loc>
+    <lastmod>2020-05-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2020/05/the-100ms-rule/</loc>
+    <lastmod>2020-05-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2020/05/in-search-of-software-magic/</loc>
+    <lastmod>2020-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2020/04/outcome-successful-strategy/</loc>
+    <lastmod>2020-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2020/04/systemic-actions-automation/</loc>
+    <lastmod>2020-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2020/04/tech-waste/</loc>
+    <lastmod>2020-04-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2020/02/tools-as-superpowers/</loc>
+    <lastmod>2020-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2020/02/choices/</loc>
+    <lastmod>2020-02-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2020/01/japan-pizza-culture/</loc>
+    <lastmod>2020-01-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2019/11/speaking-interface/</loc>
+    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2019/11/singapore/</loc>
+    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2019/10/nice-clear-and-secure/</loc>
+    <lastmod>2019-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2019/09/software-disenchantment/</loc>
+    <lastmod>2019-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2019/09/passing-of-time-in-a-photo/</loc>
+    <lastmod>2019-09-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2019/09/what-will-happen-to-code/</loc>
+    <lastmod>2019-09-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2019/08/art-of-lists/</loc>
+    <lastmod>2019-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2019/08/fast/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2019/07/book-basecamp/</loc>
+    <lastmod>2019-07-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2019/07/withhold-the-fun/</loc>
+    <lastmod>2019-07-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2019/04/a-real-dial/</loc>
+    <lastmod>2019-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2018/12/better-meetups-conferences/</loc>
+    <lastmod>2018-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2018/12/tools/</loc>
+    <lastmod>2018-12-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2018/11/flank-it/</loc>
+    <lastmod>2018-11-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2018/11/bad-design/</loc>
+    <lastmod>2018-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2018/10/give-it-five-minutes/</loc>
+    <lastmod>2018-10-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2018/10/unity-iphone-x-home-indicator/</loc>
+    <lastmod>2018-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2018/09/glory-to-rome/</loc>
+    <lastmod>2018-09-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2018/07/reboot/</loc>
+    <lastmod>2018-07-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2016/04/dwarf-fortress-systems/</loc>
+    <lastmod>2016-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2016/03/delight/</loc>
+    <lastmod>2016-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2016/03/virtual-reality/</loc>
+    <lastmod>2016-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2016/03/java/</loc>
+    <lastmod>2016-03-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2016/03/doing-a-ted-talk/</loc>
+    <lastmod>2016-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2016/02/invention-center/</loc>
+    <lastmod>2016-02-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2015/10/sad-state-web-deployment/</loc>
+    <lastmod>2015-10-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2015/09/semicolon-comma-programming/</loc>
+    <lastmod>2015-09-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2015/09/what-makes-indie-hit/</loc>
+    <lastmod>2015-09-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2015/09/quantum-post-mortem/</loc>
+    <lastmod>2015-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2015/09/rule-of-two/</loc>
+    <lastmod>2015-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2015/08/dead-or-finished-libraries/</loc>
+    <lastmod>2015-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2015/06/ads/</loc>
+    <lastmod>2015-06-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2015/06/force-touch/</loc>
+    <lastmod>2015-06-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2015/04/space-odyssey/</loc>
+    <lastmod>2015-04-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2015/04/wearables/</loc>
+    <lastmod>2015-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2015/01/something-slightly-less-terrible/</loc>
+    <lastmod>2015-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2014/12/a-tiny-game-that-you-can-play-forever/</loc>
+    <lastmod>2014-12-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2014/08/taking-a-break/</loc>
+    <lastmod>2014-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2014/06/design-detail-ios8-messages/</loc>
+    <lastmod>2014-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2014/01/how-netflix-reverse-engineered-hollywood/</loc>
+    <lastmod>2014-01-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2013/11/unity-2d-tutorial/</loc>
+    <lastmod>2013-11-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2013/10/how-designers-destroyed-the-world/</loc>
+    <lastmod>2013-10-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2013/10/you-must-prototype-it-in-code/</loc>
+    <lastmod>2013-10-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2013/09/paying-for-softwares/</loc>
+    <lastmod>2013-09-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2013/09/patent-trolls/</loc>
+    <lastmod>2013-09-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2013/09/brand-and-logo/</loc>
+    <lastmod>2013-09-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2013/09/microsoft-out/</loc>
+    <lastmod>2013-09-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2013/08/nintendo-2ds/</loc>
+    <lastmod>2013-08-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2013/08/the-gif-video-format/</loc>
+    <lastmod>2013-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2013/08/quote-trent-reznor/</loc>
+    <lastmod>2013-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2013/08/amazon-new-product-page/</loc>
+    <lastmod>2013-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2013/08/quote-jonathan-blow/</loc>
+    <lastmod>2013-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2013/08/team-of-one/</loc>
+    <lastmod>2013-08-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2013/08/transitional-interfaces/</loc>
+    <lastmod>2013-08-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2013/08/marketers/</loc>
+    <lastmod>2013-08-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2013/08/zero/</loc>
+    <lastmod>2013-08-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2013/08/future-programming/</loc>
+    <lastmod>2013-08-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2013/08/quote-marco-arment/</loc>
+    <lastmod>2013-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2013/08/os-wp-winrt/</loc>
+    <lastmod>2013-08-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2013/08/quote-changing-the-world/</loc>
+    <lastmod>2013-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2013/08/life-too-short-ugly-graphs/</loc>
+    <lastmod>2013-08-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2013/07/designer-decision/</loc>
+    <lastmod>2013-07-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2013/07/rule-three/</loc>
+    <lastmod>2013-07-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2013/07/current-days-science-fiction/</loc>
+    <lastmod>2013-07-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2013/07/quote-brent-simmons/</loc>
+    <lastmod>2013-07-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2013/07/firefox-os/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/2013/06/a-start/</loc>
+    <lastmod>2013-06-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/about/</loc>
+    <lastmod>1988-10-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://matthieuoger.com/archive/</loc>
+  </url>
 </urlset>
